@@ -86,3 +86,4 @@ node %script_file_path%
 # example:
 # node scripts/split_gen.js
 ```
+Note: These scripts load the entire database into RAM, so they need a lot of memory.
