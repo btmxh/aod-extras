@@ -3,6 +3,8 @@
 
 Additional files for manami-project's [anime-offline-database](https://github.com/manami-project/anime-offline-database) to make things easier to manage.
 
+(This branch only contains script to generate the files.)
+
 Since anime-offline-database's content is a huge JSON file (about 40 mb), parsing it just to do an anime search or even finding info for an anime is a heavy task. This repo aims to support anime-offline-database with these tasks by dividing the json database file into multiple smaller sections, and adding a file only with anime ID, names and their synonyms to quickly query anime ID from a search string.
 
 ## Anime ID system
