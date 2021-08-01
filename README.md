@@ -68,8 +68,7 @@ will have ID: "https://anime-planet.com/anime/kano-daisy-blue" (only AP source a
 
 ## Split anime directory
 
-After the ID system is defined, we can split the anime database into multiple smaller ones by calculating the hash of the ID and grouping them by that hash modulo some number. I'll choose the number 1024. The hash function doesn't need to be secure so a simple prime hash (the prime is 31) will do the trick.
-(```hash = s[0]*31^(n-1) + s[1]*31^(n-2) + ... + s[n-1]```, where n is the size of string s).
+After the ID system is defined, we can split the anime database into multiple smaller ones by calculating the hash of the ID and grouping them by that hash modulo some number. I'll choose the number 1024. The hash function doesn't need to be secure so SHA-1 will do the trick.
 The mini-databases will be put in directory ```minidb```, and named ```$modulus.json``` (example: minidb/1023.json)
 
 ## Search files
