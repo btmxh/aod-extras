@@ -69,16 +69,16 @@ will have ID: "https://anime-planet.com/anime/kano-daisy-blue" (only AP source a
 ## Split anime directory
 
 After the ID system is defined, we can split the anime database into multiple smaller ones by calculating the hash of the ID and grouping them by that hash modulo some number. I'll choose the number 1024. The hash function doesn't need to be secure so SHA-1 will do the trick.
-The mini-databases will be put in directory ```minidb```, and named ```$modulus.json``` (example: minidb/1023.json)
+The mini-databases will be put in directory `minidb`, and named `$modulus.json` (example: minidb/1023.json)
 
 ## Search files
 
-A file with only anime ID, title and synonyms will be located at path ./search.tsv. It's a .tsv (tab-separated values) file, every line of it will be "animeID    animeTitle    animeSynonym1    animeSynonym2   ..." (4 spaces is a tab).  
+A file with only anime ID, title and synonyms will be located at path ./search.tsv. It's a .tsv (tab-separated values) file, every line of it will be `animeID<TAB>animeTitle<TAB>animeSynonym1<TAB>animeSynonym2<TAB>...` (`<TAB>` is a tab character).  
 This file is used to make searching anime easier.
 
 ## Scripts
 
-node.js scripts to generate the above files are in directory ```scripts/``` (split_gen.js and search_gen.js)
+node.js scripts to generate the above files are in directory `scripts/` (split_gen.js and search_gen.js)
 To run them, you need node.js installed and run in your terminal (from the main/root directory):
 ```bash
 node %script_file_path%
