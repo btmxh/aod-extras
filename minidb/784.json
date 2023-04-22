@@ -2,8 +2,33 @@
   "data": [
     {
       "sources": [
+        "https://anime-planet.com/anime/a-tree-in-the-room"
+      ],
+      "title": "A tree in the room",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2021
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/a-tree-in-the-room-1.webp?t=1670046297",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/a-tree-in-the-room-1-285x399.webp?t=1670046297",
+      "synonyms": [],
+      "relations": [],
+      "tags": [
+        "abstract",
+        "music",
+        "shorts",
+        "stop motion animation"
+      ],
+      "id": "https://anime-planet.com/anime/a-tree-in-the-room"
+    },
+    {
+      "sources": [
         "https://anidb.net/anime/3562",
         "https://anilist.co/anime/280",
+        "https://anime-planet.com/anime/animal-yokocho",
         "https://anisearch.com/anime/2092",
         "https://kitsu.io/anime/255",
         "https://myanimelist.net/anime/280",
@@ -23,6 +48,7 @@
         "Ani-Yoko: My Next Door Neighbor",
         "Animal Alley",
         "Animal Lane",
+        "Animal Yokocho",
         "Animal Yokochō",
         "Aniyoko",
         "Il mondo segreto di Ani Yoko",
@@ -34,13 +60,21 @@
       "relations": [],
       "tags": [
         "adventure",
+        "animal protagonists",
         "animals",
+        "anthropomorphic",
+        "based on a manga",
+        "bears",
         "comedy",
         "contemporary fantasy",
+        "family friendly",
         "fantasy",
         "manga",
+        "non-human protagonists",
         "present",
-        "shoujo"
+        "rabbits",
+        "shoujo",
+        "surreal comedy"
       ],
       "id": "https://myanimelist.net/anime/280"
     },
@@ -86,12 +120,16 @@
         "school life",
         "shounen",
         "slice of life",
-        "sports"
+        "sports",
+        "team sports"
       ],
       "id": "https://myanimelist.net/anime/16514"
     },
     {
       "sources": [
+        "https://anidb.net/anime/15548",
+        "https://anilist.co/anime/129677",
+        "https://anisearch.com/anime/16157",
         "https://kitsu.io/anime/43622"
       ],
       "title": "Benghuai 3: Will of the Herrscher",
@@ -105,22 +143,72 @@
       "picture": "https://media.kitsu.io/anime/poster_images/43622/small.jpg",
       "thumbnail": "https://media.kitsu.io/anime/poster_images/43622/tiny.jpg",
       "synonyms": [
+        "Beng Huai 3: Nu Wang Jiang Lin",
+        "Benghuai 3: Nuwang Jianglin",
+        "Benghuai 3: Nüwang Jianglin",
         "Herrscher du Néant - Honkai Impact 3rd Animation",
+        "Honkai Impact 3: The Queen is Coming",
+        "Honkai Impact 3: The Queen's Befall",
         "Honkai Impact 3rd: Will of the Herrscher",
         "【崩壞3rd】動畫短片「女王降臨」",
+        "崩坏3 女王降临",
         "崩壊3rd：ハーシャーの意志"
       ],
       "relations": [
+        "https://anidb.net/anime/15006",
+        "https://anidb.net/anime/15549",
+        "https://anilist.co/anime/129676",
+        "https://anilist.co/anime/129679",
+        "https://anilist.co/anime/129682",
+        "https://anilist.co/anime/129684",
+        "https://anilist.co/anime/129686",
+        "https://anilist.co/anime/129688",
+        "https://anilist.co/anime/129689",
+        "https://anilist.co/anime/129690",
+        "https://anilist.co/anime/129692",
+        "https://anilist.co/anime/129693",
+        "https://anilist.co/anime/136496",
         "https://kitsu.io/anime/42686",
         "https://kitsu.io/anime/43624"
       ],
       "tags": [
         "action",
+        "cg-anime",
+        "full cgi",
+        "game",
         "mecha",
         "power suit",
+        "primarily female cast",
+        "robots",
+        "sci-fi",
         "science fiction"
       ],
       "id": "https://kitsu.io/anime/43622"
+    },
+    {
+      "sources": [
+        "https://myanimelist.net/anime/48210"
+      ],
+      "title": "Biklonz",
+      "type": "TV",
+      "episodes": 21,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SUMMER",
+        "year": 2014
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1831/130307.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1831/130307t.jpg",
+      "synonyms": [
+        "바이클론즈"
+      ],
+      "relations": [],
+      "tags": [
+        "action",
+        "kids",
+        "sci-fi"
+      ],
+      "id": "https://myanimelist.net/anime/48210"
     },
     {
       "sources": [
@@ -161,6 +249,7 @@
         "Sailor Moon Crystal Staffel 3",
         "Sailor Moon Crystal Temporada 3",
         "Sailor Moon Crystal: Infinity Arc",
+        "sm (2016)",
         "美少女战士Crystal 第三季",
         "美少女戦士セーラームーン Crystal Season III",
         "美少女戦士セーラームーン Crystal「デス・バスターズ編」",
@@ -176,6 +265,8 @@
         "https://anilist.co/anime/103713",
         "https://anilist.co/anime/14751",
         "https://anilist.co/anime/532",
+        "https://anime-planet.com/anime/bishoujo-senshi-sailor-moon-cosmos-movie-1",
+        "https://anime-planet.com/anime/bishoujo-senshi-sailor-moon-cosmos-movie-2",
         "https://anime-planet.com/anime/momoiro-clover-z-moon-pride",
         "https://anime-planet.com/anime/pretty-guardian-sailor-moon-crystal",
         "https://anime-planet.com/anime/pretty-guardian-sailor-moon-eternal-movie-1",
@@ -197,25 +288,13 @@
         "https://anime-planet.com/anime/sailor-moon-super-s-special",
         "https://anime-planet.com/anime/sailor-moon-super-s-the-movie",
         "https://anisearch.com/anime/12190",
-        "https://anisearch.com/anime/14257",
-        "https://anisearch.com/anime/1619",
-        "https://anisearch.com/anime/1927",
-        "https://anisearch.com/anime/2110",
-        "https://anisearch.com/anime/2150",
-        "https://anisearch.com/anime/2333",
-        "https://anisearch.com/anime/2469",
-        "https://anisearch.com/anime/3904",
         "https://anisearch.com/anime/7836",
         "https://anisearch.com/anime/83",
-        "https://anisearch.com/anime/855",
-        "https://anisearch.com/anime/8625",
-        "https://anisearch.com/anime/8627",
         "https://kitsu.io/anime/42429",
         "https://kitsu.io/anime/491",
         "https://kitsu.io/anime/7163",
         "https://livechart.me/anime/113",
         "https://livechart.me/anime/2521",
-        "https://livechart.me/anime/2768",
         "https://livechart.me/anime/3884",
         "https://livechart.me/anime/4684",
         "https://livechart.me/anime/4962",
@@ -246,28 +325,36 @@
         "asia",
         "based on a manga",
         "bisexual",
+        "bullying",
+        "coming of age",
         "contemporary fantasy",
+        "demon",
         "demons",
         "drama",
+        "earth",
         "elemental powers",
+        "fairy tale",
         "fantasy",
         "female protagonist",
+        "found family",
         "henshin",
-        "henshin heroes",
         "japan",
         "lgbtq+ themes",
         "magic",
         "magical girl",
         "mahou shoujo",
         "manga",
+        "mythology",
         "plot continuity",
         "present",
         "primarily female cast",
+        "primarily teen cast",
         "reincarnation",
         "romance",
         "sentai",
         "shoujo",
         "slapstick",
+        "space",
         "super power",
         "tokusatsu",
         "tokyo",
@@ -283,6 +370,7 @@
         "https://anime-planet.com/anime/bouken-shounen-shadar",
         "https://anisearch.com/anime/416",
         "https://kitsu.io/anime/5231",
+        "https://livechart.me/anime/11647",
         "https://myanimelist.net/anime/8182",
         "https://notify.moe/anime/j56kpFmmg"
       ],
@@ -360,6 +448,32 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/dou-ding-de-kuaile-riji-2"
+      ],
+      "title": "Dou Ding De Kuaile Riji 2",
+      "type": "TV",
+      "episodes": 52,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2011
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/dou-ding-de-kuaile-riji-2-1.webp?t=1651692454",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/dou-ding-de-kuaile-riji-2-1-285x400.webp?t=1651692454",
+      "synonyms": [],
+      "relations": [
+        "https://anime-planet.com/anime/dou-ding-de-kuaile-riji"
+      ],
+      "tags": [
+        "chibi",
+        "chinese animation",
+        "family friendly",
+        "short episodes"
+      ],
+      "id": "https://anime-planet.com/anime/dou-ding-de-kuaile-riji-2"
+    },
+    {
+      "sources": [
         "https://anidb.net/anime/8605",
         "https://anilist.co/anime/10262",
         "https://anime-planet.com/anime/gag-manga-biyori-jump-festa-ova",
@@ -379,6 +493,7 @@
       "picture": "https://cdn.myanimelist.net/images/anime/11/28253.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/11/28253t.jpg",
       "synonyms": [
+        "Gag Manga Biyori Jump Festa 2002 Ban",
         "Gag Manga Biyori Jump Festa 2002 Han",
         "Gag Manga Biyori Jump Festa 2002 Special",
         "Gag Manga Biyori Jump Festa OVA",
@@ -395,6 +510,7 @@
         "https://anime-planet.com/anime/gag-manga-biyori-2",
         "https://anime-planet.com/anime/gag-manga-biyori-3",
         "https://anime-planet.com/anime/gag-manga-biyori-plus",
+        "https://anisearch.com/anime/2686",
         "https://kitsu.io/anime/1076",
         "https://myanimelist.net/anime/1196",
         "https://notify.moe/anime/W2DxcFmiR"
@@ -446,43 +562,10 @@
         "fantasy world",
         "game",
         "opening animation",
-        "promotional"
+        "promotional",
+        "strategy game"
       ],
       "id": "https://myanimelist.net/anime/36641"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/14502"
-      ],
-      "title": "Hataraku Saibou: Moshimo Pocari Sweat ga Attara",
-      "type": "ONA",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SUMMER",
-        "year": 2019
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/14/14502.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/14/14502.webp",
-      "synonyms": [
-        "Cells at Work! Episode 11.5",
-        "Hataraku Saibō: Moshimo Pocari Sweat ga Attara",
-        "はたらく細胞 ～もしもポカリスエットがあったら～"
-      ],
-      "relations": [
-        "https://anisearch.com/anime/13249",
-        "https://anisearch.com/anime/14287",
-        "https://anisearch.com/anime/15154",
-        "https://anisearch.com/anime/15229",
-        "https://anisearch.com/anime/15382"
-      ],
-      "tags": [
-        "action",
-        "adventure",
-        "comedy",
-        "science-fiction"
-      ],
-      "id": "https://anisearch.com/anime/14502"
     },
     {
       "sources": [
@@ -527,6 +610,8 @@
       ],
       "tags": [
         "anime tamago",
+        "child protagonists",
+        "drama",
         "future",
         "kids",
         "non-human protagonists",
@@ -544,6 +629,7 @@
         "https://anime-planet.com/anime/kaiketsu-zorori-movie-1-da-da-da-daibouken",
         "https://anisearch.com/anime/7840",
         "https://kitsu.io/anime/7206",
+        "https://livechart.me/anime/11556",
         "https://myanimelist.net/anime/15067",
         "https://notify.moe/anime/oLfOpKimR"
       ],
@@ -577,7 +663,17 @@
         "https://anime-planet.com/anime/kaiketsu-zorori-movie-4-zz-no-himitsu",
         "https://anime-planet.com/anime/majime-ni-fumajime-kaiketsu-zorori",
         "https://anime-planet.com/anime/majime-ni-fumajime-kaiketsu-zorori-nazo-no-otakara-daisakusen",
+        "https://anisearch.com/anime/3003",
         "https://kitsu.io/anime/3159",
+        "https://livechart.me/anime/10214",
+        "https://livechart.me/anime/10858",
+        "https://livechart.me/anime/11303",
+        "https://livechart.me/anime/11553",
+        "https://livechart.me/anime/1442",
+        "https://livechart.me/anime/278",
+        "https://livechart.me/anime/2956",
+        "https://livechart.me/anime/9500",
+        "https://livechart.me/anime/9797",
         "https://myanimelist.net/anime/3638",
         "https://notify.moe/anime/dd7lcKiiR"
       ],
@@ -599,7 +695,36 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/kasai-yobou",
+        "https://myanimelist.net/anime/51804"
+      ],
+      "title": "Kasai Yobou",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": null
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1207/123756.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1207/123756t.jpg",
+      "synonyms": [
+        "Fire Prevention",
+        "火災予防"
+      ],
+      "relations": [],
+      "tags": [
+        "educational"
+      ],
+      "id": "https://myanimelist.net/anime/51804"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/113864",
+        "https://anime-planet.com/anime/special-7-special-crime-investigation-unit-one-year-earlier-kujaku-nijos-melancholy",
+        "https://anisearch.com/anime/14933",
         "https://kitsu.io/anime/42963",
+        "https://livechart.me/anime/9735",
         "https://myanimelist.net/anime/40762",
         "https://notify.moe/anime/zp8CM2UZR"
       ],
@@ -614,22 +739,47 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1417/104653.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1417/104653t.jpg",
       "synonyms": [
+        "Keishicho Tokumu-bu Tokushu Kyoaku-han Taisaku-Shitsu Dai-Nana-ka: Tokunana OVA File 0.5",
+        "Keishichou Tokumu Bu Tokushu Kyouakuhan Taisaku Shitsu Dai Nana Ka: Tokunana - Ichinen Mae, Nijou Kujaku no Urei",
+        "Keishichou Tokumu-bu Tokushu Kyouaku-han Taisaku-Shitsu Dai-Nana-ka -Tokunana- OVA",
+        "Keishichou Tokumu-bu Tokushu Kyouakuhan Taisaku-shitsu Dai Nanaka: Tokunana Special - File 0.5",
+        "Keishichō Tokumu Bu Tokushu Kyōakuhan Taisaku Shitsu Dai Nana Ka: Tokunana - Ichinen Mae, Nijō Kujaku no Urei",
+        "Special 7: Special Crime Investigation Unit - Ein Jahr zuvor: Die Leiden des jungen Nijo",
         "Special 7: Special Crime Investigation Unit - One Year Earlier: Kujaku Nijo's Melancholy",
+        "Special 7: Special Crime Investigation Unit - One Year Earlier: Kujaku Nijo’s Melancholy",
+        "Special 7: Special Crime Investigation Unit - Un año antes: La melancolía de Kujaku Nijo",
+        "Special 7: Special Crime Investigation Unit OVA",
         "Special Crime Investigation Unit - Special 7 Episode 0.5",
+        "Special Crime Investigation Unit - Special 7 Episode OVA",
         "Special Crime Investigation Unit - Special 7 OVA",
-        "警視庁 特務部 特殊凶悪犯対策室 第七課 -トクナナ- OVA File.0.5「一年前、二条クジャクの憂い」"
+        "Special Crime Investigation Unit - Special 7: Episode 0.5",
+        "Special Crime Investigation Unit - Special 7: OVA",
+        "警視庁 特務部 特殊凶悪犯対策室 第七課 -トクナナ- OVA File.0.5",
+        "警視庁 特務部 特殊凶悪犯対策室 第七課 -トクナナ- OVA File.0.5「一年前、二条クジャクの憂い」",
+        "警視庁 特務部 特殊凶悪犯対策室 第七課 -トクナナ- 一年前、 二条クジャクの憂い"
       ],
       "relations": [
+        "https://anilist.co/anime/108554",
+        "https://anime-planet.com/anime/special-7-special-crime-investigation-unit",
+        "https://anime-planet.com/anime/special-7-special-crime-investigation-unit-seiji-nanatsukis-running-report",
+        "https://anisearch.com/anime/14278",
         "https://kitsu.io/anime/42272",
+        "https://livechart.me/anime/9372",
         "https://myanimelist.net/anime/39567",
         "https://notify.moe/anime/N0xibLkZR"
       ],
       "tags": [
         "action",
         "cops",
+        "detective",
+        "drama",
         "fantasy",
+        "original work",
         "police",
-        "vampire"
+        "policeman",
+        "psychological",
+        "vampire",
+        "vampires"
       ],
       "id": "https://myanimelist.net/anime/40762"
     },
@@ -649,16 +799,22 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1323/120337.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1323/120337t.jpg",
       "synonyms": [
+        "Kemono Girl Transmission: The Animation",
         "Kemonokko Tsuushin The Animation",
         "Kemonokko Tsūshin The Animation",
         "けものっ娘通信 〜The Animation〜 牛娘ベル",
         "けものっ娘通信〜The Animation〜"
       ],
-      "relations": [],
+      "relations": [
+        "https://myanimelist.net/anime/53947"
+      ],
       "tags": [
         "big boobs",
         "hentai",
-        "lactation"
+        "kemonomimi",
+        "lactation",
+        "present",
+        "softcore"
       ],
       "id": "https://myanimelist.net/anime/50622"
     },
@@ -682,9 +838,15 @@
       "picture": "https://cdn.myanimelist.net/images/anime/2/55711.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/2/55711t.jpg",
       "synonyms": [
+        "Futago no Hoshi",
+        "Hyouga Nezumi no Kegawa",
+        "Neko no Jimusho",
         "The Cat's Office",
         "The Coat of a Glacier Mouse",
         "The Twin Stars",
+        "双子の星",
+        "氷河ねずみの毛皮",
+        "猫の事務所",
         "賢治のトランク"
       ],
       "relations": [],
@@ -693,28 +855,6 @@
         "kids"
       ],
       "id": "https://myanimelist.net/anime/21099"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/15005"
-      ],
-      "title": "Kkoma Nongbu Rabby",
-      "type": "TV",
-      "episodes": 52,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 2016
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/15/15005.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/15/15005.webp",
-      "synonyms": [
-        "The Little Farmer Rabby",
-        "꼬마농부 라비"
-      ],
-      "relations": [],
-      "tags": [],
-      "id": "https://anisearch.com/anime/15005"
     },
     {
       "sources": [
@@ -737,28 +877,39 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1676/117210.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1676/117210t.jpg",
       "synonyms": [
+        "Confession Executive Committee movie 3",
         "HoneyWorks 10th Anniversary \"Lip×Lip Film×Live\"",
         "How to Enjoy This World: Secret Story Film",
         "LIPxLIP Movie Project",
         "LIP×LIP Movie Project",
+        "lovecommittee movie 3",
         "この世界の楽しみ方~Secret Story Film~",
         "この世界の楽しみ方〜Secret Story Film〜",
         "この世界の楽しみ方～Secret Story Film～"
       ],
       "relations": [
+        "https://anidb.net/anime/16564",
         "https://anilist.co/anime/130473",
+        "https://anilist.co/anime/138459",
         "https://anime-planet.com/anime/honeyworks-and-lipxlip-chiisana-lion",
         "https://anime-planet.com/anime/honeyworks-and-lipxlip-choco-kano",
         "https://anime-planet.com/anime/honeyworks-and-lipxlip-rodeo",
         "https://anime-planet.com/anime/honeyworks-and-lipxlip-yappa-saikyou",
         "https://livechart.me/anime/10765",
+        "https://livechart.me/anime/11160",
         "https://livechart.me/anime/1726",
         "https://livechart.me/anime/2123",
         "https://livechart.me/anime/2628",
-        "https://myanimelist.net/anime/49692"
+        "https://myanimelist.net/anime/48410",
+        "https://myanimelist.net/anime/49692",
+        "https://myanimelist.net/anime/52486",
+        "https://myanimelist.net/anime/52487",
+        "https://myanimelist.net/anime/52488"
       ],
       "tags": [
         "idol",
+        "idols (male)",
+        "male protagonist",
         "music",
         "present",
         "primarily male cast"
@@ -783,6 +934,7 @@
       "synonyms": [
         "Boku to Kanojo no Nanako Kan",
         "Lovely Day",
+        "Lovely Day: Boku to Kanojo no Nanokakan",
         "ラブリディ ～僕と彼女の七日間～",
         "ラブリデイ"
       ],
@@ -814,8 +966,8 @@
         "season": "FALL",
         "year": 2020
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/15/15889.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/15/15889.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/15/15889_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/15/15889.webp",
       "synonyms": [
         "MapleStory NEO: An old enemy",
         "[메이플스토리 NEO] 숙적(宿敵)",
@@ -829,82 +981,6 @@
         "fantasy"
       ],
       "id": "https://anisearch.com/anime/15889"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/10260"
-      ],
-      "title": "MapleStory: Chiisana Gokai to, Ookina Kansha",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SUMMER",
-        "year": 2008
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/10/10260.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/10/10260.webp",
-      "synonyms": [
-        "Maple Story Special",
-        "MapleStory Episode 26",
-        "MapleStory: Appreciation",
-        "MapleStory: Chīsana Gokai to, Ōkina Kansha",
-        "メイプルストーリー 小さな誤解と、大きな感謝",
-        "메이플스토리 작은 오해와 커다란 감사"
-      ],
-      "relations": [
-        "https://anisearch.com/anime/4444"
-      ],
-      "tags": [
-        "adventure",
-        "alternative world",
-        "fantasy"
-      ],
-      "id": "https://anisearch.com/anime/10260"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/17058"
-      ],
-      "title": "Miraculous World: New York, Hana Doen Yeongungdeul",
-      "type": "TV",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 2021
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/17/17058.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17058.webp",
-      "synonyms": [
-        "Ladybug in New York City",
-        "Miraculous New York",
-        "Miraculous World: New York, United Heroez",
-        "미라큘러스 월드 : 뉴욕, 하나 된 영웅들"
-      ],
-      "relations": [
-        "https://anisearch.com/anime/11124",
-        "https://anisearch.com/anime/12133",
-        "https://anisearch.com/anime/12169",
-        "https://anisearch.com/anime/13153",
-        "https://anisearch.com/anime/14205",
-        "https://anisearch.com/anime/14481",
-        "https://anisearch.com/anime/16892",
-        "https://anisearch.com/anime/17074"
-      ],
-      "tags": [
-        "action",
-        "action comedy",
-        "adventure",
-        "cg-anime",
-        "comedy",
-        "fantasy",
-        "heroine of strong character",
-        "magical girl",
-        "present",
-        "romance"
-      ],
-      "id": "https://anisearch.com/anime/17058"
     },
     {
       "sources": [
@@ -1012,57 +1088,9 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/109944",
-        "https://myanimelist.net/anime/41010"
-      ],
-      "title": "Otome Kaibou",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2019
-      },
-      "picture": "https://cdn.myanimelist.net/images/anime/1157/105287.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1157/105287t.jpg",
-      "synonyms": [
-        "Girl Dissection",
-        "Otome Dissection",
-        "乙女解剖"
-      ],
-      "relations": [],
-      "tags": [
-        "drama",
-        "music",
-        "psychological"
-      ],
-      "id": "https://myanimelist.net/anime/41010"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/47834"
-      ],
-      "title": "Qimiao Zhi Lu(edited)",
-      "type": "TV",
-      "episodes": 53,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "奇妙之旅"
-      ],
-      "relations": [],
-      "tags": [
-        "fantasy"
-      ],
-      "id": "https://myanimelist.net/anime/47834"
-    },
-    {
-      "sources": [
+        "https://anilist.co/anime/129600",
+        "https://anime-planet.com/anime/seer-11th-season",
+        "https://kitsu.io/anime/44062",
         "https://myanimelist.net/anime/49920"
       ],
       "title": "Sai Er Hao Season 11: Liekong Canghai",
@@ -1076,14 +1104,29 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1599/118003.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1599/118003t.jpg",
       "synonyms": [
+        "Sai Er Hao 11th Season",
+        "Seer 11",
+        "Seer 11th Season",
         "Seer Eleventh Season",
+        "赛尔号 第十一季",
         "赛尔号第11季：裂空沧海"
       ],
       "relations": [
+        "https://anilist.co/anime/129599",
+        "https://anime-planet.com/anime/seer-10th-season",
+        "https://kitsu.io/anime/44061",
         "https://myanimelist.net/anime/44153"
       ],
       "tags": [
-        "kids"
+        "action",
+        "adventure",
+        "chinese animation",
+        "fantasy",
+        "kids",
+        "robots",
+        "sci fi",
+        "sci-fi",
+        "science fiction"
       ],
       "id": "https://myanimelist.net/anime/49920"
     },
@@ -1092,7 +1135,7 @@
         "https://kitsu.io/anime/42906",
         "https://myanimelist.net/anime/36639"
       ],
-      "title": "Shadowverse",
+      "title": "Shadowverse PVs",
       "type": "ONA",
       "episodes": 0,
       "status": "ONGOING",
@@ -1103,6 +1146,7 @@
       "picture": "https://cdn.myanimelist.net/images/anime/11/88535.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/11/88535t.jpg",
       "synonyms": [
+        "Shadowverse",
         "Shadowverse シャドウバース"
       ],
       "relations": [
@@ -1112,32 +1156,37 @@
       "tags": [
         "card games",
         "fantasy",
-        "game"
+        "strategy game"
       ],
       "id": "https://myanimelist.net/anime/36639"
     },
     {
       "sources": [
-        "https://myanimelist.net/anime/47087"
+        "https://anilist.co/anime/140363",
+        "https://kitsu.io/anime/45349",
+        "https://myanimelist.net/anime/51486"
       ],
-      "title": "Shenming Zhi Zhou season2",
-      "type": "ONA",
-      "episodes": 12,
+      "title": "Shinya Haikai",
+      "type": "SPECIAL",
+      "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
+        "season": "WINTER",
+        "year": 2021
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1764/122185.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1764/122185t.jpg",
       "synonyms": [
-        "神明之胄 第2季"
+        "Wandering Late at Night",
+        "深夜徘徊"
       ],
       "relations": [],
       "tags": [
-        "adventure"
+        "music",
+        "psychological",
+        "slice of life"
       ],
-      "id": "https://myanimelist.net/anime/47087"
+      "id": "https://myanimelist.net/anime/51486"
     },
     {
       "sources": [
@@ -1207,12 +1256,10 @@
         "https://anime-planet.com/anime/turning-mecard-w-movie-black-mirror-ui-buhwal",
         "https://anime-planet.com/anime/turning-mecard-w-vandyne-ui-bimil",
         "https://anime-planet.com/anime/turning-mecard-w-vandyne-ui-bimil-teugbyeolpan",
-        "https://anisearch.com/anime/12178",
         "https://anisearch.com/anime/12693",
-        "https://anisearch.com/anime/13559",
         "https://anisearch.com/anime/13723",
-        "https://anisearch.com/anime/13810",
-        "https://anisearch.com/anime/13811",
+        "https://anisearch.com/anime/14192",
+        "https://anisearch.com/anime/15410",
         "https://kitsu.io/anime/40583",
         "https://kitsu.io/anime/41221",
         "https://myanimelist.net/anime/35542",
@@ -1228,8 +1275,10 @@
         "korean animation",
         "mecha",
         "proxy battles",
+        "racing",
         "sci fi",
         "science fiction",
+        "strategy game",
         "transforming craft"
       ],
       "id": "https://myanimelist.net/anime/35541"
@@ -1260,6 +1309,7 @@
         "Lamu - Only You",
         "Lamu Película: Only You",
         "Lamu: Solo tú",
+        "Lamù - Only You",
         "Lamù: Only You",
         "Lum - Only You",
         "Urusei Yatsura - Only You",
@@ -1282,19 +1332,10 @@
         "https://anime-planet.com/anime/urusei-yatsura-ova",
         "https://anime-planet.com/anime/urusei-yatsura-special-its-spring-take-off",
         "https://anime-planet.com/anime/urusei-yatsura-the-obstacle-course-swim-meet",
-        "https://anisearch.com/anime/1574",
-        "https://anisearch.com/anime/16977",
         "https://anisearch.com/anime/1945",
-        "https://anisearch.com/anime/195",
-        "https://anisearch.com/anime/2156",
-        "https://anisearch.com/anime/2685",
-        "https://anisearch.com/anime/2980",
-        "https://anisearch.com/anime/340",
-        "https://anisearch.com/anime/6035",
-        "https://anisearch.com/anime/8388",
-        "https://anisearch.com/anime/8616",
         "https://kitsu.io/anime/1166",
         "https://livechart.me/anime/11005",
+        "https://livechart.me/anime/11333",
         "https://livechart.me/anime/4301",
         "https://livechart.me/anime/8215",
         "https://livechart.me/anime/8720",
@@ -1338,49 +1379,6 @@
         "yandere"
       ],
       "id": "https://myanimelist.net/anime/1920"
-    },
-    {
-      "sources": [
-        "https://anidb.net/anime/17164"
-      ],
-      "title": "Xiao Mo Tou Baolu La",
-      "type": "ONA",
-      "episodes": 0,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 2022
-      },
-      "picture": "https://cdn.anidb.net/images/main/269236.jpg",
-      "thumbnail": "https://cdn.anidb.net/images/main/269236.jpg-thumb.jpg",
-      "synonyms": [
-        "Busted! Darklord",
-        "小魔头暴露啦"
-      ],
-      "relations": [],
-      "tags": [],
-      "id": "https://anidb.net/anime/17164"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/48210"
-      ],
-      "title": "바이클론즈",
-      "type": "TV",
-      "episodes": 111,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [],
-      "relations": [],
-      "tags": [
-        "action"
-      ],
-      "id": "https://myanimelist.net/anime/48210"
     }
   ]
 }

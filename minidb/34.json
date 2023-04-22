@@ -2,9 +2,39 @@
   "data": [
     {
       "sources": [
+        "https://anime-planet.com/anime/ainosato-cms",
+        "https://myanimelist.net/anime/52433"
+      ],
+      "title": "Ai no Sato",
+      "type": "SPECIAL",
+      "episodes": 2,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2020
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1541/125523.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1541/125523t.jpg",
+      "synonyms": [
+        "Ainosato",
+        "Ainosato CMs",
+        "あいの里"
+      ],
+      "relations": [],
+      "tags": [
+        "aging",
+        "commercials",
+        "promotional",
+        "short episodes"
+      ],
+      "id": "https://myanimelist.net/anime/52433"
+    },
+    {
+      "sources": [
         "https://anidb.net/anime/16801",
         "https://anilist.co/anime/139643",
         "https://anime-planet.com/anime/drifting-home",
+        "https://anisearch.com/anime/16662",
         "https://kitsu.io/anime/45247",
         "https://livechart.me/anime/10815",
         "https://myanimelist.net/anime/49938",
@@ -13,32 +43,63 @@
       "title": "Ame wo Tsugeru Hyouryuu Danchi",
       "type": "MOVIE",
       "episodes": 1,
-      "status": "UPCOMING",
+      "status": "FINISHED",
       "animeSeason": {
-        "season": "WINTER",
+        "season": "SUMMER",
         "year": 2022
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/1930/118067.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1930/118067t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1263/124155.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1263/124155t.jpg",
       "synonyms": [
         "Ame o Tsugeru Hyouryuu Danchi",
+        "Ame o Tsugeru Hyōryū Danchi",
+        "Căminul Plutitor",
+        "Dom na falach",
         "Drifting Home",
+        "Hogar a la deriva",
+        "La casa tra le onde",
+        "Les Murs Vagabonds",
+        "Les Murs vagabonds",
+        "บ้านล่องลอย",
+        "宣告风雨的漂流团地",
+        "漂流家园",
         "雨を告げる漂流団地"
       ],
-      "relations": [],
+      "relations": [
+        "https://anilist.co/anime/154895",
+        "https://anime-planet.com/anime/zutomayo-blush",
+        "https://anime-planet.com/anime/zutomayo-summer-slack",
+        "https://myanimelist.net/anime/53335"
+      ],
       "tags": [
         "adventure",
+        "child protagonists",
+        "childhood friends",
         "coming of age",
+        "contemporary fantasy",
+        "drama",
         "family friendly",
         "fantasy",
+        "football",
+        "found family",
+        "ghost",
         "isekai",
+        "iyashikei",
+        "kids",
+        "mystery",
         "original work",
-        "supernatural"
+        "photography",
+        "primarily child cast",
+        "supernatural",
+        "supernatural drama",
+        "survival",
+        "urban fantasy"
       ],
       "id": "https://myanimelist.net/anime/49938"
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/american-rabbit-no-bouken",
         "https://myanimelist.net/anime/50983"
       ],
       "title": "American Rabbit no Bouken",
@@ -58,18 +119,26 @@
       "relations": [],
       "tags": [
         "adventure",
+        "animal protagonists",
+        "anthropomorphic",
         "comedy",
+        "family friendly",
         "fantasy",
         "kids",
-        "super power"
+        "non-human protagonists",
+        "rabbits",
+        "super power",
+        "superheroes"
       ],
       "id": "https://myanimelist.net/anime/50983"
     },
     {
       "sources": [
+        "https://anilist.co/anime/129382",
+        "https://anime-planet.com/anime/baobei-nuer-hao-mama-kuaile-de-jiating",
         "https://myanimelist.net/anime/44016"
       ],
-      "title": "Baobei Nuer Hao Mama Zhi Kuaile De Jiating",
+      "title": "Baobei Nuer Hao Mama: Kuaile De Jiating",
       "type": "TV",
       "episodes": 100,
       "status": "FINISHED",
@@ -77,16 +146,22 @@
         "season": "UNDEFINED",
         "year": 2012
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1880/122862.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1880/122862t.jpg",
       "synonyms": [
-        "寶貝女兒好媽媽之快樂的家庭"
+        "Baobei Nüer Hao Mama: Kuaile de Jiating",
+        "宝贝女儿好妈妈之快乐的家庭"
       ],
       "relations": [
+        "https://anilist.co/anime/129381",
+        "https://anilist.co/anime/129383",
+        "https://anime-planet.com/anime/baobei-nuer-hao-mama",
         "https://myanimelist.net/anime/44015"
       ],
       "tags": [
+        "chinese animation",
         "comedy",
+        "family friendly",
         "kids"
       ],
       "id": "https://myanimelist.net/anime/44016"
@@ -114,8 +189,7 @@
       "synonyms": [
         "Candy Boy Episode 0",
         "Candy Boy Prologue",
-        "Candy Boy: Side Story for Archive",
-        "Candy☆Boy Episode 0"
+        "Candy Boy: Side Story for Archive"
       ],
       "relations": [
         "https://anilist.co/anime/4535",
@@ -125,7 +199,6 @@
         "https://anime-planet.com/anime/candy-boy-ex02",
         "https://anisearch.com/anime/5060",
         "https://anisearch.com/anime/5072",
-        "https://anisearch.com/anime/6839",
         "https://kitsu.io/anime/3668",
         "https://kitsu.io/anime/3937",
         "https://myanimelist.net/anime/4535",
@@ -154,6 +227,37 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/so-red-and-a-little-blue",
+        "https://myanimelist.net/anime/51639"
+      ],
+      "title": "Dahong Yu Xiao Lan",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2015
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1988/122819.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1988/122819t.jpg",
+      "synonyms": [
+        "Dahong He Xiao Lan",
+        "So Red and A Little Blue",
+        "So Red and a Little Blue",
+        "大红与小蓝"
+      ],
+      "relations": [],
+      "tags": [
+        "abstract",
+        "avant garde",
+        "chinese animation",
+        "no dialogue",
+        "shorts"
+      ],
+      "id": "https://myanimelist.net/anime/51639"
+    },
+    {
+      "sources": [
         "https://anisearch.com/anime/15794"
       ],
       "title": "Eongttung Ballal Kongsuniwa Chingudeul 3",
@@ -164,65 +268,19 @@
         "season": "FALL",
         "year": 2015
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/15/15794.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/15/15794.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/15/15794_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/15/15794.webp",
       "synonyms": [
         "엉뚱발랄 콩순이와 친구들 3"
       ],
       "relations": [
-        "https://anisearch.com/anime/15792",
         "https://anisearch.com/anime/15793",
-        "https://anisearch.com/anime/15795",
-        "https://anisearch.com/anime/15845",
-        "https://anisearch.com/anime/16182"
+        "https://anisearch.com/anime/15795"
       ],
       "tags": [
         "cg-anime"
       ],
       "id": "https://anisearch.com/anime/15794"
-    },
-    {
-      "sources": [
-        "https://anilist.co/anime/140600"
-      ],
-      "title": "Factory",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2018
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140600-6eRE24YDvmE0.png",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140600-6eRE24YDvmE0.png",
-      "synonyms": [],
-      "relations": [],
-      "tags": [],
-      "id": "https://anilist.co/anime/140600"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/12758"
-      ],
-      "title": "Gekijou-ban Tokimeki Restaurant: MIRACLE6",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 2018
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/12/12758.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/12/12758.webp",
-      "synonyms": [
-        "Gekijō-ban Tokimeki Restaurant: MIRACLE6",
-        "劇場版ときめきレストラン☆☆☆ MIRACLE6"
-      ],
-      "relations": [],
-      "tags": [
-        "music"
-      ],
-      "id": "https://anisearch.com/anime/12758"
     },
     {
       "sources": [
@@ -279,11 +337,16 @@
         "https://anime-planet.com/anime/jungle-emperor-leo-the-brave-can-change-the-future",
         "https://anime-planet.com/anime/kimba-the-white-lion",
         "https://anime-planet.com/anime/the-new-adventures-of-kimba-the-white-lion",
-        "https://anisearch.com/anime/1503",
-        "https://anisearch.com/anime/240",
+        "https://anisearch.com/anime/12119",
+        "https://anisearch.com/anime/171",
         "https://anisearch.com/anime/2447",
-        "https://anisearch.com/anime/5506",
+        "https://anisearch.com/anime/3157",
         "https://kitsu.io/anime/8901",
+        "https://livechart.me/anime/6422",
+        "https://livechart.me/anime/8787",
+        "https://livechart.me/anime/8809",
+        "https://livechart.me/anime/8836",
+        "https://livechart.me/anime/9096",
         "https://myanimelist.net/anime/2264",
         "https://notify.moe/anime/wbhbtFiiR"
       ],
@@ -302,42 +365,6 @@
         "shounen"
       ],
       "id": "https://myanimelist.net/anime/2565"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/16509"
-      ],
-      "title": "Kobayashi-san Chi no Maid Dragon S: Mini Dragon EX",
-      "type": "SPECIAL",
-      "episodes": 5,
-      "status": "ONGOING",
-      "animeSeason": {
-        "season": "SUMMER",
-        "year": 2021
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/16/16509.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/16/16509.webp",
-      "synonyms": [
-        "Mini Dragon EX",
-        "Miss Kobayashi’s Dragon Maid S Short Animation Series EX",
-        "小林さんちのメイドラゴンＳ ミニドラ EX"
-      ],
-      "relations": [],
-      "tags": [
-        "comedy",
-        "contemporary fantasy",
-        "ecchi",
-        "elementary school",
-        "fantasy",
-        "magic",
-        "martial arts",
-        "moe",
-        "monster",
-        "present",
-        "slice of life",
-        "stoic heroine"
-      ],
-      "id": "https://anisearch.com/anime/16509"
     },
     {
       "sources": [
@@ -372,6 +399,7 @@
         "This Boy Can Fight With Aliens.",
         "Uchujin to Tatakaemasu.",
         "Uchuujin to Tatakaemasu.: Bokura no Sekai no Mamorikata",
+        "konodan s1",
         "หนุ่มเทพปะทะเอเลี่ยน",
         "このだんしうちゅうじんとたたかえます",
         "この男子",
@@ -391,6 +419,7 @@
         "https://anime-planet.com/anime/this-boy-caught-a-merman",
         "https://anime-planet.com/anime/this-boy-is-a-professional-wizard",
         "https://anime-planet.com/anime/this-boy-suffers-from-crystallization",
+        "https://anisearch.com/anime/8081",
         "https://kitsu.io/anime/11599",
         "https://kitsu.io/anime/7257",
         "https://kitsu.io/anime/8779",
@@ -494,6 +523,7 @@
         "Kuroshitsuji",
         "Kuroshitsuji: Book of the Atlantic",
         "Kuroshitsuji: Bōk of the Atlantic",
+        "คนลึกไขปริศนาลับ: Book of the Atlantic",
         "劇場版 黒執事 Book of the Atlantic",
         "黒執事 Book of the Atlantic"
       ],
@@ -509,7 +539,6 @@
         "https://anime-planet.com/anime/black-butler-picture-drama",
         "https://anime-planet.com/anime/black-butler-recap",
         "https://anisearch.com/anime/9558",
-        "https://anisearch.com/anime/9638",
         "https://kitsu.io/anime/8338",
         "https://livechart.me/anime/3618",
         "https://livechart.me/anime/3772",
@@ -545,12 +574,14 @@
         "kuudere",
         "master-servant relationship",
         "mystery",
+        "mythology",
         "non-human protagonists",
         "ships",
         "shounen",
         "splatter",
         "supernatural",
         "supernatural drama",
+        "swordplay",
         "swords & co",
         "transgender",
         "violence",
@@ -592,6 +623,7 @@
         "https://anidb.net/anime/9363",
         "https://anilist.co/anime/118080",
         "https://anime-planet.com/anime/little-polar-bear-where-are-you-going-shirokuma-kun",
+        "https://anisearch.com/anime/7995",
         "https://kitsu.io/anime/8799",
         "https://myanimelist.net/anime/25027",
         "https://notify.moe/anime/jmzxtKmiR"
@@ -600,6 +632,7 @@
         "adventure",
         "animal protagonists",
         "animals",
+        "anthropomorphic",
         "based on a novel",
         "bears",
         "family friendly",
@@ -613,40 +646,6 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/119812"
-      ],
-      "title": "Murenase! Seton Gakuen EX: Juu Joshi-tachi no Yuzame Chuuihou",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2020
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119812-TMkkNL5W3dPI.png",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119812-TMkkNL5W3dPI.png",
-      "synonyms": [
-        "Murenase! Seton Gakuen Special",
-        "Seton Academy: Join the Pack! Special",
-        "シートン学園記EX: 獣女子たちの湯冷め注意報"
-      ],
-      "relations": [
-        "https://anilist.co/anime/112293"
-      ],
-      "tags": [
-        "comedy",
-        "ecchi",
-        "kemonomimi",
-        "love triangle",
-        "nudity",
-        "primarily female cast",
-        "romance",
-        "yuri"
-      ],
-      "id": "https://anilist.co/anime/119812"
-    },
-    {
-      "sources": [
         "https://anime-planet.com/anime/neru-enmei-chiryou"
       ],
       "title": "Neru: Enmei Chiryou",
@@ -657,8 +656,8 @@
         "season": "UNDEFINED",
         "year": 2012
       },
-      "picture": "https://anime-planet.com/images/anime/covers/12010.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/12010.jpg",
+      "picture": "https://cdn.anime-planet.com/anime/primary/neru-enmei-chiryou-1.jpg?t=1625898812",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/neru-enmei-chiryou-1-190x266.jpg?t=1625898812",
       "synonyms": [
         "Neru: Life Prolonging Treatment"
       ],
@@ -667,50 +666,6 @@
         "vocaloid"
       ],
       "id": "https://anime-planet.com/anime/neru-enmei-chiryou"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/overthedogs-its-a-small-world"
-      ],
-      "title": "OverTheDogs: It's a Small World",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2012
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/overthedogs-its-a-small-world-1.jpg?t=1625907621",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/overthedogs-its-a-small-world-1-190x267.jpg?t=1625907621",
-      "synonyms": [],
-      "relations": [],
-      "tags": [
-        "romance"
-      ],
-      "id": "https://anime-planet.com/anime/overthedogs-its-a-small-world"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/46812"
-      ],
-      "title": "Qinshou Chaoren season3",
-      "type": "ONA",
-      "episodes": 12,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "禽兽超人 第三季"
-      ],
-      "relations": [],
-      "tags": [
-        "comedy"
-      ],
-      "id": "https://myanimelist.net/anime/46812"
     },
     {
       "sources": [
@@ -738,37 +693,13 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/136779"
-      ],
-      "title": "Rhythmens",
-      "type": "ONA",
-      "episodes": 0,
-      "status": "ONGOING",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2021
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136779-KnnJfzNPZhc6.jpg",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136779-KnnJfzNPZhc6.jpg",
-      "synonyms": [
-        "리드멘스"
-      ],
-      "relations": [],
-      "tags": [
-        "animals",
-        "episodic",
-        "no dialogue",
-        "outdoor",
-        "rural",
-        "slice of life"
-      ],
-      "id": "https://anilist.co/anime/136779"
-    },
-    {
-      "sources": [
+        "https://anilist.co/anime/9355",
+        "https://anime-planet.com/anime/sekirei-pure-engagement-special",
+        "https://anisearch.com/anime/7219",
         "https://kitsu.io/anime/5700",
         "https://livechart.me/anime/4113",
-        "https://myanimelist.net/anime/9355"
+        "https://myanimelist.net/anime/9355",
+        "https://notify.moe/anime/_zqZpFmig"
       ],
       "title": "Sekirei: Pure Engagement Episode 0",
       "type": "SPECIAL",
@@ -783,16 +714,46 @@
       "synonyms": [
         "Kanwanidai (Sekirei Shindan/Sekirei Yoka)",
         "Sekirei 2 Special",
-        "セキレイ～Pure Engagement～第零羽"
+        "Sekirei: Pure Engagement - Episode 0",
+        "Sekirei: Pure Engagement - Kanwa Ni Dai",
+        "Sekirei: Pure Engagement - Kanwa ni Dai",
+        "Sekirei: Pure Engagement - Two Topic Gossip",
+        "Sekirei: Pure Engagement - Zwei Plaudereien",
+        "Sekirei: Pure Engagement OVA",
+        "Sekirei: Pure Engagement Special",
+        "セキレイ～Pure Engagement～ 閑話弐題",
+        "セキレイ～Pure Engagement～第零羽",
+        "セキレイ～Pure Engagement～第零羽 閑話弐題(鶺鴒診断/鶺鴒余暇)"
       ],
       "relations": [
+        "https://anilist.co/anime/5277",
+        "https://anime-planet.com/anime/sekirei",
+        "https://anime-planet.com/anime/sekirei-my-first-errand",
+        "https://anime-planet.com/anime/sekirei-pure-engagement",
+        "https://anisearch.com/anime/4777",
+        "https://anisearch.com/anime/5514",
         "https://kitsu.io/anime/4029",
-        "https://myanimelist.net/anime/5277"
+        "https://livechart.me/anime/3638",
+        "https://livechart.me/anime/3751",
+        "https://livechart.me/anime/4241",
+        "https://myanimelist.net/anime/5277",
+        "https://notify.moe/anime/s5VC5Fmmg"
       ],
       "tags": [
+        "action",
+        "action comedy",
+        "based on a manga",
         "comedy",
+        "contemporary fantasy",
         "ecchi",
-        "harem"
+        "female harem",
+        "harem",
+        "magic",
+        "nudity",
+        "present",
+        "primarily female cast",
+        "seinen",
+        "slapstick"
       ],
       "id": "https://myanimelist.net/anime/9355"
     },
@@ -849,6 +810,7 @@
     {
       "sources": [
         "https://anilist.co/anime/112308",
+        "https://kitsu.io/anime/46576",
         "https://livechart.me/anime/9520",
         "https://myanimelist.net/anime/40109",
         "https://notify.moe/anime/XuwoAGiMR"
@@ -864,6 +826,7 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1276/102048.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1276/102048t.jpg",
       "synonyms": [
+        "Soukyuu no Fafner: Dead Aggressor - THE BEYOND Part 2",
         "Soukyuu no Fafner: The Beyond 2",
         "蒼穹のファフナー Dead Aggressor THE BEYOND",
         "蒼穹のファフナー THE BEYOND 2"
@@ -871,6 +834,8 @@
       "relations": [
         "https://anilist.co/anime/117758",
         "https://anilist.co/anime/98056",
+        "https://kitsu.io/anime/46575",
+        "https://kitsu.io/anime/46577",
         "https://livechart.me/anime/10973",
         "https://livechart.me/anime/1502",
         "https://livechart.me/anime/200",
@@ -899,6 +864,7 @@
         "post-apocalyptic",
         "robots",
         "sci-fi",
+        "science fiction",
         "tragedy",
         "war"
       ],
@@ -982,77 +948,86 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/wo-de-pengyou-xiao-haitun"
+        "https://anilist.co/anime/150085",
+        "https://anime-planet.com/anime/touken-ranbu-kyoden-moyuru-honnouji",
+        "https://kitsu.io/anime/46142",
+        "https://livechart.me/anime/11221",
+        "https://myanimelist.net/anime/51859"
       ],
-      "title": "Wo de Pengyou Xiao Haitun",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
+      "title": "Touken Ranbu: Kyoden Moyuru Honnouji",
+      "type": "SPECIAL",
+      "episodes": 0,
+      "status": "UPCOMING",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 1980
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/wo-de-pengyou-xiao-haitun-1.jpg?t=1633711390",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/wo-de-pengyou-xiao-haitun-1-285x400.jpg?t=1633711391",
-      "synonyms": [],
-      "relations": [],
-      "tags": [
-        "chinese animation",
-        "family friendly",
-        "ocean",
-        "shorts"
-      ],
-      "id": "https://anime-planet.com/anime/wo-de-pengyou-xiao-haitun"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/44768"
-      ],
-      "title": "Xiao Tu Xia Zhi Gongfu Xuexiao season2",
-      "type": "TV",
-      "episodes": 104,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
+        "season": "WINTER",
+        "year": 2023
       },
       "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
       "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
       "synonyms": [
-        "小兔侠之功夫学校第二季"
+        "\"Touken Ranbu\" Kyoden Moyuru Honnouji",
+        "Touken Ranbu Kyouden Burning Honnouji",
+        "Touken Ranbu Kyouden Moyuru Honnouji",
+        "『刀剣乱舞』虚伝 燃",
+        "『刀剣乱舞』虚伝 燃ゆる本能寺"
       ],
       "relations": [
-        "https://myanimelist.net/anime/44767"
+        "https://anilist.co/anime/21741",
+        "https://anilist.co/anime/21742",
+        "https://anime-planet.com/anime/katsugeki-touken-ranbu",
+        "https://anime-planet.com/anime/touken-ranbu-hanamaru",
+        "https://kitsu.io/anime/11994",
+        "https://kitsu.io/anime/11995",
+        "https://livechart.me/anime/10416",
+        "https://livechart.me/anime/10417",
+        "https://livechart.me/anime/10418",
+        "https://livechart.me/anime/2110",
+        "https://livechart.me/anime/2113",
+        "https://livechart.me/anime/2536",
+        "https://livechart.me/anime/2893",
+        "https://livechart.me/anime/2898",
+        "https://myanimelist.net/anime/33018",
+        "https://myanimelist.net/anime/33023"
       ],
       "tags": [
+        "action",
+        "based on a play",
+        "ensemble cast",
         "fantasy",
-        "kids",
-        "martial arts"
+        "historical",
+        "primarily male cast",
+        "samurai",
+        "swordplay",
+        "time manipulation"
       ],
-      "id": "https://myanimelist.net/anime/44768"
+      "id": "https://myanimelist.net/anime/51859"
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/xi-bai-po-2-yingxiong-wang-er-xiao",
         "https://myanimelist.net/anime/43901"
       ],
-      "title": "Xibai Po 2: Yingxiong Wang Er Xiao",
+      "title": "Xi Bai Po 2: Yingxiong Wang Er Xiao",
       "type": "MOVIE",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "SPRING",
         "year": 2013
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1461/122548.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1461/122548t.jpg",
       "synonyms": [
-        "西柏坡 2：英雄王二小"
+        "Xi Bai Po: Wang Er Xiao",
+        "西柏坡2：英雄王二小"
       ],
       "relations": [
+        "https://anime-planet.com/anime/xi-bai-po",
         "https://myanimelist.net/anime/43898"
       ],
       "tags": [
-        "adventure",
+        "chinese animation",
+        "family friendly",
         "historical",
         "kids"
       ],
@@ -1060,64 +1035,31 @@
     },
     {
       "sources": [
-        "https://anidb.net/anime/4267"
+        "https://myanimelist.net/anime/44768"
       ],
-      "title": "Yawara! Special: Zutto Kimi no Koto ga...",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SUMMER",
-        "year": 1996
-      },
-      "picture": "https://cdn.anidb.net/images/main/11656.jpg",
-      "thumbnail": "https://cdn.anidb.net/images/main/11656.jpg-thumb.jpg",
-      "synonyms": [
-        "YAWARA! Special ずっと君のことが... .",
-        "Yawara! Atlanta Special"
-      ],
-      "relations": [
-        "https://anidb.net/anime/806"
-      ],
-      "tags": [
-        "action",
-        "judo",
-        "manga",
-        "romance",
-        "seinen",
-        "sports"
-      ],
-      "id": "https://anidb.net/anime/4267"
-    },
-    {
-      "sources": [
-        "https://anilist.co/anime/103990"
-      ],
-      "title": "Zhuzhu Xia: Fan Wai - Zhi Huanqiu Riji",
-      "type": "ONA",
-      "episodes": 26,
+      "title": "Xiao Tu Xia: Kung Fu Xuexiao 2nd Season",
+      "type": "TV",
+      "episodes": 104,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": 2018
+        "year": 2014
       },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103990-qAX6ax3AEa5M.jpg",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103990-qAX6ax3AEa5M.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1984/128510.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1984/128510t.jpg",
       "synonyms": [
-        "GG Bond: Adventure to the World",
-        "GG Bond: Global Diary",
-        "猪猪侠番外 环球日记"
+        "小兔侠之功夫学校第二季"
       ],
       "relations": [
-        "https://anilist.co/anime/103988"
+        "https://myanimelist.net/anime/44767"
       ],
       "tags": [
-        "adventure",
-        "full cgi",
-        "kids",
-        "sci-fi"
+        "anthropomorphic",
+        "comedy",
+        "fantasy",
+        "kids"
       ],
-      "id": "https://anilist.co/anime/103990"
+      "id": "https://myanimelist.net/anime/44768"
     }
   ]
 }

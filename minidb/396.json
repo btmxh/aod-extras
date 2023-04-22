@@ -2,6 +2,27 @@
   "data": [
     {
       "sources": [
+        "https://anidb.net/anime/17404"
+      ],
+      "title": "Akubi no Mukou ni Tobidasou",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SPRING",
+        "year": 1970
+      },
+      "picture": "https://cdn.anidb.net/images/main/272975.jpg",
+      "thumbnail": "https://cdn.anidb.net/images/main/272975.jpg-thumb.jpg",
+      "synonyms": [
+        "あくびのむこうにとびだそう"
+      ],
+      "relations": [],
+      "tags": [],
+      "id": "https://anidb.net/anime/17404"
+    },
+    {
+      "sources": [
         "https://anidb.net/anime/11420",
         "https://anilist.co/anime/103700",
         "https://anime-planet.com/anime/bara-bara-film",
@@ -59,6 +80,7 @@
         "Black Jack (2001)",
         "Black Jack: Internet-ban",
         "Black Jack: Internet-han",
+        "bj (2001)",
         "Блек Джак (2001)",
         "ネット版BJ",
         "ブラック・ジャック (2001)",
@@ -72,7 +94,22 @@
         "https://anilist.co/anime/2213",
         "https://anime-planet.com/anime/black-jack",
         "https://anime-planet.com/anime/black-jack-ova",
+        "https://anisearch.com/anime/3526",
+        "https://anisearch.com/anime/6082",
         "https://kitsu.io/anime/2004",
+        "https://livechart.me/anime/1589",
+        "https://livechart.me/anime/4709",
+        "https://livechart.me/anime/5635",
+        "https://livechart.me/anime/6244",
+        "https://livechart.me/anime/6290",
+        "https://livechart.me/anime/6439",
+        "https://livechart.me/anime/6654",
+        "https://livechart.me/anime/6767",
+        "https://livechart.me/anime/6863",
+        "https://livechart.me/anime/7024",
+        "https://livechart.me/anime/7305",
+        "https://livechart.me/anime/7991",
+        "https://livechart.me/anime/8275",
         "https://myanimelist.net/anime/2213",
         "https://notify.moe/anime/PuWE5KmmR"
       ],
@@ -94,15 +131,45 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/detective-conan-movie-19-the-hellfire-sunflowers-manner-movie",
+        "https://myanimelist.net/anime/53517"
+      ],
+      "title": "Detective Conan Manner Movie",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SPRING",
+        "year": 2015
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1103/130445.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1103/130445t.jpg",
+      "synonyms": [
+        "Detective Conan Movie 19: Gouka no Himawari Manner Movie",
+        "Detective Conan Movie 19: The Hellfire Sunflowers Manner Movie",
+        "NO MORE映画泥棒×名探偵コナン 業火の向日葵"
+      ],
+      "relations": [
+        "https://anime-planet.com/anime/detective-conan-movie-19-the-hellfire-sunflowers",
+        "https://myanimelist.net/anime/28479"
+      ],
+      "tags": [
+        "educational"
+      ],
+      "id": "https://myanimelist.net/anime/53517"
+    },
+    {
+      "sources": [
         "https://anilist.co/anime/126875",
-        "https://anime-planet.com/anime/fussa-dancing-animation"
+        "https://anime-planet.com/anime/fussa-dancing-animation",
+        "https://kitsu.io/anime/46895"
       ],
       "title": "Fussa Dancing Animation",
       "type": "MOVIE",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "WINTER",
         "year": 2014
       },
       "picture": "https://cdn.anime-planet.com/anime/primary/fussa-dancing-animation-1.webp?t=1634157932",
@@ -113,8 +180,10 @@
       "relations": [],
       "tags": [
         "dancing",
+        "music",
         "shorts",
-        "slice of life"
+        "slice of life",
+        "the arts"
       ],
       "id": "https://anime-planet.com/anime/fussa-dancing-animation"
     },
@@ -154,6 +223,7 @@
         "conspiracy",
         "cyberpunk",
         "dystopian",
+        "future",
         "genetic modification",
         "human enhancement",
         "human experimentation",
@@ -169,7 +239,6 @@
         "science-fiction",
         "shipboard",
         "space",
-        "space opera",
         "super robot"
       ],
       "id": "https://myanimelist.net/anime/909"
@@ -186,8 +255,8 @@
         "season": "SUMMER",
         "year": 2020
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/15/15534.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/15/15534.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/15/15534_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/15/15534.webp",
       "synonyms": [
         "Miniforce: Hamburger Monster’s Attack",
         "극장판 미니특공대-햄버거괴물의 습격"
@@ -263,48 +332,26 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/122373"
-      ],
-      "title": "Idol ga Koi Shicha Dame desu ka?",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2019
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122373-ejymuf8RKmst.png",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122373-ejymuf8RKmst.png",
-      "synonyms": [
-        "Aidoru ga Koishicha Damedesu ka?",
-        "アイドルが恋しちゃだめですか？"
-      ],
-      "relations": [],
-      "tags": [
-        "romance"
-      ],
-      "id": "https://anilist.co/anime/122373"
-    },
-    {
-      "sources": [
         "https://myanimelist.net/anime/47534"
       ],
-      "title": "Jinpai Bang Bang Bang Zhi Ai Yu Mengxiang",
+      "title": "Jinpai Bang Bang Bang: Ai Yu Mengxiang",
       "type": "TV",
       "episodes": 26,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2018
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1310/129659.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1310/129659t.jpg",
       "synonyms": [
         "金牌帮帮帮之爱与梦想"
       ],
-      "relations": [],
+      "relations": [
+        "https://myanimelist.net/anime/47533"
+      ],
       "tags": [
-        "kids"
+        "comedy"
       ],
       "id": "https://myanimelist.net/anime/47534"
     },
@@ -348,7 +395,7 @@
         "season": "UNDEFINED",
         "year": 2014
       },
-      "picture": "https://cdn.anime-planet.com/anime/primary/kill-la-kill-digest-naked-memories-by-aikuro-mikisugi-1.jpg?t=1625788583",
+      "picture": "https://cdn.anime-planet.com/anime/primary/kill-la-kill-digest-naked-memories-by-aikuro-mikisugi-1.jpg?t=1625907845",
       "thumbnail": "https://cdn.anime-planet.com/anime/primary/kill-la-kill-digest-naked-memories-by-aikuro-mikisugi-1-190x266.jpg?t=1625907845",
       "synonyms": [],
       "relations": [
@@ -379,8 +426,8 @@
         "season": "UNDEFINED",
         "year": 2017
       },
-      "picture": "https://anime-planet.com/images/anime/covers/14554.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/14554.jpg",
+      "picture": "https://cdn.anime-planet.com/anime/primary/mafumafu-and-soraru-anti-clockwise-1.jpg?t=1625908139",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/mafumafu-and-soraru-anti-clockwise-1-190x266.jpg?t=1625908139",
       "synonyms": [],
       "relations": [],
       "tags": [],
@@ -390,6 +437,7 @@
       "sources": [
         "https://anilist.co/anime/20750",
         "https://anime-planet.com/anime/maken-ki-two-specials",
+        "https://anisearch.com/anime/9707",
         "https://kitsu.io/anime/8467",
         "https://livechart.me/anime/534",
         "https://myanimelist.net/anime/23989",
@@ -406,7 +454,11 @@
       "picture": "https://cdn.myanimelist.net/images/anime/7/62209.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/7/62209t.jpg",
       "synonyms": [
+        "Maken-Ki! 2 Specials",
+        "Maken-ki! Privates",
         "Maken-ki! Two Specials",
+        "Maken-ki! Two: P~Watakushigoto",
+        "マケン姫っ！ 通 P～私事♡",
         "マケン姫っ！通 Ｐ～私事"
       ],
       "relations": [
@@ -416,6 +468,7 @@
         "https://anime-planet.com/anime/maken-ki-its-summer-its-swimsuits-its-training-camp",
         "https://anime-planet.com/anime/maken-ki-specials",
         "https://anime-planet.com/anime/maken-ki-two-takeru-nyotaika-minami-no-shima-de-supoon",
+        "https://anisearch.com/anime/8049",
         "https://kitsu.io/anime/7275",
         "https://livechart.me/anime/1194",
         "https://livechart.me/anime/131",
@@ -429,8 +482,11 @@
         "based on a manga",
         "comedy",
         "ecchi",
+        "high school",
+        "indefinite",
         "nekomimi",
         "nudity",
+        "present",
         "primarily female cast",
         "shounen"
       ],
@@ -457,6 +513,8 @@
       "picture": "https://cdn.myanimelist.net/images/anime/9/14522.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/9/14522t.jpg",
       "synonyms": [
+        "MASTER Keaton (OVA)",
+        "MASTERキートン (OVA)",
         "Master Keaton (1999)",
         "Master Keaton (Episodes 25–39)",
         "Master Keaton (Épisodes 25–39)",
@@ -468,10 +526,12 @@
         "https://anime-planet.com/anime/master-keaton",
         "https://anisearch.com/anime/94",
         "https://kitsu.io/anime/1329",
+        "https://livechart.me/anime/4853",
         "https://myanimelist.net/anime/1483",
         "https://notify.moe/anime/9hd-cFiiR"
       ],
       "tags": [
+        "adult cast",
         "adventure",
         "based on a manga",
         "crime",
@@ -498,6 +558,7 @@
     {
       "sources": [
         "https://anilist.co/anime/120771",
+        "https://anime-planet.com/anime/manly-appetites-minegishi-loves-otsu",
         "https://kitsu.io/anime/44975",
         "https://myanimelist.net/anime/42044"
       ],
@@ -509,23 +570,38 @@
         "season": "SPRING",
         "year": 2020
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/1547/108310.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1547/108310t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1415/127116.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1415/127116t.jpg",
       "synonyms": [
         "Manly Appetites: Minegishi Loves Otsu",
-        "峰岸さんは大津くんに食べさせたい",
+        "Minegishi-san wa Ootsu-kun ni Tabesasetai Mini Anime",
+        "Minegishi-san wa Outsu-kun ni Tabesasetai",
+        "峰岸さんは大津くんに食べさせたい ミニアニメ",
         "峰岸さんは大津くんに食べさせたい"
       ],
       "relations": [],
       "tags": [
+        "adult cast",
+        "based on a manga",
+        "bl",
         "boys love",
         "boys' love",
         "chibi",
         "comedy",
+        "coworkers",
+        "flash animation",
+        "food and beverage",
+        "opposites attract",
         "romance",
+        "salaryman",
+        "seinen",
+        "short episodes",
         "shounen ai",
+        "shounen-ai",
         "slice of life",
-        "work"
+        "work",
+        "work life",
+        "workplace"
       ],
       "id": "https://myanimelist.net/anime/42044"
     },
@@ -591,6 +667,7 @@
         "demon",
         "demons",
         "food and beverage",
+        "mythology",
         "original work",
         "short episodes"
       ],
@@ -622,6 +699,8 @@
         "Ookami Shoujo to Kuroouji",
         "Wolf Girl & Black Prince",
         "Wolf Girl and Black Prince",
+        "ookamishoujo",
+        "osko",
         "Ōkami Shōjo to Kuro Ōji",
         "おおかみしょうじょとくろおうじ",
         "オオカミ少女と黒王子",
@@ -630,6 +709,7 @@
       "relations": [
         "https://anidb.net/anime/10919",
         "https://anilist.co/anime/21007",
+        "https://anilist.co/anime/99643",
         "https://anime-planet.com/anime/oresama-ookami-heart",
         "https://anime-planet.com/anime/wolf-girl-and-black-prince-ova",
         "https://anime-planet.com/anime/wolf-girl-and-black-prince-recap",
@@ -718,9 +798,8 @@
         "https://anime-planet.com/anime/bottom-biting-bug-4",
         "https://anime-planet.com/anime/minna-no-uta-bottom-biting-bug",
         "https://anime-planet.com/anime/oshiri-no-yama-wa-everest",
-        "https://anisearch.com/anime/10805",
         "https://anisearch.com/anime/6362",
-        "https://anisearch.com/anime/9891",
+        "https://anisearch.com/anime/6772",
         "https://kitsu.io/anime/5401",
         "https://kitsu.io/anime/7976",
         "https://livechart.me/anime/1101",
@@ -773,9 +852,6 @@
         "https://anime-planet.com/anime/penguin-no-mondai-dx",
         "https://anime-planet.com/anime/penguin-no-mondai-max",
         "https://anime-planet.com/anime/penguin-no-mondai-movie-shiawase-no-aoi-tori-de-go-pen-nasai",
-        "https://anisearch.com/anime/4861",
-        "https://anisearch.com/anime/5693",
-        "https://anisearch.com/anime/6443",
         "https://anisearch.com/anime/7011",
         "https://myanimelist.net/anime/10856"
       ],
@@ -795,38 +871,6 @@
     },
     {
       "sources": [
-        "https://anidb.net/anime/9987"
-      ],
-      "title": "Shin Gekijouban Initial D",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SUMMER",
-        "year": 2014
-      },
-      "picture": "https://cdn.anidb.net/images/main/155635.jpg",
-      "thumbnail": "https://cdn.anidb.net/images/main/155635.jpg-thumb.jpg",
-      "synonyms": [
-        "Initial D the New Movie",
-        "Initial D: Legend",
-        "New Initial D Movie: Legend 1 - Kakusei",
-        "头文字D 新剧场版",
-        "新劇場版 頭文字[イニシャル]D"
-      ],
-      "relations": [
-        "https://anidb.net/anime/135"
-      ],
-      "tags": [
-        "manga",
-        "motorsport",
-        "seinen",
-        "sports"
-      ],
-      "id": "https://anidb.net/anime/9987"
-    },
-    {
-      "sources": [
         "https://livechart.me/anime/612"
       ],
       "title": "Strike Witches Operation Victory Arrow Vol. 3: Arnhem no Hashi",
@@ -834,8 +878,8 @@
       "episodes": 3,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "SPRING",
-        "year": 2015
+        "season": "UNDEFINED",
+        "year": null
       },
       "picture": "https://u.livechart.me/anime/612/poster_image/c3224fdbc865c7f33c9d6b848296fefa.jpg?style=large&format=jpg",
       "thumbnail": "https://u.livechart.me/anime/612/poster_image/c3224fdbc865c7f33c9d6b848296fefa.jpg?style=small&format=jpg",
@@ -880,8 +924,8 @@
         "season": "UNDEFINED",
         "year": 1994
       },
-      "picture": "https://anime-planet.com/images/anime/covers/18054.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/18054.jpg",
+      "picture": "https://cdn.anime-planet.com/anime/primary/twinbee-winbees-1-8-panic-1.jpg?t=1633521581",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/twinbee-winbees-1-8-panic-1-285x400.jpg?t=1633521581",
       "synonyms": [],
       "relations": [
         "https://anime-planet.com/anime/twinbee-paradise",
@@ -909,8 +953,8 @@
       ],
       "title": "Waccha PriMagi!",
       "type": "TV",
-      "episodes": 19,
-      "status": "ONGOING",
+      "episodes": 51,
+      "status": "FINISHED",
       "animeSeason": {
         "season": "FALL",
         "year": 2021
@@ -920,10 +964,16 @@
       "synonyms": [
         "Waccha Primagi!",
         "ワッチャプリマジ!",
-        "ワッチャプリマジ！"
+        "ワッチャプリマジ！",
+        "哇恰美妙魔法！"
       ],
       "relations": [
+        "https://anime-planet.com/anime/maji-de-wakaru-waccha-primagi-gakuen",
         "https://anime-planet.com/anime/pripara",
+        "https://anime-planet.com/anime/shin-gakki-da-yo-waccha-primagi-gakuen",
+        "https://anisearch.com/anime/17343",
+        "https://anisearch.com/anime/17344",
+        "https://anisearch.com/anime/9554",
         "https://livechart.me/anime/1126",
         "https://livechart.me/anime/1542",
         "https://livechart.me/anime/1670",
@@ -938,7 +988,9 @@
         "https://livechart.me/anime/423",
         "https://livechart.me/anime/463",
         "https://livechart.me/anime/5801",
-        "https://livechart.me/anime/768"
+        "https://livechart.me/anime/768",
+        "https://myanimelist.net/anime/50790",
+        "https://myanimelist.net/anime/51538"
       ],
       "tags": [
         "based on a video game",
@@ -947,10 +999,13 @@
         "family friendly",
         "fashion",
         "female protagonist",
+        "game",
         "henshin",
         "idol",
         "idols",
+        "idols (female)",
         "kids",
+        "lgbtq+ themes",
         "magic",
         "magical girl",
         "mahou shoujo",
@@ -1003,33 +1058,6 @@
         "time travel"
       ],
       "id": "https://myanimelist.net/anime/37665"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/44352"
-      ],
-      "title": "Zhu Zhu Xia Zhi Zhongji Juezhan Qianye Pian",
-      "type": "TV",
-      "episodes": 52,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2015
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "猪猪侠之终极决战前夜篇"
-      ],
-      "relations": [
-        "https://myanimelist.net/anime/38137"
-      ],
-      "tags": [
-        "adventure",
-        "fantasy",
-        "kids"
-      ],
-      "id": "https://myanimelist.net/anime/44352"
     }
   ]
 }

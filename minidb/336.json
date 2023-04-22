@@ -2,6 +2,35 @@
   "data": [
     {
       "sources": [
+        "https://anime-planet.com/anime/afternoon-class",
+        "https://kitsu.io/anime/46495",
+        "https://myanimelist.net/anime/53069"
+      ],
+      "title": "Afternoon Class",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "FALL",
+        "year": 2015
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1645/128051.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1645/128051t.jpg",
+      "synonyms": [
+        "애프터눈 클래스"
+      ],
+      "relations": [],
+      "tags": [
+        "comedy",
+        "korean animation",
+        "school",
+        "school life",
+        "shorts"
+      ],
+      "id": "https://myanimelist.net/anime/53069"
+    },
+    {
+      "sources": [
         "https://anime-planet.com/anime/aishiteru-yo-mccrea-mccrea-no-koutsuu-anzen",
         "https://myanimelist.net/anime/39377"
       ],
@@ -45,8 +74,8 @@
         "season": "WINTER",
         "year": 2012
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/13/55475.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/13/55475t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1307/124250.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1307/124250t.jpg",
       "synonyms": [
         "Saikin Osen",
         "mathru: Bacterial Contamination",
@@ -139,7 +168,9 @@
     },
     {
       "sources": [
+        "https://anidb.net/anime/15553",
         "https://anilist.co/anime/129688",
+        "https://anisearch.com/anime/16156",
         "https://kitsu.io/anime/43627"
       ],
       "title": "Benghuai 3: Bronya",
@@ -153,6 +184,9 @@
       "picture": "https://media.kitsu.io/anime/poster_images/43627/small.jpg",
       "thumbnail": "https://media.kitsu.io/anime/poster_images/43627/tiny.jpg",
       "synonyms": [
+        "Beng Huai 3: Bronia",
+        "Benghuai 3: Bronia",
+        "Honkai Impact 3: Bronia",
         "Honkai Impact 3rd - Bronya",
         "Honkai Impact 3rd: Bronya",
         "【崩壞3rd】動畫短片「布洛妮婭」日配版",
@@ -162,6 +196,8 @@
         "붕괴3rd 단편 애니메이션 [브로냐]"
       ],
       "relations": [
+        "https://anidb.net/anime/15552",
+        "https://anidb.net/anime/15554",
         "https://anilist.co/anime/129676",
         "https://anilist.co/anime/129677",
         "https://anilist.co/anime/129679",
@@ -173,78 +209,171 @@
         "https://anilist.co/anime/129692",
         "https://anilist.co/anime/129693",
         "https://anilist.co/anime/136496",
+        "https://anisearch.com/anime/14803",
+        "https://anisearch.com/anime/15398",
         "https://kitsu.io/anime/43626",
         "https://kitsu.io/anime/43628"
       ],
       "tags": [
         "action",
         "full cgi",
+        "game",
         "sci-fi"
       ],
       "id": "https://kitsu.io/anime/43627"
     },
     {
       "sources": [
-        "https://anilist.co/anime/145564"
+        "https://anisearch.com/anime/18170"
       ],
-      "title": "Bing Shang Yuxian",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 1964
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145564-rdMFeoQFQONS.png",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145564-rdMFeoQFQONS.png",
-      "synonyms": [
-        "Adventures on the Ice",
-        "冰上遇险"
-      ],
-      "relations": [],
-      "tags": [],
-      "id": "https://anilist.co/anime/145564"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/boris-ibitsu"
-      ],
-      "title": "Boris: Ibitsu",
+      "title": "Free to Go",
       "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2003
+        "season": "SPRING",
+        "year": 2019
       },
-      "picture": "https://cdn.anime-planet.com/anime/primary/boris-ibitsu-1.jpg?t=1625908879",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/boris-ibitsu-1-190x266.jpg?t=1625908879",
-      "synonyms": [],
+      "picture": "https://www.anisearch.com/images/anime/cover/18/18170_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/18/18170.webp",
+      "synonyms": [
+        "Seeb, Highasakite - Free To Go"
+      ],
+      "relations": [],
+      "tags": [],
+      "id": "https://anisearch.com/anime/18170"
+    },
+    {
+      "sources": [
+        "https://anisearch.com/anime/17325",
+        "https://kitsu.io/anime/46351",
+        "https://myanimelist.net/anime/52579"
+      ],
+      "title": "From Tokyo",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SUMMER",
+        "year": 2021
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1664/126436.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1664/126436t.jpg",
+      "synonyms": [
+        "Hatsune Miku - From Tokyo",
+        "フロムトーキョー",
+        "初音ミク - フロムトーキョー"
+      ],
       "relations": [],
       "tags": [
-        "abstract",
-        "cg animation"
+        "music"
       ],
-      "id": "https://anime-planet.com/anime/boris-ibitsu"
+      "id": "https://myanimelist.net/anime/52579"
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/genki-rockets-heavenly-star"
+        "https://anidb.net/anime/17244",
+        "https://anilist.co/anime/146233",
+        "https://anime-planet.com/anime/immoral-guild",
+        "https://anisearch.com/anime/17191",
+        "https://kitsu.io/anime/45961",
+        "https://livechart.me/anime/11123",
+        "https://myanimelist.net/anime/51212",
+        "https://notify.moe/anime/KXC80iP7R"
       ],
-      "title": "Genki Rockets: Heavenly Star",
+      "title": "Futoku no Guild",
+      "type": "TV",
+      "episodes": 12,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "FALL",
+        "year": 2022
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1651/128718.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1651/128718t.jpg",
+      "synonyms": [
+        "Guild Tidak Bermoral",
+        "Guild of Depravity",
+        "Immoral Guild",
+        "Розпусна гільдія",
+        "กิลด์ป่วนก๊วนฮา",
+        "不徳のギルド",
+        "不道德公會",
+        "无良公会"
+      ],
+      "relations": [],
+      "tags": [
+        "action",
+        "action comedy",
+        "adventure",
+        "alternative world",
+        "anachronism",
+        "animal characteristics",
+        "archery",
+        "based on a manga",
+        "butler",
+        "comedy",
+        "demons",
+        "ecchi",
+        "elf",
+        "ensemble cast",
+        "fantasy",
+        "fantasy world",
+        "female harem",
+        "fitness",
+        "food",
+        "guilds",
+        "harem",
+        "heterosexual",
+        "huge breasts",
+        "kemonomimi",
+        "large breasts",
+        "magic",
+        "maids",
+        "male protagonist",
+        "manga",
+        "martial arts",
+        "mixed gender harem",
+        "monster",
+        "monsters",
+        "nudity",
+        "primarily female cast",
+        "primarily teen cast",
+        "rural",
+        "shounen",
+        "slapstick",
+        "swords & co"
+      ],
+      "id": "https://myanimelist.net/anime/51212"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/153287",
+        "https://anime-planet.com/anime/meychan-ima-ni-mitero-yo",
+        "https://myanimelist.net/anime/52757"
+      ],
+      "title": "Ima ni Mitero yo!",
       "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2006
+        "season": "SUMMER",
+        "year": 2022
       },
-      "picture": "https://anime-planet.com/images/anime/covers/18835.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/18835.jpg",
-      "synonyms": [],
+      "picture": "https://cdn.myanimelist.net/images/anime/1038/127019.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1038/127019t.jpg",
+      "synonyms": [
+        "Meychan: Ima ni Mitero yo!",
+        "今に見てろよ！"
+      ],
       "relations": [],
-      "tags": [],
-      "id": "https://anime-planet.com/anime/genki-rockets-heavenly-star"
+      "tags": [
+        "action",
+        "music",
+        "supernatural",
+        "youkai"
+      ],
+      "id": "https://myanimelist.net/anime/52757"
     },
     {
       "sources": [
@@ -297,6 +426,7 @@
         "快盗天使ツインエンジェル 〜キュンキュン☆ときめきパラダイス!!〜",
         "快盗天使ツインエンジェル キュンキュン☆ときめきパラダイス!!",
         "快盗天使ツインエンジェル ～キュンキュン☆ときめきパラダイス！！～",
+        "快盗天使双胞胎",
         "쾌도천사 트윈엔젤: 큥큥 도키메키 파라다이스"
       ],
       "relations": [
@@ -309,6 +439,8 @@
         "https://anime-planet.com/anime/kaitou-tenshi-twin-angel",
         "https://anime-planet.com/anime/kaitou-tenshi-twin-angel-kyun-kyun-tokimeki-paradise-ova",
         "https://anime-planet.com/anime/kaitou-tenshi-twin-angel-tv",
+        "https://anisearch.com/anime/11634",
+        "https://anisearch.com/anime/4698",
         "https://anisearch.com/anime/9935",
         "https://kitsu.io/anime/12295",
         "https://kitsu.io/anime/3261",
@@ -331,7 +463,6 @@
         "female protagonist",
         "game",
         "henshin",
-        "henshin heroes",
         "japan",
         "magic",
         "magical girl",
@@ -347,6 +478,30 @@
         "thievery"
       ],
       "id": "https://myanimelist.net/anime/10217"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/kangaechuu"
+      ],
+      "title": "Kangaechuu",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2020
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/kangaechuu-1.webp?t=1656883194",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/kangaechuu-1-285x399.webp?t=1656883194",
+      "synonyms": [
+        "inside the thought"
+      ],
+      "relations": [],
+      "tags": [
+        "abstract",
+        "shorts"
+      ],
+      "id": "https://anime-planet.com/anime/kangaechuu"
     },
     {
       "sources": [
@@ -433,7 +588,7 @@
       "title": "Koi wa Sekai Seifuku no Ato de",
       "type": "TV",
       "episodes": 12,
-      "status": "UPCOMING",
+      "status": "FINISHED",
       "animeSeason": {
         "season": "SPRING",
         "year": 2022
@@ -446,7 +601,13 @@
         "Love After World Domination",
         "Love Is After the World Conquest",
         "Love after World Domination",
-        "恋は世界征服のあとで"
+        "Любовь после порабощения мира",
+        "รักหลังครองโลก",
+        "รักเรานั้นไว้หลังครองโลก",
+        "恋は世界征服のあとで",
+        "恋爱在征服世界之后",
+        "恋爱要在世界征服后",
+        "愛在征服世界後"
       ],
       "relations": [],
       "tags": [
@@ -454,41 +615,29 @@
         "based on a manga",
         "comedy",
         "ecchi",
-        "henshin heroes",
+        "female protagonist",
+        "gyaru",
+        "henshin",
+        "heterosexual",
+        "love triangle",
         "magic",
+        "male protagonist",
+        "parody",
+        "power suit",
+        "primarily teen cast",
         "romance",
         "romantic comedy",
+        "school",
         "shounen",
         "special squads",
         "superhero",
         "superheroes",
-        "supernatural"
+        "supernatural",
+        "tokusatsu",
+        "urban fantasy",
+        "villainess"
       ],
       "id": "https://myanimelist.net/anime/48643"
-    },
-    {
-      "sources": [
-        "https://livechart.me/anime/3134"
-      ],
-      "title": "Koneko no Chii Ponpora Dairyokou",
-      "type": "TV",
-      "episodes": 25,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2018
-      },
-      "picture": "https://u.livechart.me/anime/3134/poster_image/de3751cebfd5f2e472fff11e944e216e.png?style=large&format=jpg",
-      "thumbnail": "https://u.livechart.me/anime/3134/poster_image/de3751cebfd5f2e472fff11e944e216e.png?style=small&format=jpg",
-      "synonyms": [
-        "こねこのチー ポンポンらー大旅行"
-      ],
-      "relations": [],
-      "tags": [
-        "comedy",
-        "slice of life"
-      ],
-      "id": "https://livechart.me/anime/3134"
     },
     {
       "sources": [
@@ -535,10 +684,11 @@
         "https://anime-planet.com/anime/zatch-bell",
         "https://anime-planet.com/anime/zatch-bell-movie-2-attack-of-mechavulcan",
         "https://anisearch.com/anime/1648",
-        "https://anisearch.com/anime/2818",
-        "https://anisearch.com/anime/8822",
-        "https://anisearch.com/anime/8823",
         "https://kitsu.io/anime/225",
+        "https://livechart.me/anime/4408",
+        "https://livechart.me/anime/8614",
+        "https://livechart.me/anime/8639",
+        "https://livechart.me/anime/8653",
         "https://myanimelist.net/anime/250",
         "https://notify.moe/anime/34Nh5Kmmg"
       ],
@@ -566,6 +716,79 @@
     },
     {
       "sources": [
+        "https://anidb.net/anime/17473",
+        "https://anilist.co/anime/151252",
+        "https://anime-planet.com/anime/the-ice-guy-and-his-cool-female-colleague",
+        "https://anisearch.com/anime/17462",
+        "https://kitsu.io/anime/46192",
+        "https://livechart.me/anime/11282",
+        "https://myanimelist.net/anime/52173",
+        "https://notify.moe/anime/adNk3FqnR"
+      ],
+      "title": "Koori Zokusei Danshi to Cool na Douryou Joshi",
+      "type": "TV",
+      "episodes": 12,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2023
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1927/132758.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1927/132758t.jpg",
+      "synonyms": [
+        "Kozoda",
+        "Kōri Zokusei Danshi to Cool na Dōryō Joshi",
+        "Pria Es dan Rekan Wanitanya yang Keren",
+        "The Ice Guy & The Cool Girl",
+        "The Ice Guy and His Cool Female Colleague",
+        "บริษัทลุ้นรัก หนุ่มหิมะกับสาวสุดคูล",
+        "冰属性男子与酷酷女同事",
+        "氷属性男子とクールな同僚女子"
+      ],
+      "relations": [],
+      "tags": [
+        "adult cast",
+        "adult couples",
+        "age regression",
+        "based on a manga",
+        "comedy",
+        "coworkers",
+        "episodic",
+        "fantasy",
+        "female protagonist",
+        "heterosexual",
+        "iyashikei",
+        "japanese mythology",
+        "josei",
+        "kemonomimi",
+        "kuudere",
+        "male protagonist",
+        "manga",
+        "mature romance",
+        "mythology",
+        "non-human protagonists",
+        "office lady",
+        "office worker",
+        "present",
+        "primarily adult cast",
+        "romance",
+        "romantic comedy",
+        "salaryman",
+        "shrine maiden",
+        "slice of life",
+        "stoic heroine",
+        "super power",
+        "supernatural",
+        "tsundere",
+        "work",
+        "work life",
+        "workplace",
+        "youkai"
+      ],
+      "id": "https://myanimelist.net/anime/52173"
+    },
+    {
+      "sources": [
         "https://anidb.net/anime/7419",
         "https://anilist.co/anime/8332",
         "https://anime-planet.com/anime/kudan",
@@ -590,6 +813,7 @@
       ],
       "relations": [],
       "tags": [
+        "award winning",
         "cg animation",
         "fantasy",
         "indefinite",
@@ -602,7 +826,7 @@
         "https://anime-planet.com/anime/lei-su-deng-yi-fei-chong-tian",
         "https://myanimelist.net/anime/43303"
       ],
-      "title": "Lei Su Deng Yi Fei Chong Tian",
+      "title": "Lei Su Deng: Yi Fei Chong Tian",
       "type": "TV",
       "episodes": 52,
       "status": "FINISHED",
@@ -614,7 +838,8 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1585/109681t.jpg",
       "synonyms": [
         "Hover Champs",
-        "雷速登翼飞冲天"
+        "Lei Su Deng Yi Fei Chong Tian",
+        "雷速登之翼飞冲天"
       ],
       "relations": [
         "https://myanimelist.net/anime/35642",
@@ -630,6 +855,33 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/lion-dance"
+      ],
+      "title": "Lion Dance",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2016
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/lion-dance-1.webp?t=1654923301",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/lion-dance-1-285x399.webp?t=1654923301",
+      "synonyms": [
+        "Qiang Shi Tou"
+      ],
+      "relations": [],
+      "tags": [
+        "cg animation",
+        "chinese animation",
+        "comedy",
+        "shorts",
+        "siblings"
+      ],
+      "id": "https://anime-planet.com/anime/lion-dance"
+    },
+    {
+      "sources": [
         "https://anilist.co/anime/20481",
         "https://anime-planet.com/anime/little-busters-ex",
         "https://anisearch.com/anime/8992",
@@ -638,7 +890,7 @@
         "https://myanimelist.net/anime/20517",
         "https://notify.moe/anime/BeA2tKmig"
       ],
-      "title": "Little Busters!: EX",
+      "title": "Little Busters! EX",
       "type": "SPECIAL",
       "episodes": 8,
       "status": "FINISHED",
@@ -650,8 +902,8 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/3/59031t.jpg",
       "synonyms": [
         "LB!: EX",
-        "Little Busters! EX",
         "Little Busters! Ecstasy",
+        "Little Busters!: EX",
         "リトルバスターズ! リフレイン",
         "リトルバスターズ！ EX",
         "リトルバスターズ！EX"
@@ -662,8 +914,6 @@
         "https://anime-planet.com/anime/little-busters",
         "https://anime-planet.com/anime/little-busters-ova",
         "https://anime-planet.com/anime/little-busters-refrain",
-        "https://anisearch.com/anime/7822",
-        "https://anisearch.com/anime/8271",
         "https://anisearch.com/anime/8493",
         "https://kitsu.io/anime/7704",
         "https://livechart.me/anime/102",
@@ -726,6 +976,7 @@
       "synonyms": [
         "Magical Emi - Droning in the Chorus of Cicadas OVA",
         "Magical Emi Droning in Chorus of Cicadas",
+        "Magical Emi: Semishigure",
         "Mahou no Star Magical Emi Semishigure",
         "Mahō no Star Magical Emi Semishigure",
         "魔法のスター マジカルエミ 蝉時雨",
@@ -737,7 +988,11 @@
         "https://anime-planet.com/anime/magical-star-magical-emi",
         "https://anime-planet.com/anime/magical-star-magical-emi-music-clip-kaze-no-invitation",
         "https://anime-planet.com/anime/mahou-no-star-magical-emi-kumo-hikaru",
+        "https://anisearch.com/anime/727",
         "https://kitsu.io/anime/1837",
+        "https://livechart.me/anime/6938",
+        "https://livechart.me/anime/7157",
+        "https://livechart.me/anime/7769",
         "https://myanimelist.net/anime/2038",
         "https://notify.moe/anime/PaTYcKmiR"
       ],
@@ -781,8 +1036,7 @@
         "The Lost Village -Mayoiga-",
         "Пристанище потерянных",
         "迷家",
-        "迷家-マヨイガ-",
-        "迷家[マヨイガ]"
+        "迷家-マヨイガ-"
       ],
       "relations": [],
       "tags": [
@@ -790,6 +1044,7 @@
         "animeism",
         "asia",
         "bullying",
+        "cgi",
         "comedy",
         "drama",
         "earth",
@@ -817,49 +1072,25 @@
     },
     {
       "sources": [
-        "https://kitsu.io/anime/10982",
-        "https://myanimelist.net/anime/30723",
-        "https://notify.moe/anime/ygjltFiiR"
-      ],
-      "title": "Midori no Makibao Compilation OVA",
-      "type": "OVA",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/anime/6/73799.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/6/73799t.jpg",
-      "synonyms": [
-        "みどりのマキバオー"
-      ],
-      "relations": [
-        "https://myanimelist.net/anime/3550"
-      ],
-      "tags": [
-        "comedy",
-        "sports"
-      ],
-      "id": "https://myanimelist.net/anime/30723"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/nem-virgin-suicides"
+        "https://anime-planet.com/anime/nem-virgin-suicides",
+        "https://kitsu.io/anime/45377"
       ],
       "title": "Nem: virgin suicides",
       "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "SUMMER",
         "year": 2011
       },
       "picture": "https://cdn.anime-planet.com/anime/primary/nem-virgin-suicides-1.jpg?t=1625898558",
       "thumbnail": "https://cdn.anime-planet.com/anime/primary/nem-virgin-suicides-1-190x262.jpg?t=1625898558",
-      "synonyms": [],
+      "synonyms": [
+        "virgin suicides"
+      ],
       "relations": [],
       "tags": [
+        "music",
         "vocaloid"
       ],
       "id": "https://anime-planet.com/anime/nem-virgin-suicides"
@@ -911,7 +1142,9 @@
         "asia",
         "bullying",
         "cgi",
+        "child protagonists",
         "coming of age",
+        "denpa",
         "drama",
         "earth",
         "fantasy world",
@@ -986,6 +1219,7 @@
       "picture": "https://cdn.myanimelist.net/images/anime/6/50819.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/6/50819t.jpg",
       "synonyms": [
+        "Mademoiselle Météo",
         "Otenki One-san",
         "Otenki Onee-san",
         "Otenki Onesan",
@@ -996,8 +1230,6 @@
       "relations": [],
       "tags": [
         "comedy",
-        "erotica",
-        "girls love",
         "hentai",
         "heroine of strong character",
         "masturbation",
@@ -1010,32 +1242,9 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/poppin-party-happy-happy-party"
-      ],
-      "title": "Poppin' Party: Happy Happy Party!",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2017
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/poppin-party-happy-happy-party-1.jpg?t=1625782389",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/poppin-party-happy-happy-party-1-190x257.jpg?t=1625898023",
-      "synonyms": [],
-      "relations": [
-        "https://anime-planet.com/anime/bang-dream",
-        "https://anime-planet.com/anime/poppin-party-hashiri-hajimeta-bakari-no-kimi-ni",
-        "https://anime-planet.com/anime/poppin-party-star-beat-hoshinokodou-",
-        "https://anime-planet.com/anime/poppin-party-x-ayase-introduction",
-        "https://anime-planet.com/anime/poppin-party-yes-bangdream"
-      ],
-      "tags": [],
-      "id": "https://anime-planet.com/anime/poppin-party-happy-happy-party"
-    },
-    {
-      "sources": [
+        "https://anilist.co/anime/158541",
         "https://anime-planet.com/anime/princess-princess-specials",
+        "https://anisearch.com/anime/15843",
         "https://kitsu.io/anime/10896",
         "https://livechart.me/anime/7692",
         "https://myanimelist.net/anime/30625",
@@ -1052,12 +1261,17 @@
       "picture": "https://cdn.myanimelist.net/images/anime/2/73602.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/2/73602t.jpg",
       "synonyms": [
+        "Princess Princess Bangai-hen",
         "Princess Princess Omake",
+        "Princess Princess Picture Drama",
         "ぷりんせすぷりんせす",
-        "プリンセス・プリンセス"
+        "プリンセス・プリンセス",
+        "プリンセス・プリンセス 番外編"
       ],
       "relations": [
+        "https://anilist.co/anime/907",
         "https://anime-planet.com/anime/princess-princess",
+        "https://anisearch.com/anime/444",
         "https://kitsu.io/anime/807",
         "https://livechart.me/anime/5098",
         "https://myanimelist.net/anime/907",
@@ -1075,36 +1289,9 @@
     },
     {
       "sources": [
-        "https://anisearch.com/anime/14562"
-      ],
-      "title": "Puchitto Gargantia: Tokubetsu Kikaku - Marumaru no Gargantia",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SUMMER",
-        "year": 2013
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/14/14562.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/14/14562.webp",
-      "synonyms": [
-        "Gargantia on the Verdurous Planet: Petite Gargantia Special",
-        "Petit Gargantia: Special Project Gargantia",
-        "Puchitto Gargantia Episode 14",
-        "Puchitto Gargantia Tokubetsu-hen (ぷちっとがるがんてぃあ 特別編)",
-        "ぷちっとがるがんてぃあ 特別企画 - 〇〇のガルガンティア"
-      ],
-      "relations": [
-        "https://anisearch.com/anime/8753"
-      ],
-      "tags": [],
-      "id": "https://anisearch.com/anime/14562"
-    },
-    {
-      "sources": [
         "https://anisearch.com/anime/7753"
       ],
-      "title": "So-Ra-No-Wo-To Bangai-hen Dai-7.5-wa: Kyouen - Toride no Sensou",
+      "title": "Sora no Oto Bangai-hen Dai-7.5-wa: Kyouen - Toride no Sensou",
       "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
@@ -1112,11 +1299,12 @@
         "season": "SPRING",
         "year": 2010
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/7/7753.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/7/7753.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/7/7753_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/7/7753.webp",
       "synonyms": [
-        "So-Ra-No-Wo-To Bangai-hen Dai-7.5-wa: Kyōen - Toride no Sensō",
+        "So-Ra-No-Wo-To Bangai-hen Dai-7.5-wa: Kyouen - Toride no Sensou",
         "So-Ra-No-Wo-To Episode 7.5",
+        "Sora no Oto Bangai-hen Dai-7.5-wa: Kyōen - Toride no Sensō",
         "Sora no Woto Extra Episode, 7.5: Feast - The Fortress W",
         "Soranowoto Sound of the Sky",
         "Sound of the Sky: Drinking Party - Fortress Battle",
@@ -1124,8 +1312,7 @@
         "ソ・ラ・ノ・ヲ・ト 番外編 第7.5話「饗宴・砦ノ戦争」"
       ],
       "relations": [
-        "https://anisearch.com/anime/5517",
-        "https://anisearch.com/anime/7631"
+        "https://anisearch.com/anime/5517"
       ],
       "tags": [
         "comedy",
@@ -1198,7 +1385,6 @@
         "https://anidb.net/anime/7485",
         "https://anidb.net/anime/8918",
         "https://anilist.co/anime/10622",
-        "https://anilist.co/anime/3352",
         "https://anilist.co/anime/4107",
         "https://anilist.co/anime/4565",
         "https://anilist.co/anime/4705",
@@ -1215,7 +1401,9 @@
         "https://anime-planet.com/anime/tengen-toppa-gurren-lagann-parallel-works-2",
         "https://anisearch.com/anime/4565",
         "https://anisearch.com/anime/4842",
+        "https://anisearch.com/anime/4949",
         "https://anisearch.com/anime/5223",
+        "https://anisearch.com/anime/5451",
         "https://kitsu.io/anime/2950",
         "https://kitsu.io/anime/3471",
         "https://kitsu.io/anime/3689",
@@ -1245,6 +1433,7 @@
         "https://notify.moe/anime/sPn95KmmR"
       ],
       "tags": [
+        "absurdist humour",
         "action",
         "action comedy",
         "adventure",
@@ -1253,14 +1442,18 @@
         "alternate universe",
         "alternative world",
         "animals",
-        "astronomy",
+        "award winning",
         "combining mecha",
         "comedy",
         "coming of age",
         "cosmic horror",
+        "death game",
+        "desert",
         "drama",
         "earth",
         "ecchi",
+        "found family",
+        "future",
         "guns",
         "henshin",
         "hero of weak character",
@@ -1273,10 +1466,10 @@
         "new",
         "nudity",
         "original work",
-        "philosophy",
+        "outdoor",
         "piloted robot",
+        "plot continuity",
         "politics",
-        "post apocalypse",
         "post-apocalyptic",
         "romance",
         "sci fi",
@@ -1285,32 +1478,38 @@
         "science-fiction",
         "shounen",
         "space",
-        "space battles",
+        "space opera",
         "super robot",
         "super robots",
         "swordplay",
         "time skip",
         "tragedy",
         "transforming craft",
+        "travel",
         "war"
       ],
       "id": "https://myanimelist.net/anime/2001"
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/the-sxplay-for-kimi-ni-okuro-uta"
+        "https://anime-planet.com/anime/the-sxplay-for-kimi-ni-okuro-uta",
+        "https://anisearch.com/anime/14352"
       ],
       "title": "THE SxPLAY: For Kimi ni Okuro Uta",
       "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "SPRING",
         "year": 2019
       },
-      "picture": "https://cdn.anime-planet.com/anime/primary/the-sxplay-for-kimi-ni-okuro-uta-1.jpg?t=1625755413",
+      "picture": "https://cdn.anime-planet.com/anime/primary/the-sxplay-for-kimi-ni-okuro-uta-1.jpg?t=1625899324",
       "thumbnail": "https://cdn.anime-planet.com/anime/primary/the-sxplay-for-kimi-ni-okuro-uta-1-190x270.jpg?t=1625899324",
-      "synonyms": [],
+      "synonyms": [
+        "For Kimi ni Okuro Uta",
+        "For キミに贈る歌",
+        "THE SxPLAY(菅原紗由理) / For キミに贈る歌"
+      ],
       "relations": [],
       "tags": [
         "post-apocalyptic"
@@ -1341,6 +1540,7 @@
       "synonyms": [
         "Great Battle of the Flying Saucers",
         "La Guerre des Soucoupes Volantes",
+        "Mazinger: Uchuu Enban Dai-Sensou",
         "The Great Battle of the Flying Saucers",
         "The Great War of the Flying Saucers",
         "UFO Robot Gattaiger - La grande battaglia dei dischi volanti",
@@ -1354,7 +1554,6 @@
         "https://anidb.net/anime/962",
         "https://anilist.co/anime/1985",
         "https://anime-planet.com/anime/ufo-robo-grendizer",
-        "https://anisearch.com/anime/10884",
         "https://anisearch.com/anime/376",
         "https://kitsu.io/anime/1787",
         "https://myanimelist.net/anime/1985",
@@ -1385,7 +1584,9 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/117396",
         "https://anime-planet.com/anime/virtual-san-looking-specials",
+        "https://anisearch.com/anime/15489",
         "https://kitsu.io/anime/43297",
         "https://myanimelist.net/anime/38998"
       ],
@@ -1401,18 +1602,34 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1604/98213t.jpg",
       "synonyms": [
         "Virtual-san Looking",
+        "Virtual-san Looking (OVA)",
         "Virtual-san Looking Specials",
-        "バーチャルさんはみている"
+        "Virtual-san wa Mite Iru: TV Mihousou Banashi",
+        "Virtual-san wa Mite Iru: TV Mihousou-wa",
+        "Virtual-san wa Mite Iru: TV Mihōsō-wa",
+        "Virtual-san wa Miteiru (OVA)",
+        "Virtual-san wa Miteiru Non-Broadcasted Episode 13",
+        "バーチャルさんはみている",
+        "バーチャルさんはみている (OVA)",
+        "バーチャルさんはみている TV未放送話"
       ],
       "relations": [
+        "https://anilist.co/anime/106433",
         "https://anime-planet.com/anime/virtual-san-looking",
+        "https://anisearch.com/anime/14084",
         "https://kitsu.io/anime/42042",
         "https://myanimelist.net/anime/38851"
       ],
       "tags": [
         "cg animation",
+        "cg-anime",
         "comedy",
+        "episodic",
         "music",
+        "nonsense-comedy",
+        "slapstick",
+        "verbal comedy",
+        "vtuber",
         "vtubers"
       ],
       "id": "https://myanimelist.net/anime/38998"
@@ -1445,6 +1662,7 @@
         "https://anidb.net/anime/2875",
         "https://anilist.co/anime/4083",
         "https://anime-planet.com/anime/wonder-beat-scramble",
+        "https://anisearch.com/anime/2182",
         "https://kitsu.io/anime/3454",
         "https://myanimelist.net/anime/4083",
         "https://notify.moe/anime/Zrnu5Kmmg"
@@ -1460,13 +1678,20 @@
       "picture": "https://cdn.myanimelist.net/images/anime/4/7436.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/4/7436t.jpg",
       "synonyms": [
+        "Micro Nauts",
         "Micronauts",
+        "Wonder Beat S",
         "Wonder Beat Scrumble",
         "Wonderbeat Scrumble",
         "فريق العباقرة",
-        "ワンダービート S(スクランブル)"
+        "ワンダービート S(スクランブル)",
+        "ワンダービート S（スクランブル）",
+        "ワンダービートスクランブル"
       ],
-      "relations": [],
+      "relations": [
+        "https://anilist.co/anime/145795",
+        "https://anilist.co/anime/145796"
+      ],
       "tags": [
         "action",
         "original work",
@@ -1474,6 +1699,7 @@
         "sci fi",
         "sci-fi",
         "science fiction",
+        "science-fiction",
         "space",
         "war"
       ],
@@ -1488,11 +1714,11 @@
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "SUMMER",
         "year": 2010
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1125/129875.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1125/129875t.jpg",
       "synonyms": [
         "西域传奇"
       ],

@@ -2,6 +2,31 @@
   "data": [
     {
       "sources": [
+        "https://anime-planet.com/anime/a-tale-of-the-two-stars"
+      ],
+      "title": "A Tale of the Two Stars",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2014
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/a-tale-of-the-two-stars-1.webp?t=1670535761",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/a-tale-of-the-two-stars-1-285x399.webp?t=1670535761",
+      "synonyms": [
+        "Soraboshi to Umiboshi"
+      ],
+      "relations": [],
+      "tags": [
+        "abstract",
+        "black and white",
+        "shorts"
+      ],
+      "id": "https://anime-planet.com/anime/a-tale-of-the-two-stars"
+    },
+    {
+      "sources": [
         "https://anilist.co/anime/102034",
         "https://kitsu.io/anime/11858",
         "https://livechart.me/anime/8125",
@@ -33,60 +58,6 @@
         "tragedy"
       ],
       "id": "https://myanimelist.net/anime/32294"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/17054"
-      ],
-      "title": "Azur Lane: Bisoku Zenshin! Hokorashiki Bokou ni Shukusai o",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SUMMER",
-        "year": 2021
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/17/17054.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17054.webp",
-      "synonyms": [
-        "Azur Lane: Bisoku Zenshin! Episode 13",
-        "Azur Lane: Bisoku Zenshin! Hokorashiki Bokō ni Shukusai o",
-        "アズールレーン びそくぜんしんっ！ 誇らしき母港に祝祭を"
-      ],
-      "relations": [
-        "https://anisearch.com/anime/15102"
-      ],
-      "tags": [
-        "comedy",
-        "school",
-        "slapstick",
-        "slice of life",
-        "verbal comedy"
-      ],
-      "id": "https://anisearch.com/anime/17054"
-    },
-    {
-      "sources": [
-        "https://anilist.co/anime/132417"
-      ],
-      "title": "Bessatsu Kamen Rider Saber: Tanpen Katsudou Mangashuu",
-      "type": "ONA",
-      "episodes": 6,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 2021
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132417-cWInYykCOa26.jpg",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132417-cWInYykCOa26.jpg",
-      "synonyms": [
-        "別冊 仮面ライダーセイバー　短編活動萬画集"
-      ],
-      "relations": [],
-      "tags": [
-        "chibi"
-      ],
-      "id": "https://anilist.co/anime/132417"
     },
     {
       "sources": [
@@ -133,11 +104,13 @@
         "https://anime-planet.com/anime/c3-special",
         "https://anisearch.com/anime/7864",
         "https://kitsu.io/anime/6751",
+        "https://livechart.me/anime/3951",
         "https://myanimelist.net/anime/12505",
         "https://notify.moe/anime/vc-NpKimR"
       ],
       "tags": [
         "action",
+        "alternative present",
         "anthropomorphism",
         "anti-hero",
         "asia",
@@ -161,7 +134,6 @@
         "novel",
         "nudity",
         "pantsu",
-        "parental abandonment",
         "present",
         "primarily female cast",
         "psychological drama",
@@ -174,6 +146,7 @@
         "shounen",
         "slapstick",
         "splatter",
+        "stereotypes",
         "supernatural",
         "swordplay",
         "swords & co",
@@ -188,7 +161,7 @@
       "sources": [
         "https://myanimelist.net/anime/46323"
       ],
-      "title": "Di Ka Tejing Dui Zhi Di Xin Chuanqi",
+      "title": "Dica Tejing Dui: Di Xin Chuanqi",
       "type": "TV",
       "episodes": 21,
       "status": "FINISHED",
@@ -203,7 +176,8 @@
       ],
       "relations": [],
       "tags": [
-        "adventure"
+        "anthropomorphic",
+        "kids"
       ],
       "id": "https://myanimelist.net/anime/46323"
     },
@@ -285,11 +259,7 @@
         "https://anime-planet.com/anime/cyber-formula-sin",
         "https://anime-planet.com/anime/cyber-formula-zero",
         "https://anime-planet.com/anime/future-gpx-cyber-formula",
-        "https://anisearch.com/anime/1165",
         "https://anisearch.com/anime/1728",
-        "https://anisearch.com/anime/1950",
-        "https://anisearch.com/anime/2484",
-        "https://anisearch.com/anime/2558",
         "https://anisearch.com/anime/264",
         "https://kitsu.io/anime/1244",
         "https://kitsu.io/anime/1246",
@@ -324,37 +294,6 @@
     },
     {
       "sources": [
-        "https://anisearch.com/anime/10517"
-      ],
-      "title": "Gunslinger Stratos The Animation: Bunki - Futatsu no Mirai",
-      "type": "TV",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2015
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/10/10517.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/10/10517.webp",
-      "synonyms": [
-        "Gunslinger Stratos: The Animation Episode 12.5",
-        "ガンスリンガー ストラトス -THE ANIMATION- 分岐／二つの未来"
-      ],
-      "relations": [],
-      "tags": [
-        "action",
-        "alternative world",
-        "drama",
-        "genius",
-        "guns",
-        "magic",
-        "science-fiction",
-        "stoic hero"
-      ],
-      "id": "https://anisearch.com/anime/10517"
-    },
-    {
-      "sources": [
         "https://anime-planet.com/anime/hikaru-no-go-new-year-special",
         "https://anisearch.com/anime/10695",
         "https://kitsu.io/anime/2116",
@@ -383,9 +322,7 @@
         "https://anime-planet.com/anime/hikaru-no-go",
         "https://anime-planet.com/anime/hikaru-no-go-journey-to-the-north-star-cup",
         "https://anime-planet.com/anime/hikaru-no-go-special-edition-match-of-justice-the-ancient-flower-blooms",
-        "https://anisearch.com/anime/10708",
         "https://anisearch.com/anime/193",
-        "https://anisearch.com/anime/3233",
         "https://kitsu.io/anime/114",
         "https://myanimelist.net/anime/135",
         "https://notify.moe/anime/otYpcFimR"
@@ -399,10 +336,12 @@
         "game",
         "ganbatte",
         "ghosts",
+        "go",
         "present",
         "recap",
         "shounen",
         "sports",
+        "strategy game",
         "supernatural",
         "tournaments",
         "virtual reality"
@@ -438,6 +377,7 @@
         "KEN 2 Fist of the North Star",
         "Ken - Fist of the North Star 2",
         "Ken 2",
+        "Ken Le Survivant : Saison 2",
         "Ken il guerriero 2",
         "Ken le survivant 2",
         "Seikimatsu Kyuuseishu Densetsu: Hokuto no Ken 2",
@@ -467,22 +407,23 @@
         "https://anime-planet.com/anime/hokuto-no-ken-legend-of-heroes",
         "https://anime-planet.com/anime/legends-of-the-dark-king-a-fist-of-the-north-star-story",
         "https://anime-planet.com/anime/new-fist-of-the-north-star",
-        "https://anisearch.com/anime/12949",
-        "https://anisearch.com/anime/13689",
-        "https://anisearch.com/anime/1509",
-        "https://anisearch.com/anime/2190",
-        "https://anisearch.com/anime/2195",
         "https://anisearch.com/anime/2242",
-        "https://anisearch.com/anime/2653",
-        "https://anisearch.com/anime/2743",
         "https://anisearch.com/anime/3053",
-        "https://anisearch.com/anime/3874",
-        "https://anisearch.com/anime/4843",
-        "https://anisearch.com/anime/8108",
-        "https://anisearch.com/anime/843",
         "https://kitsu.io/anime/11080",
         "https://kitsu.io/anime/1211",
         "https://kitsu.io/anime/857",
+        "https://livechart.me/anime/1661",
+        "https://livechart.me/anime/4523",
+        "https://livechart.me/anime/6310",
+        "https://livechart.me/anime/6822",
+        "https://livechart.me/anime/7006",
+        "https://livechart.me/anime/809",
+        "https://livechart.me/anime/8239",
+        "https://livechart.me/anime/8251",
+        "https://livechart.me/anime/8265",
+        "https://livechart.me/anime/8281",
+        "https://livechart.me/anime/8284",
+        "https://livechart.me/anime/8301",
         "https://myanimelist.net/anime/1357",
         "https://myanimelist.net/anime/31018",
         "https://myanimelist.net/anime/967",
@@ -495,24 +436,35 @@
         "adventure",
         "alternative world",
         "apocalyptic fiction",
+        "archery",
+        "assassins",
+        "astronomy",
         "based on a manga",
+        "body horror",
         "desert",
         "drama",
         "dystopia",
         "earth",
+        "foreign",
+        "gore",
         "hand to hand combat",
         "male protagonist",
         "manga",
         "martial arts",
+        "memory manipulation",
         "overpowered main characters",
         "pirate",
         "pirates",
         "plot continuity",
         "post-apocalyptic",
+        "primarily adult cast",
+        "primarily male cast",
         "shounen",
         "splatter",
+        "suicide",
         "super power",
         "superpower",
+        "time skip",
         "tragedy",
         "twins",
         "violence"
@@ -573,19 +525,28 @@
         "https://anime-planet.com/anime/inazuma-eleven-reloaded-soccer-no-henkaku",
         "https://anime-planet.com/anime/inazuma-eleven-saikyou-gundan-ogre-shuurai",
         "https://anime-planet.com/anime/inazuma-eleven-x-despicable-me",
-        "https://anisearch.com/anime/11977",
-        "https://anisearch.com/anime/13857",
+        "https://anisearch.com/anime/10121",
         "https://anisearch.com/anime/13948",
-        "https://anisearch.com/anime/4373",
         "https://anisearch.com/anime/6356",
         "https://anisearch.com/anime/7041",
-        "https://anisearch.com/anime/7194",
-        "https://anisearch.com/anime/7679",
         "https://kitsu.io/anime/12496",
         "https://kitsu.io/anime/41364",
         "https://kitsu.io/anime/5580",
         "https://kitsu.io/anime/6213",
         "https://kitsu.io/anime/8543",
+        "https://livechart.me/anime/1112",
+        "https://livechart.me/anime/1532",
+        "https://livechart.me/anime/2264",
+        "https://livechart.me/anime/2392",
+        "https://livechart.me/anime/3483",
+        "https://livechart.me/anime/5271",
+        "https://livechart.me/anime/5663",
+        "https://livechart.me/anime/5852",
+        "https://livechart.me/anime/5897",
+        "https://livechart.me/anime/5908",
+        "https://livechart.me/anime/593",
+        "https://livechart.me/anime/820",
+        "https://livechart.me/anime/8715",
         "https://myanimelist.net/anime/10507",
         "https://myanimelist.net/anime/24347",
         "https://myanimelist.net/anime/33733",
@@ -606,17 +567,23 @@
         "based on a video game",
         "dissociative identities",
         "drama",
+        "drugs",
         "earth",
+        "ensemble cast",
         "episodic",
         "excessive violence",
         "family friendly",
         "football",
         "game",
         "ganbatte",
+        "gods",
         "japan",
         "kids",
         "kodomo",
+        "male protagonist",
+        "primarily child cast",
         "primarily male cast",
+        "primarily teen cast",
         "rpg",
         "school",
         "school club",
@@ -629,6 +596,7 @@
         "super power",
         "superpower",
         "superpowers",
+        "team sports",
         "tournaments"
       ],
       "id": "https://myanimelist.net/anime/5231"
@@ -637,40 +605,54 @@
       "sources": [
         "https://anidb.net/anime/17134",
         "https://anilist.co/anime/143866",
+        "https://anime-planet.com/anime/bottom-tier-character-tomozaki-2nd-stage",
         "https://anisearch.com/anime/17013",
         "https://kitsu.io/anime/45761",
         "https://livechart.me/anime/11034",
-        "https://myanimelist.net/anime/50803"
+        "https://myanimelist.net/anime/50803",
+        "https://notify.moe/anime/Bu2jcxl7g"
       ],
-      "title": "Jaku-Chara Tomozaki-kun (Shinsaku Anime)",
+      "title": "Jaku-Chara Tomozaki-kun 2nd Stage",
       "type": "TV",
-      "episodes": 0,
+      "episodes": 13,
       "status": "UPCOMING",
       "animeSeason": {
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/1058/120507.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1058/120507t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1390/135342.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1390/135342t.jpg",
       "synonyms": [
-        "Bottom-Tier Character Tomozaki",
-        "Bottom-Tier Character Tomozaki (New Anime)",
-        "Bottom-tier Character Tomozaki (New Anime)",
-        "Jaku Chara Tomozaki-kun (Shin Anime)",
-        "Jaku-Chara Tomozaki-kun (New Anime)",
+        "Bottom-Tier Character Tomozaki 2nd STAGE",
+        "Bottom-Tier Character Tomozaki 2nd Season",
+        "Bottom-Tier Character Tomozaki 2nd Stage",
+        "Bottom-Tier Character Tomozaki Season 2",
+        "Bottom-tier Character Tomozaki 2nd STAGE",
+        "Jaku Chara Tomozaki-kun 2nd Stage",
         "Jaku-Chara Tomozaki-kun (Shin Anime)",
+        "Jaku-Chara Tomozaki-kun 2nd STAGE",
+        "Jaku-Chara Tomozaki-kun 2nd Season",
+        "The Low Tier Character “Tomozaki-kun” 2nd Stage",
+        "Yowai Character Tomozaki-kun 2nd Stage",
+        "tomozaki s2",
+        "友崎くん",
         "弱キャラ友崎くん (新アニメ)",
-        "弱キャラ友崎くん (新作アニメ)"
+        "弱キャラ友崎くん 2nd STAGE",
+        "弱キャラ友崎くん２"
       ],
       "relations": [
         "https://anidb.net/anime/15144",
         "https://anilist.co/anime/112443",
+        "https://anime-planet.com/anime/bottom-tier-character-tomozaki",
+        "https://anisearch.com/anime/14684",
         "https://kitsu.io/anime/42621",
         "https://livechart.me/anime/10278",
         "https://livechart.me/anime/9638",
-        "https://myanimelist.net/anime/40530"
+        "https://myanimelist.net/anime/40530",
+        "https://notify.moe/anime/Jg1ahZXWR"
       ],
       "tags": [
+        "based on a light novel",
         "comedy",
         "drama",
         "hero of weak character",
@@ -681,12 +663,14 @@
         "romantic comedy",
         "school",
         "school life",
+        "shounen",
         "slice of life"
       ],
       "id": "https://myanimelist.net/anime/50803"
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/mah-kazami-tori",
         "https://myanimelist.net/anime/39202"
       ],
       "title": "Kazami Tori",
@@ -701,13 +685,95 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1889/98864t.jpg",
       "synonyms": [
         "Kazamidori",
+        "Mah: Kazami Tori",
         "カザミ鳥"
       ],
       "relations": [],
       "tags": [
-        "music"
+        "birds",
+        "dancing",
+        "music",
+        "vocaloid"
       ],
       "id": "https://myanimelist.net/anime/39202"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/110332",
+        "https://anime-planet.com/anime/mobile-suit-gundam-0083-stardust-memory-picture-drama",
+        "https://anisearch.com/anime/12177",
+        "https://kitsu.io/anime/11909",
+        "https://livechart.me/anime/7964",
+        "https://myanimelist.net/anime/32898",
+        "https://notify.moe/anime/OF76tKmmg"
+      ],
+      "title": "Kidou Senshi Gundam 0083: Stardust Memory Picture Drama - Uchuu no Kagerou 2",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2016
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/2/78908.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/2/78908t.jpg",
+      "synonyms": [
+        "Kidou Senshi Gundam 0083: STARDUST MEMORY - Uchuu no Kagerou 2",
+        "Kidou Senshi Gundam 0083: Stardust Memory - Uchuu no Kagerou 2",
+        "Kidō Senshi Gundam 0083: Stardust Memory - Uchū no Kagerō 2",
+        "Mobile Suit Gundam 0083: Stardust Memory - Mayfly of Space 2",
+        "Mobile Suit Gundam 0083: Stardust Memory - The Mayfly of Space 2",
+        "Mobile Suit Gundam 0083: Stardust Memory Picture Drama",
+        "Mobile Suit Gundam 0083: Stardust Memory Picture Drama - The Mayfly of Space 2",
+        "Mobile Suit Gundam 0083: Stardust Memory Picture Drama - Uchuu no Kagerou 2",
+        "Sora no Kagerou 2",
+        "機動戦士ガンダム 0083 「STARDUST MEMORY」 ピクチャードラマ 「宇宙の蜉蝣2」",
+        "機動戦士ガンダム 0083 スターダストメモリー 宇宙の蜉蝣 2"
+      ],
+      "relations": [
+        "https://anilist.co/anime/10581",
+        "https://anilist.co/anime/84",
+        "https://anime-planet.com/anime/mobile-suit-gundam-0083-stardust-memory",
+        "https://anime-planet.com/anime/mobile-suit-gundam-0083-stardust-memory-the-mayfly-of-space",
+        "https://anime-planet.com/anime/mobile-suit-gundam-0083-the-afterglow-of-zeon",
+        "https://anisearch.com/anime/8522",
+        "https://kitsu.io/anime/6250",
+        "https://kitsu.io/anime/63",
+        "https://livechart.me/anime/3938",
+        "https://livechart.me/anime/4607",
+        "https://livechart.me/anime/4659",
+        "https://livechart.me/anime/4683",
+        "https://livechart.me/anime/4695",
+        "https://livechart.me/anime/4944",
+        "https://livechart.me/anime/5926",
+        "https://livechart.me/anime/5947",
+        "https://livechart.me/anime/6906",
+        "https://livechart.me/anime/6987",
+        "https://livechart.me/anime/7514",
+        "https://livechart.me/anime/7582",
+        "https://livechart.me/anime/7717",
+        "https://livechart.me/anime/7848",
+        "https://livechart.me/anime/8121",
+        "https://myanimelist.net/anime/10581",
+        "https://myanimelist.net/anime/84",
+        "https://notify.moe/anime/Gfd4tFimg",
+        "https://notify.moe/anime/vTptcKmmg"
+      ],
+      "tags": [
+        "action",
+        "drama",
+        "fantasy",
+        "mecha",
+        "military",
+        "picture drama",
+        "primarily adult cast",
+        "real robot",
+        "sci fi",
+        "sci-fi",
+        "science-fiction",
+        "space"
+      ],
+      "id": "https://myanimelist.net/anime/32898"
     },
     {
       "sources": [
@@ -745,6 +811,7 @@
         "GitSSAC3",
         "Koukaku Kidoutai Stand Alone Complex - Solid State Society",
         "Koukaku Kidoutai Stand Alone Complex: Solid State Society",
+        "Koukaku Kidoutai: STAND ALONE COMPLEX - Solid State Society",
         "Kōkaku Kidōtai: Stand Alone Complex - Solid State Society",
         "SAC3",
         "SSS",
@@ -757,6 +824,7 @@
         "Дух у Латах: Синдром Самітника - Суспільство Спаяного Стану",
         "Призрак в доспехах: Синдром одиночки - Сообщество стабильной государственности",
         "こうかくきどうたいすたんどあろーんこんぷれっくすそりっどすてーとそさいえてぃ",
+        "攻壳机动队 S.A.C. Solid State Society",
         "攻殻機動隊 STAND ALONE COMPLEX Solid State Society",
         "攻殻機動隊 Stand Alone Complex - Solid State Society",
         "攻殻機動隊 Stand Alone Complex - Solid State Society -ANOTHER DIMENSION-",
@@ -793,20 +861,10 @@
         "https://anime-planet.com/anime/ghost-in-the-shell-standalone-complex-the-laughing-man",
         "https://anime-planet.com/anime/ghost-in-the-shell-the-new-movie",
         "https://anime-planet.com/anime/ghost-in-the-shell-uchikomatic-days",
-        "https://anisearch.com/anime/10100",
         "https://anisearch.com/anime/14020",
-        "https://anisearch.com/anime/15195",
-        "https://anisearch.com/anime/16488",
-        "https://anisearch.com/anime/1740",
-        "https://anisearch.com/anime/2088",
+        "https://anisearch.com/anime/15092",
         "https://anisearch.com/anime/2569",
-        "https://anisearch.com/anime/2753",
-        "https://anisearch.com/anime/3563",
-        "https://anisearch.com/anime/4942",
-        "https://anisearch.com/anime/8303",
-        "https://anisearch.com/anime/875",
-        "https://anisearch.com/anime/9293",
-        "https://anisearch.com/anime/9848",
+        "https://anisearch.com/anime/6845",
         "https://kitsu.io/anime/1190",
         "https://kitsu.io/anime/3016",
         "https://kitsu.io/anime/42036",
@@ -840,8 +898,10 @@
       "tags": [
         "action",
         "action drama",
+        "adult cast",
         "artificial intelligence",
         "asia",
+        "award winning",
         "based on a manga",
         "bionic powers",
         "cyberpunk",
@@ -852,6 +912,7 @@
         "dystopian",
         "earth",
         "female protagonist",
+        "future",
         "gunfights",
         "guns",
         "hacking",
@@ -865,6 +926,7 @@
         "military",
         "mystery",
         "noir",
+        "philosophy",
         "police",
         "primarily adult cast",
         "real robot",
@@ -874,9 +936,9 @@
         "science fiction",
         "science-fiction",
         "seinen",
-        "special squads",
         "thriller",
         "violence",
+        "virtual reality",
         "virtual world"
       ],
       "id": "https://myanimelist.net/anime/1566"
@@ -936,6 +998,7 @@
         "https://anime-planet.com/anime/kyojin-no-hoshi",
         "https://anisearch.com/anime/2927",
         "https://kitsu.io/anime/4296",
+        "https://livechart.me/anime/11649",
         "https://myanimelist.net/anime/5834",
         "https://notify.moe/anime/VDRq5Fimg"
       ],
@@ -953,6 +1016,7 @@
         "Star of The Giants",
         "Star of the Giants",
         "Tommy, la stella dei Giants",
+        "knh s1",
         "Зірка гігантів",
         "巨人の星"
       ],
@@ -978,7 +1042,6 @@
         "https://anime-planet.com/anime/shin-kyojin-no-hoshi",
         "https://anime-planet.com/anime/shin-kyojin-no-hoshi-ii",
         "https://anisearch.com/anime/4557",
-        "https://anisearch.com/anime/5058",
         "https://anisearch.com/anime/6307",
         "https://anisearch.com/anime/6308",
         "https://anisearch.com/anime/6310",
@@ -988,12 +1051,22 @@
         "https://kitsu.io/anime/9413",
         "https://kitsu.io/anime/9414",
         "https://kitsu.io/anime/9415",
+        "https://livechart.me/anime/11650",
+        "https://livechart.me/anime/11651",
+        "https://livechart.me/anime/11652",
+        "https://livechart.me/anime/11653",
+        "https://livechart.me/anime/11654",
+        "https://livechart.me/anime/11655",
+        "https://livechart.me/anime/11656",
+        "https://livechart.me/anime/11657",
         "https://myanimelist.net/anime/15875",
         "https://myanimelist.net/anime/17439",
         "https://myanimelist.net/anime/17441",
         "https://myanimelist.net/anime/17443",
         "https://myanimelist.net/anime/17445",
         "https://myanimelist.net/anime/17447",
+        "https://myanimelist.net/anime/48850",
+        "https://myanimelist.net/anime/51085",
         "https://notify.moe/anime/3LpftKiig",
         "https://notify.moe/anime/OjpBpKmiR",
         "https://notify.moe/anime/PwpBtKmiR",
@@ -1009,7 +1082,8 @@
         "manga",
         "primarily male cast",
         "shounen",
-        "sports"
+        "sports",
+        "team sports"
       ],
       "id": "https://myanimelist.net/anime/5834"
     },
@@ -1049,6 +1123,8 @@
         "https://anidb.net/anime/9755",
         "https://anidb.net/anime/9757",
         "https://anidb.net/anime/9758",
+        "https://anisearch.com/anime/7187",
+        "https://anisearch.com/anime/8419",
         "https://kitsu.io/anime/6926",
         "https://kitsu.io/anime/6949",
         "https://kitsu.io/anime/6950",
@@ -1090,79 +1166,6 @@
     },
     {
       "sources": [
-        "https://anisearch.com/anime/14481"
-      ],
-      "title": "Lady Bug 3",
-      "type": "TV",
-      "episodes": 26,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SUMMER",
-        "year": 2019
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/14/14481.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/14/14481.webp",
-      "synonyms": [
-        "Miraculous Ladybug Season 3",
-        "Miraculous: Geschichten von Ladybug und Cat Noir Staffel 3",
-        "레이디버그 3"
-      ],
-      "relations": [
-        "https://anisearch.com/anime/11124",
-        "https://anisearch.com/anime/12133",
-        "https://anisearch.com/anime/12169",
-        "https://anisearch.com/anime/13153",
-        "https://anisearch.com/anime/14205",
-        "https://anisearch.com/anime/16892",
-        "https://anisearch.com/anime/17058",
-        "https://anisearch.com/anime/17074"
-      ],
-      "tags": [
-        "action",
-        "action comedy",
-        "adventure",
-        "cg-anime",
-        "comedy",
-        "episodic",
-        "fantasy",
-        "heroine of strong character",
-        "magical girl",
-        "monster",
-        "present",
-        "romance",
-        "school"
-      ],
-      "id": "https://anisearch.com/anime/14481"
-    },
-    {
-      "sources": [
-        "https://anilist.co/anime/140623"
-      ],
-      "title": "Liu Wen Mu",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2014
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140623-cX03vaaLlOBX.png",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140623-cX03vaaLlOBX.png",
-      "synonyms": [
-        "Roku En no Haka",
-        "Six Coin Tomb",
-        "Six mon Gravestone",
-        "六円の墓",
-        "六文墓"
-      ],
-      "relations": [],
-      "tags": [
-        "supernatural"
-      ],
-      "id": "https://anilist.co/anime/140623"
-    },
-    {
-      "sources": [
         "https://anidb.net/anime/8539",
         "https://anilist.co/anime/5051",
         "https://anime-planet.com/anime/macross-xx",
@@ -1184,41 +1187,29 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/4/9862t.jpg",
       "synonyms": [
         "Macross 20th",
+        "Macross: Macross XX",
         "マクロスXX"
       ],
       "relations": [
         "https://anidb.net/anime/77",
         "https://anime-planet.com/anime/super-dimensional-fortress-macross",
+        "https://anisearch.com/anime/1452",
         "https://kitsu.io/anime/973",
-        "https://livechart.me/anime/10402",
-        "https://livechart.me/anime/1948",
-        "https://livechart.me/anime/2529",
-        "https://livechart.me/anime/2826",
-        "https://livechart.me/anime/3527",
         "https://livechart.me/anime/3982",
         "https://livechart.me/anime/4000",
         "https://livechart.me/anime/4354",
-        "https://livechart.me/anime/4460",
-        "https://livechart.me/anime/4665",
         "https://livechart.me/anime/4741",
         "https://livechart.me/anime/4917",
-        "https://livechart.me/anime/501",
         "https://livechart.me/anime/5073",
         "https://livechart.me/anime/5091",
         "https://livechart.me/anime/5490",
         "https://livechart.me/anime/5665",
-        "https://livechart.me/anime/5848",
         "https://livechart.me/anime/6046",
         "https://livechart.me/anime/6505",
-        "https://livechart.me/anime/6541",
         "https://livechart.me/anime/6546",
         "https://livechart.me/anime/6555",
         "https://livechart.me/anime/6773",
-        "https://livechart.me/anime/6841",
         "https://livechart.me/anime/7445",
-        "https://livechart.me/anime/7572",
-        "https://livechart.me/anime/7573",
-        "https://livechart.me/anime/971",
         "https://myanimelist.net/anime/1088",
         "https://notify.moe/anime/3D_15FmiR"
       ],
@@ -1302,61 +1293,8 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/mobile-suit-gundam-0083-stardust-memory-picture-drama",
-        "https://livechart.me/anime/7964",
-        "https://myanimelist.net/anime/32898"
-      ],
-      "title": "Mobile Suit Gundam 0083: Stardust Memory Picture Drama - The Mayfly of Space 2",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 2016
-      },
-      "picture": "https://cdn.myanimelist.net/images/anime/2/78908.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/2/78908t.jpg",
-      "synonyms": [
-        "Kidou Senshi Gundam 0083: Stardust Memory Picture Drama - Uchuu no Kagerou 2",
-        "Mobile Suit Gundam 0083: Stardust Memory Picture Drama",
-        "Sora no Kagerou 2",
-        "機動戦士ガンダム 0083 「STARDUST MEMORY」 ピクチャードラマ 「宇宙の蜉蝣2」"
-      ],
-      "relations": [
-        "https://anime-planet.com/anime/mobile-suit-gundam-0083-stardust-memory",
-        "https://anime-planet.com/anime/mobile-suit-gundam-0083-stardust-memory-the-mayfly-of-space",
-        "https://anime-planet.com/anime/mobile-suit-gundam-0083-the-afterglow-of-zeon",
-        "https://livechart.me/anime/3938",
-        "https://livechart.me/anime/4607",
-        "https://livechart.me/anime/4659",
-        "https://livechart.me/anime/4683",
-        "https://livechart.me/anime/4695",
-        "https://livechart.me/anime/4944",
-        "https://livechart.me/anime/5926",
-        "https://livechart.me/anime/5947",
-        "https://livechart.me/anime/6906",
-        "https://livechart.me/anime/6987",
-        "https://livechart.me/anime/7514",
-        "https://livechart.me/anime/7582",
-        "https://livechart.me/anime/7717",
-        "https://livechart.me/anime/7848",
-        "https://livechart.me/anime/8121",
-        "https://myanimelist.net/anime/10581",
-        "https://myanimelist.net/anime/84"
-      ],
-      "tags": [
-        "action",
-        "mecha",
-        "picture drama",
-        "real robot",
-        "sci fi",
-        "space"
-      ],
-      "id": "https://myanimelist.net/anime/32898"
-    },
-    {
-      "sources": [
         "https://anilist.co/anime/108533",
+        "https://anime-planet.com/anime/negai-goto-no-mochigusare",
         "https://anisearch.com/anime/13451",
         "https://myanimelist.net/anime/37011"
       ],
@@ -1372,6 +1310,7 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/4/89734t.jpg",
       "synonyms": [
         "Minna no Uta",
+        "Negai Goto no Mochigusare",
         "願いごとの持ち腐れ"
       ],
       "relations": [],
@@ -1379,6 +1318,7 @@
         "drama",
         "independent anime",
         "kids",
+        "minna no uta",
         "music",
         "present",
         "slice of life",
@@ -1388,6 +1328,10 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/150007",
+        "https://anime-planet.com/anime/ninja-bugei-chou-pilot",
+        "https://kitsu.io/anime/46322",
+        "https://livechart.me/anime/11676",
         "https://myanimelist.net/anime/40302"
       ],
       "title": "Ninja Bugei-chou Pilot Film",
@@ -1403,19 +1347,55 @@
       "synonyms": [
         "Band of Ninja Pilot Film",
         "Manual of Ninja Martial Arts Pilot Film",
+        "Ninja Bugei-chou Pilot",
+        "Ninja Bugeichou Pilot Film",
         "忍者武芸帳 パイロットフィルム"
       ],
       "relations": [
+        "https://anilist.co/anime/5232",
+        "https://kitsu.io/anime/3888",
+        "https://kitsu.io/anime/4001",
+        "https://livechart.me/anime/11677",
         "https://myanimelist.net/anime/5023",
         "https://myanimelist.net/anime/5232"
       ],
       "tags": [
         "action",
+        "adventure",
+        "based on a manga",
+        "black and white",
         "historical",
+        "martial arts",
+        "ninja",
         "samurai",
-        "seinen"
+        "seinen",
+        "shorts"
       ],
       "id": "https://myanimelist.net/anime/40302"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/no-other-one"
+      ],
+      "title": "No other one",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2020
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/no-other-one-1.webp?t=1656866494",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/no-other-one-1-285x399.webp?t=1656866494",
+      "synonyms": [],
+      "relations": [],
+      "tags": [
+        "abstract",
+        "animal protagonists",
+        "non-human protagonists",
+        "shorts"
+      ],
+      "id": "https://anime-planet.com/anime/no-other-one"
     },
     {
       "sources": [
@@ -1438,19 +1418,20 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1373/106587.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1373/106587t.jpg",
       "synonyms": [
-        "Episode of Sabo: Bond of Three Brothers, A Miraculous Reunion and an Inherited Will",
         "ONE PIECE エピソードオブサボ ~3兄弟の絆 奇跡の再会と受け継がれる意志~",
         "ONE PIECE: Episode of Sabo - 3-Kyoudai no Kizuna Kiseki no Saikai to Uketsugareru Ishi",
         "One Piece - Episode of Sabo",
         "One Piece - Episode of Sabo: Bond of Three Brothers - A Miraculous Reunion and an Inherited Will",
         "One Piece - Episodio de Sabo: El vínculo de los tres hermanos, la reunión milagrosa y la voluntad heredada",
+        "One Piece : Épisode de Sabo - Le lien des trois frères : Retrouvailles miraculeuses, une volonté en héritage",
         "One Piece Episode of Sabo: 3-Kyoudai no Kizuna Kiseki no Saikai to Uketsugareru Ishi",
         "One Piece: Episode of Sabo",
         "One Piece: Episode of Sabo - 3 Kyōdai no Kizuna Kiseki no Saikai to Uketsugareru Ishi",
+        "One Piece: Episode of Sabo - Bond of Three Brothers, A Miraculous Reunion and an Inherited Will",
         "One Piece: Episode of Sabo - Das Band der 3 Brüder, Die wundersame Wiedervereinigung und die vererbte Verschlossenheit",
         "One Piece: Episode of Sabo - Das Band der 3 Brüder, die wundersame Wiedervereinigung und die vererbte Entschlossenheit",
-        "One Piece: Episode of Sabo - The Three Brothers' Bond, the Miraculous Reunion and the Inherited Will",
         "One Piece: Episode of Sabo - The Three Brothers' Bond: The Miraculous Reunion and the Inherited Will",
+        "One Piece: Episode of Sabo - The Three Brothers’ Bond, the Miraculous Reunion and the Inherited Will",
         "ワンピース エピソード オブ サボ ～3兄弟の絆 奇跡の再会と受け継がれる意志～",
         "ワンピース エピソード オブ サボ～3兄弟の絆 奇跡の再会と受け継がれる意志～",
         "ワンピース　エピソード オブ サボ　～３兄弟の絆　奇跡の再会と受け継がれる意志～"
@@ -1458,50 +1439,7 @@
       "relations": [
         "https://anilist.co/anime/21",
         "https://anime-planet.com/anime/one-piece",
-        "https://anisearch.com/anime/10975",
-        "https://anisearch.com/anime/11009",
-        "https://anisearch.com/anime/11484",
-        "https://anisearch.com/anime/11565",
-        "https://anisearch.com/anime/12168",
-        "https://anisearch.com/anime/12595",
-        "https://anisearch.com/anime/13630",
-        "https://anisearch.com/anime/1369",
-        "https://anisearch.com/anime/13833",
-        "https://anisearch.com/anime/14420",
-        "https://anisearch.com/anime/14746",
-        "https://anisearch.com/anime/15205",
-        "https://anisearch.com/anime/15379",
-        "https://anisearch.com/anime/15494",
-        "https://anisearch.com/anime/15495",
-        "https://anisearch.com/anime/15516",
-        "https://anisearch.com/anime/16819",
-        "https://anisearch.com/anime/1815",
-        "https://anisearch.com/anime/1854",
         "https://anisearch.com/anime/2227",
-        "https://anisearch.com/anime/2376",
-        "https://anisearch.com/anime/2553",
-        "https://anisearch.com/anime/302",
-        "https://anisearch.com/anime/3260",
-        "https://anisearch.com/anime/3359",
-        "https://anisearch.com/anime/3804",
-        "https://anisearch.com/anime/3823",
-        "https://anisearch.com/anime/3836",
-        "https://anisearch.com/anime/3941",
-        "https://anisearch.com/anime/3965",
-        "https://anisearch.com/anime/4495",
-        "https://anisearch.com/anime/5131",
-        "https://anisearch.com/anime/5400",
-        "https://anisearch.com/anime/6498",
-        "https://anisearch.com/anime/6545",
-        "https://anisearch.com/anime/7388",
-        "https://anisearch.com/anime/7573",
-        "https://anisearch.com/anime/8028",
-        "https://anisearch.com/anime/8211",
-        "https://anisearch.com/anime/8279",
-        "https://anisearch.com/anime/8738",
-        "https://anisearch.com/anime/8884",
-        "https://anisearch.com/anime/9785",
-        "https://anisearch.com/anime/9793",
         "https://kitsu.io/anime/12",
         "https://livechart.me/anime/321",
         "https://livechart.me/anime/4028",
@@ -1555,7 +1493,7 @@
       "sources": [
         "https://anidb.net/anime/13171",
         "https://anilist.co/anime/99200",
-        "https://anime-planet.com/anime/quanzhi-fashi",
+        "https://anime-planet.com/anime/full-time-magister",
         "https://anisearch.com/anime/12564",
         "https://kitsu.io/anime/13078",
         "https://livechart.me/anime/3997",
@@ -1578,23 +1516,22 @@
         "QUANZHIFASHI",
         "Quan Zhi Fa Shi",
         "Versatile Mage",
+        "qzfs",
         "全职法师"
       ],
       "relations": [
         "https://anidb.net/anime/13469",
         "https://anilist.co/anime/100294",
-        "https://anime-planet.com/anime/quanzhi-fashi-ii",
+        "https://anime-planet.com/anime/full-time-magister-ii",
         "https://anisearch.com/anime/12835",
-        "https://anisearch.com/anime/13966",
-        "https://anisearch.com/anime/15060",
-        "https://anisearch.com/anime/16542",
-        "https://anisearch.com/anime/16664",
+        "https://anisearch.com/anime/13030",
         "https://kitsu.io/anime/13841",
         "https://livechart.me/anime/10744",
         "https://livechart.me/anime/4539",
         "https://livechart.me/anime/8103",
         "https://livechart.me/anime/9994",
         "https://myanimelist.net/anime/36318",
+        "https://myanimelist.net/anime/44627",
         "https://notify.moe/anime/L0TS2KmiR"
       ],
       "tags": [
@@ -1659,6 +1596,7 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/santa-san-wa-ooisogashi",
         "https://kitsu.io/anime/12627",
         "https://myanimelist.net/anime/34191",
         "https://notify.moe/anime/LdKm2FimR"
@@ -1668,16 +1606,20 @@
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
+        "season": "SPRING",
+        "year": 2001
       },
       "picture": "https://cdn.myanimelist.net/images/anime/13/82213.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/13/82213t.jpg",
       "synonyms": [
+        "Santa-san wa Ooisogashi",
         "サンタさんは大いそがし"
       ],
       "relations": [],
       "tags": [
+        "based on a picture book",
+        "christmas",
+        "family friendly",
         "fantasy",
         "kids"
       ],
@@ -1713,29 +1655,21 @@
         "Shingeki no Kyojin Gaiden: Kuinaki Sentaku",
         "Shingeki no Kyojin: Birth of Levi",
         "SnK",
+        "ผ่าพิภพไททัน OAD",
+        "ผ่าพิภพไททัน ภาค OAD No Regret",
         "進撃の巨人 外伝 悔いなき選択",
         "進撃の巨人 悔いなき選択"
       ],
       "relations": [
         "https://anilist.co/anime/16498",
         "https://anime-planet.com/anime/attack-on-titan",
-        "https://anisearch.com/anime/10082",
-        "https://anisearch.com/anime/12550",
-        "https://anisearch.com/anime/12714",
-        "https://anisearch.com/anime/12951",
-        "https://anisearch.com/anime/13942",
-        "https://anisearch.com/anime/14484",
-        "https://anisearch.com/anime/15289",
-        "https://anisearch.com/anime/16103",
         "https://anisearch.com/anime/8219",
-        "https://anisearch.com/anime/8677",
-        "https://anisearch.com/anime/8866",
-        "https://anisearch.com/anime/9587",
         "https://kitsu.io/anime/7442",
         "https://kitsu.io/anime/7694",
         "https://livechart.me/anime/10487",
         "https://livechart.me/anime/11010",
         "https://livechart.me/anime/139",
+        "https://livechart.me/anime/1756",
         "https://livechart.me/anime/2737",
         "https://livechart.me/anime/2830",
         "https://livechart.me/anime/2959",
@@ -1757,6 +1691,7 @@
         "alternative world",
         "anti-hero",
         "based on a manga",
+        "cgi",
         "dark fantasy",
         "drama",
         "excessive violence",
@@ -1782,6 +1717,7 @@
         "supernatural drama",
         "superpower",
         "survival",
+        "swordplay",
         "swords & co",
         "thief",
         "tragedy",
@@ -1830,6 +1766,7 @@
       ],
       "tags": [
         "based on a manga",
+        "child protagonists",
         "comedy",
         "coming of age",
         "cooking",
@@ -1840,6 +1777,7 @@
         "family life",
         "fashion",
         "idol",
+        "iyashikei",
         "lifestyle change",
         "maid",
         "maids",
@@ -1876,6 +1814,7 @@
       "relations": [],
       "tags": [
         "drama",
+        "educational",
         "kids"
       ],
       "id": "https://myanimelist.net/anime/28573"
@@ -1991,6 +1930,7 @@
         "mecha",
         "military",
         "outer space",
+        "piloted robot",
         "robot",
         "sci fi",
         "sci-fi",
@@ -2004,36 +1944,9 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/131570"
-      ],
-      "title": "Xi Yangyang You Shibo",
-      "type": "TV",
-      "episodes": 20,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2010
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131570-X8Zsbax7Q9uu.jpg",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131570-X8Zsbax7Q9uu.jpg",
-      "synonyms": [
-        "Around the World in 20 Days",
-        "Pleasant Goat Touring the Expo",
-        "喜羊羊游世博"
-      ],
-      "relations": [
-        "https://anilist.co/anime/107070"
-      ],
-      "tags": [
-        "adventure",
-        "comedy"
-      ],
-      "id": "https://anilist.co/anime/131570"
-    },
-    {
-      "sources": [
         "https://anilist.co/anime/116966",
         "https://anime-planet.com/anime/rainbow-sea-3rd-season",
+        "https://anisearch.com/anime/15240",
         "https://kitsu.io/anime/44417",
         "https://myanimelist.net/anime/42460"
       ],
@@ -2050,30 +1963,40 @@
       "synonyms": [
         "Rainbow Sea 3rd Season",
         "Rainbow Sea Movie 2",
+        "Xing You Ji: Feng Bao Fa Mi La",
+        "Xing Youji: Fengbao Fa Mila 2",
+        "星游记之风暴法米拉 2",
         "星游记之风暴法米拉2"
       ],
       "relations": [
         "https://anilist.co/anime/102679",
         "https://anime-planet.com/anime/rainbow-sea",
         "https://anime-planet.com/anime/rainbow-sea-2nd-season",
+        "https://anisearch.com/anime/13212",
         "https://kitsu.io/anime/41000",
         "https://myanimelist.net/anime/37149"
       ],
       "tags": [
         "action",
         "adventure",
+        "aliens",
+        "alternative world",
         "chinese animation",
         "fantasy",
         "magic",
         "original work",
         "sci fi",
         "sci-fi",
-        "science fiction"
+        "science fiction",
+        "science-fiction",
+        "space"
       ],
       "id": "https://myanimelist.net/anime/42460"
     },
     {
       "sources": [
+        "https://anilist.co/anime/149085",
+        "https://anime-planet.com/anime/xue-hu",
         "https://myanimelist.net/anime/43851"
       ],
       "title": "Xue Hu",
@@ -2082,63 +2005,20 @@
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 1998
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1704/122484.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1704/122484t.jpg",
       "synonyms": [
         "雪狐"
       ],
       "relations": [],
       "tags": [
-        "kids"
+        "chinese animation",
+        "drama",
+        "shorts"
       ],
       "id": "https://myanimelist.net/anime/43851"
-    },
-    {
-      "sources": [
-        "https://anilist.co/anime/2009",
-        "https://kitsu.io/anime/1808",
-        "https://notify.moe/anime/khKL5Fiig"
-      ],
-      "title": "Yawara! Special: Zutto Kimi no Koto ga... .",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SUMMER",
-        "year": 1996
-      },
-      "picture": "https://media.kitsu.io/anime/poster_images/1808/small.jpg",
-      "thumbnail": "https://media.kitsu.io/anime/poster_images/1808/tiny.jpg",
-      "synonyms": [
-        "YAWARA! Special ずっと君のことが…。",
-        "Yawara! Atlanta Special",
-        "やわらすぺしゃるずっときみのことが"
-      ],
-      "relations": [
-        "https://anilist.co/anime/2008",
-        "https://kitsu.io/anime/632",
-        "https://notify.moe/anime/e5IA5Kmig"
-      ],
-      "tags": [
-        "action",
-        "combat",
-        "comedy",
-        "drama",
-        "female protagonist",
-        "foreign",
-        "love triangle",
-        "martial arts",
-        "present",
-        "primarily adult cast",
-        "romance",
-        "seinen",
-        "slice of life",
-        "slow when it comes to love",
-        "sports"
-      ],
-      "id": "https://kitsu.io/anime/1808"
     }
   ]
 }

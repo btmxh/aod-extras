@@ -24,6 +24,7 @@
         "Acchi Kocchi (TV): Place=Princess",
         "Acchi Kocchi Episode 13",
         "Acchi Kocchi Special",
+        "Acchi Kocchi: PLACE=PRINCESS",
         "Place to Place Episode 13",
         "Place to Place OVA",
         "Place to Place: Place=Princess",
@@ -43,6 +44,8 @@
         "based on a 4-koma manga",
         "based on a manga",
         "comedy",
+        "gag humor",
+        "iyashikei",
         "kuudere",
         "moe",
         "present",
@@ -60,6 +63,7 @@
         "https://anidb.net/anime/12840",
         "https://anilist.co/anime/8716",
         "https://anime-planet.com/anime/arigatou-thank-you",
+        "https://anisearch.com/anime/6296",
         "https://kitsu.io/anime/5455",
         "https://myanimelist.net/anime/8716",
         "https://notify.moe/anime/FpCmtFimR"
@@ -75,6 +79,7 @@
       "picture": "https://cdn.myanimelist.net/images/anime/8/24052.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/8/24052t.jpg",
       "synonyms": [
+        "Arigato Thank You",
         "Minna no Uta",
         "Minna no Uta: Arigatou Thank You",
         "Thank You Thank You",
@@ -92,6 +97,7 @@
         "music",
         "sci-fi",
         "science fiction",
+        "science-fiction",
         "space"
       ],
       "id": "https://myanimelist.net/anime/8716"
@@ -140,12 +146,14 @@
         "present",
         "slice of life",
         "soccer",
-        "sports"
+        "sports",
+        "team sports"
       ],
       "id": "https://myanimelist.net/anime/3874"
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/astro-boy-getsumen-kichi-kieta-robot-no-nazo",
         "https://myanimelist.net/anime/39362"
       ],
       "title": "Astro Boy: Tetsuwan Atom - Getsumen Kichi - Kieta Robot no Nazo",
@@ -159,16 +167,26 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1370/99382.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1370/99382t.jpg",
       "synonyms": [
-        "ASTRO BOY 鉄腕アトム〜月面基地・消えたロボットの謎〜"
+        "ASTRO BOY 鉄腕アトム〜月面基地・消えたロボットの謎〜",
+        "Astro Boy: Getsumen Kichi - Kieta Robot no Nazo"
       ],
       "relations": [
+        "https://anime-planet.com/anime/astro-boy-2003",
         "https://myanimelist.net/anime/971"
       ],
       "tags": [
+        "androids",
+        "family friendly",
         "kids",
         "mecha",
+        "non-human protagonists",
+        "outer space",
+        "robots",
+        "sci fi",
         "sci-fi",
-        "space"
+        "shounen",
+        "space",
+        "superheroes"
       ],
       "id": "https://myanimelist.net/anime/39362"
     },
@@ -206,6 +224,7 @@
         "adventure",
         "cars",
         "cops",
+        "detective",
         "mecha",
         "military",
         "new",
@@ -218,32 +237,6 @@
         "sports"
       ],
       "id": "https://myanimelist.net/anime/6636"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/12875"
-      ],
-      "title": "Chuuko Video-ya no Onna Ten’in X",
-      "type": "ONA",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 2016
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/12/12875.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/12/12875.webp",
-      "synonyms": [
-        "Chūko Video-ya no Onna Ten’in X",
-        "Used Video Shop's Female Shop Clerk X",
-        "中古ビデオ屋の女店員 Ｘ"
-      ],
-      "relations": [],
-      "tags": [
-        "comedy",
-        "present"
-      ],
-      "id": "https://anisearch.com/anime/12875"
     },
     {
       "sources": [
@@ -298,8 +291,8 @@
         "season": "FALL",
         "year": 2016
       },
-      "picture": "https://anime-planet.com/images/anime/covers/8217.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/8217.jpg",
+      "picture": "https://cdn.anime-planet.com/anime/primary/desert-knight-1.jpg?t=1625897507",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/desert-knight-1-190x274.jpg?t=1625897507",
       "synonyms": [
         "Sabaku no Kishi",
         "沙漠の騎士"
@@ -319,28 +312,33 @@
     },
     {
       "sources": [
-        "https://myanimelist.net/anime/42341"
+        "https://anilist.co/anime/121432",
+        "https://anime-planet.com/anime/flower-goddess",
+        "https://kitsu.io/anime/47039"
       ],
-      "title": "DUEL MASTERS PLAY'S PV",
-      "type": "SPECIAL",
+      "title": "Flower goddess",
+      "type": "MOVIE",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "WINTER",
         "year": 2019
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.anime-planet.com/anime/primary/flower-goddess-1.jpg?t=1656706432",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/flower-goddess-1-190x266.jpg?t=1656706432",
       "synonyms": [
-        "DUEL MASTERS PLAY'S"
+        "Flower Goddes"
       ],
-      "relations": [
-        "https://myanimelist.net/anime/1685"
-      ],
+      "relations": [],
       "tags": [
-        "game"
+        "art",
+        "fantasy",
+        "no dialogue",
+        "shorts",
+        "supernatural",
+        "work"
       ],
-      "id": "https://myanimelist.net/anime/42341"
+      "id": "https://anime-planet.com/anime/flower-goddess"
     },
     {
       "sources": [
@@ -411,6 +409,7 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/genki-genki-nontan-deka-deka-arigatou",
         "https://kitsu.io/anime/9280",
         "https://myanimelist.net/anime/25617",
         "https://notify.moe/anime/XhC-pFmiR"
@@ -427,16 +426,30 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/3/65139t.jpg",
       "synonyms": [
         "Genki Genki Non-tan: Deka Deka Thank You",
+        "Genki! Genki! Nontan: Deka Deka Arigatou",
+        "Genki! Genki! Nontan: Deka Deka Thank You",
         "げんきげんきノンタン でかでか ありがとう"
       ],
       "relations": [
+        "https://anime-planet.com/anime/genki-genki-nontan",
+        "https://anime-planet.com/anime/genki-genki-nontan-2004",
+        "https://anime-planet.com/anime/genki-genki-nontan-2006",
+        "https://anime-planet.com/anime/genki-genki-nontan-spoon-tan-tan-tan",
+        "https://anime-planet.com/anime/genki-genki-nontan-utaou-christmas",
+        "https://anime-planet.com/anime/nontan-to-issho",
         "https://kitsu.io/anime/9279",
         "https://myanimelist.net/anime/25615",
         "https://notify.moe/anime/MFC-tFmiR"
       ],
       "tags": [
+        "animal protagonists",
+        "based on a picture book",
+        "cats",
+        "cg animation",
+        "family friendly",
         "kids",
-        "music"
+        "music",
+        "non-human protagonists"
       ],
       "id": "https://myanimelist.net/anime/25617"
     },
@@ -478,6 +491,7 @@
         "based on an eroge",
         "comedy",
         "ecchi",
+        "female harem",
         "romance",
         "slice of life"
       ],
@@ -487,54 +501,60 @@
       "sources": [
         "https://myanimelist.net/anime/47332"
       ],
-      "title": "Guaiwu Gongyu Zhi Zhanxin Shenghuo",
-      "type": "TV",
+      "title": "Guaiwu Gongyu: Zhanxin Shenghuo",
+      "type": "ONA",
       "episodes": 11,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1047/130722.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1047/130722t.jpg",
       "synonyms": [
         "怪物公寓之崭新生活"
       ],
-      "relations": [],
+      "relations": [
+        "https://myanimelist.net/anime/47331"
+      ],
       "tags": [
-        "fantasy"
+        "kids"
       ],
       "id": "https://myanimelist.net/anime/47332"
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/ichigo-ame"
+        "https://myanimelist.net/anime/52528"
       ],
-      "title": "Ichigo Ame",
-      "type": "MOVIE",
+      "title": "I Just Rock",
+      "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "SUMMER",
         "year": 2020
       },
-      "picture": "https://anime-planet.com/images/anime/covers/16307.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/16307.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1110/126070.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1110/126070t.jpg",
       "synonyms": [
-        "Strawberry Candy"
+        "HaNaMiNa",
+        "Irodorimidori",
+        "アイジャストロック"
       ],
-      "relations": [],
+      "relations": [
+        "https://myanimelist.net/anime/52527",
+        "https://myanimelist.net/anime/52529"
+      ],
       "tags": [
-        "abstract",
-        "shorts"
+        "music"
       ],
-      "id": "https://anime-planet.com/anime/ichigo-ame"
+      "id": "https://myanimelist.net/anime/52528"
     },
     {
       "sources": [
         "https://anidb.net/anime/16264",
         "https://anilist.co/anime/132528",
-        "https://anime-planet.com/anime/kagi-nado",
+        "https://anime-planet.com/anime/kaginado",
         "https://anisearch.com/anime/16232",
         "https://kitsu.io/anime/44420",
         "https://livechart.me/anime/10537",
@@ -557,6 +577,7 @@
         "Kagi-Nado",
         "Kagi-nado",
         "Key, etc.",
+        "ไขกุญแจข้ามโลก",
         "かぎなど",
         "鍵等"
       ],
@@ -582,12 +603,17 @@
         "https://anime-planet.com/anime/air",
         "https://anime-planet.com/anime/angel-beats",
         "https://anime-planet.com/anime/clannad",
-        "https://anime-planet.com/anime/kagi-nado-season-2",
+        "https://anime-planet.com/anime/kaginado-season-2",
         "https://anime-planet.com/anime/kanon",
         "https://anime-planet.com/anime/little-busters",
         "https://anime-planet.com/anime/planetarian",
         "https://anime-planet.com/anime/rewrite",
+        "https://anisearch.com/anime/1043",
+        "https://anisearch.com/anime/10783",
+        "https://anisearch.com/anime/110",
         "https://anisearch.com/anime/16973",
+        "https://anisearch.com/anime/4199",
+        "https://anisearch.com/anime/7822",
         "https://kitsu.io/anime/11410",
         "https://kitsu.io/anime/12053",
         "https://kitsu.io/anime/122",
@@ -615,14 +641,18 @@
         "https://notify.moe/anime/yXE5pFmiR"
       ],
       "tags": [
+        "baseball",
         "based on a visual novel",
+        "breaking the fourth wall",
         "chibi",
         "comedy",
         "crossover",
         "ensemble cast",
+        "gag",
         "meta",
         "school",
         "short episodes",
+        "slapstick",
         "slice of life",
         "super deformed"
       ],
@@ -715,6 +745,7 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/139025",
         "https://anime-planet.com/anime/miyavi-raise-me-up-teaser-video"
       ],
       "title": "MIYAVI: Raise Me Up Teaser Video",
@@ -727,7 +758,9 @@
       },
       "picture": "https://cdn.anime-planet.com/anime/primary/miyavi-raise-me-up-teaser-video-1.jpg?t=1625908203",
       "thumbnail": "https://cdn.anime-planet.com/anime/primary/miyavi-raise-me-up-teaser-video-1-190x266.jpg?t=1625908203",
-      "synonyms": [],
+      "synonyms": [
+        "Raise Me Up"
+      ],
       "relations": [
         "https://anime-planet.com/anime/miyavi-afraid-to-be-cool"
       ],
@@ -738,6 +771,7 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/muzhi-ji",
         "https://myanimelist.net/anime/47575"
       ],
       "title": "Muzhi Ji",
@@ -745,58 +779,25 @@
       "episodes": 12,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
+        "season": "SUMMER",
+        "year": 2017
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1533/123208.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1533/123208t.jpg",
       "synonyms": [
         "拇指鸡"
       ],
       "relations": [],
       "tags": [
-        "comedy"
+        "animal protagonists",
+        "anthropomorphic",
+        "birds",
+        "chinese animation",
+        "comedy",
+        "non-human protagonists",
+        "short episodes"
       ],
       "id": "https://myanimelist.net/anime/47575"
-    },
-    {
-      "sources": [
-        "https://anilist.co/anime/100684"
-      ],
-      "title": "Net-juu no Susume OVA",
-      "type": "OVA",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 2017
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx100684-dTFSHninTMEg.jpg",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx100684-dTFSHninTMEg.jpg",
-      "synonyms": [
-        "Neto-juu no Susume OVA",
-        "Netoju OVA",
-        "Netojuu no Susume OVA",
-        "Recommendation of The Internet Enhancement OVA",
-        "Recommendation of the Wonderful Virtual Life OVA",
-        "Recovery of an MMO Junkie OVA",
-        "ネト充のススメ OVA"
-      ],
-      "relations": [
-        "https://anilist.co/anime/99726"
-      ],
-      "tags": [
-        "adventure",
-        "comedy",
-        "fantasy",
-        "hikikomori",
-        "primarily adult cast",
-        "romance",
-        "slice of life",
-        "video games",
-        "virtual world"
-      ],
-      "id": "https://anilist.co/anime/100684"
     },
     {
       "sources": [
@@ -834,73 +835,6 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/pokemon-movie-7-destiny-deoxys"
-      ],
-      "title": "Pokemon Movie 7: Destiny Deoxys",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2004
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/pokemon-movie-7-destiny-deoxys-1.jpg?t=1625885752",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/pokemon-movie-7-destiny-deoxys-1-190x266.jpg?t=1625885752",
-      "synonyms": [
-        "Pokemon Movie 7: Rekkuu no Houmonsha Deoxys"
-      ],
-      "relations": [
-        "https://anime-planet.com/anime/pikachus-summer-festival",
-        "https://anime-planet.com/anime/pokemon-advanced",
-        "https://anime-planet.com/anime/pokemon-black-and-white",
-        "https://anime-planet.com/anime/pokemon-black-and-white-adventures-in-unova",
-        "https://anime-planet.com/anime/pokemon-black-and-white-adventures-in-unova-and-beyond",
-        "https://anime-planet.com/anime/pokemon-black-and-white-rival-destinies",
-        "https://anime-planet.com/anime/pokemon-black-version-2-and-white-version-2",
-        "https://anime-planet.com/anime/pokemon-black-victini-and-reshiram",
-        "https://anime-planet.com/anime/pokemon-diamond-and-pearl",
-        "https://anime-planet.com/anime/pokemon-diancie-and-the-cocoon-of-destruction",
-        "https://anime-planet.com/anime/pokemon-diancie-princess-of-the-diamond-domain",
-        "https://anime-planet.com/anime/pokemon-eevee-and-friends",
-        "https://anime-planet.com/anime/pokemon-giratina-and-the-sky-warrior",
-        "https://anime-planet.com/anime/pokemon-gotta-dance",
-        "https://anime-planet.com/anime/pokemon-hoopa-the-mischief-pokemon",
-        "https://anime-planet.com/anime/pokemon-meloettas-moonlight-serenade",
-        "https://anime-planet.com/anime/pokemon-mewtwo-prologue-to-awakening",
-        "https://anime-planet.com/anime/pokemon-movie-10-the-rise-of-darkrai",
-        "https://anime-planet.com/anime/pokemon-movie-12-arceus-and-the-jewel-of-life",
-        "https://anime-planet.com/anime/pokemon-movie-15-kyurem-vs-the-sword-of-justice",
-        "https://anime-planet.com/anime/pokemon-movie-6-jirachi-wish-maker",
-        "https://anime-planet.com/anime/pokemon-movie-8-lucario-and-the-mystery-of-mew",
-        "https://anime-planet.com/anime/pokemon-mystery-dungeon-explorers-of-time-and-darkness",
-        "https://anime-planet.com/anime/pokemon-pichu-bros-in-party-panic",
-        "https://anime-planet.com/anime/pokemon-pikachu-tanken-club",
-        "https://anime-planet.com/anime/pokemon-pikachus-big-mysterious-adventure",
-        "https://anime-planet.com/anime/pokemon-pikachus-ghost-carnival",
-        "https://anime-planet.com/anime/pokemon-pikachus-great-ice-adventure",
-        "https://anime-planet.com/anime/pokemon-pikachus-great-sparking-search",
-        "https://anime-planet.com/anime/pokemon-pikachus-island-adventure",
-        "https://anime-planet.com/anime/pokemon-ranger-and-the-temple-of-the-sea",
-        "https://anime-planet.com/anime/pokemon-utae-meloetta-rinka-no-mi-wo-sagase",
-        "https://anime-planet.com/anime/pokemon-white-victini-and-zekrom",
-        "https://anime-planet.com/anime/pokemon-xy-mega-evolution",
-        "https://anime-planet.com/anime/pokemon-xy-sora-no-hahen",
-        "https://anime-planet.com/anime/pokemon-xy-special-road-to-kalos",
-        "https://anime-planet.com/anime/pokemon-zoroark-master-of-illusions"
-      ],
-      "tags": [
-        "adventure",
-        "based on a video game",
-        "elemental powers",
-        "family friendly",
-        "fantasy",
-        "monsters",
-        "shounen"
-      ],
-      "id": "https://anime-planet.com/anime/pokemon-movie-7-destiny-deoxys"
-    },
-    {
-      "sources": [
         "https://anidb.net/anime/7087",
         "https://anilist.co/anime/5240",
         "https://anime-planet.com/anime/pyuu-to-fuku-jaguar-ima-fuki-ni-yukimasu",
@@ -933,6 +867,8 @@
         "https://anilist.co/anime/17933",
         "https://anime-planet.com/anime/pyuu-to-fuku-jaguar",
         "https://anime-planet.com/anime/pyuu-to-fuku-jaguar-return-of-yaku-ichinenburi",
+        "https://anisearch.com/anime/11531",
+        "https://anisearch.com/anime/8309",
         "https://kitsu.io/anime/8804",
         "https://kitsu.io/anime/9555",
         "https://myanimelist.net/anime/17933",
@@ -943,6 +879,7 @@
       "tags": [
         "based on a manga",
         "comedy",
+        "gag humor",
         "manga",
         "music",
         "shounen"
@@ -978,32 +915,6 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/shounen-sunday-cm-dan-doh-xi"
-      ],
-      "title": "Shounen Sunday CM: Dan Doh!! Xi",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "UPCOMING",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://anime-planet.com/images/anime/covers/17617.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/17617.jpg",
-      "synonyms": [],
-      "relations": [],
-      "tags": [
-        "based on a manga",
-        "commercials",
-        "golf",
-        "promotional",
-        "shounen",
-        "sports"
-      ],
-      "id": "https://anime-planet.com/anime/shounen-sunday-cm-dan-doh-xi"
-    },
-    {
-      "sources": [
         "https://anisearch.com/anime/11824"
       ],
       "title": "Sore wa Chiisana Hikari no You na",
@@ -1014,43 +925,19 @@
         "season": "WINTER",
         "year": 2016
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/11/11824.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/11/11824.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/11/11824_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/11/11824.webp",
       "synonyms": [
         "Sayuri - Sore wa Chiisana Hikari no You na",
         "Sore wa Chīsana Hikari no Yō na",
         "それは小さな光のような"
       ],
       "relations": [
+        "https://anisearch.com/anime/10912",
         "https://anisearch.com/anime/11823"
       ],
       "tags": [],
       "id": "https://anisearch.com/anime/11824"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/48955"
-      ],
-      "title": "Tear Drops",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "ティアドロップス"
-      ],
-      "relations": [
-        "https://myanimelist.net/anime/33573"
-      ],
-      "tags": [
-        "music"
-      ],
-      "id": "https://myanimelist.net/anime/48955"
     },
     {
       "sources": [
@@ -1106,8 +993,8 @@
         "season": "FALL",
         "year": 2014
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/10/67631.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/10/67631t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1491/134498.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1491/134498t.jpg",
       "synonyms": [
         "Naruto Film 7: The Last",
         "Naruto Movie 10",
@@ -1115,16 +1002,20 @@
         "Naruto Movie 10: Naruto the Movie: The Last,Naruto: Shippuuden Movie 7 - The Last",
         "Naruto Movie 10: Naruto the Movie: The LastNaruto: Shippuuden Movie 7 - The Last",
         "Naruto Película 7: The Last",
-        "Naruto Shippuuden Movie 7",
+        "Naruto Shippuden Movie 07: The Last",
+        "Naruto Shippuden Movie 7",
+        "Naruto Shippuden the Movie 7: The Last",
+        "Naruto the Movie: The Last",
         "Naruto: Shippuuden Movie 7 - The Last",
         "THE LAST -NARUTO THE MOVIE-",
         "THE LAST NARUTO THE MOVIE",
         "THE LAST: NARUTO THE MOVIE",
+        "The Last : Naruto le Film",
         "The Last : Naruto le film",
         "The Last: Naruto - La Película",
-        "The Last: Naruto le Film",
         "Наруто: Последний фильм",
-        "ザ・ラスト ナルト・ザ・ムービー"
+        "ザ・ラスト ナルト・ザ・ムービー",
+        "火影忍者 剧场版 终章"
       ],
       "relations": [
         "https://anidb.net/anime/10961",
@@ -1143,39 +1034,13 @@
         "https://anime-planet.com/anime/naruto-shippuden-ova-sage-naruto-vs-sasuke",
         "https://anime-planet.com/anime/naruto-shippuden-sunny-side-battle",
         "https://anisearch.com/anime/10223",
-        "https://anisearch.com/anime/12103",
-        "https://anisearch.com/anime/12678",
-        "https://anisearch.com/anime/2788",
-        "https://anisearch.com/anime/2988",
-        "https://anisearch.com/anime/3574",
-        "https://anisearch.com/anime/3647",
         "https://anisearch.com/anime/3972",
-        "https://anisearch.com/anime/4096",
-        "https://anisearch.com/anime/4097",
-        "https://anisearch.com/anime/4098",
-        "https://anisearch.com/anime/4272",
-        "https://anisearch.com/anime/4816",
-        "https://anisearch.com/anime/5279",
-        "https://anisearch.com/anime/5853",
-        "https://anisearch.com/anime/604",
-        "https://anisearch.com/anime/6206",
-        "https://anisearch.com/anime/6730",
-        "https://anisearch.com/anime/7002",
-        "https://anisearch.com/anime/7479",
-        "https://anisearch.com/anime/7646",
         "https://kitsu.io/anime/1555",
-        "https://livechart.me/anime/1058",
-        "https://livechart.me/anime/1318",
-        "https://livechart.me/anime/1970",
-        "https://livechart.me/anime/206",
-        "https://livechart.me/anime/2476",
-        "https://livechart.me/anime/2759",
         "https://livechart.me/anime/316",
         "https://livechart.me/anime/3585",
         "https://livechart.me/anime/3788",
         "https://livechart.me/anime/3790",
         "https://livechart.me/anime/3791",
-        "https://livechart.me/anime/3799",
         "https://livechart.me/anime/3854",
         "https://livechart.me/anime/3859",
         "https://livechart.me/anime/3881",
@@ -1186,9 +1051,6 @@
         "https://livechart.me/anime/4253",
         "https://livechart.me/anime/4370",
         "https://livechart.me/anime/4378",
-        "https://livechart.me/anime/4416",
-        "https://livechart.me/anime/4425",
-        "https://livechart.me/anime/4847",
         "https://myanimelist.net/anime/1735",
         "https://notify.moe/anime/97dB5Kmmg"
       ],
@@ -1196,6 +1058,7 @@
         "action",
         "adventure",
         "aliens",
+        "anachronism",
         "based on a manga",
         "bionic powers",
         "comedy",
@@ -1210,6 +1073,9 @@
         "manga",
         "martial arts",
         "ninja",
+        "orphan",
+        "primarily adult cast",
+        "primarily male cast",
         "psi-powers",
         "romance",
         "shounen",
@@ -1260,34 +1126,8 @@
     },
     {
       "sources": [
-        "https://kitsu.io/anime/44499"
-      ],
-      "title": "Vampire’s ∞ pathoS",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SUMMER",
-        "year": 2019
-      },
-      "picture": "https://media.kitsu.io/anime/poster_images/44499/small.jpg",
-      "thumbnail": "https://media.kitsu.io/anime/poster_images/44499/tiny.jpg",
-      "synonyms": [
-        "Hitoshizuku-P x Yama△: Vampire’s ∞ pathoS"
-      ],
-      "relations": [
-        "https://kitsu.io/anime/42298"
-      ],
-      "tags": [
-        "action",
-        "music",
-        "supernatural",
-        "vampire"
-      ],
-      "id": "https://kitsu.io/anime/44499"
-    },
-    {
-      "sources": [
+        "https://anime-planet.com/anime/wan-ou-qibing",
+        "https://anisearch.com/anime/15269",
         "https://myanimelist.net/anime/45033"
       ],
       "title": "Wan Ou Qibing",
@@ -1295,19 +1135,26 @@
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "SUMMER",
         "year": 2017
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1067/121314.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1067/121314t.jpg",
       "synonyms": [
+        "T-Guardians",
+        "Wan Ou Qi Bing",
+        "Wan'ou Qibing",
         "玩偶奇兵"
       ],
       "relations": [],
       "tags": [
         "adventure",
+        "animal protagonists",
+        "chinese animation",
+        "family friendly",
         "fantasy",
-        "kids"
+        "kids",
+        "non-human protagonists"
       ],
       "id": "https://myanimelist.net/anime/45033"
     },
@@ -1351,15 +1198,9 @@
         "https://anime-planet.com/anime/washimo-8",
         "https://anime-planet.com/anime/washimo-9",
         "https://anisearch.com/anime/10102",
-        "https://anisearch.com/anime/10577",
-        "https://anisearch.com/anime/11347",
-        "https://anisearch.com/anime/12777",
-        "https://anisearch.com/anime/13547",
-        "https://anisearch.com/anime/15035",
-        "https://anisearch.com/anime/15736",
-        "https://anisearch.com/anime/16858",
         "https://kitsu.io/anime/10473",
         "https://livechart.me/anime/10479",
+        "https://livechart.me/anime/11120",
         "https://livechart.me/anime/1355",
         "https://livechart.me/anime/1511",
         "https://livechart.me/anime/2144",

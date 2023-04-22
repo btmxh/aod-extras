@@ -34,6 +34,7 @@
       "relations": [
         "https://anidb.net/anime/12684",
         "https://anilist.co/anime/102615",
+        "https://anisearch.com/anime/9342",
         "https://myanimelist.net/anime/20913",
         "https://notify.moe/anime/ity1tFmiR"
       ],
@@ -42,8 +43,9 @@
         "comedy",
         "drama",
         "fantasy",
+        "female protagonist",
         "full cgi",
-        "henshin heroes",
+        "henshin",
         "high school",
         "magic",
         "magical girl",
@@ -51,6 +53,7 @@
         "new",
         "original work",
         "parallel world",
+        "primarily female cast",
         "school clubs",
         "school life",
         "sci-fi",
@@ -89,6 +92,43 @@
         "work life"
       ],
       "id": "https://myanimelist.net/anime/36443"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/castlevania-nocturne",
+        "https://kitsu.io/anime/46173"
+      ],
+      "title": "Castlevania: Nocturne",
+      "type": "ONA",
+      "episodes": 0,
+      "status": "UPCOMING",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": null
+      },
+      "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+      "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+      "synonyms": [],
+      "relations": [
+        "https://anime-planet.com/anime/castlevania",
+        "https://kitsu.io/anime/44387"
+      ],
+      "tags": [
+        "18th century",
+        "action",
+        "anime influenced",
+        "based on a video game",
+        "dark fantasy",
+        "europe",
+        "france",
+        "french revolution",
+        "historical",
+        "horror",
+        "supernatural",
+        "vampire",
+        "vampires"
+      ],
+      "id": "https://anime-planet.com/anime/castlevania-nocturne"
     },
     {
       "sources": [
@@ -132,34 +172,100 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/137602"
+        "https://anime-planet.com/anime/cytolon"
       ],
-      "title": "Chong Chu Diqiu",
+      "title": "Cytolon",
       "type": "MOVIE",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": 2021
+        "year": 2002
       },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137602-QNwCo9cMHgV7.png",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137602-QNwCo9cMHgV7.png",
+      "picture": "https://cdn.anime-planet.com/anime/primary/cytolon-1.webp?t=1654909973",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/cytolon-1-285x399.webp?t=1654909973",
+      "synonyms": [],
+      "relations": [],
+      "tags": [
+        "abstract"
+      ],
+      "id": "https://anime-planet.com/anime/cytolon"
+    },
+    {
+      "sources": [
+        "https://anidb.net/anime/17755",
+        "https://anilist.co/anime/158997",
+        "https://anime-planet.com/anime/detective-conan-haibara-ai-monogatari-kurogane-no-mystery-train",
+        "https://anisearch.com/anime/17917",
+        "https://livechart.me/anime/11715",
+        "https://myanimelist.net/anime/53780",
+        "https://notify.moe/anime/oJGZsPAVR"
+      ],
+      "title": "Detective Conan: Haibara Ai Monogatari - Kurogane no Mystery Train",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2023
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1285/131672.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1285/131672t.jpg",
       "synonyms": [
-        "Rainbow Sea Fly High",
-        "Xing You Ji: Chong Chu Diqiu",
-        "冲出地球",
-        "星游记之冲出地球"
+        "Detective Conan Ai Habara's Story ~Jet-Black Mystery Train~",
+        "Detective Conan: Ai Habara`s Story - Jet-Black Mystery Train",
+        "Detective Conan: Ai Habara’s Story - Jet-Black Mystery Train",
+        "Detective Conan: The Story of Ai Haibara: Black Iron Mystery Train",
+        "Meitantei Conan: Haibara Ai Monogatari - Kurogane no Mystery Train",
+        "Meitantei Conan: Haibara Ai Monogatari ~Kurogane no Mystery Train~",
+        "名探偵コナン 灰原哀物語~黒鉄のミステリートレイン~",
+        "名探偵コナン 灰原哀物語～黒鉄のミステリートレイン～",
+        "名探偵コナン 灰原哀物語～黒鉄（くろがね）のミステリートレイン～"
       ],
       "relations": [
-        "https://anilist.co/anime/102678"
+        "https://anidb.net/anime/17334",
+        "https://anidb.net/anime/266",
+        "https://anilist.co/anime/156841",
+        "https://anilist.co/anime/235",
+        "https://anime-planet.com/anime/detective-conan",
+        "https://anisearch.com/anime/1721",
+        "https://anisearch.com/anime/17453",
+        "https://livechart.me/anime/319",
+        "https://livechart.me/anime/4579",
+        "https://livechart.me/anime/4615",
+        "https://livechart.me/anime/4634",
+        "https://livechart.me/anime/4688",
+        "https://livechart.me/anime/4710",
+        "https://livechart.me/anime/4732",
+        "https://livechart.me/anime/4783",
+        "https://livechart.me/anime/4809",
+        "https://livechart.me/anime/6391",
+        "https://livechart.me/anime/6392",
+        "https://livechart.me/anime/6400",
+        "https://livechart.me/anime/6411",
+        "https://livechart.me/anime/6441",
+        "https://livechart.me/anime/8185",
+        "https://myanimelist.net/anime/235",
+        "https://myanimelist.net/anime/53540",
+        "https://notify.moe/anime/P8npfJFVg",
+        "https://notify.moe/anime/lWnhcKiig"
       ],
       "tags": [
-        "adventure",
-        "cgi",
-        "fantasy",
-        "sci-fi"
+        "action",
+        "age regression",
+        "based on a manga",
+        "comedy",
+        "crime fiction",
+        "detective",
+        "detectives",
+        "drama",
+        "female protagonist",
+        "mystery",
+        "police",
+        "shounen",
+        "tragedy"
       ],
-      "id": "https://anilist.co/anime/137602"
+      "id": "https://myanimelist.net/anime/53780"
     },
     {
       "sources": [
@@ -226,29 +332,32 @@
     },
     {
       "sources": [
-        "https://anidb.net/anime/12901",
-        "https://anisearch.com/anime/12293"
+        "https://anisearch.com/anime/17857"
       ],
-      "title": "Fintan",
-      "type": "ONA",
-      "episodes": 3,
+      "title": "Geukjangpan WillBengers: Susanghan Campingdaesodong",
+      "type": "MOVIE",
+      "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "WINTER",
-        "year": 2017
+        "season": "SPRING",
+        "year": 2022
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/12/12293.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/12/12293.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/17/17857_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/17/17857.webp",
       "synonyms": [
-        "フィンたん"
+        "The Movie WillBengers: Mysterious Camping",
+        "극장판 윌벤져스: 수상한 캠핑대소동"
       ],
       "relations": [],
       "tags": [
+        "adventure",
+        "adventure comedy",
         "cg-anime",
         "comedy",
-        "slice of life"
+        "fantasy",
+        "present"
       ],
-      "id": "https://anisearch.com/anime/12293"
+      "id": "https://anisearch.com/anime/17857"
     },
     {
       "sources": [
@@ -296,10 +405,11 @@
         "https://anime-planet.com/anime/eden-of-the-east-compilation-air-communication",
         "https://anime-planet.com/anime/eden-of-the-east-movie-i-the-king-of-eden",
         "https://anime-planet.com/anime/oasis-falling-down",
-        "https://anisearch.com/anime/5171",
         "https://anisearch.com/anime/5258",
-        "https://anisearch.com/anime/5501",
         "https://kitsu.io/anime/4534",
+        "https://livechart.me/anime/3622",
+        "https://livechart.me/anime/3842",
+        "https://livechart.me/anime/7989",
         "https://myanimelist.net/anime/6372",
         "https://notify.moe/anime/NAgecKimR"
       ],
@@ -328,6 +438,7 @@
         "present",
         "primarily adult cast",
         "romance",
+        "sci-fi",
         "suspense",
         "terrorism",
         "thriller",
@@ -337,8 +448,13 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/122758",
+        "https://anime-planet.com/anime/hi-scool-seha-girls-special",
+        "https://anisearch.com/anime/11803",
+        "https://kitsu.io/anime/13022",
         "https://livechart.me/anime/2344",
-        "https://myanimelist.net/anime/34323"
+        "https://myanimelist.net/anime/34323",
+        "https://notify.moe/anime/Kr9WhFiig"
       ],
       "title": "Hi☆sCoool! SeHa Girls Special",
       "type": "SPECIAL",
@@ -352,21 +468,44 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/5/82645t.jpg",
       "synonyms": [
         "Dai-54-Kai Hanpa Jano! Zenryoku de Guu! Yūshō Suru no wa Only You! Subete no Gakkou Gyouji o Kako ni Suru! SeHaGaga Gakuen Taiikusai",
+        "Hi Scool! Seha Girl: Dai-54-kai Hanpa ja nō! Zenryoku de Gū! Yūshō Suru no wa Only You! Subete no Gakkō Gyōji o Kako ni Suru! SeHaGaga Gakuen Taiikusai",
+        "Hi Scoool! Seha Girl: Dai-54-kai Hanpa ja noo! Zenryoku de Guu! Yuushou Suru no wa Only You! Subete no Gakkou Gyouji o Kako ni Suru! SeHaGaga Gakuen Taiikusai",
+        "Hi Scoool! Seha Girl: Dai-54-kai Hanpa ja noo! Zenryoku de Guu! Yuushou Suru no wa Only You! Subete no Gakkou Gyouji wo Kako ni Suru! SeHaGaga Gakuen Taiikusai",
+        "Hi-sCool! Seha Girls Special",
+        "Hi-sCool! Seha Girls: 54th \"Awesome! As Good As It Gets! Only You Can Achieve Victory! Leaves All Other School Events Behind!\" SeHaGaga Academy Sports Festival",
+        "Hi☆sCoool! SeHa Girl: Dai-54-Kai Hanpa Jano! Zenryoku de Guu! Youshou Suru no wa Only You! Subete no Gakkou Gyouji o Kako ni Suru! SeHaGaga Gakuen Taiikusai",
+        "Hi☆sCoool! SeHa Girl: Special",
         "Hi☆sCoool! Sega Hard Girls Special",
         "Hi☆sCoool! セハガール",
+        "Hi☆sCoool! セハガール 第54回 ハンパじゃノー! 全力でグー! 優勝するのはオンリーユー! すべての学校行事を過去にする! セハガガ学園体育祭",
+        "Hi☆sCoool! セハガール: 第54回 ハンパじゃノー！全力でグー！優勝するのはオンリーユー！すべての学校行事を過去にする！セハガガ学園体育祭",
         "SeHa Girls Episode 14",
         "Sega Hard Girls OVA",
+        "Sega Hard Girls Special",
         "第54回 ハンパじゃノー！全力でグー！優勝するのはオンリーユー！すべての学校行事を過去にする！セハガガ学園体育祭"
       ],
       "relations": [
+        "https://anilist.co/anime/20830",
+        "https://anime-planet.com/anime/hi-scool-seha-girls",
+        "https://anisearch.com/anime/9601",
+        "https://kitsu.io/anime/8428",
         "https://livechart.me/anime/524",
-        "https://myanimelist.net/anime/23787"
+        "https://myanimelist.net/anime/23787",
+        "https://notify.moe/anime/6WOAtKiig"
       ],
       "tags": [
+        "anthropomorphic",
+        "cg animation",
+        "cg-anime",
+        "chibi",
         "comedy",
         "game",
+        "original work",
+        "parody",
         "school",
-        "sports"
+        "sports",
+        "video game",
+        "virtual reality"
       ],
       "id": "https://myanimelist.net/anime/34323"
     },
@@ -392,15 +531,18 @@
       "picture": "https://cdn.myanimelist.net/images/anime/3/77282.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/3/77282t.jpg",
       "synonyms": [
+        "Heugemono",
         "Hyougemono",
         "Hyōge Mono",
         "Чудные вещи",
         "ひょうげもの",
-        "へうげもの"
+        "へうげもの",
+        "战国鬼才传"
       ],
       "relations": [],
       "tags": [
         "16th century",
+        "adult cast",
         "adventure",
         "asia",
         "based on a manga",
@@ -418,10 +560,12 @@
         "philosophy",
         "primarily adult cast",
         "primarily male cast",
+        "religion",
         "samurai",
         "seinen",
         "sengoku period",
         "swordplay",
+        "visual arts",
         "war"
       ],
       "id": "https://myanimelist.net/anime/9996"
@@ -458,43 +602,97 @@
     },
     {
       "sources": [
-        "https://anidb.net/anime/16446",
+        "https://anilist.co/anime/145766",
+        "https://livechart.me/anime/11485"
+      ],
+      "title": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Odorokimomonoki-tou no Daikessen",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SPRING",
+        "year": 2000
+      },
+      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145766-HJUtK1ahudmg.png",
+      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145766-HJUtK1ahudmg.png",
+      "synonyms": [
+        "Kochikame Special 8",
+        "こちら葛飾区亀有公園前派出所スペシャル オドロキモモノキ島の大決戦"
+      ],
+      "relations": [
+        "https://anilist.co/anime/3545",
+        "https://livechart.me/anime/11478",
+        "https://livechart.me/anime/11479",
+        "https://livechart.me/anime/11480",
+        "https://livechart.me/anime/11481",
+        "https://livechart.me/anime/11482",
+        "https://livechart.me/anime/11483",
+        "https://livechart.me/anime/11484",
+        "https://livechart.me/anime/11486",
+        "https://livechart.me/anime/11487",
+        "https://livechart.me/anime/11488",
+        "https://livechart.me/anime/11489",
+        "https://livechart.me/anime/11490",
+        "https://livechart.me/anime/11504",
+        "https://livechart.me/anime/11505",
+        "https://livechart.me/anime/6699"
+      ],
+      "tags": [
+        "comedy"
+      ],
+      "id": "https://anilist.co/anime/145766"
+    },
+    {
+      "sources": [
+        "https://anidb.net/anime/17431",
         "https://anilist.co/anime/136804",
+        "https://anime-planet.com/anime/konosuba-gods-blessing-on-this-wonderful-world-3",
         "https://anisearch.com/anime/16505",
         "https://kitsu.io/anime/44911",
-        "https://livechart.me/anime/10708",
-        "https://myanimelist.net/anime/49458"
+        "https://livechart.me/anime/11233",
+        "https://myanimelist.net/anime/49458",
+        "https://notify.moe/anime/v-m-qxMng"
       ],
-      "title": "Kono Subarashii Sekai ni Shukufuku wo! (Shinsaku Anime)",
-      "type": "SPECIAL",
-      "episodes": 0,
+      "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+      "type": "TV",
+      "episodes": 12,
       "status": "UPCOMING",
       "animeSeason": {
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/1841/116616.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1841/116616t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1893/124134.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1893/124134t.jpg",
       "synonyms": [
-        "KONOSUBA -God's blessing on this wonderful world! (New Anime)",
-        "Kono Subarashii Sekai ni Shukufuku o! (Shinsaku Anime)",
-        "Kono Subarashii Sekai ni Shukufuku wo!",
-        "Kono Subarashii Sekai ni Shukufuku wo! (New Anime)",
-        "Kono Subarashii Sekai ni Shukufuku wo! (Provisional Title)",
-        "Kono Subarashī Sekai ni Shukufuku o! (Shinsaku Anime)",
-        "KonoSuba: God's Blessing on This Wonderful World!",
-        "Konosuba",
-        "Konosuba: God`s Blessing on This Wonderful World! (New Anime)",
-        "Konosuba: God’s Blessing on This Wonderful World! (New Anime)",
-        "この素晴らしい世界に祝福を! (新作アニメ)",
-        "この素晴らしい世界に祝福を！ （新作アニメ）",
-        "この素晴らしい世界に祝福を！新作アニメ",
-        "この素晴らしい世界に祝福を！（仮）"
+        "KONOSUBA -God's blessing on this wonderful world! 3",
+        "Kono Subarashii Sekai ni Shukufuku o! 3",
+        "Kono Subarashī Sekai ni Shukufuku o! 3",
+        "KonoSuba – God's blessing on this wonderful world! 3",
+        "KonoSuba: God's Blessing on This Wonderful World! 3",
+        "Konosuba 3",
+        "Konosuba: God`s Blessing on This Wonderful World! 3",
+        "Konosuba: God’s Blessing on This Wonderful World! 3",
+        "Konosuba: God’s Blessing on This Wonderful World! Season 3",
+        "Konosuba: God’s Blessing on This Wonderful World! Staffel 3",
+        "konosuba 3",
+        "ขอให้โชคดีมีชัยในโลกแฟนตาซี! ภาค 3",
+        "この素晴らしい世界に祝福を! 3",
+        "この素晴らしい世界に祝福を！ 3",
+        "この素晴らしい世界に祝福を！3",
+        "この素晴らしい世界に祝福を！新作アニメ 3",
+        "この素晴らしい世界に祝福を！３"
       ],
       "relations": [
         "https://anidb.net/anime/13310",
         "https://anilist.co/anime/102976",
+        "https://anime-planet.com/anime/konosuba-gods-blessing-on-this-wonderful-world",
+        "https://anime-planet.com/anime/konosuba-gods-blessing-on-this-wonderful-world-2",
+        "https://anime-planet.com/anime/konosuba-gods-blessing-on-this-wonderful-world-2-ova",
+        "https://anime-planet.com/anime/konosuba-gods-blessing-on-this-wonderful-world-movie-legend-of-crimson",
+        "https://anime-planet.com/anime/konosuba-gods-blessing-on-this-wonderful-world-ova",
+        "https://anisearch.com/anime/12655",
         "https://kitsu.io/anime/41440",
+        "https://livechart.me/anime/10708",
         "https://livechart.me/anime/1615",
         "https://livechart.me/anime/1974",
         "https://livechart.me/anime/2077",
@@ -503,7 +701,8 @@
         "https://livechart.me/anime/3550",
         "https://livechart.me/anime/9481",
         "https://livechart.me/anime/9870",
-        "https://myanimelist.net/anime/38040"
+        "https://myanimelist.net/anime/38040",
+        "https://notify.moe/anime/TNo6W6vmR"
       ],
       "tags": [
         "action",
@@ -511,17 +710,26 @@
         "afterlife",
         "alternate universe",
         "alternative world",
+        "artificial intelligence",
+        "based on a light novel",
         "chuunibyou",
         "comedy",
         "demons",
+        "ecchi",
         "fantasy",
         "female harem",
         "gods",
+        "guilds",
         "harem",
         "isekai",
         "magic",
         "male protagonist",
+        "neet",
+        "novel",
         "parody",
+        "person in a strange world",
+        "reincarnation",
+        "rpg",
         "satire",
         "supernatural"
       ],
@@ -531,7 +739,7 @@
       "sources": [
         "https://myanimelist.net/anime/47967"
       ],
-      "title": "Le Le Hu Da Shijie",
+      "title": "Lele Hu da Shijie",
       "type": "TV",
       "episodes": 38,
       "status": "FINISHED",
@@ -539,16 +747,45 @@
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1750/130101.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1750/130101t.jpg",
       "synonyms": [
         "乐乐虎大世界"
       ],
-      "relations": [],
+      "relations": [
+        "https://myanimelist.net/anime/46603"
+      ],
       "tags": [
+        "anthropomorphic",
         "kids"
       ],
       "id": "https://myanimelist.net/anime/47967"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/140625",
+        "https://anime-planet.com/anime/magical-kiss",
+        "https://kitsu.io/anime/46616"
+      ],
+      "title": "MAGICAL KISS",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2016
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/magical-kiss-1.webp?t=1656801619",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/magical-kiss-1-285x399.webp?t=1656801619",
+      "synonyms": [],
+      "relations": [],
+      "tags": [
+        "abstract",
+        "music",
+        "romance",
+        "shorts"
+      ],
+      "id": "https://anime-planet.com/anime/magical-kiss"
     },
     {
       "sources": [
@@ -634,6 +871,67 @@
     },
     {
       "sources": [
+        "https://anidb.net/anime/17478",
+        "https://anilist.co/anime/151801",
+        "https://anime-planet.com/anime/mashle-magic-and-muscles",
+        "https://anisearch.com/anime/17495",
+        "https://kitsu.io/anime/46229",
+        "https://livechart.me/anime/11318",
+        "https://myanimelist.net/anime/52211",
+        "https://notify.moe/anime/d8eLQVV4R"
+      ],
+      "title": "Mashle",
+      "type": "TV",
+      "episodes": 12,
+      "status": "ONGOING",
+      "animeSeason": {
+        "season": "SPRING",
+        "year": 2023
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1218/135107.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1218/135107t.jpg",
+      "synonyms": [
+        "MASHLE",
+        "MASHLE ศึกโลกเวทมนตร์คนพลังกล้าม",
+        "MASHLE: MAGIA E MÚSCULOS",
+        "MASHLE: MAGIC AND MUSCLES",
+        "MASHLE: Магия и мускулы",
+        "Mashle : Magic and Muscles",
+        "Mashle: Magic and Muscles",
+        "マッシュル",
+        "マッシュル-MASHLE-",
+        "物理魔法使马修"
+      ],
+      "relations": [],
+      "tags": [
+        "action",
+        "action comedy",
+        "adoption",
+        "based on a manga",
+        "cgi",
+        "comedy",
+        "fantasy",
+        "fitness",
+        "gag humor",
+        "hero of strong character",
+        "kuudere",
+        "magic",
+        "male protagonist",
+        "manga",
+        "parody",
+        "primarily male cast",
+        "primarily teen cast",
+        "school",
+        "shounen",
+        "slapstick",
+        "stoic hero",
+        "super power",
+        "supernatural"
+      ],
+      "id": "https://myanimelist.net/anime/52211"
+    },
+    {
+      "sources": [
         "https://anidb.net/anime/15272",
         "https://anilist.co/anime/113397",
         "https://anime-planet.com/anime/natsunagu",
@@ -665,6 +963,7 @@
         "drama",
         "earthquake",
         "female protagonist",
+        "iyashikei",
         "japan",
         "natural disaster",
         "new",
@@ -732,6 +1031,10 @@
         "Non Non Biyori: Repeat - Hotaru ga Tanoshinda",
         "Non Non Biyori: Repeat OVA",
         "nnb repeat ova",
+        "nnbr ova",
+        "nonnon ova 2",
+        "nonnonbiyori ova 2",
+        "nonnonrepeat ova",
         "のんのんびより り 蛍が楽しんだ",
         "のんのんびより りぴーと OAD",
         "のんのんびより りぴーと 蛍が楽しんだ",
@@ -746,11 +1049,7 @@
         "https://anime-planet.com/anime/non-non-biyori-nonstop-ova",
         "https://anime-planet.com/anime/non-non-biyori-okinawa-e-ikukoto-ni-natta",
         "https://anime-planet.com/anime/non-non-biyori-repeat",
-        "https://anisearch.com/anime/12494",
-        "https://anisearch.com/anime/14403",
         "https://anisearch.com/anime/8390",
-        "https://anisearch.com/anime/9397",
-        "https://anisearch.com/anime/9592",
         "https://kitsu.io/anime/8187",
         "https://kitsu.io/anime/8410",
         "https://livechart.me/anime/10730",
@@ -767,6 +1066,7 @@
       "tags": [
         "asia",
         "based on a manga",
+        "cgdct",
         "comedy",
         "countryside",
         "cute girls doing cute things",
@@ -799,7 +1099,7 @@
         "https://myanimelist.net/anime/36464",
         "https://notify.moe/anime/x0sOhKiig"
       ],
-      "title": "Oshushi Da yo",
+      "title": "Oshushi da yo",
       "type": "ONA",
       "episodes": 10,
       "status": "FINISHED",
@@ -810,12 +1110,13 @@
       "picture": "https://cdn.myanimelist.net/images/anime/7/88033.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/7/88033t.jpg",
       "synonyms": [
-        "Oshushi da yo",
+        "Oshushi Da yo",
         "Oshushidayo",
         "おしゅしだよ"
       ],
       "relations": [],
       "tags": [
+        "anthropomorphic",
         "based on a manga",
         "comedy",
         "food protagonists",
@@ -828,26 +1129,30 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/shen-ji-bao-meili-2",
         "https://myanimelist.net/anime/44490"
       ],
-      "title": "Shen Ji Bao Meili season2",
+      "title": "Shen Ji Bao Meili 2",
       "type": "TV",
       "episodes": 40,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2014
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1010/122328.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1010/122328t.jpg",
       "synonyms": [
+        "Shen Ji Bao Meili Second Season",
         "神鸡包美丽2"
       ],
       "relations": [
+        "https://anime-planet.com/anime/shen-ji-bao-meili",
         "https://myanimelist.net/anime/44489"
       ],
       "tags": [
-        "fantasy",
+        "chinese animation",
+        "family friendly",
         "kids"
       ],
       "id": "https://myanimelist.net/anime/44490"
@@ -902,26 +1207,102 @@
         "asia",
         "based on a manga",
         "contemporary fantasy",
+        "cyborg",
         "demon",
         "demons",
         "drama",
         "earth",
         "fantasy",
+        "gore",
         "historical",
         "horror",
         "japan",
         "magic",
         "manga",
         "martial arts",
+        "mythology",
+        "nudity",
         "present",
         "romance",
         "seinen",
         "splatter",
+        "supernatural",
         "supernatural drama",
         "swords & co",
         "youkai"
       ],
       "id": "https://myanimelist.net/anime/3599"
+    },
+    {
+      "sources": [
+        "https://anidb.net/anime/17626",
+        "https://anilist.co/anime/154643",
+        "https://anime-planet.com/anime/synduality",
+        "https://anime-planet.com/anime/synduality-noir",
+        "https://anisearch.com/anime/17699",
+        "https://kitsu.io/anime/46477",
+        "https://livechart.me/anime/11471",
+        "https://myanimelist.net/anime/53026",
+        "https://notify.moe/anime/D-ZgEj74g"
+      ],
+      "title": "Synduality: Noir",
+      "type": "TV",
+      "episodes": 12,
+      "status": "UPCOMING",
+      "animeSeason": {
+        "season": "SUMMER",
+        "year": 2023
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1464/134806.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1464/134806t.jpg",
+      "synonyms": [
+        "Project SYN",
+        "Project Syn",
+        "SYNDUALITY",
+        "SYNDUALITY Noir",
+        "SYNDUALITY noir",
+        "Synduality",
+        "Synduality Noir",
+        "シンデュアリティ"
+      ],
+      "relations": [],
+      "tags": [
+        "action",
+        "apocalyptic fiction",
+        "artificial intelligence",
+        "based on a video game",
+        "mecha",
+        "post-apocalyptic",
+        "robots & androids",
+        "sci fi",
+        "sci-fi",
+        "science fiction",
+        "science-fiction",
+        "survival"
+      ],
+      "id": "https://myanimelist.net/anime/53026"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/three-pictures"
+      ],
+      "title": "three pictures",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2020
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/three-pictures-1.webp?t=1656725574",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/three-pictures-1-285x400.webp?t=1656725574",
+      "synonyms": [],
+      "relations": [],
+      "tags": [
+        "drama",
+        "shorts"
+      ],
+      "id": "https://anime-planet.com/anime/three-pictures"
     },
     {
       "sources": [
@@ -955,8 +1336,41 @@
     },
     {
       "sources": [
+        "https://kitsu.io/anime/44001",
+        "https://myanimelist.net/anime/51813"
+      ],
+      "title": "Umi Yori Fukai Sora no Shita",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "FALL",
+        "year": 2018
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1156/123770.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1156/123770t.jpg",
+      "synonyms": [
+        "Ao ga Niki Umi Yori Fukai Sora no Shita",
+        "海より深い空の下"
+      ],
+      "relations": [
+        "https://kitsu.io/anime/43740",
+        "https://myanimelist.net/anime/44042",
+        "https://myanimelist.net/anime/51428",
+        "https://myanimelist.net/anime/51814"
+      ],
+      "tags": [
+        "idol",
+        "idols (female)",
+        "music"
+      ],
+      "id": "https://myanimelist.net/anime/51813"
+    },
+    {
+      "sources": [
         "https://anilist.co/anime/14359",
         "https://anime-planet.com/anime/vocaloid-china-project-senden-animation",
+        "https://anisearch.com/anime/8759",
         "https://kitsu.io/anime/7118",
         "https://myanimelist.net/anime/14359",
         "https://notify.moe/anime/IdVOtFmmg"
@@ -973,8 +1387,11 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/11/39405t.jpg",
       "synonyms": [
         "Chinese Vocaloid 3 Anime PV",
+        "VOCALOID CHINA PROJECT Senden Animation",
         "VOCALOID CHINA PROJECT宣伝用アニメーション",
-        "Vocaloid China Project Anime PV"
+        "Vocaloid China Project Anime PV",
+        "Vocaloid China Project PV",
+        "Vocaloid China Project 宣伝用アニメーション"
       ],
       "relations": [],
       "tags": [
@@ -1017,9 +1434,9 @@
         "Wooser no Sono Higurashi 2",
         "Wooser no Sono Higurashi Kakusei Hen",
         "Wooser no Sono Higurashi Second Season",
-        "Wooser's Hand-to-Mouth Life 2",
         "Wooser's Hand-to-Mouth Life: Awakening Arc",
         "Wooser`s Hand-to-Mouth Life: Awakening Arc",
+        "Wooser’s Hand-to-Mouth Life 2",
         "Wooser’s Hand-to-Mouth Life: Awakening Arc",
         "Wōser no Sono Higurashi Kakusei Hen",
         "うーさーのその日暮らし 覚醒編",
@@ -1035,7 +1452,6 @@
         "https://anime-planet.com/anime/wooser-no-sono-higurashi-3",
         "https://anime-planet.com/anime/wooser-no-sono-higurashi-ken-to-pantsu-to-wooser-to",
         "https://anisearch.com/anime/10104",
-        "https://anisearch.com/anime/8015",
         "https://anisearch.com/anime/9116",
         "https://kitsu.io/anime/10138",
         "https://kitsu.io/anime/7502",
@@ -1064,34 +1480,39 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/yisheng-yu-huangdi",
-        "https://myanimelist.net/anime/43806",
-        "https://myanimelist.net/anime/43905"
+        "https://anime-planet.com/anime/youkai-watch-planetarium-koma-san-kara-no-sos-black-hole-e-lets-go-da-nyaa",
+        "https://myanimelist.net/anime/53967"
       ],
-      "title": "Yisheng Yu Huangdi",
+      "title": "Youkai Watch ♪ Planetarium: Koma-san kara no SOS! Black Hole e Let's Go da Nyaa ♪",
       "type": "MOVIE",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 1990
+        "season": "SUMMER",
+        "year": 2022
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1869/132051.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1869/132051t.jpg",
       "synonyms": [
-        "Doctor and the Emperor",
-        "The Doctor and the Emperor",
-        "医生与皇帝",
-        "醫生與皇帝"
+        "妖怪ウォッチ♪ プラネタリウム コマさんからのＳＯＳ！ ブラックホールへレッツゴーだニャン♪"
       ],
-      "relations": [],
+      "relations": [
+        "https://anime-planet.com/anime/youkai-watch",
+        "https://myanimelist.net/anime/48365"
+      ],
       "tags": [
-        "chinese animation",
-        "historical",
+        "comedy",
+        "family friendly",
+        "japanese mythology",
         "kids",
-        "shorts"
+        "monsters",
+        "mythology",
+        "sci-fi",
+        "space",
+        "supernatural",
+        "youkai"
       ],
-      "id": "https://myanimelist.net/anime/43905"
+      "id": "https://myanimelist.net/anime/53967"
     }
   ]
 }

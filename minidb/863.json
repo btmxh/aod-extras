@@ -2,6 +2,80 @@
   "data": [
     {
       "sources": [
+        "https://anime-planet.com/anime/ado-domestic-de-violence",
+        "https://kitsu.io/anime/46843"
+      ],
+      "title": "Ado: Domestic de Violence",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SPRING",
+        "year": 2022
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/ado-domestic-de-violence-1.webp?t=1648329509",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/ado-domestic-de-violence-1-285x399.webp?t=1648329509",
+      "synonyms": [
+        "Domestic Violence",
+        "Domestic de Violence",
+        "ドメスティックでバイオレンス"
+      ],
+      "relations": [],
+      "tags": [
+        "adult couples",
+        "music",
+        "possessive lovers",
+        "violence"
+      ],
+      "id": "https://anime-planet.com/anime/ado-domestic-de-violence"
+    },
+    {
+      "sources": [
+        "https://anidb.net/anime/16977",
+        "https://anilist.co/anime/141802",
+        "https://kitsu.io/anime/45661"
+      ],
+      "title": "Douluo Dalu: Xiaowu Fuhuo",
+      "type": "ONA",
+      "episodes": 13,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "FALL",
+        "year": 2021
+      },
+      "picture": "https://media.kitsu.io/anime/45661/poster_image/small-a6e4438fd4bb87c818e414999d219a2e.jpeg",
+      "thumbnail": "https://media.kitsu.io/anime/45661/poster_image/tiny-5020680cb19e4cab435ac7d6b4dda3fa.jpeg",
+      "synonyms": [
+        "Douluo Dalu Part 11",
+        "Douluo Dalu Season 11",
+        "Douluo Dalu: Xiao Wu Fuhuo",
+        "Soul Land Part 11",
+        "斗罗大陆 小舞复活",
+        "斗罗大陆 第十一部分",
+        "斗罗大陆之小舞复活"
+      ],
+      "relations": [
+        "https://anidb.net/anime/16548",
+        "https://anidb.net/anime/17197",
+        "https://anilist.co/anime/137761",
+        "https://anilist.co/anime/145210",
+        "https://kitsu.io/anime/45032",
+        "https://kitsu.io/anime/46149"
+      ],
+      "tags": [
+        "action",
+        "adventure",
+        "cultivation",
+        "fantasy",
+        "full cgi",
+        "male protagonist",
+        "martial arts",
+        "romance"
+      ],
+      "id": "https://kitsu.io/anime/45661"
+    },
+    {
+      "sources": [
         "https://anidb.net/anime/14401",
         "https://anilist.co/anime/104199",
         "https://anime-planet.com/anime/is-the-order-a-rabbit-sing-for-you",
@@ -11,7 +85,7 @@
         "https://myanimelist.net/anime/38333",
         "https://notify.moe/anime/HRQNvjWZR"
       ],
-      "title": "Gochuumon wa Usagi Desu ka??: Sing for You",
+      "title": "Gochuumon wa Usagi desu ka?? Sing for You",
       "type": "OVA",
       "episodes": 1,
       "status": "FINISHED",
@@ -25,6 +99,7 @@
         "GochiUsa OVA",
         "Gochiusa",
         "Gochuumon wa Usagi Desu ka?? Sing For You",
+        "Gochuumon wa Usagi Desu ka??: Sing for You",
         "Gochuumon wa Usagi Desuka?? Sing for You",
         "Gochuumon wa Usagi desu ka? OVA",
         "Gochuumon wa Usagi desu ka?? Sing For You",
@@ -34,6 +109,7 @@
         "Is the Order a Rabbit?? Sing For You",
         "Is the Order a Rabbit?? ~Sing For You~",
         "Is the Order a Rabbit?? ～Sing For You～",
+        "gochiusa ova",
         "ご注文はうさぎですか?? ~Sing For You~",
         "ご注文はうさぎですか？？ ~Sing For You~",
         "ご注文はうさぎですか？？ ～Sing For You～",
@@ -49,10 +125,8 @@
         "https://anime-planet.com/anime/is-the-order-a-rabbit-bloom",
         "https://anime-planet.com/anime/is-the-order-a-rabbit-dear-my-sister",
         "https://anime-planet.com/anime/is-the-order-a-rabbit-season-2",
-        "https://anisearch.com/anime/10175",
         "https://anisearch.com/anime/11475",
         "https://anisearch.com/anime/13899",
-        "https://anisearch.com/anime/9234",
         "https://kitsu.io/anime/12138",
         "https://kitsu.io/anime/42365",
         "https://livechart.me/anime/1383",
@@ -63,9 +137,11 @@
         "https://myanimelist.net/anime/38337"
       ],
       "tags": [
+        "4-koma",
         "based on a 4-koma manga",
         "based on a manga",
         "cafe",
+        "cgdct",
         "comedy",
         "coworkers",
         "cute girls doing cute things",
@@ -80,67 +156,14 @@
         "music",
         "present",
         "primarily female cast",
+        "primarily teen cast",
         "school",
         "seinen",
         "slice of life",
-        "work life"
+        "work life",
+        "workplace"
       ],
       "id": "https://myanimelist.net/anime/38333"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/50363"
-      ],
-      "title": "GUNDAM SCRAMBLE in FUKUOKA",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [],
-      "relations": [],
-      "tags": [
-        "mecha"
-      ],
-      "id": "https://myanimelist.net/anime/50363"
-    },
-    {
-      "sources": [
-        "https://kitsu.io/anime/13022",
-        "https://notify.moe/anime/Kr9WhFiig"
-      ],
-      "title": "Hi☆sCoool! SeHa Girls Special",
-      "type": "OVA",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 2016
-      },
-      "picture": "https://media.kitsu.io/anime/poster_images/13022/small.jpg",
-      "thumbnail": "https://media.kitsu.io/anime/poster_images/13022/tiny.jpg",
-      "synonyms": [
-        "Dai-54-Kai Hanpa Jano! Zenryoku de Guu! Yūshō Suru no wa Only You! Subete no Gakkou Gyouji o Kako ni Suru! SeHaGaga Gakuen Taiikusai",
-        "SeHa Girls Episode 14",
-        "Sega Hard Girls OVA",
-        "第54回 ハンパじゃノー！全力でグー！優勝するのはオンリーユー！すべての学校行事を過去にする！セハガガ学園体育祭"
-      ],
-      "relations": [
-        "https://kitsu.io/anime/8428",
-        "https://notify.moe/anime/6WOAtKiig"
-      ],
-      "tags": [
-        "comedy",
-        "game",
-        "school",
-        "sports",
-        "virtual reality"
-      ],
-      "id": "https://kitsu.io/anime/13022"
     },
     {
       "sources": [
@@ -161,8 +184,8 @@
         "season": "SPRING",
         "year": 2016
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/1861/96667.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1861/96667t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1595/126930.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1595/126930t.jpg",
       "synonyms": [
         "Blood Blockade Battlefront King Of Kings Restaurant Fit For A King",
         "Blood Blockade Battlefront OVA",
@@ -173,6 +196,7 @@
         "Kekkai Sensen OVA",
         "Kekkai Sensen: Ou-sama no Restaurant no Ou-sama",
         "Kekkai Sensen: Ō-sama no Restaurant no Ō-sama",
+        "Keksen ova",
         "kekkai sensen ova",
         "血界戦線 王様のレストランの王様"
       ],
@@ -183,6 +207,7 @@
         "https://anime-planet.com/anime/blood-blockade-battlefront-and-beyond",
         "https://anime-planet.com/anime/blood-blockade-battlefront-and-beyond-ova",
         "https://anime-planet.com/anime/blood-blockade-battlefront-even-these-are-the-worst-and-best-days-ever",
+        "https://anisearch.com/anime/9971",
         "https://kitsu.io/anime/8646",
         "https://livechart.me/anime/2434",
         "https://livechart.me/anime/3112",
@@ -197,6 +222,7 @@
         "based on a manga",
         "bionic powers",
         "comedy",
+        "cosmic horror",
         "fantasy",
         "food",
         "foreign",
@@ -216,30 +242,6 @@
         "work life"
       ],
       "id": "https://myanimelist.net/anime/32574"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/kick-flight"
-      ],
-      "title": "Kick-Flight",
-      "type": "ONA",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2016
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/kick-flight-1.jpg?t=1625907611",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/kick-flight-1-190x266.jpg?t=1625907611",
-      "synonyms": [],
-      "relations": [],
-      "tags": [
-        "action",
-        "based on a mobile game",
-        "promotional",
-        "shorts"
-      ],
-      "id": "https://anime-planet.com/anime/kick-flight"
     },
     {
       "sources": [
@@ -274,34 +276,6 @@
         "oral"
       ],
       "id": "https://myanimelist.net/anime/9939"
-    },
-    {
-      "sources": [
-        "https://anilist.co/anime/114041",
-        "https://anisearch.com/anime/16343",
-        "https://kitsu.io/anime/45511"
-      ],
-      "title": "lemolemo",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 2018
-      },
-      "picture": "https://media.kitsu.io/anime/45511/poster_image/small-f502c448593f37d74ddee57cf3c5b23f.jpeg",
-      "thumbnail": "https://media.kitsu.io/anime/45511/poster_image/tiny-d6319061b9d9eba3c1b7d8f9257ccd81.jpeg",
-      "synonyms": [
-        "れもれも"
-      ],
-      "relations": [],
-      "tags": [
-        "indefinite",
-        "independent anime",
-        "no dialogue",
-        "psychological"
-      ],
-      "id": "https://kitsu.io/anime/45511"
     },
     {
       "sources": [
@@ -369,8 +343,8 @@
         "season": "FALL",
         "year": 2014
       },
-      "picture": "https://anime-planet.com/images/anime/covers/6827.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/6827.jpg",
+      "picture": "https://cdn.anime-planet.com/anime/primary/me-me-me-1.jpg?t=1625896996",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/me-me-me-1-190x285.jpg?t=1625896996",
       "synonyms": [
         "Japan Animator Expo Short Films #03",
         "ME!ME!ME! feat. Daoko",
@@ -380,7 +354,9 @@
       ],
       "relations": [
         "https://anime-planet.com/anime/girl",
-        "https://anime-planet.com/anime/me-me-me-chronic"
+        "https://anime-planet.com/anime/me-me-me-chronic",
+        "https://anisearch.com/anime/10388",
+        "https://anisearch.com/anime/10731"
       ],
       "tags": [
         "action",
@@ -481,16 +457,10 @@
         "https://anime-planet.com/anime/pororo-the-little-penguin-6",
         "https://anime-planet.com/anime/pororo-the-little-penguin-the-racing-adventure",
         "https://anime-planet.com/anime/pororo-to-the-cookie-castle",
-        "https://anisearch.com/anime/11362",
         "https://anisearch.com/anime/11364",
-        "https://anisearch.com/anime/11365",
-        "https://anisearch.com/anime/11366",
-        "https://anisearch.com/anime/11367",
         "https://anisearch.com/anime/11368",
-        "https://anisearch.com/anime/11369",
-        "https://anisearch.com/anime/11372",
-        "https://anisearch.com/anime/11373",
-        "https://anisearch.com/anime/16752",
+        "https://anisearch.com/anime/12325",
+        "https://anisearch.com/anime/17301",
         "https://anisearch.com/anime/9643",
         "https://kitsu.io/anime/4596",
         "https://kitsu.io/anime/9544",
@@ -502,6 +472,7 @@
       ],
       "tags": [
         "animal protagonists",
+        "antarctica",
         "anthropomorphic",
         "beastmen",
         "birds",
@@ -531,8 +502,8 @@
         "season": "WINTER",
         "year": 2020
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/16/16237.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/16/16237.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/16/16237_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/16/16237.webp",
       "synonyms": [
         "Sabae Industry Co., Ltd. TVCM",
         "Sabae Kōgyō Shō TVCM",
@@ -571,6 +542,7 @@
         "Battle Flag of the Stars",
         "BotS",
         "BotS1",
+        "Crest of the Stars",
         "SnS",
         "SnS1",
         "Звёздный Флаг",
@@ -594,13 +566,13 @@
         "https://anime-planet.com/anime/crest-of-the-stars-tokubetsu-hen",
         "https://anisearch.com/anime/2087",
         "https://anisearch.com/anime/3039",
-        "https://anisearch.com/anime/3304",
-        "https://anisearch.com/anime/3527",
         "https://anisearch.com/anime/772",
-        "https://anisearch.com/anime/874",
         "https://kitsu.io/anime/265",
         "https://kitsu.io/anime/364",
         "https://kitsu.io/anime/366",
+        "https://livechart.me/anime/5522",
+        "https://livechart.me/anime/5589",
+        "https://livechart.me/anime/8049",
         "https://myanimelist.net/anime/290",
         "https://myanimelist.net/anime/397",
         "https://myanimelist.net/anime/399",
@@ -617,10 +589,11 @@
         "drama",
         "future",
         "genetic modification",
-        "mecha",
         "military",
         "novel",
+        "on spaceship",
         "outer space",
+        "plot continuity",
         "romance",
         "sci fi",
         "sci-fi",
@@ -628,7 +601,6 @@
         "science-fiction",
         "shipboard",
         "space",
-        "space battles",
         "space opera",
         "space travel",
         "verbal comedy",
@@ -669,6 +641,8 @@
         "The Inland Sea Bride OVA",
         "Морская Невеста OVA",
         "濑户之花嫁_仁",
+        "濑户的花嫁 OVA",
+        "瀨戶的花嫁OVA",
         "瀬戸の花嫁 (2008)",
         "瀬戸の花嫁 OVA",
         "瀬戸の花嫁OVA",
@@ -683,6 +657,9 @@
         "https://anisearch.com/anime/3944",
         "https://kitsu.io/anime/1903",
         "https://kitsu.io/anime/4846",
+        "https://livechart.me/anime/3641",
+        "https://livechart.me/anime/5699",
+        "https://livechart.me/anime/6013",
         "https://myanimelist.net/anime/2104",
         "https://myanimelist.net/anime/7041",
         "https://notify.moe/anime/DXyL5Fiig",
@@ -719,17 +696,18 @@
       "sources": [
         "https://myanimelist.net/anime/46073"
       ],
-      "title": "Shenqi De Youxi Zhi Zhihui Shaonian Zu",
+      "title": "Shenqi de Youxi: Zhihui Shaonian Zu",
       "type": "TV",
       "episodes": 26,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2011
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1286/128854.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1286/128854t.jpg",
       "synonyms": [
+        "The MAgic Game 2",
         "神奇的游戏之智慧少年组"
       ],
       "relations": [
@@ -769,6 +747,7 @@
         "Shinreigari Ghost Hound",
         "Shinreigari: Ghost Hound",
         "Szellemvadászok - Ghost Hound",
+        "gh tv",
         "Охота на Призраков",
         "Призрачна хрътка",
         "神灵狩",
@@ -804,6 +783,7 @@
         "mystery",
         "mythology",
         "new",
+        "nudity",
         "original work",
         "philosophy",
         "plot continuity",
@@ -811,44 +791,17 @@
         "psychological",
         "psychological drama",
         "rehabilitation",
-        "religion",
         "rural",
         "sci-fi",
+        "science fiction",
         "science-fiction",
         "seinen",
         "supernatural",
         "supernatural drama",
+        "suspense",
         "tragedy"
       ],
       "id": "https://myanimelist.net/anime/2596"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/shounen-sunday-cm-major-2nd"
-      ],
-      "title": "Shounen Sunday CM: Major 2nd",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2016
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/shounen-sunday-cm-major-2nd-1.webp?t=1629398531",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/shounen-sunday-cm-major-2nd-1-285x399.webp?t=1629398531",
-      "synonyms": [],
-      "relations": [
-        "https://anime-planet.com/anime/major-2nd"
-      ],
-      "tags": [
-        "baseball",
-        "based on a manga",
-        "commercials",
-        "promotional",
-        "shounen",
-        "sports"
-      ],
-      "id": "https://anime-planet.com/anime/shounen-sunday-cm-major-2nd"
     },
     {
       "sources": [
@@ -880,7 +833,9 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/5332",
         "https://anime-planet.com/anime/library-war-romance-impairment",
+        "https://anisearch.com/anime/7812",
         "https://kitsu.io/anime/4060",
         "https://livechart.me/anime/5565",
         "https://livechart.me/anime/9524",
@@ -900,24 +855,38 @@
       "synonyms": [
         "Library Revolution Special",
         "Library War",
+        "Library War DVD Special",
+        "Library War Special Episode",
         "Library War: Romance Impairment",
+        "Library War: Situation Love Handicap",
+        "Library Wars: Romance Impairment",
+        "Library Wars: Situation Love Handicap",
+        "Toshokan Sensou DVD Special",
+        "Toshokan Sensou Special",
+        "Toshokan Sensou: Situation <3 <3 - Love Handicap",
         "Toshokan Sensou: Situation Love Handicap",
-        "図書館戦争 恋ノ障害"
+        "Toshokan Sensō: Situation <3 <3 - Love Handicap",
+        "図書館戦争 恋ノ障害",
+        "図書館戦争Situation <3 <3 - Love Handicap"
       ],
       "relations": [
+        "https://anilist.co/anime/3613",
         "https://anime-planet.com/anime/library-war",
         "https://anime-planet.com/anime/toshokan-sensou-kakumei-no-tsubasa",
+        "https://anisearch.com/anime/4623",
         "https://kitsu.io/anime/3140",
         "https://myanimelist.net/anime/3613",
         "https://notify.moe/anime/M5Z_5Fiig"
       ],
       "tags": [
         "action",
+        "adult cast",
         "based on a light novel",
         "comedy",
         "drama",
         "library",
         "military",
+        "present",
         "romance"
       ],
       "id": "https://myanimelist.net/anime/5332"
@@ -954,7 +923,7 @@
       "sources": [
         "https://myanimelist.net/anime/45411"
       ],
-      "title": "Xiao Rui Yu Da Mowang Zhi Kuai Yue Jiazu",
+      "title": "Xiao Rui Yu Da Mowang: Kuai Yue Jiazu",
       "type": "TV",
       "episodes": 26,
       "status": "FINISHED",
@@ -962,8 +931,8 @@
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1441/129487.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1441/129487t.jpg",
       "synonyms": [
         "小瑞与大魔王之快乐家族"
       ],
@@ -974,6 +943,34 @@
         "fantasy"
       ],
       "id": "https://myanimelist.net/anime/45411"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/yueliang-jie",
+        "https://myanimelist.net/anime/43964"
+      ],
+      "title": "Yueliang Jie",
+      "type": "TV",
+      "episodes": 26,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 1999
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1889/122852.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1889/122852t.jpg",
+      "synonyms": [
+        "月亮街"
+      ],
+      "relations": [],
+      "tags": [
+        "anthropomorphic",
+        "chinese animation",
+        "family friendly",
+        "kids",
+        "short episodes"
+      ],
+      "id": "https://myanimelist.net/anime/43964"
     },
     {
       "sources": [
@@ -989,8 +986,8 @@
         "season": "UNDEFINED",
         "year": 1940
       },
-      "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
-      "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
+      "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+      "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
       "synonyms": [
         "Magician in the Dream",
         "夢の魔術師"

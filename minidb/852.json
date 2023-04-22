@@ -2,26 +2,53 @@
   "data": [
     {
       "sources": [
-        "https://myanimelist.net/anime/45488"
+        "https://myanimelist.net/anime/54153"
       ],
-      "title": "Ci Er Zha Zha",
-      "type": "TV",
-      "episodes": 7,
+      "title": "Acnes no Uta",
+      "type": "SPECIAL",
+      "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
+        "season": "SPRING",
+        "year": 2022
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1035/132572.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1035/132572t.jpg",
       "synonyms": [
-        "刺儿扎扎"
+        "アクネスのうた"
       ],
       "relations": [],
       "tags": [
-        "comedy"
+        "avant garde",
+        "music"
       ],
-      "id": "https://myanimelist.net/anime/45488"
+      "id": "https://myanimelist.net/anime/54153"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/arknights-dorothys-vision-event-pv"
+      ],
+      "title": "Arknights: Dorothy's Vision Event PV",
+      "type": "ONA",
+      "episodes": 1,
+      "status": "UNKNOWN",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2023
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/arknights-dorothys-vision-event-pv-1.webp?t=1679088070",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/arknights-dorothys-vision-event-pv-1-285x400.webp?t=1679088070",
+      "synonyms": [
+        "Arknights: Suigyoku no Yume Anime PV"
+      ],
+      "relations": [
+        "https://anime-planet.com/anime/arknights-prelude-to-dawn"
+      ],
+      "tags": [
+        "based on a mobile game",
+        "promotional"
+      ],
+      "id": "https://anime-planet.com/anime/arknights-dorothys-vision-event-pv"
     },
     {
       "sources": [
@@ -46,6 +73,7 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/8/50677t.jpg",
       "synonyms": [
         "A Duck's Life",
+        "A Duck’s Life",
         "ぢべたぐらし あひるの生活",
         "ぢべたぐらしあひるのせいかつ",
         "鸭子生活"
@@ -149,11 +177,13 @@
         "https://anime-planet.com/anime/gegege-no-kitarou-youkai-japan-rally-3d",
         "https://anime-planet.com/anime/gegege-no-kitarou-youkai-tokkyuu-maboroshi-no-kisha",
         "https://anime-planet.com/anime/hakaba-kitarou",
+        "https://anisearch.com/anime/3022",
         "https://kitsu.io/anime/4812",
         "https://livechart.me/anime/10454",
         "https://livechart.me/anime/10813",
         "https://livechart.me/anime/3050",
         "https://livechart.me/anime/6548",
+        "https://livechart.me/anime/7176",
         "https://livechart.me/anime/7326",
         "https://livechart.me/anime/7365",
         "https://livechart.me/anime/7979",
@@ -236,25 +266,13 @@
         "https://anime-planet.com/anime/gegege-no-kitarou-youkai-daisensou",
         "https://anime-planet.com/anime/gegege-no-kitarou-youkai-japan-rally-3d",
         "https://anime-planet.com/anime/hakaba-kitarou",
-        "https://anisearch.com/anime/10667",
         "https://anisearch.com/anime/1673",
-        "https://anisearch.com/anime/1752",
-        "https://anisearch.com/anime/2683",
-        "https://anisearch.com/anime/2724",
-        "https://anisearch.com/anime/3014",
-        "https://anisearch.com/anime/3022",
-        "https://anisearch.com/anime/3099",
-        "https://anisearch.com/anime/3184",
-        "https://anisearch.com/anime/4138",
-        "https://anisearch.com/anime/49",
-        "https://anisearch.com/anime/4909",
-        "https://anisearch.com/anime/5598",
-        "https://anisearch.com/anime/5659",
         "https://kitsu.io/anime/7746",
         "https://livechart.me/anime/10454",
         "https://livechart.me/anime/10813",
         "https://livechart.me/anime/3050",
         "https://livechart.me/anime/6548",
+        "https://livechart.me/anime/7176",
         "https://livechart.me/anime/7326",
         "https://livechart.me/anime/7365",
         "https://livechart.me/anime/7979",
@@ -286,6 +304,37 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/127044",
+        "https://anime-planet.com/anime/yoasobi-gunjou",
+        "https://kitsu.io/anime/44688",
+        "https://myanimelist.net/anime/51479"
+      ],
+      "title": "Gunjou",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "FALL",
+        "year": 2020
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1492/122179.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1492/122179t.jpg",
+      "synonyms": [
+        "Blue",
+        "Ultramarine",
+        "YOASOBI: Gunjou",
+        "群青"
+      ],
+      "relations": [],
+      "tags": [
+        "dancing",
+        "music",
+        "tragedy"
+      ],
+      "id": "https://myanimelist.net/anime/51479"
+    },
+    {
+      "sources": [
         "https://anidb.net/anime/11844",
         "https://anilist.co/anime/21573",
         "https://anime-planet.com/anime/high-school-dxd-born-yomigaeranai-fushichou",
@@ -306,12 +355,13 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1928/106618.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1928/106618t.jpg",
       "synonyms": [
-        ", High School DxD BorN Episode 13, High School DxD BorN: Yomigaeranai Fushichou",
         "High School DxD BorN Episode 13",
         "High School DxD BorN OVA",
         "High School DxD BorN Yomigaeranai Fushichou",
         "High School DxD BorN: Le phénix qui ne renaît pas de ses cendres",
         "High School DxD BorN: The Phoenix That Can't Rise",
+        "High School DxD Born OVA",
+        "High School DxD Born OVA: The Pheoenix Doesn't Revive",
         "High School DxD Born: Yomigaeranai Fushichou",
         "High School D×D BorN : Le phénix qui ne renaît pas de sescendres",
         "High School D×D BorN Episode 13",
@@ -321,6 +371,7 @@
         "Highschool DxD BorN OVA",
         "Highschool D×D BorN OVA",
         "The Unresurrected Phoenix",
+        "hsdd oad 3",
         "ハイスクールDxD BorN 蘇らない不死鳥",
         "ハイスクールD×D BorN OVA 蘇らない不死鳥",
         "ハイスクールD×D BorN 蘇らない不死鳥"
@@ -338,14 +389,7 @@
         "https://anime-planet.com/anime/high-school-dxd-new-oppai-tsutsumimasu",
         "https://anime-planet.com/anime/high-school-dxd-ova",
         "https://anime-planet.com/anime/high-school-dxd-specials",
-        "https://anisearch.com/anime/10421",
-        "https://anisearch.com/anime/10699",
         "https://anisearch.com/anime/11878",
-        "https://anisearch.com/anime/13560",
-        "https://anisearch.com/anime/7308",
-        "https://anisearch.com/anime/7570",
-        "https://anisearch.com/anime/7851",
-        "https://anisearch.com/anime/8050",
         "https://anisearch.com/anime/9808",
         "https://kitsu.io/anime/12677",
         "https://kitsu.io/anime/8514",
@@ -380,9 +424,11 @@
         "female harem",
         "harem",
         "hero of strong character",
+        "heterosexual",
         "kuudere",
         "magic",
         "martial arts",
+        "mythology",
         "novel",
         "nudity",
         "present",
@@ -392,6 +438,7 @@
         "slapstick",
         "super power",
         "swords & co",
+        "tomboy",
         "verbal comedy"
       ],
       "id": "https://myanimelist.net/anime/32215"
@@ -420,67 +467,6 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/kado-the-right-answer-ninovo"
-      ],
-      "title": "KADO: The Right Answer - Ninovo",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2017
-      },
-      "picture": "https://www.anime-planet.com/images/anime/screenshots/kado-the-right-answer-ninovo-8718-1.jpg",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/kado-the-right-answer-ninovo-1-190x268.jpg?t=1625897697",
-      "synonyms": [
-        "Seikaisuru Kado: Ninovo"
-      ],
-      "relations": [
-        "https://anime-planet.com/anime/kado-beyond-information",
-        "https://anime-planet.com/anime/kado-the-right-answer",
-        "https://anime-planet.com/anime/kado-the-right-answer-ekwari"
-      ],
-      "tags": [
-        "cg animation",
-        "drama",
-        "original work",
-        "political",
-        "sci fi"
-      ],
-      "id": "https://anime-planet.com/anime/kado-the-right-answer-ninovo"
-    },
-    {
-      "sources": [
-        "https://anidb.net/anime/3523",
-        "https://anisearch.com/anime/414"
-      ],
-      "title": "Kaze o Nuke!",
-      "type": "OVA",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 1988
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/0/414.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/0/414.webp",
-      "synonyms": [
-        "Kaze wo Nuke!",
-        "Ride the Wind",
-        "風を抜け!",
-        "風を抜け！"
-      ],
-      "relations": [],
-      "tags": [
-        "manga",
-        "motorsport",
-        "shounen",
-        "sports"
-      ],
-      "id": "https://anisearch.com/anime/414"
-    },
-    {
-      "sources": [
         "https://anidb.net/anime/15578",
         "https://anilist.co/anime/119056",
         "https://anime-planet.com/anime/she-professed-herself-pupil-of-the-wise-man",
@@ -493,7 +479,7 @@
       "title": "Kenja no Deshi wo Nanoru Kenja",
       "type": "TV",
       "episodes": 12,
-      "status": "ONGOING",
+      "status": "FINISHED",
       "animeSeason": {
         "season": "WINTER",
         "year": 2022
@@ -511,6 +497,7 @@
         "ฉันเป็นศิษย์จอมปราชญ์จริงๆ นะ",
         "自称贤者弟子的贤者",
         "自稱賢者弟子的賢者",
+        "賢でし",
         "賢者の弟子を名乗る賢者"
       ],
       "relations": [],
@@ -529,6 +516,7 @@
         "heroine of strong character",
         "isekai",
         "magic",
+        "magical sex shift",
         "mmorpg",
         "monsters",
         "novel",
@@ -575,13 +563,14 @@
         "https://anidb.net/anime/13861",
         "https://anilist.co/anime/103720",
         "https://anime-planet.com/anime/kirin-the-noop",
+        "https://anisearch.com/anime/13582",
         "https://kitsu.io/anime/40818",
         "https://myanimelist.net/anime/35694",
         "https://notify.moe/anime/XgIO2Kimg"
       ],
       "title": "Kirin the Noop",
       "type": "TV",
-      "episodes": 5,
+      "episodes": 6,
       "status": "ONGOING",
       "animeSeason": {
         "season": "WINTER",
@@ -597,6 +586,8 @@
         "adventure",
         "animal protagonists",
         "family friendly",
+        "kids",
+        "music",
         "non-human protagonists",
         "short episodes"
       ],
@@ -635,6 +626,7 @@
       ],
       "relations": [],
       "tags": [
+        "adult cast",
         "based on a novel",
         "boarding house",
         "classic literature",
@@ -661,60 +653,6 @@
         "writing"
       ],
       "id": "https://myanimelist.net/anime/39582"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/6051"
-      ],
-      "title": "Kobo-chan Special: Yakusoku no Magic Day",
-      "type": "TV",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SUMMER",
-        "year": 1998
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/6/6051.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/6/6051.webp",
-      "synonyms": [
-        "コボちゃんスペシャル 約束のマジックディ"
-      ],
-      "relations": [],
-      "tags": [
-        "comedy"
-      ],
-      "id": "https://anisearch.com/anime/6051"
-    },
-    {
-      "sources": [
-        "https://livechart.me/anime/1821"
-      ],
-      "title": "Kyoukai no Rinne 2nd Season",
-      "type": "TV",
-      "episodes": 25,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2016
-      },
-      "picture": "https://u.livechart.me/anime/1821/poster_image/cb3e4bca2fe631ffebfdc2c2553fdb01.png?style=large&format=jpg",
-      "thumbnail": "https://u.livechart.me/anime/1821/poster_image/cb3e4bca2fe631ffebfdc2c2553fdb01.png?style=small&format=jpg",
-      "synonyms": [
-        "Rinne of the Boundary 2nd Season",
-        "境界のRINNE 第2期"
-      ],
-      "relations": [
-        "https://livechart.me/anime/1295",
-        "https://livechart.me/anime/2342"
-      ],
-      "tags": [
-        "comedy",
-        "romance",
-        "school",
-        "shounen",
-        "supernatural"
-      ],
-      "id": "https://livechart.me/anime/1821"
     },
     {
       "sources": [
@@ -745,12 +683,14 @@
         "dancing",
         "kids",
         "minna no uta",
-        "music"
+        "music",
+        "performing arts"
       ],
       "id": "https://myanimelist.net/anime/39896"
     },
     {
       "sources": [
+        "https://anisearch.com/anime/12133",
         "https://kitsu.io/anime/13296",
         "https://notify.moe/anime/hoV7hFiiR"
       ],
@@ -765,20 +705,34 @@
       "picture": "https://media.kitsu.io/anime/poster_images/13296/small.jpg",
       "thumbnail": "https://media.kitsu.io/anime/poster_images/13296/tiny.jpg",
       "synonyms": [
-        "Miraculous: Tales of Ladybug and Cat Noir Christmas Special"
+        "Lady Bug Christmas Special",
+        "Lady Bug: Santa Claws",
+        "Miraculous Ladybug: A Christmas Special / Santa Claws",
+        "Miraculous, les aventures de Ladybug et Chat Noir: Pire Noël",
+        "Miraculous: Babbo Mostro",
+        "Miraculous: Eine böse Weihnachtsüberraschung",
+        "Miraculous: Tales of Ladybug and Cat Noir Christmas Special",
+        "레이디버그 Christmas Special"
       ],
       "relations": [
+        "https://anisearch.com/anime/11124",
         "https://kitsu.io/anime/11572",
         "https://notify.moe/anime/vgEjpKimg"
       ],
       "tags": [
         "action",
+        "action comedy",
         "adventure",
         "anime influenced",
+        "cg-anime",
         "comedy",
+        "fantasy",
         "henshin",
+        "heroine of strong character",
         "magical girl",
+        "present",
         "romance",
+        "slapstick",
         "super power"
       ],
       "id": "https://kitsu.io/anime/13296"
@@ -847,32 +801,6 @@
     },
     {
       "sources": [
-        "https://myanimelist.net/anime/46011"
-      ],
-      "title": "Nan Nan Mao He Jing Jing Shu Zhi Zhengyi De Huhuan",
-      "type": "TV",
-      "episodes": 20,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "南南猫和京京鼠之正义的呼唤"
-      ],
-      "relations": [
-        "https://myanimelist.net/anime/46010",
-        "https://myanimelist.net/anime/46012"
-      ],
-      "tags": [
-        "kids"
-      ],
-      "id": "https://myanimelist.net/anime/46011"
-    },
-    {
-      "sources": [
         "https://kitsu.io/anime/41047",
         "https://myanimelist.net/anime/37335",
         "https://notify.moe/anime/_vWF2Kiig"
@@ -903,11 +831,63 @@
     },
     {
       "sources": [
+        "https://anidb.net/anime/17320",
+        "https://anilist.co/anime/147642",
+        "https://anime-planet.com/anime/the-unwanted-undead-adventurer",
+        "https://anisearch.com/anime/17302",
+        "https://kitsu.io/anime/46059",
+        "https://livechart.me/anime/11186",
+        "https://myanimelist.net/anime/51648",
+        "https://notify.moe/anime/UmgDGkQnR"
+      ],
+      "title": "Nozomanu Fushi no Boukensha",
+      "type": "TV",
+      "episodes": 12,
+      "status": "UPCOMING",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": null
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1126/122951.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1126/122951t.jpg",
+      "synonyms": [
+        "Nozomanu Fushi no Bōkensha",
+        "The Unwanted Immortal Adventurer",
+        "The Unwanted Undead Adventurer",
+        "เส้นทางพลิกผันชองราชันอมตะ",
+        "望まぬ不死の冒険者"
+      ],
+      "relations": [],
+      "tags": [
+        "action",
+        "adventure",
+        "alternative world",
+        "based on a light novel",
+        "drama",
+        "dungeon",
+        "fantasy",
+        "magic",
+        "male protagonist",
+        "monster boy",
+        "monsters",
+        "reincarnation",
+        "skeleton",
+        "skeletons",
+        "time skip",
+        "vampire",
+        "weak to strong",
+        "zombie"
+      ],
+      "id": "https://myanimelist.net/anime/51648"
+    },
+    {
+      "sources": [
         "https://anilist.co/anime/142962",
+        "https://anime-planet.com/anime/afterglow-one-of-us",
         "https://anisearch.com/anime/15702",
         "https://myanimelist.net/anime/45108"
       ],
-      "title": "ONE OF US",
+      "title": "One of Us",
       "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
@@ -919,13 +899,13 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1959/110819t.jpg",
       "synonyms": [
         "Afterglow - One of Us",
-        "One of Us"
+        "Afterglow: ONE OF US",
+        "ONE OF US"
       ],
       "relations": [
         "https://anilist.co/anime/101633",
-        "https://myanimelist.net/anime/33573",
-        "https://myanimelist.net/anime/36921",
-        "https://myanimelist.net/anime/38392"
+        "https://anisearch.com/anime/11563",
+        "https://myanimelist.net/anime/33573"
       ],
       "tags": [
         "band",
@@ -956,14 +936,8 @@
         "鬼父 Re-birth"
       ],
       "relations": [
-        "https://anisearch.com/anime/10075",
-        "https://anisearch.com/anime/10459",
-        "https://anisearch.com/anime/10936",
         "https://anisearch.com/anime/5503",
-        "https://anisearch.com/anime/6402",
         "https://anisearch.com/anime/7419",
-        "https://anisearch.com/anime/8989",
-        "https://anisearch.com/anime/9079",
         "https://myanimelist.net/anime/11879",
         "https://myanimelist.net/anime/6893"
       ],
@@ -982,6 +956,7 @@
     },
     {
       "sources": [
+        "https://anisearch.com/anime/16854",
         "https://kitsu.io/anime/13735",
         "https://notify.moe/anime/3kiShFmmR"
       ],
@@ -995,7 +970,13 @@
       },
       "picture": "https://media.kitsu.io/anime/poster_images/13735/small.jpg",
       "thumbnail": "https://media.kitsu.io/anime/poster_images/13735/tiny.jpg",
-      "synonyms": [],
+      "synonyms": [
+        "Doomfist Origin Story",
+        "Hintergrundgeschichte von Doomfist",
+        "Hui Mie Quan Wang De Bei Jing Gu Shi",
+        "Huimie Quanwang De Beijing Gushi",
+        "毀滅拳王的背景故事"
+      ],
       "relations": [],
       "tags": [
         "action",
@@ -1010,6 +991,46 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/131142",
+        "https://anime-planet.com/anime/towa-tokoyami-palette",
+        "https://kitsu.io/anime/44182",
+        "https://myanimelist.net/anime/51503"
+      ],
+      "title": "Palette",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2021
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1474/122223.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1474/122223t.jpg",
+      "synonyms": [
+        "Towa Tokoyami: Palette",
+        "常闇トワ"
+      ],
+      "relations": [
+        "https://anilist.co/anime/118123",
+        "https://kitsu.io/anime/43740",
+        "https://myanimelist.net/anime/44042"
+      ],
+      "tags": [
+        "amnesia",
+        "angels",
+        "cosmic horror",
+        "demons",
+        "idol",
+        "magic",
+        "music",
+        "virtual world",
+        "vtuber",
+        "vtubers"
+      ],
+      "id": "https://myanimelist.net/anime/51503"
+    },
+    {
+      "sources": [
         "https://anisearch.com/anime/14946"
       ],
       "title": "Secret Jouju: Byeorui Yeosin Season 2",
@@ -1020,8 +1041,8 @@
         "season": "FALL",
         "year": 2019
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/14/14946.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/14/14946.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/14/14946_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/14/14946.webp",
       "synonyms": [
         "New Secret Jouju Season 2",
         "시크릿 쥬쥬 별의 여신 시즌2"
@@ -1039,7 +1060,7 @@
       "sources": [
         "https://anilist.co/anime/142013",
         "https://anime-planet.com/anime/shen-bi-ma-liang",
-        "https://myanimelist.net/anime/44858",
+        "https://anisearch.com/anime/17045",
         "https://myanimelist.net/anime/49143"
       ],
       "title": "Shen Bi Ma Liang",
@@ -1055,14 +1076,18 @@
       "synonyms": [
         "Shen Bi Maliang",
         "Shenbi Ma Liang",
+        "Shenbi Maliang",
         "The Magic Brush",
         "The Magical Brush",
         "神笔马良"
       ],
-      "relations": [],
+      "relations": [
+        "https://anilist.co/anime/153734"
+      ],
       "tags": [
         "action",
         "adventure",
+        "cg-anime",
         "chinese animation",
         "comedy",
         "family friendly",
@@ -1074,6 +1099,7 @@
     {
       "sources": [
         "https://anilist.co/anime/114893",
+        "https://anime-planet.com/anime/zamagi-shocking-black",
         "https://myanimelist.net/anime/42995"
       ],
       "title": "Shocking Black",
@@ -1088,6 +1114,7 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1647/109567t.jpg",
       "synonyms": [
         "SHOCKING BLACK",
+        "Zamagi: Shocking Black",
         "ショッキングブラック"
       ],
       "relations": [],
@@ -1125,7 +1152,8 @@
         "The Doraemons: Goal! Goal! Goal!",
         "The Doraemons: Goal! Goal! Goal!!",
         "ザ☆ドラえもんズ ゴール! ゴール! ゴール!!",
-        "ザ☆ドラえもんズ ゴール！ゴール！ゴール！！"
+        "ザ☆ドラえもんズ ゴール！ゴール！ゴール！！",
+        "哆啦A梦七小子 GOAL!GOAL!GOAL!!"
       ],
       "relations": [
         "https://anidb.net/anime/1078",
@@ -1146,7 +1174,23 @@
         "https://anime-planet.com/anime/the-doraemons-kaitou-dorapan-nazo-no-chousenjou",
         "https://anime-planet.com/anime/the-doraemons-mushimushi-pyonpyon-daisakusen",
         "https://anime-planet.com/anime/the-doraemons-strange-sweets-strange",
+        "https://anisearch.com/anime/5586",
         "https://kitsu.io/anime/2419",
+        "https://livechart.me/anime/5614",
+        "https://livechart.me/anime/6575",
+        "https://livechart.me/anime/6880",
+        "https://livechart.me/anime/7693",
+        "https://livechart.me/anime/8740",
+        "https://livechart.me/anime/8868",
+        "https://livechart.me/anime/8871",
+        "https://livechart.me/anime/8877",
+        "https://livechart.me/anime/8878",
+        "https://livechart.me/anime/8884",
+        "https://livechart.me/anime/8897",
+        "https://livechart.me/anime/8900",
+        "https://livechart.me/anime/8901",
+        "https://livechart.me/anime/8902",
+        "https://livechart.me/anime/8998",
         "https://myanimelist.net/anime/2655",
         "https://notify.moe/anime/9HbscFimR"
       ],
@@ -1173,7 +1217,8 @@
         "shounen",
         "slapstick",
         "soccer",
-        "sports"
+        "sports",
+        "team sports"
       ],
       "id": "https://myanimelist.net/anime/2631"
     },
@@ -1199,7 +1244,10 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1276/104362.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1276/104362t.jpg",
       "synonyms": [
+        "Y School Heroes",
         "Yo-kai Gakuen Y: Encounter With N",
+        "Yo-kai Watch Jam: Yo-kai Academy Y",
+        "Yokai Watch Jam: Yokai Academy Y",
         "Youkai Gakuen Y: N to no Souguu",
         "Yōkai Gakuen Y: To no Sōgu",
         "妖怪ウォッチJam 妖怪学園Y Nとの遭遇",
@@ -1208,10 +1256,22 @@
       ],
       "relations": [
         "https://anidb.net/anime/14754",
+        "https://anidb.net/anime/9930",
         "https://anilist.co/anime/113273",
         "https://anime-planet.com/anime/youkai-watch-movie-6-youkai-gakuen-y-neko-wa-hero-ni-nareru-ka",
         "https://anisearch.com/anime/14634",
         "https://kitsu.io/anime/8010",
+        "https://livechart.me/anime/10436",
+        "https://livechart.me/anime/11638",
+        "https://livechart.me/anime/1283",
+        "https://livechart.me/anime/1944",
+        "https://livechart.me/anime/222",
+        "https://livechart.me/anime/2440",
+        "https://livechart.me/anime/3102",
+        "https://livechart.me/anime/3339",
+        "https://livechart.me/anime/618",
+        "https://livechart.me/anime/9229",
+        "https://livechart.me/anime/9355",
         "https://myanimelist.net/anime/19157",
         "https://myanimelist.net/anime/39529",
         "https://notify.moe/anime/LEThpFimR",
@@ -1227,6 +1287,7 @@
         "henshin",
         "japanese mythology",
         "kids",
+        "mythology",
         "school",
         "school life",
         "sci fi",
@@ -1277,6 +1338,7 @@
         "https://anilist.co/anime/97858",
         "https://anime-planet.com/anime/yuuki-yuuna-is-a-hero",
         "https://anime-planet.com/anime/yuuki-yuuna-is-a-hero-the-hero-chapter",
+        "https://anisearch.com/anime/11966",
         "https://kitsu.io/anime/12678",
         "https://kitsu.io/anime/13125",
         "https://kitsu.io/anime/14028",
@@ -1295,9 +1357,9 @@
         "based on a manga",
         "chibi",
         "comedy",
+        "episodic",
         "fantasy",
         "friendship",
-        "henshin heroes",
         "magic",
         "magical girl",
         "mahou shoujo",
@@ -1315,34 +1377,6 @@
         "slice of life"
       ],
       "id": "https://myanimelist.net/anime/34394"
-    },
-    {
-      "sources": [
-        "https://anilist.co/anime/129365",
-        "https://anime-planet.com/anime/zhen-gongfu-aoyun-zai-wo-jia"
-      ],
-      "title": "Zhen Gongfu: Aoyun Zai Wo Jia",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2008
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/zhen-gongfu-aoyun-zai-wo-jia-1.jpg?t=1625792688",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/zhen-gongfu-aoyun-zai-wo-jia-1-190x266.jpg?t=1625908998",
-      "synonyms": [
-        "Olimpics Is In My Family",
-        "真功夫之奥运在我家"
-      ],
-      "relations": [
-        "https://anilist.co/anime/129358"
-      ],
-      "tags": [
-        "chinese animation",
-        "comedy"
-      ],
-      "id": "https://anime-planet.com/anime/zhen-gongfu-aoyun-zai-wo-jia"
     }
   ]
 }

@@ -2,30 +2,89 @@
   "data": [
     {
       "sources": [
-        "https://anime-planet.com/anime/afterglow-lost-one-no-goukoku"
+        "https://anime-planet.com/anime/afterglow-lost-one-no-goukoku",
+        "https://kitsu.io/anime/44351"
       ],
       "title": "Afterglow: Lost One no Goukoku",
       "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "SUMMER",
         "year": 2019
       },
       "picture": "https://cdn.anime-planet.com/anime/primary/afterglow-lost-one-no-goukoku-1.webp?t=1628016527",
       "thumbnail": "https://cdn.anime-planet.com/anime/primary/afterglow-lost-one-no-goukoku-1-285x400.webp?t=1628016527",
-      "synonyms": [],
+      "synonyms": [
+        "BanG Dream! x Hatsune Miku",
+        "Lost One no Goukoku wo Utattemita",
+        "Lost One's Weeping",
+        "ロストワンの号哭を歌ってみた"
+      ],
       "relations": [
         "https://anime-planet.com/anime/bang-dream",
         "https://anime-planet.com/anime/hello-happy-world-alien-alien",
         "https://anime-planet.com/anime/neru-lost-ones-weeping",
         "https://anime-planet.com/anime/pastel-palettes-karakuri-pierrot",
-        "https://anime-planet.com/anime/poppin-party-romeo-to-cinderella"
+        "https://anime-planet.com/anime/poppin-party-romeo-to-cinderella",
+        "https://kitsu.io/anime/12330",
+        "https://kitsu.io/anime/42176"
       ],
       "tags": [
-        "idols"
+        "idol",
+        "idols",
+        "music"
       ],
       "id": "https://anime-planet.com/anime/afterglow-lost-one-no-goukoku"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/alan-kwan-destinesia"
+      ],
+      "title": "Alan Kwan: Destinesia",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2021
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/alan-kwan-destinesia-1.webp?t=1661454450",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/alan-kwan-destinesia-1-285x399.webp?t=1661454450",
+      "synonyms": [],
+      "relations": [
+        "https://anime-planet.com/anime/another-world-2019"
+      ],
+      "tags": [
+        "chinese animation",
+        "promotional",
+        "supernatural"
+      ],
+      "id": "https://anime-planet.com/anime/alan-kwan-destinesia"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/alienhuman"
+      ],
+      "title": "Alienhuman",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2022
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/alienhuman-1.webp?t=1670025464",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/alienhuman-1-285x399.webp?t=1670025464",
+      "synonyms": [
+        "Uchuujingen"
+      ],
+      "relations": [],
+      "tags": [
+        "aliens",
+        "shorts"
+      ],
+      "id": "https://anime-planet.com/anime/alienhuman"
     },
     {
       "sources": [
@@ -60,7 +119,8 @@
         "https://notify.moe/anime/Qmyf5Kmmg"
       ],
       "tags": [
-        "comedy"
+        "comedy",
+        "shoujo"
       ],
       "id": "https://myanimelist.net/anime/6107"
     },
@@ -99,16 +159,20 @@
         "drama",
         "earth",
         "fantasy",
+        "male protagonist",
         "manga",
         "nudity",
         "ocean",
         "present",
+        "primarily adult cast",
         "romance",
         "romantic drama",
+        "rural",
         "scuba diving",
         "seinen",
         "slice of life",
-        "sports"
+        "sports",
+        "super power"
       ],
       "id": "https://myanimelist.net/anime/5904"
     },
@@ -168,27 +232,38 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/dota-dragons-blood-2nd-season"
+        "https://anime-planet.com/anime/dota-dragons-blood-2nd-season",
+        "https://kitsu.io/anime/44413"
       ],
       "title": "DOTA: Dragon's Blood 2nd Season",
       "type": "ONA",
-      "episodes": 0,
-      "status": "UPCOMING",
+      "episodes": 8,
+      "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
+        "season": "WINTER",
+        "year": 2022
       },
-      "picture": "https://anime-planet.com/images/anime/covers/16960.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/16960.jpg",
+      "picture": "https://cdn.anime-planet.com/anime/primary/dota-dragons-blood-2nd-season-1.jpg?t=1628242294",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/dota-dragons-blood-2nd-season-1-285x399.jpg?t=1628242294",
       "synonyms": [
-        "DOTA: Yong-ui Pi 2nd Season"
+        "DOTA: Dragon's Blood Book II",
+        "DOTA: Yong-ui Pi 2nd Season",
+        "Dragon's Blood Book II"
       ],
       "relations": [
-        "https://anime-planet.com/anime/dota-dragons-blood"
+        "https://anime-planet.com/anime/dota-dragons-blood",
+        "https://anime-planet.com/anime/dota-dragons-blood-3rd-season",
+        "https://kitsu.io/anime/44087",
+        "https://kitsu.io/anime/46257"
       ],
       "tags": [
         "action",
+        "adventure",
+        "anime influenced",
         "based on a video game",
+        "body sharing",
+        "dragon",
+        "dragons",
         "fantasy",
         "korean animation"
       ],
@@ -218,6 +293,7 @@
         "Chrám Dodžodži",
         "Dojoji",
         "Dojoji Temple",
+        "Doujou-ji",
         "Doujouji Temple",
         "道成寺"
       ],
@@ -226,6 +302,7 @@
       ],
       "tags": [
         "adventure",
+        "award winning",
         "demons",
         "dragons",
         "drama",
@@ -248,6 +325,8 @@
     {
       "sources": [
         "https://anilist.co/anime/139755",
+        "https://anime-planet.com/anime/space-shower-tv-factory-id",
+        "https://kitsu.io/anime/47143",
         "https://myanimelist.net/anime/38376"
       ],
       "title": "Factory",
@@ -262,13 +341,108 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1352/94786t.jpg",
       "synonyms": [
         "FACTORY",
-        "SPACE SHOWER TV Canvas 2.0.0"
+        "SPACE SHOWER TV Canvas 2.0.0",
+        "SPACE SHOWER TV Canvas_2.0.0",
+        "Space Shower TV: Factory ID"
       ],
       "relations": [],
       "tags": [
-        "avant garde"
+        "abstract",
+        "avant garde",
+        "dementia",
+        "no dialogue",
+        "promotional",
+        "short episodes",
+        "station identifications"
       ],
       "id": "https://myanimelist.net/anime/38376"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/156062",
+        "https://anime-planet.com/anime/fanren-xiu-xian-chuan-xing-hai-fei-chi"
+      ],
+      "title": "Fanren Xiu Xian Chuan: Xing Hai Fei Chi",
+      "type": "ONA",
+      "episodes": 0,
+      "status": "UPCOMING",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": null
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/fanren-xiu-xian-chuan-xing-hai-fei-chi-1.webp?t=1677137153",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/fanren-xiu-xian-chuan-xing-hai-fei-chi-1-285x400.webp?t=1677137153",
+      "synonyms": [
+        "Fanren Xiu Xian Zhuan: Xing Hai Fei Chi",
+        "凡人修仙传 星海飞驰",
+        "凡人修仙传第二季年番"
+      ],
+      "relations": [
+        "https://anilist.co/anime/153200",
+        "https://anime-planet.com/anime/fanren-xiu-xian-chuan-chu-ru-xing-hai"
+      ],
+      "tags": [
+        "action",
+        "adventure",
+        "cg animation",
+        "chinese animation",
+        "fantasy",
+        "full cgi"
+      ],
+      "id": "https://anime-planet.com/anime/fanren-xiu-xian-chuan-xing-hai-fei-chi"
+    },
+    {
+      "sources": [
+        "https://anidb.net/anime/16863",
+        "https://anisearch.com/anime/17445",
+        "https://myanimelist.net/anime/51805",
+        "https://notify.moe/anime/7trePLu7g"
+      ],
+      "title": "Ginga Eiyuu Densetsu: Die Neue These - Sakubou",
+      "type": "MOVIE",
+      "episodes": 12,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SUMMER",
+        "year": 2022
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1700/123762.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1700/123762t.jpg",
+      "synonyms": [
+        "Ginga Eiyuu Densetsu: Die Neue These 4th Season",
+        "Ginga Eiyuu Densetsu: Die Neue These Fourth Season",
+        "Ginga Eiyū Densetsu: Die Neue These - Sakubō",
+        "Legend of the Galactic Heroes: Die Neue These",
+        "Legend of the Galactic Heroes: Die Neue These (2022)",
+        "Legend of the Galactic Heroes: Die Neue These - Intrigue",
+        "Legend of the Galactic Heroes: Die Neue These - Season 4",
+        "Les Héros de la Galaxie : Die Neue These - Saison 4",
+        "ged s4",
+        "銀河英雄伝説 Die Neue These 策謀",
+        "银河英雄传说：全新命题 策谋"
+      ],
+      "relations": [
+        "https://anidb.net/anime/15728",
+        "https://anisearch.com/anime/15720",
+        "https://myanimelist.net/anime/42886",
+        "https://myanimelist.net/anime/820",
+        "https://notify.moe/anime/00Njybvng"
+      ],
+      "tags": [
+        "action",
+        "adult cast",
+        "conspiracy",
+        "drama",
+        "military",
+        "novel",
+        "sci-fi",
+        "science fiction",
+        "seinen",
+        "space",
+        "space travel",
+        "violence"
+      ],
+      "id": "https://myanimelist.net/anime/51805"
     },
     {
       "sources": [
@@ -321,8 +495,8 @@
       "episodes": 3,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "FALL",
-        "year": 2014
+        "season": "UNDEFINED",
+        "year": null
       },
       "picture": "https://u.livechart.me/anime/550/poster_image/9cd73741d1d68986e1d2d37caf927027.jpg?style=large&format=jpg",
       "thumbnail": "https://u.livechart.me/anime/550/poster_image/9cd73741d1d68986e1d2d37caf927027.jpg?style=small&format=jpg",
@@ -410,6 +584,7 @@
         "https://anidb.net/anime/14122",
         "https://anilist.co/anime/124449",
         "https://anime-planet.com/anime/hong-mao-lan-tu-a-muxing",
+        "https://anisearch.com/anime/14134",
         "https://myanimelist.net/anime/39130"
       ],
       "title": "Hong Mao Lan Tu: A Muxing",
@@ -424,6 +599,7 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1354/98702t.jpg",
       "synonyms": [
         "Homer and Landau Jupiter",
+        "Hong Mao Lan Tu A Mu Xing",
         "Hong Mao Lan Tu A Muxing",
         "Hongmao and Lantu Side Story: A-Mu",
         "Howie & Landau Jupiter",
@@ -545,58 +721,6 @@
     },
     {
       "sources": [
-        "https://anidb.net/anime/7590",
-        "https://anilist.co/anime/14059",
-        "https://anisearch.com/anime/6274",
-        "https://notify.moe/anime/ZDevpKmmg"
-      ],
-      "title": "Kimagure Orange Road: Soushuuhen Tanabata Special",
-      "type": "OVA",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 1987
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/6/6274.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/6/6274.webp",
-      "synonyms": [
-        "Kimagure Orange Road: Sōshūhen Tanabata Special",
-        "Kimagure Orange★Road: Soushuuhen Tanabata Special",
-        "Kimagure Orange☆Road: Soushuuhen Tanabata Special",
-        "きまぐれオレンジ★ロード 総集編 七夕スペシャル"
-      ],
-      "relations": [
-        "https://anidb.net/anime/153",
-        "https://anilist.co/anime/1087",
-        "https://anisearch.com/anime/1641",
-        "https://anisearch.com/anime/1717",
-        "https://anisearch.com/anime/2103",
-        "https://anisearch.com/anime/2129",
-        "https://anisearch.com/anime/2636",
-        "https://anisearch.com/anime/2879",
-        "https://anisearch.com/anime/2989",
-        "https://anisearch.com/anime/341",
-        "https://anisearch.com/anime/3794",
-        "https://anisearch.com/anime/391",
-        "https://anisearch.com/anime/4710",
-        "https://anisearch.com/anime/6273",
-        "https://notify.moe/anime/M7_15FmiR"
-      ],
-      "tags": [
-        "comedy",
-        "contemporary fantasy",
-        "manga",
-        "present",
-        "psi-powers",
-        "romance",
-        "romantic comedy",
-        "shounen"
-      ],
-      "id": "https://anisearch.com/anime/6274"
-    },
-    {
-      "sources": [
         "https://anilist.co/anime/101704"
       ],
       "title": "Kiss and Cry",
@@ -620,50 +744,45 @@
     },
     {
       "sources": [
-        "https://kitsu.io/anime/44997"
+        "https://anidb.net/anime/11884",
+        "https://anilist.co/anime/113333",
+        "https://anime-planet.com/anime/meow-no-hoshi",
+        "https://anisearch.com/anime/11357",
+        "https://kitsu.io/anime/11798",
+        "https://myanimelist.net/anime/53182"
       ],
-      "title": "Matsu suguna michi de samishi",
+      "title": "Meow no Hoshi",
       "type": "MOVIE",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
         "season": "WINTER",
-        "year": 2012
+        "year": 1984
       },
-      "picture": "https://media.kitsu.io/anime/poster_images/44997/small.jpg",
-      "thumbnail": "https://media.kitsu.io/anime/poster_images/44997/tiny.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1746/128590.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1746/128590t.jpg",
       "synonyms": [
-        "I am alone, walking on the straight road",
-        "まつすぐな道でさみしい"
+        "Meow's Star",
+        "Meow`s Star",
+        "Myau no Hoshi",
+        "ミャウの星"
       ],
       "relations": [],
       "tags": [
-        "psychological"
+        "animal protagonists",
+        "cats",
+        "drama",
+        "melancholy",
+        "mina",
+        "new",
+        "non-human protagonists",
+        "original work",
+        "pets",
+        "short movie",
+        "slice of life",
+        "supernatural"
       ],
-      "id": "https://kitsu.io/anime/44997"
-    },
-    {
-      "sources": [
-        "https://anidb.net/anime/15087"
-      ],
-      "title": "Minami no Shima no Chiisana Hikouki Birdy",
-      "type": "TV",
-      "episodes": 105,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 2005
-      },
-      "picture": "https://cdn.anidb.net/images/main/238089.jpg",
-      "thumbnail": "https://cdn.anidb.net/images/main/238089.jpg-thumb.jpg",
-      "synonyms": [
-        "南の島の小さな飛行機 バーディー"
-      ],
-      "relations": [],
-      "tags": [
-        "short episodes"
-      ],
-      "id": "https://anidb.net/anime/15087"
+      "id": "https://myanimelist.net/anime/53182"
     },
     {
       "sources": [
@@ -681,6 +800,7 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1209/103774.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1209/103774t.jpg",
       "synonyms": [
+        "Real Erogame Situation!",
         "リアルエロゲシチュエーション! THE ANIMATION",
         "リアルエロゲシチュエーション！ THE ANIMATION"
       ],
@@ -699,9 +819,11 @@
         "hentai",
         "high school",
         "masturbation",
+        "oral",
         "outdoors",
         "present",
-        "school girl"
+        "school girl",
+        "threesome"
       ],
       "id": "https://myanimelist.net/anime/36737"
     },
@@ -727,6 +849,8 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/12/29597t.jpg",
       "synonyms": [
         "I Cavalieri dello Zodiaco: The Lost Canvas 2",
+        "Los Guerreros del Zodiaco: El lienzo perdido (Temporada 2)",
+        "Saint Seiya: THE LOST CANVAS - Meiou Shinwa 2",
         "Saint Seiya: The Lost Canvas (Season 2)",
         "Saint Seiya: The Lost Canvas (Staffel 2)",
         "Saint Seiya: The Lost Canvas - Meiou Shinwa 2nd Chapter",
@@ -748,23 +872,8 @@
         "https://anime-planet.com/anime/saint-seiya-the-hades-chapter-inferno",
         "https://anime-planet.com/anime/saint-seiya-the-hades-chapter-sanctuary",
         "https://anime-planet.com/anime/saint-seiya-the-lost-canvas-meiou-shinwa",
-        "https://anisearch.com/anime/10149",
-        "https://anisearch.com/anime/10186",
-        "https://anisearch.com/anime/10239",
-        "https://anisearch.com/anime/12143",
-        "https://anisearch.com/anime/12698",
-        "https://anisearch.com/anime/1454",
-        "https://anisearch.com/anime/1487",
-        "https://anisearch.com/anime/1923",
-        "https://anisearch.com/anime/2041",
-        "https://anisearch.com/anime/2108",
-        "https://anisearch.com/anime/2657",
-        "https://anisearch.com/anime/3026",
         "https://anisearch.com/anime/318",
-        "https://anisearch.com/anime/4632",
         "https://anisearch.com/anime/5190",
-        "https://anisearch.com/anime/6906",
-        "https://anisearch.com/anime/7598",
         "https://kitsu.io/anime/1129",
         "https://kitsu.io/anime/4458",
         "https://livechart.me/anime/5236",
@@ -845,6 +954,7 @@
         "https://anime-planet.com/anime/sengoku-basara-samurai-kings-2-dragon-and-tiger-oath-of-victory-souls-racing-towards-a-blazing-future",
         "https://anime-planet.com/anime/sengoku-basara-samurai-kings-clash-in-the-inland-sea-of-seto-fugaku-the-great-fire-belching-fortress-of-the-sea",
         "https://anime-planet.com/anime/sengoku-basara-samurai-kings-movie-the-last-party",
+        "https://anisearch.com/anime/6808",
         "https://kitsu.io/anime/5847",
         "https://livechart.me/anime/3809",
         "https://livechart.me/anime/4935",
@@ -917,6 +1027,7 @@
       "relations": [],
       "tags": [
         "animal protagonists",
+        "black and white",
         "dancing",
         "japanese anime classic collection",
         "kids",
@@ -931,6 +1042,7 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/shu-lao-san-jin-cheng-ji",
         "https://myanimelist.net/anime/44640"
       ],
       "title": "Shu Lao San Jin Cheng Ji",
@@ -939,51 +1051,57 @@
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2011
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1808/123059.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1808/123059t.jpg",
       "synonyms": [
         "鼠老三进城记"
       ],
       "relations": [
+        "https://anime-planet.com/anime/shu-lao-san-jin-cheng-ji-2",
         "https://myanimelist.net/anime/44641"
       ],
       "tags": [
         "adventure",
-        "fantasy"
+        "animal protagonists",
+        "anthropomorphic",
+        "chinese animation",
+        "fantasy",
+        "non-human protagonists",
+        "shorts"
       ],
       "id": "https://myanimelist.net/anime/44640"
     },
     {
       "sources": [
-        "https://kitsu.io/anime/43161"
+        "https://anidb.net/anime/17895",
+        "https://anisearch.com/anime/18258",
+        "https://livechart.me/anime/11847"
       ],
-      "title": "The Haunted House: The Sky Ghost VS Jormungandr",
-      "type": "MOVIE",
+      "title": "Tsuru ga Mau Yoru ni",
+      "type": "ONA",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
         "season": "WINTER",
-        "year": 2019
+        "year": 2023
       },
-      "picture": "https://media.kitsu.io/anime/poster_images/43161/small.jpg",
-      "thumbnail": "https://media.kitsu.io/anime/poster_images/43161/tiny.jpg",
+      "picture": "https://www.anisearch.com/images/anime/cover/18/18258_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/18/18258.webp",
       "synonyms": [
-        "신비아파트: 하늘도깨비 대 요르문간드"
+        "Wakate Animator Ikusei Project 2023",
+        "鶴が舞う夜に"
       ],
       "relations": [
-        "https://kitsu.io/anime/43160"
+        "https://livechart.me/anime/11846",
+        "https://livechart.me/anime/11848",
+        "https://livechart.me/anime/11849"
       ],
       "tags": [
-        "action",
-        "adventure",
-        "comedy",
-        "kids",
-        "mystery",
-        "supernatural"
+        "wakate animator ikusei project"
       ],
-      "id": "https://kitsu.io/anime/43161"
+      "id": "https://anisearch.com/anime/18258"
     },
     {
       "sources": [
@@ -1023,6 +1141,7 @@
         "https://anime-planet.com/anime/urusei-yatsura-the-obstacle-course-swim-meet",
         "https://kitsu.io/anime/1166",
         "https://livechart.me/anime/11005",
+        "https://livechart.me/anime/11333",
         "https://livechart.me/anime/4301",
         "https://livechart.me/anime/8215",
         "https://livechart.me/anime/8720",
@@ -1078,21 +1197,33 @@
         "Wanjie Duzun",
         "万界独尊"
       ],
-      "relations": [],
+      "relations": [
+        "https://anilist.co/anime/153777",
+        "https://anime-planet.com/anime/wan-jie-duzun-2nd-season",
+        "https://kitsu.io/anime/46412",
+        "https://myanimelist.net/anime/52765"
+      ],
       "tags": [
         "action",
+        "based on a web novel",
+        "cg animation",
         "chinese animation",
         "cultivation",
         "fantasy",
         "full cgi",
         "historical",
+        "male protagonist",
         "martial arts",
-        "short episodes"
+        "short episodes",
+        "wuxia"
       ],
       "id": "https://myanimelist.net/anime/48684"
     },
     {
       "sources": [
+        "https://anidb.net/anime/15315",
+        "https://anilist.co/anime/121179",
+        "https://anime-planet.com/anime/xiao-hua-xian-5",
         "https://myanimelist.net/anime/42373"
       ],
       "title": "Xiao Hua Xian 5th Season: Si Shi Huayu - Chun Xia",
@@ -1106,13 +1237,26 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1631/108511.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1631/108511t.jpg",
       "synonyms": [
-        "小花仙 第5季 四时花语 春夏"
+        "Xiao Hua Xian 5",
+        "Xiao Hua Xian 5 - Si Shi Huayu Chun Xia Part 1 Chun",
+        "Xiao Hua Xian 5: Sishi Hua Yu - Chun Xia 1: Chun",
+        "小花仙 第5季 四时花语 - 春夏 1: 春",
+        "小花仙 第5季 四时花语 春夏",
+        "小花仙第5季：四时花语 春夏 1: 春"
       ],
       "relations": [
+        "https://anidb.net/anime/15314",
+        "https://anilist.co/anime/121178",
+        "https://anime-planet.com/anime/xiao-hua-xian-4",
         "https://myanimelist.net/anime/42372"
       ],
       "tags": [
-        "kids"
+        "chinese animation",
+        "family friendly",
+        "fantasy",
+        "kids",
+        "magic",
+        "mahou shoujo"
       ],
       "id": "https://myanimelist.net/anime/42373"
     },
@@ -1121,49 +1265,72 @@
         "https://myanimelist.net/anime/47672"
       ],
       "title": "Xiaobing Yang Lai Xi",
-      "type": "TV",
+      "type": "ONA",
       "episodes": 52,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1371/131153.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1371/131153t.jpg",
       "synonyms": [
         "小兵杨来西"
       ],
       "relations": [],
       "tags": [
-        "historical"
+        "historical",
+        "kids"
       ],
       "id": "https://myanimelist.net/anime/47672"
     },
     {
       "sources": [
+        "https://anidb.net/anime/14171",
+        "https://anime-planet.com/anime/xiong-chu-mo-xiong-xiong-leyuan-2",
+        "https://anisearch.com/anime/15220",
         "https://myanimelist.net/anime/44135"
       ],
-      "title": "Xiong Chumo Zhi Xiongxiong Leyuan 2",
+      "title": "Xiong Chumo: Xiongxiong Leyuan 2",
       "type": "TV",
       "episodes": 52,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "SPRING",
         "year": 2018
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1455/122981.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1455/122981t.jpg",
       "synonyms": [
-        "熊出没之熊熊乐园2"
+        "Boonie Cubs 2",
+        "Xiong Chu Mo: Xiong Xiong Leyuan 2",
+        "Xiong Chumo Zhi Xiongxiong Leyuan 2",
+        "Xiong Xiong Le Yuan 2",
+        "Xiongxiong Leyuan 2",
+        "熊出没之熊熊乐园2",
+        "熊熊乐园 第二部",
+        "熊熊乐园2"
       ],
       "relations": [
+        "https://anime-planet.com/anime/boonie-cubs",
+        "https://anime-planet.com/anime/xiong-chumo-tanxian-riji-2",
+        "https://anisearch.com/anime/15219",
+        "https://anisearch.com/anime/15221",
         "https://myanimelist.net/anime/37102",
         "https://myanimelist.net/anime/44136"
       ],
       "tags": [
         "adventure",
+        "animal protagonists",
+        "bears",
+        "cg animation",
+        "cg-anime",
+        "chinese animation",
         "comedy",
-        "kids"
+        "forest",
+        "half-length episodes",
+        "kids",
+        "non-human protagonists"
       ],
       "id": "https://myanimelist.net/anime/44135"
     },
@@ -1202,7 +1369,7 @@
       "sources": [
         "https://myanimelist.net/anime/47009"
       ],
-      "title": "Zhongguo Huiben Jingdian Mingzhu Xilie Zhi Shouhui Shuihu",
+      "title": "Zhongguo Huiben Jingdian Mingzhu Xilie: Shouhui Shuihu",
       "type": "ONA",
       "episodes": 20,
       "status": "FINISHED",
@@ -1210,8 +1377,8 @@
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1537/130799.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1537/130799t.jpg",
       "synonyms": [
         "中国绘本经典名著系列之手绘水浒"
       ],
@@ -1223,6 +1390,7 @@
     },
     {
       "sources": [
+        "https://anidb.net/anime/14931",
         "https://anime-planet.com/anime/zhonghua-dizi-gui-2nd-season",
         "https://myanimelist.net/anime/47058"
       ],
@@ -1238,15 +1406,20 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1399/115513t.jpg",
       "synonyms": [
         "The Chinese Standards 2nd Season",
+        "The Chinese Standards Season 2",
+        "Zhonghua Dizi Gui 2",
+        "中华弟子规 第二季",
         "中华弟子规第二季"
       ],
       "relations": [
+        "https://anidb.net/anime/14930",
         "https://anime-planet.com/anime/zhonghua-dizi-gui",
         "https://myanimelist.net/anime/45688"
       ],
       "tags": [
         "chinese animation",
         "family friendly",
+        "half-length episodes",
         "kids"
       ],
       "id": "https://myanimelist.net/anime/47058"

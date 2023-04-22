@@ -2,51 +2,6 @@
   "data": [
     {
       "sources": [
-        "https://anisearch.com/anime/9476"
-      ],
-      "title": "Aa! Megami-sama!: Special",
-      "type": "SPECIAL",
-      "episodes": 2,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 2005
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/9/9476.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/9/9476.webp",
-      "synonyms": [
-        "Ah! My Goddess (Specials)",
-        "Ah! My Goddess Specials",
-        "Oh! My Goddess Specials",
-        "Ā! Megami-sama!: Special",
-        "ああっ女神さまっ スペシャル"
-      ],
-      "relations": [
-        "https://anisearch.com/anime/1278",
-        "https://anisearch.com/anime/2085",
-        "https://anisearch.com/anime/2497",
-        "https://anisearch.com/anime/4487",
-        "https://anisearch.com/anime/590",
-        "https://anisearch.com/anime/6520",
-        "https://anisearch.com/anime/9448",
-        "https://anisearch.com/anime/9910"
-      ],
-      "tags": [
-        "celestial beings",
-        "comedy",
-        "contemporary fantasy",
-        "demons",
-        "fantasy",
-        "magic",
-        "present",
-        "romance",
-        "romantic comedy",
-        "science-fiction"
-      ],
-      "id": "https://anisearch.com/anime/9476"
-    },
-    {
-      "sources": [
         "https://anime-planet.com/anime/afghanistan-paghman-mura-no-monogatari-boku-no-mura-ni-circus-ga-kita",
         "https://anisearch.com/anime/10677",
         "https://kitsu.io/anime/9181",
@@ -119,7 +74,8 @@
         "Batman: Ο Ιππότης της Γκόθαμ",
         "Бэтмен: Рыцарь Готэма",
         "แบทแมน: อัศวินแห่งก็อตแธม",
-        "バットマン ゴッサムナイト"
+        "バットマン ゴッサムナイト",
+        "蝙蝠侠：哥谭骑士"
       ],
       "relations": [
         "https://anidb.net/anime/13016",
@@ -128,6 +84,7 @@
         "https://anisearch.com/anime/12885",
         "https://kitsu.io/anime/10061",
         "https://kitsu.io/anime/13911",
+        "https://livechart.me/anime/2923",
         "https://myanimelist.net/anime/35219",
         "https://myanimelist.net/anime/36517",
         "https://notify.moe/anime/G-wS2KimR",
@@ -164,6 +121,7 @@
         "rural",
         "sci fi",
         "secret identity",
+        "skateboarding",
         "superhero",
         "superheroes",
         "supernatural drama",
@@ -203,7 +161,8 @@
         "https://anilist.co/anime/138985",
         "https://anilist.co/anime/21236",
         "https://anilist.co/anime/288",
-        "https://anilist.co/anime/5962"
+        "https://anilist.co/anime/5962",
+        "https://anisearch.com/anime/78"
       ],
       "tags": [
         "action",
@@ -227,6 +186,8 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/omoi-greenlights-serenade",
+        "https://kitsu.io/anime/47304",
         "https://myanimelist.net/anime/41308"
       ],
       "title": "Greenlights Serenade",
@@ -240,11 +201,13 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1891/106124.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1891/106124t.jpg",
       "synonyms": [
+        "Omoi: Greenlights Serenade",
         "グリーンライツ・セレナーデ"
       ],
       "relations": [],
       "tags": [
-        "music"
+        "music",
+        "vocaloid"
       ],
       "id": "https://myanimelist.net/anime/41308"
     },
@@ -273,6 +236,7 @@
         "Fighting Spirit: New Challenger",
         "HNI2",
         "Hajime no Ippo 2",
+        "Hajime no Ippo : New Challenger",
         "Hajime no Ippo New Series",
         "Hajime no Ippo Season II",
         "Hajime no Ippo: The Fighting! - New Challenger",
@@ -297,10 +261,7 @@
         "https://anime-planet.com/anime/hajime-no-ippo-rising",
         "https://anime-planet.com/anime/hajime-no-ippo-the-fighting",
         "https://anime-planet.com/anime/hajime-no-ippo-the-fighting-special",
-        "https://anisearch.com/anime/10921",
-        "https://anisearch.com/anime/1586",
         "https://anisearch.com/anime/2969",
-        "https://anisearch.com/anime/3028",
         "https://anisearch.com/anime/8832",
         "https://kitsu.io/anime/240",
         "https://kitsu.io/anime/7855",
@@ -320,6 +281,7 @@
         "asia",
         "based on a manga",
         "boxing",
+        "combat sports",
         "comedy",
         "drama",
         "earth",
@@ -342,6 +304,7 @@
     {
       "sources": [
         "https://anilist.co/anime/139266",
+        "https://anime-planet.com/anime/minna-no-uta-hana",
         "https://kitsu.io/anime/41746",
         "https://myanimelist.net/anime/37196"
       ],
@@ -358,11 +321,13 @@
       "synonyms": [
         "HANA",
         "HANA (Music)",
-        "Minna no Uta"
+        "Minna no Uta",
+        "Minna no Uta: Hana"
       ],
       "relations": [],
       "tags": [
         "kids",
+        "minna no uta",
         "music"
       ],
       "id": "https://myanimelist.net/anime/37196"
@@ -374,7 +339,7 @@
         "https://myanimelist.net/anime/39993"
       ],
       "title": "Isekai Quartet Relay PV",
-      "type": "SPECIAL",
+      "type": "ONA",
       "episodes": 4,
       "status": "FINISHED",
       "animeSeason": {
@@ -413,29 +378,7 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/137698"
-      ],
-      "title": "Kaiju Yi Zuo Shan",
-      "type": "ONA",
-      "episodes": 0,
-      "status": "UPCOMING",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137698-20LUE1d9U6gK.jpg",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137698-20LUE1d9U6gK.jpg",
-      "synonyms": [
-        "开局一座山"
-      ],
-      "relations": [],
-      "tags": [
-        "fantasy"
-      ],
-      "id": "https://anilist.co/anime/137698"
-    },
-    {
-      "sources": [
+        "https://anime-planet.com/anime/leyuan-shuang-bao",
         "https://myanimelist.net/anime/46039"
       ],
       "title": "Leyuan Shuang Bao",
@@ -444,16 +387,22 @@
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2005
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1251/127660.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1251/127660t.jpg",
       "synonyms": [
+        "Skipper & Skeeto",
         "乐园双宝"
       ],
       "relations": [],
       "tags": [
-        "kids"
+        "anthropomorphic",
+        "chinese animation",
+        "fantasy",
+        "kids",
+        "non-human protagonists",
+        "short episodes"
       ],
       "id": "https://myanimelist.net/anime/46039"
     },
@@ -480,6 +429,7 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1083/116746t.jpg",
       "synonyms": [
         "Litchi De Hikari Club",
+        "Litchi Hikari Club",
         "Litchi☆Hikari Club",
         "Lychee DE Hikari Club",
         "Lychee DE Light Club",
@@ -568,69 +518,6 @@
     },
     {
       "sources": [
-        "https://notify.moe/anime/9tJGhKmiR"
-      ],
-      "title": "Macross Δ: Delta Shou Gekijou",
-      "type": "SPECIAL",
-      "episodes": 9,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SUMMER",
-        "year": 2016
-      },
-      "picture": "https://media.notify.moe/images/anime/large/9tJGhKmiR.webp",
-      "thumbnail": "https://media.notify.moe/images/anime/small/9tJGhKmiR.webp",
-      "synonyms": [
-        "マクロスΔ「でるた小劇場」"
-      ],
-      "relations": [
-        "https://notify.moe/anime/IbLPtKimR"
-      ],
-      "tags": [
-        "comedy",
-        "sci-fi"
-      ],
-      "id": "https://notify.moe/anime/9tJGhKmiR"
-    },
-    {
-      "sources": [
-        "https://anidb.net/anime/9277",
-        "https://anisearch.com/anime/7919"
-      ],
-      "title": "Mahou Tsukai nara Miso o Kue!",
-      "type": "ONA",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2012
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/7/7919.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/7/7919.webp",
-      "synonyms": [
-        "Mahou Tsukai Nara Miso o Kue!",
-        "Mahou Tsukai nara Miso wo Kue!",
-        "Mahō Tsukai nara Miso o Kue!",
-        "魔法使いなら味噌を喰え!",
-        "魔法使いなら味噌を喰え！"
-      ],
-      "relations": [],
-      "tags": [
-        "action",
-        "action comedy",
-        "comedy",
-        "contemporary fantasy",
-        "ecchi",
-        "half-length episodes",
-        "magic",
-        "novel",
-        "pantsu",
-        "present"
-      ],
-      "id": "https://anisearch.com/anime/7919"
-    },
-    {
-      "sources": [
         "https://anidb.net/anime/15619",
         "https://anilist.co/anime/120608",
         "https://anime-planet.com/anime/the-dungeon-of-black-company",
@@ -653,6 +540,9 @@
       "synonyms": [
         "Meikyū Black Company",
         "The Dungeon of Black Company",
+        "mbc",
+        "เมคีว แบล็กคอมพานี",
+        "异世界迷宫黑心企业",
         "迷宮ブラックカンパニー"
       ],
       "relations": [
@@ -672,12 +562,14 @@
         "beastmen",
         "comedy",
         "crossdressing",
+        "daily life",
         "demon",
         "demons",
         "dragon",
         "dragons",
         "drama",
         "dungeon",
+        "economics",
         "elves",
         "fantasy",
         "fantasy world",
@@ -686,20 +578,23 @@
         "guns",
         "hero of strong character",
         "isekai",
-        "large breasts - deprecated",
+        "large breasts",
         "magic",
+        "male protagonist",
         "manga",
         "monster",
         "parallel world",
         "parody",
         "person in a strange world",
         "post-apocalyptic",
+        "revenge",
         "satire",
         "shounen",
         "slavery",
         "swords & co",
         "time skip",
         "tomboy",
+        "villainess",
         "work",
         "work life",
         "yandere"
@@ -736,10 +631,10 @@
         "https://anidb.net/anime/13997",
         "https://anilist.co/anime/18329",
         "https://anime-planet.com/anime/meoteoldosawa-ttomae",
-        "https://anisearch.com/anime/8618",
         "https://anisearch.com/anime/8635",
         "https://kitsu.io/anime/9757",
         "https://myanimelist.net/anime/18329",
+        "https://myanimelist.net/anime/48200",
         "https://notify.moe/anime/GqUYtFiig"
       ],
       "tags": [
@@ -747,6 +642,7 @@
         "adventure",
         "fantasy",
         "hand to hand combat",
+        "kids",
         "korean animation",
         "magic",
         "martial arts",
@@ -757,11 +653,12 @@
     },
     {
       "sources": [
+        "https://anisearch.com/anime/17058",
         "https://kitsu.io/anime/44435"
       ],
       "title": "Miraculous World",
       "type": "SPECIAL",
-      "episodes": 0,
+      "episodes": 1,
       "status": "ONGOING",
       "animeSeason": {
         "season": "FALL",
@@ -769,16 +666,30 @@
       },
       "picture": "https://media.kitsu.io/anime/poster_images/44435/small.jpg",
       "thumbnail": "https://media.kitsu.io/anime/poster_images/44435/tiny.jpg",
-      "synonyms": [],
+      "synonyms": [
+        "Ladybug in New York City",
+        "Miraculous New York",
+        "Miraculous World: New York, Hana Doen Yeongungdeul",
+        "Miraculous World: New York, United Heroez",
+        "미라큘러스 월드 : 뉴욕, 하나 된 영웅들"
+      ],
       "relations": [
+        "https://anisearch.com/anime/14481",
+        "https://anisearch.com/anime/16892",
         "https://kitsu.io/anime/42156"
       ],
       "tags": [
         "action",
+        "action comedy",
+        "adventure",
         "anime influenced",
+        "cg-anime",
         "comedy",
+        "fantasy",
         "henshin",
+        "heroine of strong character",
         "magical girl",
+        "present",
         "romance",
         "super power",
         "superhero"
@@ -829,6 +740,7 @@
         "https://anime-planet.com/anime/monster-strike-the-animation",
         "https://anime-planet.com/anime/monster-strike-the-fading-cosmos",
         "https://anime-planet.com/anime/monster-strike-the-long-awaited-utopia",
+        "https://anisearch.com/anime/13715",
         "https://livechart.me/anime/10164",
         "https://livechart.me/anime/1594",
         "https://livechart.me/anime/2261",
@@ -852,14 +764,15 @@
         "game",
         "gods",
         "primarily female cast",
+        "video game",
         "video games"
       ],
       "id": "https://myanimelist.net/anime/41519"
     },
     {
       "sources": [
-        "https://anilist.co/anime/126864",
         "https://anime-planet.com/anime/moom-hajimari-no-monogatari",
+        "https://anisearch.com/anime/17564",
         "https://kitsu.io/anime/41886",
         "https://myanimelist.net/anime/38029"
       ],
@@ -878,8 +791,8 @@
         "ムーム はじまりの物語"
       ],
       "relations": [
-        "https://anilist.co/anime/126371",
         "https://anime-planet.com/anime/moom",
+        "https://anisearch.com/anime/11306",
         "https://myanimelist.net/anime/25541"
       ],
       "tags": [
@@ -954,6 +867,7 @@
       "sources": [
         "https://anidb.net/anime/15956",
         "https://anime-planet.com/anime/mouseman-ai-no-katamari",
+        "https://anisearch.com/anime/17182",
         "https://livechart.me/anime/10115",
         "https://myanimelist.net/anime/42667"
       ],
@@ -971,15 +885,18 @@
         "MOUSEMAN: Ai no Katamari",
         "Mouseman: Ai no Tamashii",
         "Mouseman: The Bundle of Love",
-        "Mouseman: The Soul of Love",
+        "Period of the MOUSEMAN",
+        "Period of the Mouseman",
         "マウスマン~愛の塊~",
         "マウスマン～愛の塊～"
       ],
       "relations": [
-        "https://livechart.me/anime/10770"
+        "https://livechart.me/anime/10770",
+        "https://myanimelist.net/anime/51617"
       ],
       "tags": [
         "drama",
+        "independent anime",
         "non-human protagonists",
         "original work",
         "romance",
@@ -990,7 +907,9 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/119812",
         "https://anime-planet.com/anime/seton-academy-join-the-pack-special",
+        "https://anisearch.com/anime/15798",
         "https://kitsu.io/anime/43531",
         "https://livechart.me/anime/9759",
         "https://myanimelist.net/anime/41008",
@@ -1010,12 +929,20 @@
         "Animal Girls Hot Water Report",
         "Come Together! to the Seton Academy",
         "Come Together! to the Seton Academy Special",
+        "Murenase! Seton Gakuen EX: Juu Joshi-tachi no Yuzame Chuuihou",
+        "Seton Academy Chronicle EX",
+        "Seton Academy: Join the Pack! - Animal Girls Hot Water Report",
         "Seton Academy: Join the Pack! Special",
+        "Seton Gakuen EX: Shishi Joshitachi no Yuzame Chuuihou",
+        "Seton Gakuen EX: Shishi Joshitachi no Yuzame Chūihō",
         "シートン学園記EX 獣女子たちの湯冷め注意報",
+        "シートン学園記EX: 獣女子たちの湯冷め注意報",
         "群れなせ！シートン学園"
       ],
       "relations": [
+        "https://anilist.co/anime/112293",
         "https://anime-planet.com/anime/seton-academy-join-the-pack",
+        "https://anisearch.com/anime/14660",
         "https://kitsu.io/anime/42601",
         "https://livechart.me/anime/9622",
         "https://myanimelist.net/anime/40483",
@@ -1027,10 +954,16 @@
         "based on a manga",
         "comedy",
         "ecchi",
+        "kemonomimi",
+        "love triangle",
         "non-human protagonists",
+        "nudity",
+        "primarily female cast",
+        "romance",
         "school",
         "school life",
-        "slice of life"
+        "slice of life",
+        "yuri"
       ],
       "id": "https://myanimelist.net/anime/41008"
     },
@@ -1080,9 +1013,11 @@
     {
       "sources": [
         "https://anisearch.com/anime/14538",
-        "https://myanimelist.net/anime/38063"
+        "https://kitsu.io/anime/41907",
+        "https://myanimelist.net/anime/38063",
+        "https://notify.moe/anime/cz3jpNAmR"
       ],
-      "title": "Oshiego ni Kyouhaku Sareru no wa Hanzai Desu ka?",
+      "title": "Oshiego ni Kyouhaku Sareru no wa Hanzai desu ka?",
       "type": "ONA",
       "episodes": 1,
       "status": "FINISHED",
@@ -1094,7 +1029,7 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1485/93251t.jpg",
       "synonyms": [
         "Is it a Crime if You're Threatened by Your Student?",
-        "Oshiego ni Kyouhaku Sareru no wa Hanzai desu ka?",
+        "Oshiego ni Kyouhaku Sareru no ga Hanzai desu ka?",
         "Oshiego ni Kyōhaku Sareru no wa Hanzai desu ka?",
         "教え子に脅迫されるのは犯罪ですか？"
       ],
@@ -1105,14 +1040,18 @@
         "present",
         "romance",
         "romantic comedy",
-        "school"
+        "school",
+        "school life"
       ],
       "id": "https://myanimelist.net/anime/38063"
     },
     {
       "sources": [
+        "https://anilist.co/anime/121297",
+        "https://anime-planet.com/anime/qin-shi-ming-yue-guoqing-tebie-pian",
         "https://kitsu.io/anime/12164",
-        "https://myanimelist.net/anime/33258"
+        "https://myanimelist.net/anime/33258",
+        "https://notify.moe/anime/4aNR2KiiR"
       ],
       "title": "Qin Shi Ming Yue: Guoqing Tebie Pian",
       "type": "ONA",
@@ -1128,19 +1067,33 @@
         "China National Day Special Edition",
         "China National Day Special Edition; Qin Shiming Yue Zhi: Episode 15.5",
         "Qin Shi Ming Yue Zhi: Episode 15.5",
+        "Qin Shi Mingyue: Episode 15.5",
+        "Qin Shi Mingyue: Guoqing Special",
+        "Qin Shi Mingyue: Guoqing Tebie Pian",
+        "Qin Shi Mingyue: National Day Special",
+        "Qin Shiming Yue Zhi: Guoqing Tebie Pian",
+        "秦時明月国庆 特别篇",
         "秦時明月国庆特别篇"
       ],
       "relations": [
+        "https://anilist.co/anime/109801",
+        "https://anime-planet.com/anime/qin-shi-mingyue-junlin-tianxia",
         "https://kitsu.io/anime/10556",
-        "https://myanimelist.net/anime/29936"
+        "https://myanimelist.net/anime/29936",
+        "https://notify.moe/anime/GCzQpKimR"
       ],
       "tags": [
         "action",
+        "ancient china",
+        "cg animation",
+        "chinese animation",
         "comedy",
         "fantasy",
+        "full cgi",
         "historical",
         "martial arts",
-        "parody"
+        "parody",
+        "wuxia"
       ],
       "id": "https://myanimelist.net/anime/33258"
     },
@@ -1280,28 +1233,41 @@
     },
     {
       "sources": [
-        "https://anisearch.com/anime/9126"
+        "https://anilist.co/anime/148409",
+        "https://anime-planet.com/anime/tomorrow",
+        "https://anime-planet.com/anime/when-you-wish-upon-a-star",
+        "https://kitsu.io/anime/46771",
+        "https://myanimelist.net/anime/53666"
       ],
-      "title": "Toki: Kono Hoshi no Mirai o Mitsumete",
-      "type": "TV",
-      "episodes": 2,
+      "title": "Tomorrow",
+      "type": "MOVIE",
+      "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "FALL",
-        "year": 2003
+        "season": "WINTER",
+        "year": 2007
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/9/9126.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/9/9126.webp",
+      "picture": "https://cdn.myanimelist.net/images/anime/1447/131418.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1447/131418t.jpg",
       "synonyms": [
-        "Toki: Kono Hoshi no Mirai wo Mitsumete",
-        "トキ この地球（ほし）の未来を見つめて"
+        "Hoshi ni Negai wo",
+        "When You Wish Upon A Star",
+        "When You Wish Upon a Star",
+        "tomorrow",
+        "星に願いを"
       ],
       "relations": [],
       "tags": [
-        "drama",
-        "historical"
+        "fantasy",
+        "iyashikei",
+        "music",
+        "no dialogue",
+        "shorts",
+        "slice of life",
+        "stop motion animation",
+        "supernatural"
       ],
-      "id": "https://anisearch.com/anime/9126"
+      "id": "https://myanimelist.net/anime/53666"
     },
     {
       "sources": [
@@ -1315,8 +1281,8 @@
         "season": "SPRING",
         "year": 2019
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/14/14475.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/14/14475.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/14/14475_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/14/14475.webp",
       "synonyms": [
         "Chronicle Trailer",
         "Uchū",
@@ -1344,7 +1310,7 @@
       "episodes": 52,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "WINTER",
+        "season": "SUMMER",
         "year": 1999
       },
       "picture": "https://cdn.myanimelist.net/images/anime/8/77384.jpg",
@@ -1471,8 +1437,6 @@
         "https://anime-planet.com/anime/ze-tian-ji-2nd-season",
         "https://anime-planet.com/anime/ze-tian-ji-3rd-season",
         "https://anime-planet.com/anime/ze-tian-ji-5th-season",
-        "https://anisearch.com/anime/12625",
-        "https://anisearch.com/anime/13122",
         "https://anisearch.com/anime/13173",
         "https://anisearch.com/anime/16100",
         "https://kitsu.io/anime/41197",

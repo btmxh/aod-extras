@@ -12,8 +12,8 @@
         "season": "UNDEFINED",
         "year": 2018
       },
-      "picture": "https://anime-planet.com/images/anime/covers/18351.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/18351.jpg",
+      "picture": "https://cdn.anime-planet.com/anime/primary/a4-microcosm-1.webp?t=1634185060",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/a4-microcosm-1-285x399.webp?t=1634185060",
       "synonyms": [],
       "relations": [],
       "tags": [
@@ -69,30 +69,6 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/bonus-track-atarashii-yoru-no-hanabi"
-      ],
-      "title": "BONUS TRACK: Atarashii Yoru no Hanabi",
-      "type": "SPECIAL",
-      "episodes": 4,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2021
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/bonus-track-atarashii-yoru-no-hanabi-1.webp?t=1630194878",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/bonus-track-atarashii-yoru-no-hanabi-1-285x399.webp?t=1630194878",
-      "synonyms": [],
-      "relations": [],
-      "tags": [
-        "abstract",
-        "collections",
-        "no dialogue",
-        "short episodes"
-      ],
-      "id": "https://anime-planet.com/anime/bonus-track-atarashii-yoru-no-hanabi"
-    },
-    {
-      "sources": [
         "https://anisearch.com/anime/48",
         "https://myanimelist.net/anime/1780"
       ],
@@ -127,6 +103,7 @@
         "magic",
         "magical girl",
         "masturbation",
+        "mythology",
         "present",
         "psi-powers",
         "robots & androids",
@@ -138,6 +115,35 @@
         "tentacle"
       ],
       "id": "https://myanimelist.net/anime/1780"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/114762",
+        "https://anime-planet.com/anime/dc",
+        "https://anisearch.com/anime/16347",
+        "https://kitsu.io/anime/45621"
+      ],
+      "title": "D.C.",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "FALL",
+        "year": 2018
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/dc-1.webp?t=1656728459",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/dc-1-285x399.webp?t=1656728459",
+      "synonyms": [],
+      "relations": [],
+      "tags": [
+        "abstract",
+        "classical music",
+        "independent anime",
+        "music",
+        "present",
+        "shorts"
+      ],
+      "id": "https://anime-planet.com/anime/dc"
     },
     {
       "sources": [
@@ -167,26 +173,33 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/datou-er-zi-he-xiao-tou-baba",
         "https://myanimelist.net/anime/43920"
       ],
-      "title": "Datou Er Zi He Xiao Tou Baba(1995)",
+      "title": "Datou Er Zi He Xiao Tou Baba",
       "type": "TV",
-      "episodes": 78,
+      "episodes": 156,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 1995
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1367/122591.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1367/122591t.jpg",
       "synonyms": [
         "Big Head Son and Little Head Dad",
-        "大头儿子和小头爸爸(1995)"
+        "大头儿子和小头爸爸"
       ],
-      "relations": [],
+      "relations": [
+        "https://anime-planet.com/anime/xin-datou-er-zi-he-xiao-tou-baba",
+        "https://myanimelist.net/anime/43922"
+      ],
       "tags": [
-        "comedy",
-        "kids"
+        "chinese animation",
+        "family friendly",
+        "kids",
+        "short episodes",
+        "slice of life"
       ],
       "id": "https://myanimelist.net/anime/43920"
     },
@@ -200,10 +213,10 @@
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2013
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1784/129955.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1784/129955t.jpg",
       "synonyms": [
         "逗逗虎绘画小天地"
       ],
@@ -254,6 +267,27 @@
         "kids"
       ],
       "id": "https://myanimelist.net/anime/26105"
+    },
+    {
+      "sources": [
+        "https://kitsu.io/anime/47314"
+      ],
+      "title": "Gotcha Gotcha",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2022
+      },
+      "picture": "https://media.kitsu.io/anime/47314/poster_image/small-e2d006d4bb8be5618951bcc0d7aee7e3.jpeg",
+      "thumbnail": "https://media.kitsu.io/anime/47314/poster_image/tiny-711393a175ff8428f0fc321ba87cd78f.jpeg",
+      "synonyms": [],
+      "relations": [],
+      "tags": [
+        "music"
+      ],
+      "id": "https://kitsu.io/anime/47314"
     },
     {
       "sources": [
@@ -314,9 +348,12 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/10471",
+        "https://anime-planet.com/anime/ie-naki-ko-remi-specials",
         "https://kitsu.io/anime/6198",
         "https://livechart.me/anime/8051",
-        "https://myanimelist.net/anime/10471"
+        "https://myanimelist.net/anime/10471",
+        "https://notify.moe/anime/00WVpKmiR"
       ],
       "title": "Ie Naki Ko Remy Specials",
       "type": "SPECIAL",
@@ -330,19 +367,34 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/12/28750t.jpg",
       "synonyms": [
         "Homeless Child Remi",
+        "Ie Naki Ko Remi (OVA)",
+        "Ie Naki Ko Remi Specials",
         "Ie Naki Ko Rémi Specials",
         "Ienaki Ko Remy Specials",
         "Nobody's Girl",
         "Remi",
-        "家なき子レミ"
+        "いえなきこれみ",
+        "家なき子レミ",
+        "家なき子レミ (OVA)"
       ],
       "relations": [
+        "https://anilist.co/anime/2829",
+        "https://anime-planet.com/anime/ie-naki-ko-remi",
+        "https://anime-planet.com/anime/ie-naki-ko-remi-2001",
         "https://kitsu.io/anime/2583",
-        "https://myanimelist.net/anime/2829"
+        "https://livechart.me/anime/6005",
+        "https://myanimelist.net/anime/2829",
+        "https://notify.moe/anime/A_IU5FimR"
       ],
       "tags": [
+        "19th century",
         "adventure",
-        "drama"
+        "animals",
+        "drama",
+        "female protagonist",
+        "found family",
+        "historical",
+        "kids"
       ],
       "id": "https://myanimelist.net/anime/10471"
     },
@@ -402,13 +454,14 @@
         "JoJo's Bizarre Adventure: Diamond is Unbreakable",
         "JoJo`s Bizarre Adventure: Diamond Is Not Crash",
         "JoJo`s Bizarre Adventure: Diamond Is Unbreakable",
+        "JoJo’s Bizarre Adventure : Diamond Is Unbreakable",
         "JoJo’s Bizarre Adventure Part 4: Diamond Is Unbreakable",
+        "JoJo’s Bizarre Adventure: Diamond Is Unbreakable",
         "JoJo’s Bizarre Adventure: Diamond is Unbreakable",
-        "Jojo no Kimyou na Bouken: Diamond wa Kudakenai",
         "Jojo's Bizarre Adventure: Diamond Is Unbreakable Temporada 3",
-        "Jojo's Bizarre Adventure: Diamond is Unbreakable",
         "Jojo`s Bizarre Adventure Part 4: Diamond is Unbreakable",
         "Le bizzarre avventure di JoJo: Diamond is Unbreakable",
+        "jojo s4",
         "jojo4",
         "jojodk",
         "Невероятните приключения на Джо-Джо: Вечен диамант",
@@ -437,13 +490,6 @@
         "https://anisearch.com/anime/10090",
         "https://anisearch.com/anime/11869",
         "https://anisearch.com/anime/13699",
-        "https://anisearch.com/anime/14083",
-        "https://anisearch.com/anime/16162",
-        "https://anisearch.com/anime/207",
-        "https://anisearch.com/anime/4027",
-        "https://anisearch.com/anime/74",
-        "https://anisearch.com/anime/7946",
-        "https://anisearch.com/anime/9149",
         "https://kitsu.io/anime/12064",
         "https://kitsu.io/anime/41410",
         "https://kitsu.io/anime/8739",
@@ -481,7 +527,6 @@
         "drama",
         "earth",
         "ensemble cast",
-        "episodic",
         "excessive violence",
         "fantasy",
         "fighting-shounen",
@@ -519,7 +564,6 @@
     },
     {
       "sources": [
-        "https://kitsu.io/anime/12746",
         "https://myanimelist.net/anime/33870"
       ],
       "title": "Kabi Usagi",
@@ -540,9 +584,6 @@
         "カビうさぎ"
       ],
       "relations": [
-        "https://kitsu.io/anime/12816",
-        "https://kitsu.io/anime/12817",
-        "https://kitsu.io/anime/12818",
         "https://myanimelist.net/anime/33867"
       ],
       "tags": [
@@ -552,8 +593,73 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/ko-yo-chojeonbaksal-uiri-gal"
+      ],
+      "title": "ko.yo: Chojeonbaksal Uiri GAL!",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2022
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/ko-yo-chojeonbaksal-uiri-gal-1.webp?t=1649206257",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/ko-yo-chojeonbaksal-uiri-gal-1-285x399.webp?t=1649206257",
+      "synonyms": [],
+      "relations": [
+        "https://anime-planet.com/anime/gyaru-talk",
+        "https://anime-planet.com/anime/pink-bxxch-club"
+      ],
+      "tags": [
+        "gangs",
+        "korean animation"
+      ],
+      "id": "https://anime-planet.com/anime/ko-yo-chojeonbaksal-uiri-gal"
+    },
+    {
+      "sources": [
+        "https://kitsu.io/anime/4470",
+        "https://livechart.me/anime/5868",
+        "https://notify.moe/anime/QTyqcKiig"
+      ],
+      "title": "Mai-Otome Zwei Special",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SPRING",
+        "year": 2008
+      },
+      "picture": "https://media.kitsu.io/anime/poster_images/4470/small.jpg",
+      "thumbnail": "https://media.kitsu.io/anime/poster_images/4470/tiny.jpg",
+      "synonyms": [
+        "Mai-Otome Zwei Extended Ending",
+        "まいおとめつばい",
+        "舞-乙HiME ZWEI",
+        "舞-乙HiME Zwei"
+      ],
+      "relations": [
+        "https://kitsu.io/anime/1448",
+        "https://livechart.me/anime/4010",
+        "https://livechart.me/anime/4685",
+        "https://livechart.me/anime/5066",
+        "https://livechart.me/anime/6307",
+        "https://livechart.me/anime/6636",
+        "https://livechart.me/anime/7124",
+        "https://livechart.me/anime/7546",
+        "https://livechart.me/anime/7837",
+        "https://notify.moe/anime/sLu-cKimg"
+      ],
+      "tags": [
+        "magic"
+      ],
+      "id": "https://kitsu.io/anime/4470"
+    },
+    {
+      "sources": [
         "https://anilist.co/anime/136110",
         "https://anime-planet.com/anime/beyblade-shogun-steel-specials",
+        "https://anisearch.com/anime/9418",
         "https://kitsu.io/anime/9073",
         "https://livechart.me/anime/6592",
         "https://myanimelist.net/anime/21479",
@@ -570,11 +676,16 @@
       "picture": "https://cdn.myanimelist.net/images/anime/7/56677.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/7/56677t.jpg",
       "synonyms": [
+        "Beyblade Shogun Steel Specials",
+        "Beyblade: Shogun Steel (Dark Nebula Again Arc)",
         "Beyblade: Shogun Steel Specials",
+        "Metal Fight Beyblade ZERO G Specials",
+        "Metal Fight Beyblade Zero G (2013)",
         "Metal Fight Beyblade Zero G OAD",
         "Metal Fight Beyblade Zero G OVA",
         "めたるふぁいとべいぶれーどぜろじー",
-        "メタルファイト ベイブレード ZEROG"
+        "メタルファイト ベイブレード ZEROG",
+        "メタルファイト ベイブレード ZeroG (2013)"
       ],
       "relations": [
         "https://anilist.co/anime/13231",
@@ -589,32 +700,22 @@
         "https://anime-planet.com/anime/beyblade-the-movie-fierce-battle",
         "https://anime-planet.com/anime/beyblade-v-force",
         "https://anime-planet.com/anime/metal-fight-beyblade-vs-taiyou-shakunetsu-no-shinryakusha",
+        "https://anisearch.com/anime/7667",
         "https://kitsu.io/anime/6917",
-        "https://livechart.me/anime/10273",
         "https://livechart.me/anime/1122",
-        "https://livechart.me/anime/1537",
-        "https://livechart.me/anime/1665",
-        "https://livechart.me/anime/2546",
-        "https://livechart.me/anime/3092",
-        "https://livechart.me/anime/4548",
-        "https://livechart.me/anime/5031",
-        "https://livechart.me/anime/5235",
-        "https://livechart.me/anime/5321",
-        "https://livechart.me/anime/5324",
-        "https://livechart.me/anime/6655",
-        "https://livechart.me/anime/6747",
-        "https://livechart.me/anime/9228",
-        "https://livechart.me/anime/9832",
         "https://myanimelist.net/anime/13231",
         "https://notify.moe/anime/BjHvtFiig"
       ],
       "tags": [
         "adventure",
         "based on a manga",
+        "brain games and gambling",
         "family friendly",
         "friendship",
+        "ganbatte",
         "kids",
         "monsters",
+        "present",
         "proxy battles",
         "shounen",
         "sports"
@@ -643,6 +744,7 @@
       "picture": "https://cdn.myanimelist.net/images/anime/6/76833.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/6/76833t.jpg",
       "synonyms": [
+        "Hamatora: Mini Hama",
         "MINIMUM-HAMATORA",
         "Mini Hama",
         "Mini Hama: Minimum-Hamatora",
@@ -662,6 +764,8 @@
         "https://anime-planet.com/anime/hamatora-the-animation-saishuukai-chokuzen-mao-ga-okuru",
         "https://anime-planet.com/anime/mini-hama-specials",
         "https://anime-planet.com/anime/re-hamatora",
+        "https://anisearch.com/anime/10925",
+        "https://anisearch.com/anime/9031",
         "https://kitsu.io/anime/11508",
         "https://kitsu.io/anime/8057",
         "https://livechart.me/anime/1433",
@@ -684,6 +788,7 @@
         "seinen",
         "short episodes",
         "shounen",
+        "super deformed",
         "super power",
         "superpower"
       ],
@@ -720,6 +825,32 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/moonlight-fox"
+      ],
+      "title": "MOONLIGHT FOX",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2020
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/moonlight-fox-1.webp?t=1670044243",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/moonlight-fox-1-285x399.webp?t=1670044243",
+      "synonyms": [],
+      "relations": [],
+      "tags": [
+        "animal protagonists",
+        "non-human protagonists",
+        "shorts",
+        "stop motion animation"
+      ],
+      "id": "https://anime-planet.com/anime/moonlight-fox"
+    },
+    {
+      "sources": [
+        "https://anidb.net/anime/13320",
+        "https://anisearch.com/anime/15260",
         "https://kitsu.io/anime/40774",
         "https://myanimelist.net/anime/35495",
         "https://notify.moe/anime/gYzO2Kimg"
@@ -729,24 +860,31 @@
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "WINTER",
         "year": 2000
       },
       "picture": "https://cdn.myanimelist.net/images/anime/1911/106759.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1911/106759t.jpg",
       "synonyms": [
-        "ロビンソンクルーソー　無人島の冒険"
+        "Robinson Crusoe: Mujintō no Bōken",
+        "ロビンソンクルーソー 無人島の冒険",
+        "ロビンソンクルーソー　無人島の冒険",
+        "ロビンソン・クルーソー無人島の冒険"
       ],
       "relations": [],
       "tags": [
         "adventure",
-        "drama"
+        "drama",
+        "historical",
+        "novel"
       ],
       "id": "https://myanimelist.net/anime/35495"
     },
     {
       "sources": [
+        "https://anilist.co/anime/21209",
         "https://anime-planet.com/anime/the-testament-of-sister-new-devil-specials",
+        "https://anisearch.com/anime/10503",
         "https://kitsu.io/anime/10790",
         "https://livechart.me/anime/1749",
         "https://myanimelist.net/anime/30464",
@@ -763,16 +901,26 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1815/109046.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1815/109046t.jpg",
       "synonyms": [
+        "Shinmai Maou no Testament Loli Ero Succubus Maria no Characommentary Tsuki Hizou Eizou",
+        "Shinmai Maou no Testament: Maria no Hizou Eizou",
+        "Shinmai Maou no Testament: Specials",
+        "Shinmai Maō no Testament: Maria no Hizō Eizō",
+        "The Testament of Sister New Devil Loli Ero Succubus Maria no Characommentary Tsuki Hizou Eizou",
         "The Testament of Sister New Devil Specials",
-        "新妹魔王の契約者〈テスタメント〉"
+        "The Testament of Sister New Devil: Maria’s Secret Video",
+        "新妹魔王の契約者[テスタメント] 万理亜の秘蔵映像",
+        "新妹魔王の契約者〈テスタメント〉",
+        "新妹魔王の契約者〈テスタメント〉ロリエロサキュバス万理亜のキャラコメンタリー付き秘蔵映像"
       ],
       "relations": [
+        "https://anilist.co/anime/20678",
         "https://anime-planet.com/anime/the-testament-of-sister-new-devil",
         "https://anime-planet.com/anime/the-testament-of-sister-new-devil-burst",
         "https://anime-planet.com/anime/the-testament-of-sister-new-devil-burst-specials",
         "https://anime-planet.com/anime/the-testament-of-sister-new-devil-burst-toujo-basaras-perfectly-peaceful-daily-life",
         "https://anime-planet.com/anime/the-testament-of-sister-new-devil-departures",
         "https://anime-planet.com/anime/the-testament-of-sister-new-devil-toujo-basaras-hard-sweet-daily-life",
+        "https://anisearch.com/anime/9769",
         "https://kitsu.io/anime/8652",
         "https://livechart.me/anime/1347",
         "https://livechart.me/anime/1450",
@@ -789,13 +937,22 @@
         "demon",
         "demons",
         "ecchi",
-        "fantasy"
+        "fantasy",
+        "kuudere",
+        "mythology",
+        "nonsense-comedy",
+        "nudity",
+        "present",
+        "primarily female cast",
+        "succubus",
+        "verbal comedy"
       ],
       "id": "https://myanimelist.net/anime/30464"
     },
     {
       "sources": [
         "https://anilist.co/anime/108243",
+        "https://anime-planet.com/anime/yoshiharu-abe-shiroi-niji",
         "https://myanimelist.net/anime/39181"
       ],
       "title": "Shiroi Niji",
@@ -811,10 +968,12 @@
       "synonyms": [
         "ABEDON - Shiroi Niji",
         "White Rainbow",
+        "Yoshiharu Abe: Shiroi Niji",
         "白い虹"
       ],
       "relations": [],
       "tags": [
+        "abstract",
         "avant garde",
         "music"
       ],
@@ -846,30 +1005,6 @@
         "slice of life"
       ],
       "id": "https://myanimelist.net/anime/38493"
-    },
-    {
-      "sources": [
-        "https://anilist.co/anime/108875"
-      ],
-      "title": "Sorezore ni Jinsei ga Aru",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2014
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108875-5JmKwIWtU0tA.jpg",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108875-5JmKwIWtU0tA.jpg",
-      "synonyms": [
-        "Each of Us Has Our Own Life",
-        "それぞれに人生がある"
-      ],
-      "relations": [],
-      "tags": [
-        "video games"
-      ],
-      "id": "https://anilist.co/anime/108875"
     },
     {
       "sources": [
@@ -905,25 +1040,39 @@
     },
     {
       "sources": [
-        "https://myanimelist.net/anime/50557"
+        "https://anidb.net/anime/16738",
+        "https://anime-planet.com/anime/xiao-shizi-sai-ji",
+        "https://myanimelist.net/anime/51938"
       ],
-      "title": "The First Hunter",
-      "type": "UNKNOWN",
-      "episodes": 101,
+      "title": "Xiao Shizi Sai Ji",
+      "type": "ONA",
+      "episodes": 104,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
+        "season": "WINTER",
+        "year": 2021
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/1008/119982.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1008/119982t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1407/124100.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1407/124100t.jpg",
       "synonyms": [
-        "末世英雄传说",
-        "최초의 헌터"
+        "小狮子赛几"
       ],
-      "relations": [],
-      "tags": [],
-      "id": "https://myanimelist.net/anime/50557"
+      "relations": [
+        "https://anime-planet.com/anime/xiao-shizi-sai-ji-2nd-season",
+        "https://myanimelist.net/anime/51939"
+      ],
+      "tags": [
+        "animal protagonists",
+        "anthropomorphic",
+        "chinese animation",
+        "comedy",
+        "family friendly",
+        "fantasy",
+        "non-human protagonists",
+        "school",
+        "short episodes"
+      ],
+      "id": "https://myanimelist.net/anime/51938"
     },
     {
       "sources": [
@@ -962,6 +1111,7 @@
         "https://anime-planet.com/anime/yat-anshin-uchuu-ryokou-2",
         "https://anisearch.com/anime/82",
         "https://kitsu.io/anime/1702",
+        "https://livechart.me/anime/8793",
         "https://myanimelist.net/anime/1892",
         "https://notify.moe/anime/BerB5Fmig"
       ],
@@ -976,27 +1126,6 @@
         "space"
       ],
       "id": "https://myanimelist.net/anime/1891"
-    },
-    {
-      "sources": [
-        "https://anilist.co/anime/143714"
-      ],
-      "title": "Yi Ye Fuweng",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 1986
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143714-GZ9fmM2k5l4A.jpg",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143714-GZ9fmM2k5l4A.jpg",
-      "synonyms": [
-        "一夜富翁"
-      ],
-      "relations": [],
-      "tags": [],
-      "id": "https://anilist.co/anime/143714"
     },
     {
       "sources": [
@@ -1020,6 +1149,7 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1072/90600.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1072/90600t.jpg",
       "synonyms": [
+        "YO-KAI WATCH Shadowside",
         "Yo-Kai Watch: Shadow Side",
         "Yo-kai Watch Shadowside",
         "Yo-kai Watch: Shadowside",
@@ -1039,16 +1169,15 @@
         "https://anime-planet.com/anime/youkai-watch-movie-3-sora-tobu-kujira-to-double-no-sekai-no-daibouken-da-nyan",
         "https://anime-planet.com/anime/youkai-watch-movie-4-shadowside-oni-ou-no-fukkatsu",
         "https://anime-planet.com/anime/youkai-watch-tanjou-no-himitsu-da-nyan",
-        "https://anisearch.com/anime/10556",
-        "https://anisearch.com/anime/10753",
-        "https://anisearch.com/anime/11320",
+        "https://anisearch.com/anime/12577",
+        "https://anisearch.com/anime/13686",
         "https://anisearch.com/anime/14217",
         "https://anisearch.com/anime/8217",
-        "https://anisearch.com/anime/9802",
         "https://kitsu.io/anime/12859",
         "https://kitsu.io/anime/42162",
         "https://kitsu.io/anime/8010",
         "https://livechart.me/anime/10436",
+        "https://livechart.me/anime/11638",
         "https://livechart.me/anime/1283",
         "https://livechart.me/anime/1944",
         "https://livechart.me/anime/222",
@@ -1057,6 +1186,7 @@
         "https://livechart.me/anime/618",
         "https://livechart.me/anime/9229",
         "https://livechart.me/anime/9355",
+        "https://livechart.me/anime/9674",
         "https://myanimelist.net/anime/34471",
         "https://myanimelist.net/anime/37969",
         "https://myanimelist.net/anime/39277",
@@ -1074,6 +1204,7 @@
         "japan",
         "japanese mythology",
         "kids",
+        "mythology",
         "shounen",
         "supernatural",
         "youkai"

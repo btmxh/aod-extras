@@ -34,6 +34,7 @@
         "https://anime-planet.com/anime/akuei-to-gacchinpo",
         "https://anime-planet.com/anime/akuei-to-gacchinpo-tenkomori-maboroshi-no-omake-episode",
         "https://anime-planet.com/anime/akuei-to-gacchinpo-the-movie-chelsea-no-gyakushuuakuei-to-mahou-no-hammer",
+        "https://anisearch.com/anime/14356",
         "https://anisearch.com/anime/3323",
         "https://kitsu.io/anime/10370",
         "https://kitsu.io/anime/10522",
@@ -68,14 +69,13 @@
       "picture": "https://media.kitsu.io/anime/poster_images/6875/small.jpg",
       "thumbnail": "https://media.kitsu.io/anime/poster_images/6875/tiny.jpg",
       "synonyms": [
+        "Beelzebub Omakes (Part 2)",
         "Beelzebub: Sakigake!! Beel and Shinsengumi",
         "べるぜバブ: 魁！！ベルっと新撰組"
       ],
       "relations": [
         "https://anilist.co/anime/9513",
         "https://anisearch.com/anime/6485",
-        "https://anisearch.com/anime/6611",
-        "https://anisearch.com/anime/7221",
         "https://anisearch.com/anime/8539"
       ],
       "tags": [
@@ -117,6 +117,7 @@
       "synonyms": [
         "DICE",
         "DICE - A mentőcsapat",
+        "DICE: DNA Integrated Cybernetic Enterprises",
         "DINOBREAKER",
         "DNA Integrated Cybernetic Enterprises",
         "Dinobreaker",
@@ -150,7 +151,7 @@
         "https://kitsu.io/anime/40976",
         "https://myanimelist.net/anime/36577"
       ],
-      "title": "Dungeon Meshi",
+      "title": "Dungeon Meshi PV",
       "type": "ONA",
       "episodes": 2,
       "status": "FINISHED",
@@ -168,7 +169,9 @@
         "ダンジョン飯",
         "ダンジョン飯～センシのかんたんクッキング！～"
       ],
-      "relations": [],
+      "relations": [
+        "https://myanimelist.net/anime/52701"
+      ],
       "tags": [
         "comedy",
         "cooking",
@@ -176,6 +179,33 @@
         "gourmet"
       ],
       "id": "https://myanimelist.net/anime/36577"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/163789"
+      ],
+      "title": "Gumihodyeon",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "UPCOMING",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": null
+      },
+      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
+      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
+      "synonyms": [
+        "Tale of the Nine Tailed",
+        "구미호뎐"
+      ],
+      "relations": [],
+      "tags": [
+        "action",
+        "drama",
+        "fantasy",
+        "romance"
+      ],
+      "id": "https://anilist.co/anime/163789"
     },
     {
       "sources": [
@@ -209,7 +239,8 @@
         "Легендарната звезда Ерико",
         "إيروكا",
         "アイドル伝説 えり子",
-        "アイドル伝説えり子"
+        "アイドル伝説えり子",
+        "偶像传说英里子"
       ],
       "relations": [],
       "tags": [
@@ -218,6 +249,7 @@
         "foreign",
         "idol",
         "idols",
+        "idols (female)",
         "music",
         "original work",
         "showbiz",
@@ -237,8 +269,8 @@
         "season": "SUMMER",
         "year": 2014
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/10/10877.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/10/10877.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/10/10877_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/10/10877.webp",
       "synonyms": [
         "Jaic CM: The All-Japan Golf-Day Challenge",
         "Jaic CM: Zen'nihon Shinsotsu Challenge Golf Saishūbi",
@@ -265,8 +297,8 @@
         "season": "SUMMER",
         "year": 2002
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/hentai.v1.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/hentai.v1.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/hentai.v1_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/hentai.v1.webp",
       "synonyms": [
         "Jī Tōsaku: Kōkishin",
         "自慰倒錯 ～好奇心～"
@@ -285,31 +317,27 @@
     },
     {
       "sources": [
-        "https://anisearch.com/anime/13782"
+        "https://kitsu.io/anime/47283",
+        "https://myanimelist.net/anime/54583"
       ],
-      "title": "Kuroko no Baske (2015): NG-shuu",
-      "type": "SPECIAL",
-      "episodes": 9,
+      "title": "Love Letter",
+      "type": "MOVIE",
+      "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "SPRING",
-        "year": 2015
+        "season": "WINTER",
+        "year": 2009
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/13/13782.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/13/13782.webp",
+      "picture": "https://cdn.myanimelist.net/images/anime/1461/133631.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1461/133631t.jpg",
       "synonyms": [
-        "Kuroko no Baske (2015): NG-shū",
-        "Kuroko no Basket 3rd Season NG-shuu",
-        "黒子のバスケ（2015） NG集"
+        "LOVE LETTER"
       ],
       "relations": [],
       "tags": [
-        "basketball",
-        "comedy",
-        "school",
-        "sports"
+        "romance"
       ],
-      "id": "https://anisearch.com/anime/13782"
+      "id": "https://myanimelist.net/anime/54583"
     },
     {
       "sources": [
@@ -336,6 +364,7 @@
         "alternative world",
         "cyberpunk",
         "defloration",
+        "detective",
         "drama",
         "excessive violence",
         "guns",
@@ -345,7 +374,6 @@
         "horror",
         "mystery",
         "oral",
-        "police",
         "policeman",
         "robots & androids",
         "romance",
@@ -359,28 +387,60 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/otoboke-beaver-ikezu"
+        "https://anime-planet.com/anime/minna-no-douyou-warera-wa-umi-no-ko-minna-de-utau-uta",
+        "https://myanimelist.net/anime/51160"
       ],
-      "title": "Otoboke Beaver: Ikezu",
+      "title": "Minna no Douyou: Warera wa Umi no Ko - Minna de Utau Uta",
+      "type": "SPECIAL",
+      "episodes": 15,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SUMMER",
+        "year": 2015
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1472/121215.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1472/121215t.jpg",
+      "synonyms": [
+        "みんなのどうよう われは海の子 〜みんなでうたううた〜"
+      ],
+      "relations": [
+        "https://anime-planet.com/anime/minna-no-douyou-shabondama-oyako-de-utau-uta",
+        "https://anime-planet.com/anime/minna-no-douyou-yuuyake-koyake-utaitsugitai-uta",
+        "https://myanimelist.net/anime/51158",
+        "https://myanimelist.net/anime/51159"
+      ],
+      "tags": [
+        "family friendly",
+        "kids",
+        "music",
+        "short episodes"
+      ],
+      "id": "https://myanimelist.net/anime/51160"
+    },
+    {
+      "sources": [
+        "https://kitsu.io/anime/47117"
+      ],
+      "title": "NEW[zom]BIE!!",
       "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2017
+        "season": "SPRING",
+        "year": 2023
       },
-      "picture": "https://cdn.anime-planet.com/anime/primary/otoboke-beaver-ikezu-1.jpg?t=1625897843",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/otoboke-beaver-ikezu-1-190x285.jpg?t=1625897843",
-      "synonyms": [
-        "Otoboke Beaver: Mean"
+      "picture": "https://media.kitsu.io/anime/47117/poster_image/small-cf6dedc8b4e70a98dfd455b2d38ea1ac.jpeg",
+      "thumbnail": "https://media.kitsu.io/anime/47117/poster_image/tiny-96e89199773bc4a42470a7550e7e4359.jpeg",
+      "synonyms": [],
+      "relations": [
+        "https://kitsu.io/anime/44088"
       ],
-      "relations": [],
       "tags": [
-        "comedy",
-        "romance",
-        "slapstick"
+        "anime influenced",
+        "idol",
+        "zombie"
       ],
-      "id": "https://anime-planet.com/anime/otoboke-beaver-ikezu"
+      "id": "https://kitsu.io/anime/47117"
     },
     {
       "sources": [
@@ -460,7 +520,8 @@
         "Ерата Сенгоку: Последното парти",
         "劇場版 戦国 Basara The Last Party",
         "劇場版 戦国BASARA -The Last Party-",
-        "劇場版 戦国BASARA The Last Party"
+        "劇場版 戦国BASARA The Last Party",
+        "战国BASARA 剧场版 -The Last Party-"
       ],
       "relations": [
         "https://anidb.net/anime/10406",
@@ -475,15 +536,20 @@
         "https://anime-planet.com/anime/sengoku-basara-samurai-kings-2",
         "https://anime-planet.com/anime/sengoku-basara-samurai-kings-2-dragon-and-tiger-oath-of-victory-souls-racing-towards-a-blazing-future",
         "https://anime-planet.com/anime/sengoku-basara-samurai-kings-clash-in-the-inland-sea-of-seto-fugaku-the-great-fire-belching-fortress-of-the-sea",
-        "https://anisearch.com/anime/13538",
-        "https://anisearch.com/anime/5092",
         "https://anisearch.com/anime/5553",
-        "https://anisearch.com/anime/6829",
-        "https://anisearch.com/anime/7034",
-        "https://anisearch.com/anime/9299",
+        "https://anisearch.com/anime/9292",
+        "https://anisearch.com/anime/9466",
         "https://kitsu.io/anime/4643",
         "https://kitsu.io/anime/8272",
         "https://kitsu.io/anime/8596",
+        "https://livechart.me/anime/3809",
+        "https://livechart.me/anime/415",
+        "https://livechart.me/anime/4935",
+        "https://livechart.me/anime/5789",
+        "https://livechart.me/anime/6624",
+        "https://livechart.me/anime/7505",
+        "https://livechart.me/anime/7616",
+        "https://livechart.me/anime/7803",
         "https://myanimelist.net/anime/18549",
         "https://myanimelist.net/anime/23201",
         "https://myanimelist.net/anime/6634",
@@ -511,8 +577,7 @@
         "super power",
         "superpower",
         "swordplay",
-        "swords & co",
-        "war"
+        "swords & co"
       ],
       "id": "https://myanimelist.net/anime/9745"
     },
@@ -549,7 +614,6 @@
         "https://anilist.co/anime/15751",
         "https://anime-planet.com/anime/senyuu",
         "https://anime-planet.com/anime/senyuu-2",
-        "https://anisearch.com/anime/5067",
         "https://anisearch.com/anime/8027",
         "https://kitsu.io/anime/7303",
         "https://livechart.me/anime/56",
@@ -574,73 +638,74 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/shaberu-boushi-cold-water"
+      ],
+      "title": "Shaberu Boushi: Cold Water",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2019
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/shaberu-boushi-cold-water-1.webp?t=1648092615",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/shaberu-boushi-cold-water-1-285x400.webp?t=1648092615",
+      "synonyms": [],
+      "relations": [],
+      "tags": [
+        "animal characteristics",
+        "vocaloid"
+      ],
+      "id": "https://anime-planet.com/anime/shaberu-boushi-cold-water"
+    },
+    {
+      "sources": [
         "https://myanimelist.net/anime/45850"
       ],
-      "title": "Shenqi Xiaozi-Mai Ge Yu Xiao Buji",
+      "title": "Shenqi Xiaozi: Mike Yu Xiao Buji",
       "type": "TV",
       "episodes": 50,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
+        "season": "SUMMER",
+        "year": 2010
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1098/128645.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1098/128645t.jpg",
       "synonyms": [
         "神奇小子-麦歌与小布吉"
       ],
       "relations": [],
       "tags": [
+        "fantasy",
         "kids"
       ],
       "id": "https://myanimelist.net/anime/45850"
     },
     {
       "sources": [
-        "https://anisearch.com/anime/14556"
+        "https://myanimelist.net/anime/54872"
       ],
-      "title": "Teekyuu 5: TV Mihousou Original Episode Anime",
-      "type": "SPECIAL",
-      "episodes": 2,
+      "title": "Takoru the Movie",
+      "type": "MOVIE",
+      "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "FALL",
-        "year": 2015
+        "season": "WINTER",
+        "year": 2007
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/14/14556.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/14/14556.webp",
+      "picture": "https://cdn.myanimelist.net/images/anime/1513/134812.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1513/134812t.jpg",
       "synonyms": [
-        "Teekyu 5 Specials",
-        "Teekyuu 5 Specials",
-        "Tekyuu 5 Specials",
-        "Tēkyū 5: TV Mihōsō Original Episode Anime",
-        "てーきゅう 5 ＴＶ未放送オリジナルエピソードアニメ"
+        "たこる・ザ・ムービー"
       ],
       "relations": [
-        "https://anisearch.com/anime/10042",
-        "https://anisearch.com/anime/10080",
-        "https://anisearch.com/anime/10369",
-        "https://anisearch.com/anime/10675",
-        "https://anisearch.com/anime/10799",
-        "https://anisearch.com/anime/11000",
-        "https://anisearch.com/anime/11076",
-        "https://anisearch.com/anime/11683",
-        "https://anisearch.com/anime/12415",
-        "https://anisearch.com/anime/14557",
-        "https://anisearch.com/anime/14558",
-        "https://anisearch.com/anime/14559",
-        "https://anisearch.com/anime/663",
-        "https://anisearch.com/anime/8003",
-        "https://anisearch.com/anime/9062",
-        "https://anisearch.com/anime/9319",
-        "https://anisearch.com/anime/9367"
+        "https://myanimelist.net/anime/54873"
       ],
       "tags": [
-        "comedy",
-        "nonsense-comedy",
-        "sports"
+        "slice of life"
       ],
-      "id": "https://anisearch.com/anime/14556"
+      "id": "https://myanimelist.net/anime/54872"
     },
     {
       "sources": [
@@ -660,6 +725,7 @@
       "picture": "https://cdn.anime-planet.com/anime/primary/the-big-o-ii-1.jpg?t=1625896366",
       "thumbnail": "https://cdn.anime-planet.com/anime/primary/the-big-o-ii-1-190x258.jpg?t=1625896366",
       "synonyms": [
+        "THE Big O (2003)",
         "THEビッグオー (2003)",
         "The Big O (2003)",
         "The ビッグオー (2003)"
@@ -679,6 +745,7 @@
         "android",
         "androids",
         "angst",
+        "augmented reality",
         "butler",
         "conspiracy",
         "cyberpunk",
@@ -686,8 +753,10 @@
         "drama",
         "dystopia",
         "dystopian",
+        "espionage",
         "isolated society",
         "kuudere",
+        "love triangle",
         "male protagonist",
         "mecha",
         "mystery",
@@ -713,6 +782,7 @@
         "steampunk",
         "super robots",
         "supernatural drama",
+        "terrorism",
         "verbal comedy"
       ],
       "id": "https://anime-planet.com/anime/the-big-o-ii"
@@ -743,50 +813,48 @@
     },
     {
       "sources": [
-        "https://anisearch.com/anime/4307"
+        "https://anilist.co/anime/104183",
+        "https://anime-planet.com/anime/xiao-li-yu-li-xian-ji",
+        "https://anisearch.com/anime/11851",
+        "https://kitsu.io/anime/41039",
+        "https://myanimelist.net/anime/37300",
+        "https://notify.moe/anime/ddiK2Fmig"
       ],
-      "title": "Umi da! Funade da! Niko Niko, Bun",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 1990
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/4/4307.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/4/4307.webp",
-      "synonyms": [
-        "海だ！船出だ！にこにこ、ぶん"
-      ],
-      "relations": [],
-      "tags": [
-        "comedy",
-        "fantasy"
-      ],
-      "id": "https://anisearch.com/anime/4307"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/47598"
-      ],
-      "title": "Yugongyishan",
+      "title": "Xiao Liyu Lixian Ji",
       "type": "TV",
-      "episodes": 30,
+      "episodes": 52,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
+        "season": "SUMMER",
+        "year": 2007
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1305/90532.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1305/90532t.jpg",
       "synonyms": [
-        "愚公移山"
+        "Las Aventuras de Paopao",
+        "Liyu Tiao Longmen",
+        "The Adventures Of Little Carp",
+        "The Adventures of Little Carp",
+        "The Carp Jumps Over the Dragon Gate",
+        "Xiao Li Yu Li Xian Ji",
+        "小鯉魚歷險記",
+        "小鲤鱼历险记",
+        "小鲤鱼历险记,"
       ],
       "relations": [],
       "tags": [
-        "historical"
+        "adventure",
+        "animal protagonists",
+        "based on a fairy tale",
+        "chinese animation",
+        "family friendly",
+        "fantasy",
+        "kids",
+        "magic",
+        "non-human protagonists",
+        "ocean"
       ],
-      "id": "https://myanimelist.net/anime/47598"
+      "id": "https://myanimelist.net/anime/37300"
     }
   ]
 }

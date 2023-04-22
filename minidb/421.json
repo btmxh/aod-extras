@@ -25,6 +25,7 @@
         "A3!",
         "A3! SEASON SPRING & SUMMER",
         "A3! SEASON SPRING ＆ SUMMER",
+        "A3! Temporada de Primavera y Verano",
         "Act! Addict! Actors!",
         "Act! Addict! Actors! Season Spring & Summer",
         "エースリー",
@@ -52,6 +53,7 @@
         "drama",
         "ensemble cast",
         "female protagonist",
+        "found family",
         "game",
         "ganbatte",
         "hero of strong character",
@@ -60,6 +62,7 @@
         "music",
         "otaku",
         "performance",
+        "performing arts",
         "present",
         "primarily male cast",
         "reluctant heroine",
@@ -95,7 +98,6 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1901/97244.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1901/97244t.jpg",
       "synonyms": [
-        "Arei no Kagami",
         "Arei's Mirror",
         "Arei's Mirror ~ Way to the Virgin Space",
         "Arei`s Mirror",
@@ -123,6 +125,7 @@
     {
       "sources": [
         "https://anilist.co/anime/123996",
+        "https://anime-planet.com/anime/koji-nakamura-boy",
         "https://myanimelist.net/anime/38796"
       ],
       "title": "B.O.Y.",
@@ -135,12 +138,73 @@
       },
       "picture": "https://cdn.myanimelist.net/images/anime/1281/97098.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1281/97098t.jpg",
-      "synonyms": [],
+      "synonyms": [
+        "Koji Nakamura: B.O.Y."
+      ],
       "relations": [],
       "tags": [
         "music"
       ],
       "id": "https://myanimelist.net/anime/38796"
+    },
+    {
+      "sources": [
+        "https://anidb.net/anime/17859",
+        "https://anilist.co/anime/161441",
+        "https://anime-planet.com/anime/resident-evil-death-island",
+        "https://anisearch.com/anime/18204",
+        "https://kitsu.io/anime/47079",
+        "https://livechart.me/anime/11812",
+        "https://myanimelist.net/anime/54398",
+        "https://notify.moe/anime/otoWNXLVg"
+      ],
+      "title": "Biohazard: Death Island",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "UPCOMING",
+      "animeSeason": {
+        "season": "SUMMER",
+        "year": 2023
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1348/133200.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1348/133200t.jpg",
+      "synonyms": [
+        "BIOHAZARD: DEATH ISLAND",
+        "Resident Evil: Death Island",
+        "バイオハザード: デスアイランド",
+        "バイオハザード：デスアイランド"
+      ],
+      "relations": [
+        "https://anidb.net/anime/11709",
+        "https://anilist.co/anime/21464",
+        "https://anime-planet.com/anime/resident-evil-vendetta",
+        "https://anisearch.com/anime/10827",
+        "https://kitsu.io/anime/11454",
+        "https://livechart.me/anime/10171",
+        "https://livechart.me/anime/1875",
+        "https://livechart.me/anime/5256",
+        "https://livechart.me/anime/5491",
+        "https://livechart.me/anime/6405",
+        "https://livechart.me/anime/6414",
+        "https://myanimelist.net/anime/31853",
+        "https://notify.moe/anime/qrWCpKmig"
+      ],
+      "tags": [
+        "action",
+        "based on a video game",
+        "cg animation",
+        "cg-anime",
+        "full cgi",
+        "guns",
+        "horror",
+        "sci fi",
+        "sci-fi",
+        "science fiction",
+        "survival",
+        "zombie",
+        "zombies"
+      ],
+      "id": "https://myanimelist.net/anime/54398"
     },
     {
       "sources": [
@@ -205,57 +269,8 @@
     },
     {
       "sources": [
-        "https://myanimelist.net/anime/41991"
-      ],
-      "title": "Dee (Ai Dee) feat. Hatsune Miku & Megurine Luka",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2012
-      },
-      "picture": "https://cdn.myanimelist.net/images/anime/1691/107556.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1691/107556t.jpg",
-      "synonyms": [],
-      "relations": [],
-      "tags": [
-        "music"
-      ],
-      "id": "https://myanimelist.net/anime/41991"
-    },
-    {
-      "sources": [
-        "https://anilist.co/anime/141528",
-        "https://myanimelist.net/anime/50383"
-      ],
-      "title": "Episodeⁿ | Kuusou",
-      "type": "ONA",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 2021
-      },
-      "picture": "https://cdn.myanimelist.net/images/anime/1678/119484.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1678/119484t.jpg",
-      "synonyms": [
-        "Episodeⁿ | 空想",
-        "VERSEⁿ",
-        "VERSEⁿ - Episodeⁿ | 空想"
-      ],
-      "relations": [],
-      "tags": [
-        "denpa",
-        "female protagonist",
-        "no dialogue",
-        "vtuber"
-      ],
-      "id": "https://myanimelist.net/anime/50383"
-    },
-    {
-      "sources": [
         "https://anilist.co/anime/111999",
+        "https://anime-planet.com/anime/yumi-matsutoya-flying-messenger",
         "https://myanimelist.net/anime/39297"
       ],
       "title": "Flying Messenger",
@@ -268,16 +283,18 @@
       },
       "picture": "https://cdn.myanimelist.net/images/anime/1135/99118.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1135/99118t.jpg",
-      "synonyms": [],
+      "synonyms": [
+        "Yumi Matsutoya: Flying Messenger"
+      ],
       "relations": [],
       "tags": [
+        "abstract",
         "music"
       ],
       "id": "https://myanimelist.net/anime/39297"
     },
     {
       "sources": [
-        "https://anilist.co/anime/16199",
         "https://anime-planet.com/anime/girls-und-panzer-introductions",
         "https://anisearch.com/anime/8301",
         "https://kitsu.io/anime/7386",
@@ -296,11 +313,12 @@
       "picture": "https://cdn.myanimelist.net/images/anime/7/43631.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/7/43631t.jpg",
       "synonyms": [
+        "Girls & Panzer: Darf ich vorstellen!!",
+        "Girls & Panzer: Introductions!",
         "Girls und Panzer Episode 10.5",
         "Girls und Panzer Episode 5.5",
         "Girls und Panzer Recap",
         "Girls und Panzer 紹介します!",
-        "Girls und Panzer: Darf ich vorstellen!!",
         "Girls und Panzer: Introductions!",
         "Girls und Panzer: Shoukai Shimasu!",
         "Girls und Panzer: Shōkai Shimasu!",
@@ -308,15 +326,8 @@
         "ガールズ&パンツァー 紹介します！"
       ],
       "relations": [
-        "https://anilist.co/anime/14131",
         "https://anime-planet.com/anime/girls-und-panzer",
-        "https://anisearch.com/anime/11308",
-        "https://anisearch.com/anime/11767",
-        "https://anisearch.com/anime/12992",
-        "https://anisearch.com/anime/4688",
         "https://anisearch.com/anime/7865",
-        "https://anisearch.com/anime/8268",
-        "https://anisearch.com/anime/8653",
         "https://kitsu.io/anime/7087",
         "https://livechart.me/anime/10762",
         "https://livechart.me/anime/168",
@@ -339,7 +350,6 @@
         "action",
         "action comedy",
         "comedy",
-        "cute girls doing cute things",
         "military",
         "military school",
         "moe",
@@ -348,8 +358,6 @@
         "school",
         "school club",
         "school life",
-        "sports",
-        "tanks",
         "tournaments"
       ],
       "id": "https://myanimelist.net/anime/16199"
@@ -383,6 +391,7 @@
       ],
       "relations": [
         "https://anidb.net/anime/11019",
+        "https://anisearch.com/anime/10229",
         "https://kitsu.io/anime/10176",
         "https://myanimelist.net/anime/28093",
         "https://notify.moe/anime/VaxspKimR"
@@ -417,6 +426,7 @@
       "picture": "https://cdn.myanimelist.net/images/anime/9/15467.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/9/15467t.jpg",
       "synonyms": [
+        "Anna Dei Miracoli",
         "Helen Keller",
         "The Story of Helen Keller: Angel of Love and Light",
         "The Story of Hellen Keller: Angel of Love and Light",
@@ -434,6 +444,9 @@
     },
     {
       "sources": [
+        "https://anidb.net/anime/8626",
+        "https://anime-planet.com/anime/itsuka-no-main-kaminari-shounen-tenta-sanjou",
+        "https://anisearch.com/anime/7283",
         "https://kitsu.io/anime/9349",
         "https://myanimelist.net/anime/23353",
         "https://notify.moe/anime/uu7BtFimR"
@@ -449,15 +462,21 @@
       "picture": "https://cdn.myanimelist.net/images/anime/11/60673.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/11/60673t.jpg",
       "synonyms": [
+        "Itsuka no Main: Kaminari Shounen Tenta Sanjou",
         "Itsuka no Main: Kaminari Shounen Tenta Sanjou!",
+        "Itsuka no Main: Kaminari Shōnen Tenta Sanjō",
         "Itsuka no Main: Thunder Boy - Tenta Sanjou!",
-        "いつかのメイン 雷少年・天太参上!"
+        "いつかのメイン 雷少年・天太参上!",
+        "いつかのメイン 雷少年・天太参上！"
       ],
       "relations": [],
       "tags": [
         "action",
+        "based on a manga",
         "delinquent",
+        "delinquents",
         "drama",
+        "manga",
         "seinen",
         "violence"
       ],
@@ -495,22 +514,22 @@
       "sources": [
         "https://myanimelist.net/anime/45881"
       ],
-      "title": "Konglong Shijie(2019)",
+      "title": "Konglong Shijie",
       "type": "TV",
-      "episodes": 212,
+      "episodes": 152,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2019
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1691/129060.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1691/129060t.jpg",
       "synonyms": [
-        "恐龙世界(2019)"
+        "恐龙世界"
       ],
       "relations": [],
       "tags": [
-        "historical"
+        "kids"
       ],
       "id": "https://myanimelist.net/anime/45881"
     },
@@ -556,75 +575,11 @@
     },
     {
       "sources": [
-        "https://anidb.net/anime/14563",
-        "https://anisearch.com/anime/16206"
-      ],
-      "title": "Mahou Tsukai Tai! vs Shamanic Princess",
-      "type": "OVA",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 1998
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/16/16206.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/16/16206.webp",
-      "synonyms": [
-        "Magic User's Club! vs. Shamanic Princess",
-        "Mahō Tsukai Tai! vs Shamanic Princess",
-        "Shamanic Princess vs Mahou Tsukai Tai!",
-        "シャーマニックプリンセス vs 魔法使いTai!",
-        "魔法使いTai! vs シャーマニックプリンセス",
-        "魔法使いTai！ vs シャーマニックプリンセス",
-        "샤머닉 프린세스 vs 마법을 쓰고싶어!"
-      ],
-      "relations": [
-        "https://anidb.net/anime/141",
-        "https://anidb.net/anime/310"
-      ],
-      "tags": [
-        "comedy",
-        "ecchi"
-      ],
-      "id": "https://anisearch.com/anime/16206"
-    },
-    {
-      "sources": [
-        "https://anilist.co/anime/124397",
-        "https://livechart.me/anime/10584"
-      ],
-      "title": "Menghuan Shuyuan 4",
-      "type": "ONA",
-      "episodes": 14,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 2020
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124397-AlbTM5qoUREf.png",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124397-AlbTM5qoUREf.png",
-      "synonyms": [
-        "梦幻书院 第四季"
-      ],
-      "relations": [
-        "https://anilist.co/anime/116999",
-        "https://anilist.co/anime/129001",
-        "https://anilist.co/anime/131650",
-        "https://livechart.me/anime/10583",
-        "https://livechart.me/anime/10585",
-        "https://livechart.me/anime/10586",
-        "https://livechart.me/anime/10587",
-        "https://livechart.me/anime/10588"
-      ],
-      "tags": [
-        "comedy",
-        "fantasy"
-      ],
-      "id": "https://anilist.co/anime/124397"
-    },
-    {
-      "sources": [
+        "https://anilist.co/anime/132096",
+        "https://anime-planet.com/anime/miss-kobayashis-dragon-maid-s-short-animation-series",
+        "https://anisearch.com/anime/16180",
         "https://kitsu.io/anime/44326",
+        "https://livechart.me/anime/10497",
         "https://myanimelist.net/anime/48590",
         "https://notify.moe/anime/DKuqyKlMR"
       ],
@@ -639,29 +594,91 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1060/117806.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1060/117806t.jpg",
       "synonyms": [
+        "Kobayashi-san Chi no Maid Dragon S: Mini Dora",
+        "Kobayashi-san Chi no Maid Dragon S: Mini Dragon",
         "Kobayashi-san Chi no Maidragon S: Mini Dra",
         "Mini Dora",
+        "Mini Dora SP",
+        "Mini Dragon SP",
+        "MiniDra",
         "Minidora",
         "Miss Kobayashi Short Anime",
         "Miss Kobayashi's Dragon Maid S Broadcast Commemoration Short Anime Theater Series",
         "Miss Kobayashi's Dragon Maid S Short Animation Series",
+        "Miss Kobayashi's Dragon Maid S: Miniature Dragon",
+        "Miss Kobayashi’s Dragon Maid S Mini",
+        "Miss Kobayashi’s Dragon Maid S Short Animation Series",
         "ミニドラ",
+        "小林さんちのメイドラゴンＳ ミニドラ",
         "小林さんちのメイドラゴンＳミニドラ"
       ],
       "relations": [
+        "https://anilist.co/anime/107717",
+        "https://anilist.co/anime/137804",
+        "https://anime-planet.com/anime/miss-kobayashis-dragon-maid",
+        "https://anime-planet.com/anime/miss-kobayashis-dragon-maid-s",
+        "https://anime-planet.com/anime/miss-kobayashis-dragon-maid-s-short-animation-series-specials",
+        "https://anime-planet.com/anime/miss-kobayashis-dragon-maid-s-specials",
+        "https://anisearch.com/anime/14169",
+        "https://anisearch.com/anime/16508",
+        "https://anisearch.com/anime/16509",
         "https://kitsu.io/anime/13861",
         "https://kitsu.io/anime/42149",
+        "https://livechart.me/anime/10689",
+        "https://livechart.me/anime/10690",
+        "https://livechart.me/anime/10691",
+        "https://livechart.me/anime/2166",
+        "https://livechart.me/anime/2649",
+        "https://livechart.me/anime/2661",
+        "https://livechart.me/anime/9222",
         "https://myanimelist.net/anime/39247",
         "https://myanimelist.net/anime/49483",
         "https://notify.moe/anime/bdlv9deiR",
         "https://notify.moe/anime/z7MOexGng"
       ],
       "tags": [
+        "animal characteristics",
+        "based on a manga",
+        "cgi",
+        "chibi",
+        "cohabitation",
         "comedy",
+        "contemporary fantasy",
+        "cosplay",
+        "cute girls doing cute things",
         "dragon",
+        "dragons",
+        "ecchi",
+        "elementary school",
+        "ensemble cast",
+        "episodic",
+        "family life",
         "fantasy",
+        "isekai",
+        "magic",
         "maid",
-        "slice of life"
+        "maids",
+        "martial arts",
+        "moe",
+        "monster",
+        "monster girl",
+        "monster girls",
+        "non-human protagonists",
+        "office lady",
+        "office worker",
+        "present",
+        "primarily adult cast",
+        "reverse isekai",
+        "roommates",
+        "seinen",
+        "short episodes",
+        "slice of life",
+        "stoic heroine",
+        "swimming",
+        "urban",
+        "urban fantasy",
+        "video games",
+        "yuri"
       ],
       "id": "https://myanimelist.net/anime/48590"
     },
@@ -789,6 +806,7 @@
       "relations": [],
       "tags": [
         "ecchi",
+        "female protagonist",
         "idols",
         "indefinite",
         "japan",
@@ -803,6 +821,80 @@
     },
     {
       "sources": [
+        "https://anidb.net/anime/17282",
+        "https://anilist.co/anime/146676",
+        "https://anime-planet.com/anime/love-flops",
+        "https://anisearch.com/anime/17237",
+        "https://kitsu.io/anime/46002",
+        "https://livechart.me/anime/11156",
+        "https://myanimelist.net/anime/51403",
+        "https://notify.moe/anime/xAjbwqzVg"
+      ],
+      "title": "Renai Flops",
+      "type": "TV",
+      "episodes": 12,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "FALL",
+        "year": 2022
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1620/130589.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1620/130589t.jpg",
+      "synonyms": [
+        "LOVE FLOPS",
+        "Love Flops",
+        "Ren`ai Flops",
+        "Renai Furoppusu",
+        "Renflo",
+        "Ren’ai Flops",
+        "恋愛フロップス",
+        "恋爱FLOPS",
+        "戀愛FLOPS"
+      ],
+      "relations": [],
+      "tags": [
+        "age gap",
+        "aliens",
+        "artificial intelligence",
+        "assassins",
+        "comedy",
+        "conspiracy",
+        "crossdressing",
+        "cyborg",
+        "drama",
+        "ecchi",
+        "family life",
+        "female harem",
+        "found family",
+        "harem",
+        "heterosexual",
+        "high school",
+        "magic",
+        "male protagonist",
+        "memory manipulation",
+        "new",
+        "nudity",
+        "original work",
+        "parody",
+        "primarily female cast",
+        "primarily teen cast",
+        "romance",
+        "romantic comedy",
+        "school",
+        "school life",
+        "sci-fi",
+        "science fiction",
+        "surreal comedy",
+        "teacher",
+        "tomboy",
+        "tragedy",
+        "virtual world",
+        "yandere"
+      ],
+      "id": "https://myanimelist.net/anime/51403"
+    },
+    {
+      "sources": [
         "https://anisearch.com/anime/15893"
       ],
       "title": "Ryoutei no Aji: Freeze-Dried Karyuu Miso - Ki o Tsuketene-hen",
@@ -813,16 +905,18 @@
         "season": "WINTER",
         "year": 2021
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/15/15893.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/15/15893.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/15/15893_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/15/15893.webp",
       "synonyms": [
-        "Marukome CM9",
+        "Marukome CM 9",
+        "Ryotei no Aji: Look After Yourself",
         "Ryoutei no Aji: Freeze-Dried Karyuu Miso - Ki wo Tsuketene-hen",
         "Ryōtei no Aji: Freeze-Dried Karyū Miso - Ki o Tsuketene-hen",
         "料亭の味 フリーズドライ 顆粒みそ 気をつけてね篇"
       ],
       "relations": [
-        "https://anisearch.com/anime/15004"
+        "https://anisearch.com/anime/15004",
+        "https://anisearch.com/anime/17419"
       ],
       "tags": [
         "drama",
@@ -863,8 +957,8 @@
         "Jackie und Jill - Die Bärenkinder vom Berg Tarak",
         "Jackie und Jill: Die Bärenkinder vom Berg Tarak",
         "Jackie y Nuca",
-        "Jacky, l'orso del monte Tallac",
         "Jacky, l`orso del monte Tallac",
+        "Jacky, l’orso del monte Tallac",
         "Jacky, o Urso de Tallac",
         "Kiddy Bear Jacky",
         "Mali Mieszkancy Wielkich Gór",
@@ -921,8 +1015,8 @@
         "season": "SPRING",
         "year": 2019
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/15/15291.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/15/15291.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/15/15291_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/15/15291.webp",
       "synonyms": [
         "시노스톤"
       ],
@@ -972,8 +1066,8 @@
         "season": "WINTER",
         "year": 2021
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/16/16366.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/16/16366.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/16/16366_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/16/16366.webp",
       "synonyms": [
         "UKK Ueda Kikō Kabushikigaisha CM",
         "UKK 植田基工株式会社 CM"
@@ -1035,23 +1129,8 @@
         "https://anime-planet.com/anime/teekyuu-8-specials",
         "https://anime-planet.com/anime/teekyuu-9",
         "https://anime-planet.com/anime/usakame-special",
-        "https://anisearch.com/anime/10042",
-        "https://anisearch.com/anime/10080",
-        "https://anisearch.com/anime/10369",
-        "https://anisearch.com/anime/10675",
-        "https://anisearch.com/anime/10799",
-        "https://anisearch.com/anime/11000",
-        "https://anisearch.com/anime/11683",
-        "https://anisearch.com/anime/12415",
-        "https://anisearch.com/anime/14556",
-        "https://anisearch.com/anime/14557",
-        "https://anisearch.com/anime/14558",
-        "https://anisearch.com/anime/14559",
-        "https://anisearch.com/anime/663",
+        "https://anisearch.com/anime/14787",
         "https://anisearch.com/anime/8003",
-        "https://anisearch.com/anime/9062",
-        "https://anisearch.com/anime/9319",
-        "https://anisearch.com/anime/9367",
         "https://kitsu.io/anime/7217",
         "https://myanimelist.net/anime/15125",
         "https://myanimelist.net/anime/34615",
@@ -1081,49 +1160,38 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/16738",
-        "https://anime-planet.com/anime/wooser-no-sono-higurashi-ken-to-pantsu-to-wooser-to",
-        "https://anisearch.com/anime/9116"
+        "https://anilist.co/anime/141528",
+        "https://anime-planet.com/anime/verse-n-episode-n-kuusou",
+        "https://kitsu.io/anime/45881",
+        "https://myanimelist.net/anime/50383"
       ],
-      "title": "Wooser no Sono Higurashi: Ken to Pantsu to Wooser to",
-      "type": "SPECIAL",
+      "title": "VERSEⁿ: Episodeⁿ - Kuusou",
+      "type": "ONA",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "WINTER",
-        "year": 2013
+        "season": "FALL",
+        "year": 2021
       },
-      "picture": "https://cdn.anime-planet.com/anime/primary/wooser-no-sono-higurashi-ken-to-pantsu-to-wooser-to-1.jpg?t=1625896714",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/wooser-no-sono-higurashi-ken-to-pantsu-to-wooser-to-1-190x268.jpg?t=1625896714",
+      "picture": "https://cdn.myanimelist.net/images/anime/1678/119484.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1678/119484t.jpg",
       "synonyms": [
-        "Wooser no Sono Higurashi Episode 13",
-        "Wooser no Sono Higurashi Special",
-        "Wooser's Hand-to-Mouth Life Special",
-        "Wōser no Sono Higurashi: Ken to Pantsu to Wōser to",
-        "うーさーのその日暮らし 拳とパンツとうーさーと"
+        "Episodeⁿ | Kuusou",
+        "Episodeⁿ | 空想",
+        "VERSEⁿ - Episodeⁿ | 空想"
       ],
-      "relations": [
-        "https://anilist.co/anime/15313",
-        "https://anilist.co/anime/20267",
-        "https://anime-planet.com/anime/wooser-no-sono-higurashi",
-        "https://anime-planet.com/anime/wooser-no-sono-higurashi-2",
-        "https://anime-planet.com/anime/wooser-no-sono-higurashi-3",
-        "https://anisearch.com/anime/10104",
-        "https://anisearch.com/anime/8015",
-        "https://anisearch.com/anime/9086"
-      ],
+      "relations": [],
       "tags": [
-        "animal protagonists",
-        "based on a manga",
-        "cg animation",
-        "chibi",
-        "comedy",
+        "contemporary fantasy",
+        "denpa",
         "fantasy",
-        "mecha",
-        "non-human protagonists",
-        "slice of life"
+        "female protagonist",
+        "no dialogue",
+        "promotional",
+        "vtuber",
+        "vtubers"
       ],
-      "id": "https://anime-planet.com/anime/wooser-no-sono-higurashi-ken-to-pantsu-to-wooser-to"
+      "id": "https://myanimelist.net/anime/50383"
     },
     {
       "sources": [
@@ -1133,12 +1201,13 @@
         "https://anisearch.com/anime/16944",
         "https://kitsu.io/anime/45518",
         "https://livechart.me/anime/10919",
-        "https://myanimelist.net/anime/50274"
+        "https://myanimelist.net/anime/50274",
+        "https://notify.moe/anime/rllxAdTVR"
       ],
       "title": "Yao Shen Ji 5th Season",
       "type": "ONA",
-      "episodes": 52,
-      "status": "ONGOING",
+      "episodes": 104,
+      "status": "FINISHED",
       "animeSeason": {
         "season": "FALL",
         "year": 2021
@@ -1147,9 +1216,12 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1390/119371t.jpg",
       "synonyms": [
         "Tales of Demons and Gods 5",
+        "Tales of Demons and Gods 5th & 6th Season",
         "Tales of Demons and Gods 5th Season",
         "Tales of Demons and Gods Season 5",
+        "Tales of Demons and Gods Season 5 & 6",
         "Yao Shen Ji 5",
+        "Yao Shen Ji 5th & 6th Season",
         "Yao Shen Ji Di Wu Ji",
         "Yao Shen ji 5th Season",
         "Yaoshenji 5th Season",
@@ -1159,17 +1231,21 @@
       "relations": [
         "https://anidb.net/anime/15670",
         "https://anilist.co/anime/116964",
+        "https://anilist.co/anime/159581",
         "https://anime-planet.com/anime/yaoshenji-4th-season",
-        "https://anisearch.com/anime/12748",
-        "https://anisearch.com/anime/14057",
-        "https://anisearch.com/anime/14137",
+        "https://anime-planet.com/anime/yaoshenji-6th-season",
         "https://anisearch.com/anime/16945",
+        "https://anisearch.com/anime/18245",
         "https://kitsu.io/anime/43564",
+        "https://kitsu.io/anime/47013",
         "https://livechart.me/anime/8157",
         "https://livechart.me/anime/8188",
         "https://livechart.me/anime/9866",
         "https://livechart.me/anime/9868",
-        "https://myanimelist.net/anime/40734"
+        "https://myanimelist.net/anime/40734",
+        "https://myanimelist.net/anime/54285",
+        "https://notify.moe/anime/CLRr0Oo4R",
+        "https://notify.moe/anime/YhwaTBrZR"
       ],
       "tags": [
         "action",
@@ -1183,8 +1259,11 @@
         "demons",
         "fantasy",
         "full cgi",
+        "male protagonist",
         "martial arts",
+        "mythology",
         "romance",
+        "short episodes",
         "xianxia"
       ],
       "id": "https://myanimelist.net/anime/50274"

@@ -41,11 +41,9 @@
         "https://anilist.co/anime/17088",
         "https://anime-planet.com/anime/agigongryong-doolie",
         "https://anime-planet.com/anime/agigongryong-doolie-1988",
-        "https://anisearch.com/anime/12008",
         "https://anisearch.com/anime/1240",
         "https://anisearch.com/anime/5530",
         "https://anisearch.com/anime/6187",
-        "https://anisearch.com/anime/8835",
         "https://myanimelist.net/anime/17088"
       ],
       "tags": [
@@ -55,6 +53,27 @@
         "korean animation"
       ],
       "id": "https://myanimelist.net/anime/16570"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/158642"
+      ],
+      "title": "Aru Kioku",
+      "type": "ONA",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2012
+      },
+      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158642-aAARqvVrt74L.png",
+      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158642-aAARqvVrt74L.png",
+      "synonyms": [
+        "ある記憶"
+      ],
+      "relations": [],
+      "tags": [],
+      "id": "https://anilist.co/anime/158642"
     },
     {
       "sources": [
@@ -90,24 +109,55 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/154118",
+        "https://anime-planet.com/anime/dino"
+      ],
+      "title": "DINO!",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2020
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/dino-1.webp?t=1669399690",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/dino-1-285x399.webp?t=1669399690",
+      "synonyms": [],
+      "relations": [],
+      "tags": [
+        "adventure",
+        "dinosaurs",
+        "fantasy",
+        "shorts",
+        "stop motion",
+        "stop motion animation"
+      ],
+      "id": "https://anime-planet.com/anime/dino"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/feifan-meirenyu",
         "https://myanimelist.net/anime/46938"
       ],
       "title": "Feifan Meirenyu",
       "type": "TV",
-      "episodes": 53,
+      "episodes": 52,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2018
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1205/123177.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1205/123177t.jpg",
       "synonyms": [
         "非凡美人鱼"
       ],
       "relations": [],
       "tags": [
-        "fantasy"
+        "chinese animation",
+        "family friendly",
+        "fantasy",
+        "short episodes"
       ],
       "id": "https://myanimelist.net/anime/46938"
     },
@@ -115,22 +165,24 @@
       "sources": [
         "https://myanimelist.net/anime/47430"
       ],
-      "title": "Feng Sheng Shui Qi Zhi 24 Jieqi De Gushi",
-      "type": "TV",
+      "title": "Feng Sheng Shui Qi: 24 Jieqi de Gushi",
+      "type": "ONA",
       "episodes": 24,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2017
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1876/129438.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1876/129438t.jpg",
       "synonyms": [
         "风生水起之24节气的故事"
       ],
       "relations": [],
       "tags": [
-        "fantasy"
+        "anthropomorphic",
+        "fantasy",
+        "kids"
       ],
       "id": "https://myanimelist.net/anime/47430"
     },
@@ -157,7 +209,6 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/10/19956t.jpg",
       "synonyms": [
         "HELLSING",
-        "HELLSING [ヘルシング]",
         "Hellsing TV",
         "Hellsing [ヘルシング]",
         "Helsingas",
@@ -181,7 +232,7 @@
         "https://anime-planet.com/anime/hellsing-ultimate",
         "https://anime-planet.com/anime/hellsing-ultimate-digest-for-freaks",
         "https://anisearch.com/anime/3391",
-        "https://anisearch.com/anime/7259",
+        "https://anisearch.com/anime/8413",
         "https://kitsu.io/anime/5099",
         "https://kitsu.io/anime/695",
         "https://livechart.me/anime/3598",
@@ -195,7 +246,11 @@
       ],
       "tags": [
         "action",
+        "adult cast",
+        "alternative present",
+        "anti-hero",
         "based on a manga",
+        "body horror",
         "butler",
         "cannibalism",
         "conspiracy",
@@ -207,6 +262,7 @@
         "europe",
         "excessive violence",
         "fantasy",
+        "foreign",
         "gore",
         "gunfights",
         "guns",
@@ -218,17 +274,21 @@
         "master-servant relationship",
         "military",
         "monster",
+        "monster girl",
         "noir",
         "non-human protagonists",
         "overpowered main characters",
         "police",
         "present",
+        "primarily adult cast",
         "seinen",
-        "special squads",
         "splatter",
+        "suicide",
         "super power",
         "supernatural",
         "united kingdom",
+        "urban",
+        "urban fantasy",
         "vampire",
         "vampires",
         "violence"
@@ -257,8 +317,9 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/3/82009t.jpg",
       "synonyms": [
         "Adventure of Black Cat Yoru",
+        "JOKER GAME: Black Cat Yoru's Adventure",
+        "JOKER GAME: Kuroneko Yoru no Bouken",
         "Joker Game Specials",
-        "Joker Game: Black Cat Yoru's Adventure",
         "Joker Game: Die Abenteuer der Schwarzen Katze Yoru",
         "Joker Game: Kuroneko Yoru no Bōken",
         "Joker Game: The Adventures of Night, the Black Cat",
@@ -282,10 +343,12 @@
         "crime fiction",
         "drama",
         "espionage",
+        "espionage thriller",
         "historical",
         "military",
         "mystery",
         "primarily male cast",
+        "secret agent",
         "seinen",
         "thriller",
         "war",
@@ -305,7 +368,7 @@
         "https://myanimelist.net/anime/18495",
         "https://notify.moe/anime/uG_ctFmmg"
       ],
-      "title": "Kitakubu Katsudou Kiroku",
+      "title": "Kitaku-bu Katsudou Kiroku",
       "type": "TV",
       "episodes": 12,
       "status": "FINISHED",
@@ -318,9 +381,11 @@
       "synonyms": [
         "Chronicles of the Going Home Club",
         "KKK",
+        "Kitakubu Katsudou Kiroku",
         "Kitakubu Katsudou Kiroku: Chronicles of the Going Home Club",
         "Kitakubu Katsudō Kiroku",
         "kitakubu",
+        "ktkb",
         "きたくぶかつどうきろく",
         "帰宅部活動記録",
         "归宅部活动记录"
@@ -362,7 +427,6 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/1631",
         "https://anime-planet.com/anime/eureka-seven-navigation-ray-out",
         "https://anisearch.com/anime/14303",
         "https://kitsu.io/anime/1466",
@@ -384,14 +448,12 @@
         "Eureka Seven 26.5",
         "Eureka Seven Recap",
         "Eureka Seven: Navigation ray=out",
-        "Koukyou Shihen Eureka Seven: Navigation ray=out",
         "Koukyoushihen Eureka Seven: Navigation ray=out",
         "Kōkyōshihen Eureka Seven: Navigation ray=out",
         "交響詩篇エウレカセブン 緊急特番 ナビゲーション ray=out",
         "緊急特番 ナビゲーション \"ray=out\""
       ],
       "relations": [
-        "https://anilist.co/anime/237",
         "https://anime-planet.com/anime/eureka-seven",
         "https://anime-planet.com/anime/eureka-seven-ao",
         "https://anime-planet.com/anime/eureka-seven-ao-aratanari-fukaki-ao",
@@ -399,12 +461,7 @@
         "https://anime-planet.com/anime/eureka-seven-ao-the-flowers-of-jungfrau",
         "https://anime-planet.com/anime/eureka-seven-good-night-sleep-tight-young-lovers",
         "https://anime-planet.com/anime/eureka-seven-new-order",
-        "https://anisearch.com/anime/12308",
-        "https://anisearch.com/anime/12312",
         "https://anisearch.com/anime/3475",
-        "https://anisearch.com/anime/4866",
-        "https://anisearch.com/anime/7484",
-        "https://anisearch.com/anime/7881",
         "https://kitsu.io/anime/212",
         "https://myanimelist.net/anime/237",
         "https://notify.moe/anime/9onhcFmig"
@@ -416,7 +473,6 @@
         "alternative world",
         "coming of age",
         "drama",
-        "kuudere",
         "mecha",
         "military",
         "original work",
@@ -425,15 +481,18 @@
         "sci fi",
         "sci-fi",
         "science fiction",
-        "science-fiction",
-        "super robot"
+        "science-fiction"
       ],
       "id": "https://myanimelist.net/anime/1631"
     },
     {
       "sources": [
+        "https://anidb.net/anime/15574",
+        "https://anilist.co/anime/115794",
         "https://anime-planet.com/anime/dino-girl-gauko-2nd-season",
+        "https://anisearch.com/anime/15128",
         "https://kitsu.io/anime/43088",
+        "https://livechart.me/anime/9801",
         "https://myanimelist.net/anime/41421"
       ],
       "title": "Kyouryuu Shoujo Gauko 2nd Season",
@@ -447,13 +506,31 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1284/106412.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1284/106412t.jpg",
       "synonyms": [
+        "Dino Girl Gauko (2020)",
         "Dino Girl Gauko 2nd Season",
+        "Dino Girl Gauko Saison 2",
         "Dino Girl Gauko Season 2",
+        "Dino Girl Gauko Staffel 2",
+        "Dino Girl Gauko Stagione 2",
+        "Dino Girl Gauko Temporada 2",
+        "Dino-Girl 2",
+        "Dinotyttö Gauko (2020)",
+        "Dinołaczka (2020)",
+        "Kyouryuu Shoujo Gauko (2020)",
+        "Kyouryuu Shoujo Gauko Season 2",
+        "Kyōryū Shōjo Gauko Season 2",
+        "גאוקו ילדת הדרקון עונה 2",
+        "恐竜少女ガウ子 (2020)",
+        "恐竜少女ガウ子 シーズン２",
         "恐竜少女ガウ子シーズン2"
       ],
       "relations": [
+        "https://anidb.net/anime/14927",
+        "https://anilist.co/anime/109639",
         "https://anime-planet.com/anime/dino-girl-gauko",
+        "https://anisearch.com/anime/14431",
         "https://kitsu.io/anime/42653",
+        "https://livechart.me/anime/9452",
         "https://myanimelist.net/anime/39849"
       ],
       "tags": [
@@ -465,9 +542,12 @@
         "comedy",
         "dinosaurs",
         "family friendly",
+        "female protagonist",
         "kids",
         "non-human protagonists",
         "original work",
+        "present",
+        "school",
         "sci fi",
         "science fiction",
         "short episodes",
@@ -531,24 +611,33 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/mask-man",
         "https://myanimelist.net/anime/48195"
       ],
-      "title": "Maseukeumaen",
+      "title": "Mask Man",
       "type": "TV",
       "episodes": 39,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
+        "season": "SUMMER",
+        "year": 2005
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1121/125165.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1121/125165t.jpg",
       "synonyms": [
+        "Maseukeumaen",
         "마스크맨"
       ],
       "relations": [],
       "tags": [
-        "adventure"
+        "action",
+        "adventure",
+        "comedy",
+        "family friendly",
+        "kids",
+        "korean animation",
+        "sci fi",
+        "sci-fi"
       ],
       "id": "https://myanimelist.net/anime/48195"
     },
@@ -588,8 +677,6 @@
         "https://anime-planet.com/anime/master-of-torque-2",
         "https://anime-planet.com/anime/master-of-torque-3",
         "https://anisearch.com/anime/11383",
-        "https://anisearch.com/anime/9577",
-        "https://anisearch.com/anime/9820",
         "https://kitsu.io/anime/11542",
         "https://myanimelist.net/anime/32059",
         "https://notify.moe/anime/cf1CpKiiR"
@@ -600,6 +687,7 @@
         "cars",
         "cg animation",
         "cg-anime",
+        "full cgi",
         "motorcycles",
         "motorsport",
         "new",
@@ -613,6 +701,57 @@
     },
     {
       "sources": [
+        "https://anidb.net/anime/17771",
+        "https://anilist.co/anime/158791",
+        "https://anime-planet.com/anime/firefighter-daigo-rescuer-in-orange",
+        "https://anime-planet.com/anime/megumi-no-daigo-kyuukoku-no-orange",
+        "https://anisearch.com/anime/17935",
+        "https://kitsu.io/anime/46922",
+        "https://livechart.me/anime/11725",
+        "https://myanimelist.net/anime/53848",
+        "https://notify.moe/anime/GS4gv254g"
+      ],
+      "title": "Megumi no Daigo: Kyuukoku no Orange",
+      "type": "TV",
+      "episodes": 12,
+      "status": "UPCOMING",
+      "animeSeason": {
+        "season": "FALL",
+        "year": 2023
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1133/134731.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1133/134731t.jpg",
+      "synonyms": [
+        "Company M: The Orange of National Salvation",
+        "Firefighter Daigo: Rescuer in Orange",
+        "Firefighter! Daigo of Fire",
+        "Firefighter! Daigo of Fire Company M: The Orange of National Salvation",
+        "Firefighter!: Daigo of Fire Company M",
+        "Me-gumi no Daigo: Kyuukoku no Orange",
+        "Me-gumi no Daigo: Kyūkoku no Orange",
+        "め組の大吾 救国のオレンジ"
+      ],
+      "relations": [
+        "https://anidb.net/anime/1572",
+        "https://anilist.co/anime/3147",
+        "https://anisearch.com/anime/2443",
+        "https://kitsu.io/anime/2823",
+        "https://livechart.me/anime/7929",
+        "https://myanimelist.net/anime/3147",
+        "https://notify.moe/anime/MNzw5KiiR"
+      ],
+      "tags": [
+        "action",
+        "adult cast",
+        "based on a manga",
+        "drama",
+        "firefighters",
+        "shounen"
+      ],
+      "id": "https://myanimelist.net/anime/53848"
+    },
+    {
+      "sources": [
         "https://anisearch.com/anime/17104"
       ],
       "title": "Memolead Image Animation Douga",
@@ -623,8 +762,8 @@
         "season": "SPRING",
         "year": 2021
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/17/17104.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17104.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/17/17104_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/17/17104.webp",
       "synonyms": [
         "Kansha no Omoi",
         "Memolead CM",
@@ -692,8 +831,8 @@
         "season": "SPRING",
         "year": 2015
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/17/17031.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17031.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/17/17031_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/17/17031.webp",
       "synonyms": [
         "놓지마 정신줄 2기"
       ],
@@ -707,7 +846,8 @@
     },
     {
       "sources": [
-        "https://kitsu.io/anime/41452"
+        "https://kitsu.io/anime/41452",
+        "https://notify.moe/anime/4Z--DfDiR"
       ],
       "title": "One Room 2 Episode 0",
       "type": "SPECIAL",
@@ -721,14 +861,18 @@
       "thumbnail": "https://media.kitsu.io/anime/poster_images/41452/tiny.jpg",
       "synonyms": [
         "Hanasaka Yui's Prologue",
+        "One Room 2nd Season Episode 0",
         "One Room 第2期"
       ],
       "relations": [
         "https://kitsu.io/anime/12758",
         "https://kitsu.io/anime/13905",
-        "https://kitsu.io/anime/42466"
+        "https://kitsu.io/anime/42466",
+        "https://notify.moe/anime/588ShFmmR",
+        "https://notify.moe/anime/jTrmhFimg"
       ],
       "tags": [
+        "romance",
         "slice of life"
       ],
       "id": "https://kitsu.io/anime/41452"
@@ -757,67 +901,6 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/140082"
-      ],
-      "title": "Peace",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2021
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140082-5b62qPvJ2rJe.png",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140082-5b62qPvJ2rJe.png",
-      "synonyms": [],
-      "relations": [],
-      "tags": [
-        "rotoscoping"
-      ],
-      "id": "https://anilist.co/anime/140082"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-8"
-      ],
-      "title": "Pleasant Goat and Big Big Wolf Movie 8",
-      "type": "MOVIE",
-      "episodes": 0,
-      "status": "UPCOMING",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2023
-      },
-      "picture": "https://anime-planet.com/images/anime/covers/16421.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/16421.jpg",
-      "synonyms": [
-        "Pleasant Goat and Big Big Wolf 3D Movie",
-        "Xi Yangyang Yu Hui Tailang Da Dianying 8"
-      ],
-      "relations": [
-        "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf",
-        "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-1-the-super-snail-adventure",
-        "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-2-the-tiger-prowess",
-        "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-3-moon-castle-the-space-adventure",
-        "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-4-mission-incredible-adventures-on-the-dragons-trail",
-        "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-5-the-mythical-ark-adventures-in-love-happiness",
-        "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-6-meet-the-pegasus",
-        "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-7-amazing-pleasant-goat"
-      ],
-      "tags": [
-        "adventure",
-        "animal protagonists",
-        "anthropomorphic",
-        "cg animation",
-        "chinese animation",
-        "family friendly",
-        "non-human protagonists",
-        "original work"
-      ],
-      "id": "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-8"
-    },
-    {
-      "sources": [
         "https://anidb.net/anime/8672",
         "https://anilist.co/anime/11009",
         "https://anime-planet.com/anime/pokemon-4d-pikachus-ocean-adventure",
@@ -838,6 +921,7 @@
       "picture": "https://cdn.myanimelist.net/images/anime/4/30543.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/4/30543t.jpg",
       "synonyms": [
+        "PM Movie: Pikachu no Kaitei Daibouken",
         "Pikachu no Kaiyou Adventure",
         "Pikachu`s Ocean Adventure",
         "Pikachu’s Ocean Adventure",
@@ -858,6 +942,7 @@
         "https://anilist.co/anime/1564",
         "https://anime-planet.com/anime/pokemon-3d-adventure-find-mew",
         "https://anime-planet.com/anime/pokemon-advanced",
+        "https://anisearch.com/anime/7437",
         "https://kitsu.io/anime/1404",
         "https://kitsu.io/anime/6441",
         "https://livechart.me/anime/3702",
@@ -899,11 +984,12 @@
     },
     {
       "sources": [
-        "https://kitsu.io/anime/14250"
+        "https://kitsu.io/anime/14250",
+        "https://notify.moe/anime/JxGDhFmmR"
       ],
       "title": "Purina Felix",
       "type": "SPECIAL",
-      "episodes": 0,
+      "episodes": 6,
       "status": "ONGOING",
       "animeSeason": {
         "season": "SPRING",
@@ -922,28 +1008,39 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/qiqi-keke-shuo-konglong",
         "https://myanimelist.net/anime/44369"
       ],
-      "title": "Qi Qi Ke Ke Shuo Konglong",
+      "title": "QiQi KeKe Shuo Konglong",
       "type": "TV",
-      "episodes": 60,
+      "episodes": 365,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
         "year": 2009
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1698/123971.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1698/123971t.jpg",
       "synonyms": [
+        "The Adventures of QiQi and KeKe",
         "奇奇颗颗说恐龙"
       ],
       "relations": [
+        "https://anime-planet.com/anime/qiqi-keke-lixian-ji",
+        "https://anime-planet.com/anime/xi-mu-ba-long-jiazu",
+        "https://myanimelist.net/anime/44366",
         "https://myanimelist.net/anime/44368"
       ],
       "tags": [
         "adventure",
+        "chinese animation",
+        "dinosaurs",
+        "family friendly",
         "historical",
-        "kids"
+        "kids",
+        "non-human protagonists",
+        "prehistoric",
+        "short episodes"
       ],
       "id": "https://myanimelist.net/anime/44369"
     },
@@ -959,8 +1056,8 @@
         "season": "UNDEFINED",
         "year": 2013
       },
-      "picture": "https://anime-planet.com/images/anime/covers/16080.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/16080.jpg",
+      "picture": "https://cdn.anime-planet.com/anime/primary/rabbit-tailor-1.jpg?t=1625908706",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/rabbit-tailor-1-190x286.jpg?t=1625908706",
       "synonyms": [
         "Tu Caifeng"
       ],
@@ -979,6 +1076,56 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/146729",
+        "https://anime-planet.com/anime/ruguo-lishi-shi-yiqun-miao-8",
+        "https://myanimelist.net/anime/51496"
+      ],
+      "title": "Ruguo Lishi Shi Yiqun Miao 8th Season",
+      "type": "ONA",
+      "episodes": 12,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SPRING",
+        "year": 2022
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1328/122199.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1328/122199t.jpg",
+      "synonyms": [
+        "History Cats 8th Season",
+        "If History is a Group of Meows 8th Season",
+        "Ruguo Lishi Shi Yi Qun Miao 8",
+        "Ruguo Lishi Shi Yiqun Miao 8",
+        "When History Meows 8",
+        "When History Meows 8th Season",
+        "如果历史是一群喵 盛世大唐篇",
+        "如果历史是一群喵 第八季"
+      ],
+      "relations": [
+        "https://anilist.co/anime/139434",
+        "https://anilist.co/anime/155193",
+        "https://anime-planet.com/anime/ruguo-lishi-shi-yiqun-miao-7",
+        "https://anime-planet.com/anime/ruguo-lishi-shi-yiqun-miao-9",
+        "https://myanimelist.net/anime/50294",
+        "https://myanimelist.net/anime/53589"
+      ],
+      "tags": [
+        "animal protagonists",
+        "anthropomorphic",
+        "based on a webtoon",
+        "cats",
+        "chinese animation",
+        "comedy",
+        "educational",
+        "historical",
+        "kids",
+        "non-human protagonists",
+        "short episodes"
+      ],
+      "id": "https://myanimelist.net/anime/51496"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/the-story-of-saiunkoku-recaps",
         "https://kitsu.io/anime/1986",
         "https://livechart.me/anime/8818",
         "https://myanimelist.net/anime/2193",
@@ -995,13 +1142,19 @@
       "picture": "https://cdn.myanimelist.net/images/anime/5/67033.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/5/67033t.jpg",
       "synonyms": [
+        "Colourcloud Palace Recaps",
         "Saiunkoku Emaki",
         "Saiunkoku Monogatari Soushuuhen",
+        "Saiunkoku Monogatari: Saiunkoku Emaki",
         "Saiunkoku Picture Scroll",
+        "The Story of Saiunkoku Recaps",
         "彩雲国物語 彩雲国絵巻"
       ],
       "relations": [
+        "https://anime-planet.com/anime/the-story-of-saiunkoku",
         "https://kitsu.io/anime/847",
+        "https://livechart.me/anime/5025",
+        "https://livechart.me/anime/5930",
         "https://myanimelist.net/anime/957",
         "https://notify.moe/anime/fIN15KimR"
       ],
@@ -1011,13 +1164,17 @@
         "drama",
         "fantasy",
         "historical",
-        "romance"
+        "recap",
+        "reverse harem",
+        "romance",
+        "shoujo"
       ],
       "id": "https://myanimelist.net/anime/2193"
     },
     {
       "sources": [
         "https://anilist.co/anime/145410",
+        "https://anime-planet.com/anime/sekai-wo-musubou",
         "https://myanimelist.net/anime/40831"
       ],
       "title": "Sekai wo Musubou",
@@ -1032,11 +1189,14 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1897/104664t.jpg",
       "synonyms": [
         "Minna no Uta",
+        "Minna no Uta: Sekai wo Musubou",
         "世界を結ぼう"
       ],
       "relations": [],
       "tags": [
+        "family friendly",
         "kids",
+        "minna no uta",
         "music"
       ],
       "id": "https://myanimelist.net/anime/40831"
@@ -1119,6 +1279,7 @@
         "action",
         "based on a manga",
         "brain games and gambling",
+        "card battle",
         "card battles",
         "fantasy",
         "gore",
@@ -1142,6 +1303,7 @@
     {
       "sources": [
         "https://anilist.co/anime/140160",
+        "https://anime-planet.com/anime/harumaki-gohan-suisei-ni-nareta-nara",
         "https://myanimelist.net/anime/42316"
       ],
       "title": "Suisei ni Nareta Nara",
@@ -1155,14 +1317,21 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1480/114478.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1480/114478t.jpg",
       "synonyms": [
+        "Harumaki Gohan: If I Could be a Comet",
+        "Harumaki Gohan: Suisei ni Nareta Nara",
         "If I Could Become a Comet",
         "If I Could be a Comet",
         "If I could be a comet",
         "彗星になれたなら"
       ],
-      "relations": [],
+      "relations": [
+        "https://anime-planet.com/anime/harumaki-gohan-suisei-ni-nareta-nara-acoustic-nightwalker-arrange",
+        "https://anime-planet.com/anime/harumaki-gohan-suisei-ni-nareta-nara-vocal-ver"
+      ],
       "tags": [
-        "music"
+        "astronomy",
+        "music",
+        "vocaloid"
       ],
       "id": "https://myanimelist.net/anime/42316"
     },
@@ -1197,34 +1366,6 @@
         "the arts"
       ],
       "id": "https://myanimelist.net/anime/36063"
-    },
-    {
-      "sources": [
-        "https://anilist.co/anime/129493",
-        "https://anime-planet.com/anime/xiaosong-dangjia"
-      ],
-      "title": "Xiaosong Dangjia",
-      "type": "TV",
-      "episodes": 100,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2008
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/xiaosong-dangjia-1.jpg?t=1625908972",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/xiaosong-dangjia-1-190x267.jpg?t=1625908972",
-      "synonyms": [
-        "Cookie Master",
-        "小宋当家"
-      ],
-      "relations": [],
-      "tags": [
-        "chibi",
-        "chinese animation",
-        "comedy",
-        "drama"
-      ],
-      "id": "https://anime-planet.com/anime/xiaosong-dangjia"
     },
     {
       "sources": [
@@ -1274,11 +1415,7 @@
         "https://anime-planet.com/anime/the-familiar-of-zero-rondo-of-princesses",
         "https://anime-planet.com/anime/the-familiar-of-zero-rondo-of-princesses-picture-drama",
         "https://anime-planet.com/anime/the-familiar-of-zero-rondo-of-princesses-seductive-beach",
-        "https://anisearch.com/anime/2384",
-        "https://anisearch.com/anime/3918",
         "https://anisearch.com/anime/4638",
-        "https://anisearch.com/anime/7100",
-        "https://anisearch.com/anime/7996",
         "https://kitsu.io/anime/3209",
         "https://livechart.me/anime/3592",
         "https://livechart.me/anime/3630",
@@ -1302,9 +1439,10 @@
         "female harem",
         "feudal warfare",
         "harem",
+        "heterosexual",
         "isekai",
         "kuudere",
-        "large breasts - deprecated",
+        "large breasts",
         "love triangle",
         "magic",
         "magic school",

@@ -32,8 +32,6 @@
         "https://anime-planet.com/anime/ai-yori-aoshi-enishi",
         "https://anime-planet.com/anime/ai-yori-aoshi-enishi-beautiful-snow",
         "https://anisearch.com/anime/1764",
-        "https://anisearch.com/anime/3997",
-        "https://anisearch.com/anime/555",
         "https://kitsu.io/anime/34",
         "https://livechart.me/anime/4034",
         "https://livechart.me/anime/4485",
@@ -83,8 +81,8 @@
         "Card Captor Sakura Movie 2: The Sealed Card",
         "Card Captor Sakura: Enchanted Cards",
         "Card Captors Sakura The Movie 2",
-        "Cardcaptor Sakura Movie 2: Fuinsareta Card",
         "Cardcaptor Sakura Movie 2: The Sealed Card",
+        "Cardcaptor Sakura Movie: Fuinsareta Card",
         "Cardcaptor Sakura the Movie 2: The Sealed Card",
         "Cardcaptor Sakura: Der Film - Die versiegelte Karte",
         "Cardcaptor Sakura: The Movie 2: The Sealed Card",
@@ -102,13 +100,15 @@
         "カードキャプターさくら・封印されたカード",
         "劇場版 カードキャプターさくら 封印されたカード",
         "劇場版　カードキャプターさくら　封印されたカード",
-        "劇場版カードキャプターさくら封印されたカード"
+        "劇場版カードキャプターさくら封印されたカード",
+        "魔卡少女樱 被封印的卡片"
       ],
       "relations": [
         "https://anidb.net/anime/102",
         "https://anidb.net/anime/13060",
         "https://anilist.co/anime/1078",
         "https://anilist.co/anime/232",
+        "https://anilist.co/anime/97881",
         "https://anime-planet.com/anime/cardcaptor-sakura",
         "https://anime-planet.com/anime/cardcaptor-sakura-clear-card-hen",
         "https://anime-planet.com/anime/cardcaptor-sakura-clear-card-prologue-sakura-and-the-two-bears",
@@ -120,15 +120,12 @@
         "https://anime-planet.com/anime/tsubasa-reservoir-chronicle-the-movie-the-princess-in-the-birdcage-kingdom",
         "https://anime-planet.com/anime/tsubasa-reservoir-chronicle-tokyo-revelations",
         "https://anime-planet.com/anime/tsubasa-spring-thunder-chronicle",
-        "https://anisearch.com/anime/11517",
-        "https://anisearch.com/anime/12379",
-        "https://anisearch.com/anime/13578",
         "https://anisearch.com/anime/1913",
-        "https://anisearch.com/anime/2731",
-        "https://anisearch.com/anime/8471",
+        "https://anisearch.com/anime/8381",
         "https://kitsu.io/anime/12237",
         "https://kitsu.io/anime/207",
         "https://kitsu.io/anime/963",
+        "https://livechart.me/anime/11922",
         "https://livechart.me/anime/2198",
         "https://livechart.me/anime/2650",
         "https://livechart.me/anime/3665",
@@ -136,6 +133,7 @@
         "https://livechart.me/anime/4488",
         "https://myanimelist.net/anime/1078",
         "https://myanimelist.net/anime/232",
+        "https://myanimelist.net/anime/33354",
         "https://myanimelist.net/anime/35320",
         "https://notify.moe/anime/9xGh5Fimg",
         "https://notify.moe/anime/iq815Kiig",
@@ -146,6 +144,7 @@
         "action",
         "adventure",
         "asia",
+        "award winning",
         "based on a manga",
         "comedy",
         "contemporary fantasy",
@@ -154,12 +153,12 @@
         "family friendly",
         "fantasy",
         "female protagonist",
-        "henshin heroes",
         "heterosexual",
         "japan",
         "magic",
         "magical girl",
         "mahou shoujo",
+        "ojou-sama",
         "present",
         "primarily child cast",
         "romance",
@@ -247,36 +246,113 @@
         "super robots",
         "tragedy",
         "transforming craft",
+        "travel",
         "war"
       ],
       "id": "https://myanimelist.net/anime/930"
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/doby-and-disy-hello-dream",
         "https://myanimelist.net/anime/44458"
       ],
-      "title": "Dou Dou Di Di Zhi Meimeng Jingling",
+      "title": "Doby Disy: Meimeng Jingling",
       "type": "TV",
       "episodes": 26,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2018
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1689/122908.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1689/122908t.jpg",
       "synonyms": [
+        "Doby & Disy: Hello Dream",
         "逗逗迪迪之美梦精灵"
       ],
       "relations": [
+        "https://anime-planet.com/anime/doby-and-disy-sing-with-us",
         "https://myanimelist.net/anime/44457"
       ],
       "tags": [
-        "adventure",
+        "chinese animation",
+        "dream world",
+        "family friendly",
         "fantasy",
-        "kids"
+        "kids",
+        "siblings"
       ],
       "id": "https://myanimelist.net/anime/44458"
+    },
+    {
+      "sources": [
+        "https://anidb.net/anime/17515",
+        "https://anilist.co/anime/153412",
+        "https://anime-planet.com/anime/duel-masters-win",
+        "https://anisearch.com/anime/17517",
+        "https://kitsu.io/anime/46316",
+        "https://livechart.me/anime/11336",
+        "https://myanimelist.net/anime/52460",
+        "https://notify.moe/anime/C3YFi6G4g"
+      ],
+      "title": "Duel Masters Win",
+      "type": "TV",
+      "episodes": 29,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "FALL",
+        "year": 2022
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1836/126594.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1836/126594t.jpg",
+      "synonyms": [
+        "Duel Masters WIN",
+        "デュエル・マスターズ WIN",
+        "デュエル・マスターズWIN",
+        "决斗大师WIN"
+      ],
+      "relations": [
+        "https://anidb.net/anime/17195",
+        "https://anilist.co/anime/146865",
+        "https://anilist.co/anime/163256",
+        "https://anime-planet.com/anime/duel-masters-king-max",
+        "https://anisearch.com/anime/17091",
+        "https://anisearch.com/anime/18281",
+        "https://kitsu.io/anime/46017",
+        "https://kitsu.io/anime/47270",
+        "https://livechart.me/anime/11011",
+        "https://livechart.me/anime/11012",
+        "https://livechart.me/anime/11013",
+        "https://livechart.me/anime/1374",
+        "https://livechart.me/anime/1519",
+        "https://livechart.me/anime/2005",
+        "https://livechart.me/anime/2075",
+        "https://livechart.me/anime/2547",
+        "https://livechart.me/anime/3154",
+        "https://livechart.me/anime/503",
+        "https://livechart.me/anime/6826",
+        "https://livechart.me/anime/7230",
+        "https://livechart.me/anime/7488",
+        "https://livechart.me/anime/8568",
+        "https://livechart.me/anime/9199",
+        "https://myanimelist.net/anime/51037",
+        "https://myanimelist.net/anime/54762",
+        "https://notify.moe/anime/_Oxqz6M4R"
+      ],
+      "tags": [
+        "action",
+        "adventure",
+        "card battle",
+        "card battles",
+        "card games",
+        "comedy",
+        "family friendly",
+        "fantasy",
+        "gaming – card games",
+        "kids",
+        "shounen"
+      ],
+      "id": "https://myanimelist.net/anime/52460"
     },
     {
       "sources": [
@@ -303,6 +379,7 @@
         "Funny Pets 2",
         "Funny Pets 2nd Season Plus",
         "Funny Pets 2ndシーズン",
+        "Funny Pets Plus",
         "ふぁにーぺっつせかんどしーずん"
       ],
       "relations": [
@@ -366,6 +443,8 @@
       "tags": [
         "action",
         "adventure",
+        "animals",
+        "classic literature",
         "comedy",
         "family friendly",
         "fantasy",
@@ -377,7 +456,8 @@
         "sci-fi",
         "science fiction",
         "science-fiction",
-        "space"
+        "space",
+        "time manipulation"
       ],
       "id": "https://myanimelist.net/anime/2833"
     },
@@ -458,18 +538,7 @@
         "https://anime-planet.com/anime/hetalia-the-world-twinkle-surprise-halloween",
         "https://anime-planet.com/anime/hetalia-world-series",
         "https://anime-planet.com/anime/hetalia-world-series-extra-episodes",
-        "https://anisearch.com/anime/10081",
-        "https://anisearch.com/anime/14199",
-        "https://anisearch.com/anime/14201",
-        "https://anisearch.com/anime/15680",
-        "https://anisearch.com/anime/16324",
-        "https://anisearch.com/anime/5006",
-        "https://anisearch.com/anime/5754",
-        "https://anisearch.com/anime/6280",
-        "https://anisearch.com/anime/7876",
         "https://anisearch.com/anime/7997",
-        "https://anisearch.com/anime/8997",
-        "https://anisearch.com/anime/9004",
         "https://kitsu.io/anime/7226",
         "https://livechart.me/anime/10190",
         "https://livechart.me/anime/10504",
@@ -515,8 +584,8 @@
         "season": "SPRING",
         "year": 2007
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/8/8286.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/8/8286.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/8/8286_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/8/8286.webp",
       "synonyms": [
         "Hokori: Tsutaeyou Kono Nippon no Ayumi",
         "Hokori: Tsutaeyō kono Nippon no Ayumi",
@@ -559,6 +628,9 @@
       "relations": [
         "https://anidb.net/anime/11238",
         "https://anime-planet.com/anime/monster-strike",
+        "https://anisearch.com/anime/10568",
+        "https://anisearch.com/anime/13527",
+        "https://myanimelist.net/anime/30757",
         "https://myanimelist.net/anime/39465"
       ],
       "tags": [
@@ -567,6 +639,7 @@
         "christmas",
         "contemporary fantasy",
         "cops",
+        "detective",
         "fantasy",
         "female protagonist",
         "foreign",
@@ -587,6 +660,7 @@
         "https://anidb.net/anime/14854",
         "https://anilist.co/anime/108980",
         "https://anime-planet.com/anime/jian-wang-3-xia-gan-yi-dan-shen-jianxin",
+        "https://anisearch.com/anime/13886",
         "https://kitsu.io/anime/42513",
         "https://livechart.me/anime/10067",
         "https://myanimelist.net/anime/39419",
@@ -606,11 +680,13 @@
         "JX Online 3: The Adventure of Shen Jianxin",
         "JX3: Chivalrous Hero Shen Jianxin",
         "Jian Wang 3: Xiaganyidan Shen Jianxin",
+        "Jian Wang San: Xia Gan Yi Dan Shen Jian Xin",
         "Jian Wang San: Xia Gan Yi Dan Shen Jianxin",
         "Jian Wang San: Xiaganyidan Shen Jianxin",
         "Xia Gan Yi Dan Shen Jianxin",
         "剑网3·侠肝义胆沈剑心",
-        "剑网3：侠肝义胆沈剑心"
+        "剑网3：侠肝义胆沈剑心",
+        "剑网三·侠肝义胆沈剑心"
       ],
       "relations": [
         "https://anidb.net/anime/15941",
@@ -619,6 +695,7 @@
         "https://anime-planet.com/anime/jian-wang-3-xia-gan-yi-dan-shen-jianxin-ii",
         "https://anime-planet.com/anime/jian-wang-3-xia-gan-yi-dan-shen-jianxin-iii",
         "https://anime-planet.com/anime/jian-wang-3-xia-gan-yi-dan-shen-jianxin-zhi-chang-piao",
+        "https://anisearch.com/anime/16174",
         "https://kitsu.io/anime/43811",
         "https://livechart.me/anime/10068",
         "https://myanimelist.net/anime/44078",
@@ -637,7 +714,8 @@
         "full cgi",
         "game",
         "historical",
-        "martial arts"
+        "martial arts",
+        "swords & co"
       ],
       "id": "https://myanimelist.net/anime/39419"
     },
@@ -701,7 +779,6 @@
         "Kami-chu! ~Kamisama wa Chuugakusei~",
         "Kami-chu!: Kami-sama wa Chuugakusei",
         "Kami-sama wa Chuugakusei",
-        "KamiChu!",
         "Kamichu",
         "Kamichu - Az iskolás istennő",
         "Kamichu - Zeiţa şcolăriţă",
@@ -730,6 +807,7 @@
       "tags": [
         "anthropomorphism",
         "asia",
+        "award winning",
         "comedy",
         "coming of age",
         "contemporary fantasy",
@@ -799,10 +877,51 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/before-green-gables-specials",
+        "https://myanimelist.net/anime/53638"
+      ],
+      "title": "Konnichiwa Anne: Before Green Gables Specials",
+      "type": "OVA",
+      "episodes": 2,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SUMMER",
+        "year": 2011
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1432/131322.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1432/131322t.jpg",
+      "synonyms": [
+        "Before Green Gables Specials",
+        "Sekai Meisaku Gekijou Kanketsu Ban: Konnichiwa Anne: Before Green Gables",
+        "世界名作劇場・完結版 こんにちは アン ～Before Green Gables"
+      ],
+      "relations": [
+        "https://anime-planet.com/anime/before-green-gables",
+        "https://myanimelist.net/anime/5494"
+      ],
+      "tags": [
+        "19th century",
+        "based on a novel",
+        "canada",
+        "child protagonists",
+        "countryside",
+        "drama",
+        "family friendly",
+        "historical",
+        "melancholy",
+        "orphans",
+        "poverty",
+        "world masterpiece theater"
+      ],
+      "id": "https://myanimelist.net/anime/53638"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/koutsuu-anzen-da-yo-doraemon",
         "https://myanimelist.net/anime/39369"
       ],
-      "title": "Koutsuu Anzen Da yo Doraemon",
-      "type": "OVA",
+      "title": "Koutsuu Anzen da yo Doraemon",
+      "type": "MOVIE",
       "episodes": 2,
       "status": "FINISHED",
       "animeSeason": {
@@ -812,14 +931,20 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1639/99400.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1639/99400t.jpg",
       "synonyms": [
-        "Koutsuu Anzen Da yo Doraemon Part II",
+        "Koutsuu Anzen Da yo Doraemon",
+        "Koutsuu Anzen da yo Doraemon Part II",
         "交通安全だよ ドラえもん"
       ],
       "relations": [
+        "https://anime-planet.com/anime/doraemon-1979",
         "https://myanimelist.net/anime/2471"
       ],
       "tags": [
+        "cats",
+        "educational",
         "kids",
+        "robots",
+        "sci fi",
         "sci-fi"
       ],
       "id": "https://myanimelist.net/anime/39369"
@@ -857,6 +982,7 @@
         "asia",
         "based on a light novel",
         "coming of age",
+        "contemporary fantasy",
         "death of a loved one",
         "drama",
         "earth",
@@ -868,91 +994,14 @@
         "rehabilitation",
         "romance",
         "slice of life",
+        "supernatural",
         "tragedy"
       ],
       "id": "https://myanimelist.net/anime/29301"
     },
     {
       "sources": [
-        "https://anilist.co/anime/143313"
-      ],
-      "title": "KURO",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2010
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143313-8sWN4KKATdwM.png",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143313-8sWN4KKATdwM.png",
-      "synonyms": [
-        "クロ"
-      ],
-      "relations": [],
-      "tags": [
-        "fantasy",
-        "slice of life"
-      ],
-      "id": "https://anilist.co/anime/143313"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/maria-watches-over-us-season-3-specials"
-      ],
-      "title": "Maria Watches Over Us Season 3 Specials",
-      "type": "SPECIAL",
-      "episodes": 5,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
-      "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
-      "synonyms": [
-        "Maria Watches Over Us 3rd: Don't Tell Mother Maria.",
-        "Maria-sama ga Miteru 3rd Specials"
-      ],
-      "relations": [
-        "https://anime-planet.com/anime/maria-sama-ga-miteru-haru-specials",
-        "https://anime-planet.com/anime/maria-watches-over-us",
-        "https://anime-planet.com/anime/maria-watches-over-us-season-2",
-        "https://anime-planet.com/anime/maria-watches-over-us-season-3",
-        "https://anime-planet.com/anime/maria-watches-over-us-season-4",
-        "https://anime-planet.com/anime/maria-watches-over-us-season-4-specials",
-        "https://anime-planet.com/anime/maria-watches-over-us-specials"
-      ],
-      "tags": [
-        "comedy",
-        "gl",
-        "shoujo-ai"
-      ],
-      "id": "https://anime-planet.com/anime/maria-watches-over-us-season-3-specials"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/15094"
-      ],
-      "title": "Moonrise",
-      "type": "UNKNOWN",
-      "episodes": 0,
-      "status": "UPCOMING",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/15/15094.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/15/15094.webp",
-      "synonyms": [
-        "ムーンライズ"
-      ],
-      "relations": [],
-      "tags": [],
-      "id": "https://anisearch.com/anime/15094"
-    },
-    {
-      "sources": [
+        "https://anime-planet.com/anime/naccio-to-pomm",
         "https://kitsu.io/anime/10291",
         "https://myanimelist.net/anime/29371",
         "https://notify.moe/anime/mcgUpKmiR"
@@ -979,17 +1028,21 @@
       "relations": [],
       "tags": [
         "adventure",
+        "family friendly",
         "kids",
         "sci-fi",
-        "science fiction"
+        "science fiction",
+        "short episodes",
+        "stop motion animation"
       ],
       "id": "https://myanimelist.net/anime/29371"
     },
     {
       "sources": [
+        "https://anidb.net/anime/8313",
         "https://anisearch.com/anime/7015"
       ],
-      "title": "Nancy's Morning",
+      "title": "Nancy’s Morning",
       "type": "ONA",
       "episodes": 1,
       "status": "FINISHED",
@@ -997,10 +1050,11 @@
         "season": "FALL",
         "year": 2007
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/7/7015.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/7/7015.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/7/7015_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/7/7015.webp",
       "synonyms": [
         "Nancy de Zaochen",
+        "Nancy`s Morning",
         "南希的早晨"
       ],
       "relations": [],
@@ -1015,31 +1069,30 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/qian-wu-gu-ren"
+        "https://anime-planet.com/anime/reika-nouvel-instrument",
+        "https://anisearch.com/anime/16834",
+        "https://myanimelist.net/anime/53500"
       ],
-      "title": "Qian Wu Gu Ren",
-      "type": "ONA",
-      "episodes": 26,
+      "title": "Nouvel Instrument",
+      "type": "SPECIAL",
+      "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "SPRING",
         "year": 2021
       },
-      "picture": "https://cdn.anime-planet.com/anime/primary/qian-wu-gu-ren-1.jpg?t=1631768278",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/qian-wu-gu-ren-1-285x399.jpg?t=1631768280",
+      "picture": "https://cdn.myanimelist.net/images/anime/1719/130402.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1719/130402t.jpg",
       "synonyms": [
-        "Without Parallel"
+        "Reika - Nouvel Instrument",
+        "Reika: Nouvel Instrument"
       ],
       "relations": [],
       "tags": [
-        "adventure",
-        "bl",
-        "chinese animation",
-        "fantasy",
-        "short episodes",
-        "shounen-ai"
+        "independent anime",
+        "music"
       ],
-      "id": "https://anime-planet.com/anime/qian-wu-gu-ren"
+      "id": "https://myanimelist.net/anime/53500"
     },
     {
       "sources": [
@@ -1071,6 +1124,7 @@
     {
       "sources": [
         "https://anilist.co/anime/142033",
+        "https://anime-planet.com/anime/tatsuya-kitani-rapport",
         "https://kitsu.io/anime/45543",
         "https://myanimelist.net/anime/51060"
       ],
@@ -1084,48 +1138,22 @@
       },
       "picture": "https://cdn.myanimelist.net/images/anime/1101/121000.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1101/121000t.jpg",
-      "synonyms": [],
+      "synonyms": [
+        "Tatsuya Kitani: Rapport"
+      ],
       "relations": [
-        "https://kitsu.io/anime/244"
+        "https://anilist.co/anime/116674",
+        "https://kitsu.io/anime/43078"
       ],
       "tags": [
+        "abstract",
+        "avant garde",
+        "black and white",
         "cgi",
         "music",
         "psychological"
       ],
       "id": "https://myanimelist.net/anime/51060"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/recorder-and-randsell-mi-special"
-      ],
-      "title": "Recorder and Randsell Mi Special",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2013
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/recorder-and-randsell-mi-special-1.jpg?t=1625896950",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/recorder-and-randsell-mi-special-1-190x266.jpg?t=1625896950",
-      "synonyms": [
-        "Recorder and Randsell Mi☆ Special"
-      ],
-      "relations": [
-        "https://anime-planet.com/anime/recorder-and-randsell",
-        "https://anime-planet.com/anime/recorder-and-randsell-mi",
-        "https://anime-planet.com/anime/recorder-and-randsell-ova",
-        "https://anime-planet.com/anime/recorder-and-randsell-re"
-      ],
-      "tags": [
-        "based on a 4-koma manga",
-        "based on a manga",
-        "comedy",
-        "gender bender",
-        "seinen"
-      ],
-      "id": "https://anime-planet.com/anime/recorder-and-randsell-mi-special"
     },
     {
       "sources": [
@@ -1137,7 +1165,7 @@
         "https://myanimelist.net/anime/32781",
         "https://notify.moe/anime/u7N6pKmmg"
       ],
-      "title": "Refrain",
+      "title": "Refrain (Music)",
       "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
@@ -1152,6 +1180,7 @@
         "Nabowa \"リフレイン\"",
         "Nabowa - Refrain",
         "Nabowa: Refrain",
+        "Refrain",
         "リフレイン"
       ],
       "relations": [],
@@ -1194,38 +1223,8 @@
     },
     {
       "sources": [
-        "https://anisearch.com/anime/8608"
-      ],
-      "title": "Rozen Maiden duellwalzer: Kunkun Tantei",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2006
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/8/8608.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/8/8608.webp",
-      "synonyms": [
-        "Rozen Maiden: Detective Kunkun - Duell Walzer",
-        "ローゼンメイデン ドゥエルヴァルツァ くんくん探偵"
-      ],
-      "relations": [
-        "https://anisearch.com/anime/201",
-        "https://anisearch.com/anime/2852",
-        "https://anisearch.com/anime/3948",
-        "https://anisearch.com/anime/8256"
-      ],
-      "tags": [
-        "comedy",
-        "present"
-      ],
-      "id": "https://anisearch.com/anime/8608"
-    },
-    {
-      "sources": [
         "https://anilist.co/anime/114765",
-        "https://anime-planet.com/anime/saezuru-doubutsu-wa-yarushikanai",
+        "https://anisearch.com/anime/17273",
         "https://kitsu.io/anime/43584",
         "https://myanimelist.net/anime/42913"
       ],
@@ -1240,13 +1239,12 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1825/109373.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1825/109373t.jpg",
       "synonyms": [
+        "Saezuru Dōbutsu wa Yarushikanai!",
+        "Twittering Birds Never Fly Twitter Anime",
         "囀る動物はやるしかない！"
       ],
       "relations": [
-        "https://anime-planet.com/anime/saezuru-doubutsu-wa-yarushikanai-specials",
-        "https://anime-planet.com/anime/saezuru-tori-wa-habatakanai-the-storm-breaks",
-        "https://anime-planet.com/anime/twittering-birds-never-fly-dont-stay-gold",
-        "https://anime-planet.com/anime/twittering-birds-never-fly-the-clouds-gather",
+        "https://anisearch.com/anime/14374",
         "https://kitsu.io/anime/42295",
         "https://myanimelist.net/anime/39761"
       ],
@@ -1255,9 +1253,9 @@
         "boys' love",
         "chibi",
         "comedy",
+        "parody",
         "primarily adult cast",
         "primarily male cast",
-        "short episodes",
         "super deformed"
       ],
       "id": "https://myanimelist.net/anime/42913"
@@ -1282,14 +1280,7 @@
         "Urotsukidoji New Saga"
       ],
       "relations": [
-        "https://anisearch.com/anime/1719",
-        "https://anisearch.com/anime/2266",
         "https://anisearch.com/anime/2330",
-        "https://anisearch.com/anime/2535",
-        "https://anisearch.com/anime/3400",
-        "https://anisearch.com/anime/3506",
-        "https://anisearch.com/anime/4150",
-        "https://anisearch.com/anime/7341",
         "https://myanimelist.net/anime/2341"
       ],
       "tags": [
@@ -1303,6 +1294,7 @@
         "hentai",
         "horror",
         "masturbation",
+        "mythology",
         "office lady",
         "oral",
         "slave",
@@ -1339,6 +1331,7 @@
       "relations": [],
       "tags": [
         "fantasy",
+        "japanese mythology",
         "music",
         "supernatural"
       ],
@@ -1357,7 +1350,7 @@
       "title": "Wan Sheng Jie 3",
       "type": "ONA",
       "episodes": 12,
-      "status": "UPCOMING",
+      "status": "FINISHED",
       "animeSeason": {
         "season": "WINTER",
         "year": 2022
@@ -1365,6 +1358,10 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1995/117071.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1995/117071t.jpg",
       "synonyms": [
+        "All Saints Street (Part 3)",
+        "All Saints Street (Parte 3)",
+        "All Saints Street (Partie 3)",
+        "All Saints Street (Teil 3)",
         "All Saints Street 3",
         "All Saints Street 3rd Season",
         "Wan Sheng Jie 3rd Season",
@@ -1374,16 +1371,22 @@
       ],
       "relations": [
         "https://anidb.net/anime/15939",
+        "https://anilist.co/anime/103350",
         "https://anilist.co/anime/122497",
+        "https://anilist.co/anime/158830",
         "https://anime-planet.com/anime/wan-sheng-jie-2",
-        "https://anisearch.com/anime/15388",
+        "https://anime-planet.com/anime/wan-sheng-jie-4",
         "https://anisearch.com/anime/16098",
         "https://kitsu.io/anime/43614",
+        "https://kitsu.io/anime/46867",
         "https://livechart.me/anime/10110",
         "https://livechart.me/anime/9920",
-        "https://myanimelist.net/anime/42640"
+        "https://myanimelist.net/anime/37292",
+        "https://myanimelist.net/anime/42640",
+        "https://myanimelist.net/anime/53859"
       ],
       "tags": [
+        "acting",
         "angel",
         "angels",
         "based on a 4-koma manga",
@@ -1394,19 +1397,32 @@
         "contemporary fantasy",
         "cute boys doing cute things",
         "demon",
+        "demon king",
         "demons",
         "ensemble cast",
         "fantasy",
         "juujin",
         "kemonomimi",
+        "male protagonist",
+        "manhua",
+        "mythology",
+        "nekomimi",
         "non-human protagonists",
+        "primarily adult cast",
         "primarily male cast",
+        "roommates",
+        "shapeshifting",
+        "short episodes",
         "slice of life",
         "supernatural",
+        "urban fantasy",
         "vampire",
         "vampires",
         "werewolf",
-        "zombie"
+        "werewolves",
+        "youkai",
+        "zombie",
+        "zombies"
       ],
       "id": "https://myanimelist.net/anime/49587"
     },
@@ -1415,6 +1431,7 @@
         "https://anidb.net/anime/13712",
         "https://anilist.co/anime/102679",
         "https://anime-planet.com/anime/rainbow-sea-2nd-season",
+        "https://anisearch.com/anime/13212",
         "https://kitsu.io/anime/41000",
         "https://livechart.me/anime/8539",
         "https://myanimelist.net/anime/37149",
@@ -1436,8 +1453,10 @@
         "Xing You Ji Di Er Ji",
         "Xing You Ji Zhi Feng Bao Fa Mi La",
         "Xing You Ji Zhi Fengbao Fa Mi La",
+        "Xing You Ji: Feng Bao Fa Mi La",
         "Xing You Ji: Fengbao Fa Mi La",
         "Xing Youji: Fengbao Fa Mi La",
+        "Xing Youji: Fengbao Fa Mila",
         "星游记之风暴法米拉"
       ],
       "relations": [
@@ -1445,13 +1464,18 @@
         "https://anilist.co/anime/116966",
         "https://anime-planet.com/anime/rainbow-sea",
         "https://anime-planet.com/anime/rainbow-sea-3rd-season",
+        "https://anisearch.com/anime/13211",
+        "https://anisearch.com/anime/15240",
         "https://kitsu.io/anime/12618",
         "https://kitsu.io/anime/44417",
         "https://myanimelist.net/anime/33630",
         "https://myanimelist.net/anime/42460"
       ],
       "tags": [
+        "action",
         "adventure",
+        "aliens",
+        "alternative world",
         "chinese animation",
         "fantasy",
         "fantasy world",
@@ -1459,7 +1483,9 @@
         "new",
         "sci fi",
         "sci-fi",
-        "science fiction"
+        "science fiction",
+        "science-fiction",
+        "space"
       ],
       "id": "https://myanimelist.net/anime/37149"
     },
@@ -1477,7 +1503,7 @@
         "season": "WINTER",
         "year": 2021
       },
-      "picture": "https://cdn.anime-planet.com/anime/primary/xingji-xia-tan-1.jpg?t=1632348438",
+      "picture": "https://cdn.anime-planet.com/anime/primary/xingji-xia-tan-1.jpg?t=1632348440",
       "thumbnail": "https://cdn.anime-planet.com/anime/primary/xingji-xia-tan-1-285x400.jpg?t=1632348440",
       "synonyms": [
         "Space Detective",
@@ -1516,6 +1542,7 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/3/76125t.jpg",
       "synonyms": [
         "YBJ",
+        "bj (2015)",
         "やんぐぶらっくじゃっく",
         "ヤング ブラックジャック",
         "ヤング ブラック・ジャック",
@@ -1528,14 +1555,21 @@
         "https://anilist.co/anime/2213",
         "https://anime-planet.com/anime/black-jack",
         "https://anime-planet.com/anime/black-jack-ova",
-        "https://anisearch.com/anime/11137",
         "https://anisearch.com/anime/1230",
-        "https://anisearch.com/anime/1353",
-        "https://anisearch.com/anime/3582",
-        "https://anisearch.com/anime/7482",
-        "https://anisearch.com/anime/7959",
-        "https://anisearch.com/anime/827",
         "https://kitsu.io/anime/1364",
+        "https://livechart.me/anime/4709",
+        "https://livechart.me/anime/5635",
+        "https://livechart.me/anime/6244",
+        "https://livechart.me/anime/6290",
+        "https://livechart.me/anime/6439",
+        "https://livechart.me/anime/6462",
+        "https://livechart.me/anime/6654",
+        "https://livechart.me/anime/6767",
+        "https://livechart.me/anime/6863",
+        "https://livechart.me/anime/7024",
+        "https://livechart.me/anime/7305",
+        "https://livechart.me/anime/7991",
+        "https://livechart.me/anime/8275",
         "https://myanimelist.net/anime/1520",
         "https://notify.moe/anime/NQ2acKimR"
       ],
@@ -1569,7 +1603,7 @@
       "sources": [
         "https://anidb.net/anime/15671",
         "https://anilist.co/anime/120320",
-        "https://anime-planet.com/anime/yuan-long",
+        "https://anime-planet.com/anime/carp-reborn",
         "https://anisearch.com/anime/15561",
         "https://kitsu.io/anime/43276",
         "https://livechart.me/anime/10039",
@@ -1595,7 +1629,7 @@
       "relations": [
         "https://anidb.net/anime/16429",
         "https://anilist.co/anime/126360",
-        "https://anime-planet.com/anime/yuan-long-2nd-season",
+        "https://anime-planet.com/anime/carp-reborn-2nd-season",
         "https://anisearch.com/anime/16441",
         "https://kitsu.io/anime/43788",
         "https://livechart.me/anime/10694",
@@ -1631,7 +1665,7 @@
       "sources": [
         "https://myanimelist.net/anime/46807"
       ],
-      "title": "Yueliang Zhen De Baozang",
+      "title": "Yueliang Zhen de Baozang",
       "type": "TV",
       "episodes": 30,
       "status": "FINISHED",
@@ -1639,8 +1673,8 @@
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1703/130818.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1703/130818t.jpg",
       "synonyms": [
         "月亮镇的宝藏"
       ],

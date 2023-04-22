@@ -23,6 +23,7 @@
       "synonyms": [
         "Alexander's Decision",
         "Alexander`s Decision",
+        "Alexander’s Decision",
         "アレクサンドロスの決断"
       ],
       "relations": [],
@@ -147,39 +148,57 @@
     },
     {
       "sources": [
-        "https://anisearch.com/anime/8047"
+        "https://anime-planet.com/anime/cardfight-vanguard-overdress-6th-season"
       ],
-      "title": "Dance in the Vampire Bund: Tokubetsu-hen",
+      "title": "Cardfight!! Vanguard: overDress 6th Season",
       "type": "TV",
+      "episodes": 0,
+      "status": "UPCOMING",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2024
+      },
+      "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+      "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+      "synonyms": [],
+      "relations": [
+        "https://anime-planet.com/anime/cardfight-vanguard-overdress-5th-season",
+        "https://anime-planet.com/anime/cardfight-vanguard-overdress-7th-season"
+      ],
+      "tags": [
+        "based on a card game",
+        "card battles"
+      ],
+      "id": "https://anime-planet.com/anime/cardfight-vanguard-overdress-6th-season"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/a-dog-under-bridge",
+        "https://myanimelist.net/anime/53624"
+      ],
+      "title": "Daqiao yi Quan",
+      "type": "MOVIE",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "WINTER",
-        "year": 2010
+        "season": "SPRING",
+        "year": 2022
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/8/8047.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/8/8047.webp",
+      "picture": "https://cdn.myanimelist.net/images/anime/1362/131190.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1362/131190t.jpg",
       "synonyms": [
-        "Dance in the Vampire Bund Episode 7.5",
-        "Dance in the Vampire Bund Recap",
-        "Dance in the Vampire Bund: Special Edition Compilation Airs",
-        "ダンスインザヴァンパイアバンド 特別編"
+        "A Dog Under Bridge",
+        "大桥遗犬"
       ],
-      "relations": [
-        "https://anisearch.com/anime/5472"
-      ],
+      "relations": [],
       "tags": [
-        "action",
-        "action drama",
+        "chinese animation",
+        "dogs",
         "drama",
-        "ecchi",
-        "moe",
-        "monster",
-        "present",
-        "romance",
-        "vampires"
+        "pets",
+        "shorts"
       ],
-      "id": "https://anisearch.com/anime/8047"
+      "id": "https://myanimelist.net/anime/53624"
     },
     {
       "sources": [
@@ -195,38 +214,46 @@
       "title": "Date A Live IV",
       "type": "TV",
       "episodes": 12,
-      "status": "UPCOMING",
+      "status": "FINISHED",
       "animeSeason": {
         "season": "SPRING",
         "year": 2022
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/1809/113334.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1809/113334t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1368/121281.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1368/121281t.jpg",
       "synonyms": [
         "DAL 4",
+        "DAL IV",
+        "Data A Live 4",
         "Date A Live 4",
         "Date A Live Fourth Season",
+        "Date A Live Season 4",
         "Date a Live 4",
         "Date a Live IV",
+        "dal4",
+        "Рандеву с Жизнью 4",
+        "พิชิตรัก พิทักษ์โลก ภาค 4",
         "デート・ア・ライブ IV",
         "デート・ア・ライブIV",
-        "デート・ア・ライブⅣ"
+        "デート・ア・ライブⅣ",
+        "约会大作战 第四季"
       ],
       "relations": [
         "https://anidb.net/anime/13533",
+        "https://anidb.net/anime/17476",
         "https://anilist.co/anime/100722",
+        "https://anilist.co/anime/151380",
         "https://anime-planet.com/anime/date-a-bullet-dead-or-bullet",
         "https://anime-planet.com/anime/date-a-live-iii",
         "https://anime-planet.com/anime/date-a-live-movie-mayuri-judgement",
+        "https://anime-planet.com/anime/date-a-live-v",
         "https://anisearch.com/anime/12920",
-        "https://anisearch.com/anime/8071",
-        "https://anisearch.com/anime/8464",
-        "https://anisearch.com/anime/8673",
-        "https://anisearch.com/anime/9625",
-        "https://anisearch.com/anime/9803",
+        "https://anisearch.com/anime/17477",
         "https://kitsu.io/anime/14040",
+        "https://kitsu.io/anime/46207",
         "https://livechart.me/anime/10064",
         "https://livechart.me/anime/110",
+        "https://livechart.me/anime/11292",
         "https://livechart.me/anime/136",
         "https://livechart.me/anime/2946",
         "https://livechart.me/anime/453",
@@ -234,6 +261,8 @@
         "https://livechart.me/anime/808",
         "https://livechart.me/anime/9601",
         "https://myanimelist.net/anime/36633",
+        "https://myanimelist.net/anime/52196",
+        "https://notify.moe/anime/Uqyo0bq7g",
         "https://notify.moe/anime/axON2KmiR"
       ],
       "tags": [
@@ -241,6 +270,7 @@
         "action comedy",
         "artificial intelligence",
         "based on a light novel",
+        "cgi",
         "comedy",
         "contemporary fantasy",
         "cute girls doing cute things",
@@ -250,11 +280,14 @@
         "female harem",
         "ghost",
         "harem",
+        "heterosexual",
+        "japan",
         "kuudere",
         "love triangle",
         "male protagonist",
         "mecha",
         "memory manipulation",
+        "novel",
         "present",
         "primarily female cast",
         "romance",
@@ -265,10 +298,43 @@
         "science fiction",
         "science-fiction",
         "space",
+        "special squads",
         "super power",
-        "tragedy"
+        "tragedy",
+        "witch",
+        "yandere"
       ],
       "id": "https://myanimelist.net/anime/41461"
+    },
+    {
+      "sources": [
+        "https://myanimelist.net/anime/54648"
+      ],
+      "title": "Fangkemeng: Bu Yuan Zhi Dao de Fangxing Baokemeng?!",
+      "type": "ONA",
+      "episodes": 0,
+      "status": "ONGOING",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2023
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1947/133931.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1947/133931t.jpg",
+      "synonyms": [
+        "Pokexel: Square-shaped Pokemon From a Non-round Island?!",
+        "方可梦：不圆之岛的方形宝可梦？！"
+      ],
+      "relations": [
+        "https://myanimelist.net/anime/527"
+      ],
+      "tags": [
+        "action",
+        "adventure",
+        "comedy",
+        "fantasy",
+        "kids"
+      ],
+      "id": "https://myanimelist.net/anime/54648"
     },
     {
       "sources": [
@@ -301,9 +367,8 @@
         "https://anidb.net/anime/15102",
         "https://anilist.co/anime/111734",
         "https://anime-planet.com/anime/given-movie",
-        "https://anime-planet.com/anime/given-uragawa-no-sonzai",
+        "https://anime-planet.com/anime/given-on-the-other-hand",
         "https://anisearch.com/anime/14627",
-        "https://anisearch.com/anime/16364",
         "https://kitsu.io/anime/42572",
         "https://livechart.me/anime/10607",
         "https://livechart.me/anime/9604",
@@ -324,7 +389,6 @@
         "cute boys doing cute things",
         "death of a loved one",
         "drama",
-        "ensemble cast",
         "hero of strong character",
         "high school",
         "josei",
@@ -423,36 +487,11 @@
         "indefinite",
         "motorsport",
         "promotional",
+        "racing",
         "short movie",
         "slice of life"
       ],
       "id": "https://myanimelist.net/anime/30766"
-    },
-    {
-      "sources": [
-        "https://anidb.net/anime/16616"
-      ],
-      "title": "Hu Yao Xiao Hongniang: Mu Tiancheng Pian",
-      "type": "ONA",
-      "episodes": 12,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 2020
-      },
-      "picture": "https://cdn.anidb.net/images/main/264830.jpg",
-      "thumbnail": "https://cdn.anidb.net/images/main/264830.jpg-thumb.jpg",
-      "synonyms": [
-        "狐妖小红娘 沐天城篇"
-      ],
-      "relations": [
-        "https://anidb.net/anime/12119",
-        "https://anidb.net/anime/16617"
-      ],
-      "tags": [
-        "manhua"
-      ],
-      "id": "https://anidb.net/anime/16616"
     },
     {
       "sources": [
@@ -586,6 +625,7 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1/2445t.jpg",
       "synonyms": [
         "Crow Demon Kabuto",
+        "Ninja Kabuto",
         "Raven Goblin Kabuto",
         "カラス天狗カブト",
         "鴉天狗カブト"
@@ -618,6 +658,7 @@
       "sources": [
         "https://anilist.co/anime/104211",
         "https://anime-planet.com/anime/horizon-in-the-middle-of-nowhere-special",
+        "https://anisearch.com/anime/13903",
         "https://kitsu.io/anime/41891",
         "https://livechart.me/anime/3334",
         "https://myanimelist.net/anime/38046",
@@ -637,7 +678,12 @@
         "Horizon In the Middle of Nowhere Special",
         "Horizon in the Middle of Nowhere Special",
         "Horizon in the Middle of Nowhere XXI-PV",
+        "Horizon on the Middle of Nowhere BD-Box Special",
+        "Kyoukaisen-jou no Horizon XXI-PV",
+        "Kyoukaisen-jou no Horizon: Kanzen Shinsaku Tokuten Animation (境界線上のホライゾン 完全新作特典アニメーション)",
+        "Kyōkaisen-jō no Horizon XXI-PV",
         "境界線上のホライゾン",
+        "境界線上のホライゾン XXI-PV",
         "境界線上のホライゾン 完全新作アニメーション「境界線上のホライゾンXXI-PV」"
       ],
       "relations": [
@@ -646,6 +692,7 @@
         "https://anime-planet.com/anime/horizon-in-the-middle-of-nowhere",
         "https://anime-planet.com/anime/horizon-in-the-middle-of-nowhere-ii",
         "https://anime-planet.com/anime/horizon-in-the-middle-of-nowhere-kyokutou-naruhodo-kouza",
+        "https://anisearch.com/anime/6943",
         "https://livechart.me/anime/1032",
         "https://livechart.me/anime/1190",
         "https://myanimelist.net/anime/10456",
@@ -654,10 +701,15 @@
       ],
       "tags": [
         "action",
+        "advertisement",
         "based on a light novel",
         "fantasy",
+        "henshin",
         "kuudere",
-        "sci-fi"
+        "reincarnation",
+        "sci-fi",
+        "science-fiction",
+        "war"
       ],
       "id": "https://myanimelist.net/anime/38046"
     },
@@ -708,11 +760,13 @@
         "demons",
         "fantasy",
         "foreign",
+        "gender bending",
         "historical",
         "josei",
         "magic",
         "manga",
         "mystery",
+        "mythology",
         "nobility",
         "primarily male cast",
         "school",
@@ -724,6 +778,7 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/katuri",
         "https://myanimelist.net/anime/47708"
       ],
       "title": "Meng Ji Xiao Xuetang",
@@ -732,68 +787,27 @@
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2018
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1751/123438.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1751/123438t.jpg",
       "synonyms": [
+        "Katuri",
         "萌鸡小学堂"
       ],
       "relations": [],
       "tags": [
-        "fantasy"
+        "animal protagonists",
+        "anthropomorphic",
+        "birds",
+        "chinese animation",
+        "family friendly",
+        "fantasy",
+        "kids",
+        "non-human protagonists",
+        "short episodes"
       ],
       "id": "https://myanimelist.net/anime/47708"
-    },
-    {
-      "sources": [
-        "https://kitsu.io/anime/41322"
-      ],
-      "title": "Meshinuma.",
-      "type": "ONA",
-      "episodes": 2,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2018
-      },
-      "picture": "https://media.kitsu.io/anime/poster_images/41322/small.jpg",
-      "thumbnail": "https://media.kitsu.io/anime/poster_images/41322/tiny.jpg",
-      "synonyms": [
-        "めしぬま。"
-      ],
-      "relations": [],
-      "tags": [
-        "cooking",
-        "seinen",
-        "slice of life"
-      ],
-      "id": "https://kitsu.io/anime/41322"
-    },
-    {
-      "sources": [
-        "https://anilist.co/anime/118130",
-        "https://anisearch.com/anime/16336"
-      ],
-      "title": "Mitsu",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2018
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/16/16336.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/16/16336.webp",
-      "synonyms": [
-        "Honey",
-        "蜜"
-      ],
-      "relations": [],
-      "tags": [
-        "independent anime"
-      ],
-      "id": "https://anisearch.com/anime/16336"
     },
     {
       "sources": [
@@ -816,6 +830,7 @@
       "picture": "https://cdn.myanimelist.net/images/anime/3/18373.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/3/18373t.jpg",
       "synonyms": [
+        "Chisato stared",
         "Mukougaoka Chisato Was Only Gazing",
         "Mukōgaoka Chisato wa Tada Mitsumeteita no Datta",
         "向ヶ丘千里はただ見つめていたのだった"
@@ -829,6 +844,33 @@
         "present"
       ],
       "id": "https://myanimelist.net/anime/7415"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/namako-bushi-bushi"
+      ],
+      "title": "Namako Bushi-bushi",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2018
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/namako-bushi-bushi-1.webp?t=1653692107",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/namako-bushi-bushi-1-285x399.webp?t=1653692107",
+      "synonyms": [
+        "Pyuku Muku-muku"
+      ],
+      "relations": [],
+      "tags": [
+        "based on a video game",
+        "family friendly",
+        "fantasy",
+        "monsters",
+        "non-human protagonists"
+      ],
+      "id": "https://anime-planet.com/anime/namako-bushi-bushi"
     },
     {
       "sources": [
@@ -861,6 +903,31 @@
     },
     {
       "sources": [
+        "https://anisearch.com/anime/17357"
+      ],
+      "title": "Robocar Poli Season 5",
+      "type": "TV",
+      "episodes": 16,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2022
+      },
+      "picture": "https://www.anisearch.com/images/anime/cover/17/17357_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/17/17357.webp",
+      "synonyms": [
+        "로보카 폴리 시즌5"
+      ],
+      "relations": [
+        "https://anisearch.com/anime/15137"
+      ],
+      "tags": [
+        "cg-anime"
+      ],
+      "id": "https://anisearch.com/anime/17357"
+    },
+    {
+      "sources": [
         "https://anilist.co/anime/103702",
         "https://anime-planet.com/anime/rule",
         "https://kitsu.io/anime/10835",
@@ -868,7 +935,7 @@
         "https://notify.moe/anime/47DlpKimg"
       ],
       "title": "Rule",
-      "type": "MOVIE",
+      "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
@@ -883,7 +950,6 @@
       ],
       "relations": [],
       "tags": [
-        "avant garde",
         "dementia",
         "music",
         "original work",
@@ -896,7 +962,7 @@
       "sources": [
         "https://myanimelist.net/anime/46025"
       ],
-      "title": "Sanqi Xiao Fuxing Zhi Rong Cheng Yiji",
+      "title": "Sanqi Xiao Fuxing: Rong Cheng Yiji",
       "type": "TV",
       "episodes": 26,
       "status": "FINISHED",
@@ -904,8 +970,8 @@
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1575/129121.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1575/129121t.jpg",
       "synonyms": [
         "三七小福星之榕城遗迹"
       ],
@@ -913,9 +979,74 @@
         "https://myanimelist.net/anime/46023"
       ],
       "tags": [
+        "adventure",
         "kids"
       ],
       "id": "https://myanimelist.net/anime/46025"
+    },
+    {
+      "sources": [
+        "https://anidb.net/anime/17229",
+        "https://anilist.co/anime/148567",
+        "https://anime-planet.com/anime/world-before-you-end",
+        "https://anisearch.com/anime/17181",
+        "https://kitsu.io/anime/47317",
+        "https://livechart.me/anime/11231",
+        "https://myanimelist.net/anime/51466"
+      ],
+      "title": "Sekai ga Horobiru Mae ni Kimi ni Aitai",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2021
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1394/122207.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1394/122207t.jpg",
+      "synonyms": [
+        "#Sekai ga Horobiru Mae ni Kimi ni Aitai",
+        "#セカイが滅びる前にキミに会いたい",
+        "#セカイが滅びる前に君に会いたい",
+        "World, Before You End",
+        "セカイが滅びる前にキミに会いたい"
+      ],
+      "relations": [],
+      "tags": [
+        "drama",
+        "independent anime",
+        "original work",
+        "post-apocalyptic",
+        "romance",
+        "sci-fi",
+        "science fiction"
+      ],
+      "id": "https://myanimelist.net/anime/51466"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/shujia-shang-de-qimiao-shijie"
+      ],
+      "title": "Shujia Shang De Qimiao Shijie",
+      "type": "TV",
+      "episodes": 46,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2010
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/shujia-shang-de-qimiao-shijie-1.webp?t=1651691313",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/shujia-shang-de-qimiao-shijie-1-285x400.webp?t=1651691313",
+      "synonyms": [],
+      "relations": [
+        "https://anime-planet.com/anime/shujia-shang-de-qimiao-shijie-2"
+      ],
+      "tags": [
+        "chinese animation",
+        "family friendly",
+        "short episodes"
+      ],
+      "id": "https://anime-planet.com/anime/shujia-shang-de-qimiao-shijie"
     },
     {
       "sources": [
@@ -928,7 +1059,7 @@
         "https://myanimelist.net/anime/30549",
         "https://notify.moe/anime/1LKltKmig"
       ],
-      "title": "Soukyuu no Fafner: Dead Aggressor - Exodus 2nd Season",
+      "title": "Soukyuu no Fafner: Dead Aggressor - Exodus Part 2",
       "type": "TV",
       "episodes": 13,
       "status": "FINISHED",
@@ -950,7 +1081,8 @@
         "Soukyuu no Fafner: Dead Aggressor - Exodus (2015)",
         "Soukyuu no Fafner: Dead Aggressor - Exodus 2",
         "Soukyuu no Fafner: Dead Aggressor - Exodus 2nd Cour",
-        "Soukyuu no Fafner: Exodus 2",
+        "Soukyuu no Fafner: Dead Aggressor - Exodus 2nd Season",
+        "Soukyuu no Fafner: EXODUS 2",
         "Sōkyū no Fafner: Dead Aggressor - Exodus 2",
         "苍穹之法芙娜 EXODUS 第2期",
         "蒼穹のファフナー Dead Aggressor EXODUS",
@@ -967,16 +1099,14 @@
         "https://anilist.co/anime/98056",
         "https://anime-planet.com/anime/fafner",
         "https://anime-planet.com/anime/fafner-arcadian-memory",
+        "https://anime-planet.com/anime/fafner-behind-the-line",
         "https://anime-planet.com/anime/fafner-exodus",
         "https://anime-planet.com/anime/fafner-heaven-and-earth",
         "https://anime-planet.com/anime/fafner-right-of-left",
         "https://anime-planet.com/anime/fafner-the-beyond",
-        "https://anisearch.com/anime/10138",
         "https://anisearch.com/anime/12179",
-        "https://anisearch.com/anime/2312",
-        "https://anisearch.com/anime/5869",
         "https://anisearch.com/anime/8274",
-        "https://anisearch.com/anime/833",
+        "https://kitsu.io/anime/46575",
         "https://kitsu.io/anime/7575",
         "https://livechart.me/anime/10973",
         "https://livechart.me/anime/200",
@@ -1054,6 +1184,7 @@
         "T.P.さくら~タイムパラディンさくら~",
         "T.P.さくら〜タイムパラディンさくら〜時空樹防衛戦",
         "T.P.さくら〜タイムパラディンさくら〜時空防衛戦",
+        "dacapo (2010)",
         "Х.В. Сакура: Хранительница Времени Сакура"
       ],
       "relations": [
@@ -1068,13 +1199,7 @@
         "https://anime-planet.com/anime/da-capo-iii-special",
         "https://anime-planet.com/anime/da-capo-second-season",
         "https://anime-planet.com/anime/da-capo-second-season-specials",
-        "https://anisearch.com/anime/2896",
         "https://anisearch.com/anime/3482",
-        "https://anisearch.com/anime/4453",
-        "https://anisearch.com/anime/4645",
-        "https://anisearch.com/anime/5071",
-        "https://anisearch.com/anime/7937",
-        "https://anisearch.com/anime/8634",
         "https://kitsu.io/anime/43",
         "https://myanimelist.net/anime/62",
         "https://notify.moe/anime/iavt5KmmR"
@@ -1088,7 +1213,6 @@
         "elementary school",
         "fantasy",
         "henshin",
-        "henshin heroes",
         "historical",
         "japan",
         "magic",
@@ -1106,6 +1230,7 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/tanabata-monogatari",
         "https://myanimelist.net/anime/35103"
       ],
       "title": "Tanabata Monogatari",
@@ -1114,7 +1239,7 @@
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 1986
       },
       "picture": "https://cdn.myanimelist.net/images/anime/12/84696.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/12/84696t.jpg",
@@ -1127,6 +1252,30 @@
         "kids"
       ],
       "id": "https://myanimelist.net/anime/35103"
+    },
+    {
+      "sources": [
+        "https://myanimelist.net/anime/54231"
+      ],
+      "title": "Tate",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "FALL",
+        "year": 2005
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1241/132707.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1241/132707t.jpg",
+      "synonyms": [
+        "楯"
+      ],
+      "relations": [],
+      "tags": [
+        "avant garde",
+        "music"
+      ],
+      "id": "https://myanimelist.net/anime/54231"
     },
     {
       "sources": [
@@ -1158,32 +1307,6 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/the-story-of-saiunkoku-recaps"
-      ],
-      "title": "The Story of Saiunkoku Recaps",
-      "type": "SPECIAL",
-      "episodes": 9,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2007
-      },
-      "picture": "https://anime-planet.com/images/anime/covers/16376.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/16376.jpg",
-      "synonyms": [
-        "Saiunkoku Monogatari: Saiunkoku Emaki"
-      ],
-      "relations": [
-        "https://anime-planet.com/anime/the-story-of-saiunkoku"
-      ],
-      "tags": [
-        "fantasy",
-        "recap"
-      ],
-      "id": "https://anime-planet.com/anime/the-story-of-saiunkoku-recaps"
-    },
-    {
-      "sources": [
         "https://anidb.net/anime/15355",
         "https://anilist.co/anime/114717",
         "https://anime-planet.com/anime/tomica-kizuna-gattai-earth-granner",
@@ -1209,7 +1332,8 @@
         "Tomica Kizuna Mode Combine Earth Granner",
         "Tomika Kizuna Gattai",
         "Tomika Kizuna Gattai: Earth Granner",
-        "トミカ絆合体 アースグランナー"
+        "トミカ絆合体 アースグランナー",
+        "极速牵绊 地球先锋队"
       ],
       "relations": [],
       "tags": [
@@ -1262,6 +1386,7 @@
         "Toriko the Movie, Secret Recipe of Gourmet God",
         "Toriko the Movie: Secret Recipe of Gourmet God",
         "Toriko the Movie: Secret Recipe of Gourmet God!",
+        "剧场版美食的俘虏 美食神的超食宝",
         "劇場版トリコ 美食神の超食宝 (スペシャル・メニュー)",
         "劇場版トリコ 美食神の超食宝[スペシャルメニュー]"
       ],
@@ -1271,10 +1396,7 @@
         "https://anime-planet.com/anime/toriko",
         "https://anime-planet.com/anime/toriko-3d-kaimaku-gourmet-adventure",
         "https://anime-planet.com/anime/toriko-tv",
-        "https://anisearch.com/anime/5855",
-        "https://anisearch.com/anime/6546",
         "https://anisearch.com/anime/6684",
-        "https://anisearch.com/anime/6806",
         "https://kitsu.io/anime/6002",
         "https://livechart.me/anime/320",
         "https://livechart.me/anime/6015",
@@ -1305,24 +1427,56 @@
     },
     {
       "sources": [
+        "https://kitsu.io/anime/46599"
+      ],
+      "title": "We are the HOLOSTARS!!",
+      "type": "SPECIAL",
+      "episodes": 0,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "FALL",
+        "year": 2022
+      },
+      "picture": "https://media.kitsu.io/anime/46599/poster_image/small-d7d33ed78dcc6f9be22aa5918b0789b5.jpeg",
+      "thumbnail": "https://media.kitsu.io/anime/46599/poster_image/tiny-5bf3bf49fb2ae965357ab4d22b722fc0.jpeg",
+      "synonyms": [],
+      "relations": [
+        "https://kitsu.io/anime/45805"
+      ],
+      "tags": [
+        "idol",
+        "music"
+      ],
+      "id": "https://kitsu.io/anime/46599"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/xin-qi-bao-long-zhan-che-bao-long-chuji",
         "https://myanimelist.net/anime/47805"
       ],
-      "title": "Xin Qi Bao Long Zhan Che Zhi Bao Long Chuji",
+      "title": "Xin Qi Bao Long Zhan Che: Bao Long Chuji",
       "type": "TV",
-      "episodes": 0,
-      "status": "ONGOING",
+      "episodes": 16,
+      "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2021
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1886/129293.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1886/129293t.jpg",
       "synonyms": [
         "心奇爆龙战车之暴龙出击"
       ],
-      "relations": [],
+      "relations": [
+        "https://anime-planet.com/anime/xin-qi-bao-long-zhan-che-3-tuoluo-zhan-che",
+        "https://myanimelist.net/anime/47804"
+      ],
       "tags": [
-        "adventure"
+        "chinese animation",
+        "dinosaurs",
+        "family friendly",
+        "kids",
+        "short episodes"
       ],
       "id": "https://myanimelist.net/anime/47805"
     }

@@ -30,6 +30,7 @@
         "Astro Boy Tetsuwan Atom",
         "AstroBoy",
         "Astroboy",
+        "Atom (2003)",
         "Tetsuwan Atom (2003)",
         "الفتى أسترو",
         "เจ้าหนูอะตอม",
@@ -37,12 +38,12 @@
         "自动机器人・铁臂阿童木"
       ],
       "relations": [
-        "https://anidb.net/anime/11447",
         "https://anidb.net/anime/1440",
         "https://anidb.net/anime/9450",
         "https://anidb.net/anime/9451",
         "https://anidb.net/anime/9572",
         "https://anilist.co/anime/106492",
+        "https://anilist.co/anime/154121",
         "https://anilist.co/anime/18637",
         "https://anilist.co/anime/21830",
         "https://anilist.co/anime/2747",
@@ -57,10 +58,9 @@
         "https://anime-planet.com/anime/astro-boy-visitor-of-100000-light-years-igza",
         "https://anime-planet.com/anime/astro-boy-volume-of-the-blue-knight",
         "https://anime-planet.com/anime/atom-the-beginning",
+        "https://anisearch.com/anime/11102",
         "https://anisearch.com/anime/11518",
         "https://anisearch.com/anime/1624",
-        "https://anisearch.com/anime/3497",
-        "https://anisearch.com/anime/5374",
         "https://kitsu.io/anime/12235",
         "https://kitsu.io/anime/2507",
         "https://kitsu.io/anime/2748",
@@ -106,58 +106,66 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/detective-conan-police-academy-arc-wild-police-story",
-        "https://kitsu.io/anime/45468",
-        "https://livechart.me/anime/10734",
-        "https://notify.moe/anime/_krA9xGnR"
+        "https://anilist.co/anime/137102",
+        "https://anime-planet.com/anime/fire-emblem-heroes-book-ii-chibi-playhouse",
+        "https://kitsu.io/anime/44939"
       ],
-      "title": "Detective Conan: Police Academy Arc - Wild Police Story",
-      "type": "SPECIAL",
-      "episodes": 0,
+      "title": "Fire Emblem Heroes: Book II - Chibi Playhouse",
+      "type": "ONA",
+      "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "WINTER",
+        "season": "SUMMER",
         "year": 2021
       },
-      "picture": "https://cdn.anime-planet.com/anime/primary/detective-conan-police-academy-arc-wild-police-story-1.jpg?t=1636420689",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/detective-conan-police-academy-arc-wild-police-story-1-285x400.jpg?t=1636420689",
+      "picture": "https://cdn.anime-planet.com/anime/primary/fire-emblem-heroes-book-ii-chibi-playhouse-1.webp?t=1634181179",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/fire-emblem-heroes-book-ii-chibi-playhouse-1-285x400.webp?t=1634181179",
       "synonyms": [
-        "Detective Conan: Police Academy Arc Wild Police Story",
-        "Meitantei Conan: Keisaku Gakkou Hen Wild Police Story",
-        "Meitantei Conan: Keisatsu Gakkou Hen - Wild Police Story",
-        "Meitantei Conan: Keisatsu Gakkou-hen - Wild Police Story",
-        "名探偵コナン 警察学校編 Wild Police Story"
+        "FE Heroes",
+        "FEH",
+        "Fire Emblem Heroes - Book II - Chibi Playhouse",
+        "Fire Emblem Heroes: Part 2 - Mini Chara Theater",
+        "ファイアーエムブレム ヒーローズ 第2部 ミニキャラシアター"
       ],
       "relations": [
-        "https://anime-planet.com/anime/detective-conan",
-        "https://livechart.me/anime/319",
-        "https://livechart.me/anime/4579",
-        "https://livechart.me/anime/4615",
-        "https://livechart.me/anime/4634",
-        "https://livechart.me/anime/4688",
-        "https://livechart.me/anime/4710",
-        "https://livechart.me/anime/4732",
-        "https://livechart.me/anime/4783",
-        "https://livechart.me/anime/4809",
-        "https://livechart.me/anime/6391",
-        "https://livechart.me/anime/6392",
-        "https://livechart.me/anime/6400",
-        "https://livechart.me/anime/6411",
-        "https://livechart.me/anime/6441",
-        "https://livechart.me/anime/8185",
-        "https://notify.moe/anime/lWnhcKiig"
+        "https://kitsu.io/anime/45462",
+        "https://kitsu.io/anime/46044"
       ],
       "tags": [
-        "action",
         "adventure",
-        "based on a manga",
+        "chibi",
         "comedy",
         "drama",
-        "mystery",
-        "police",
-        "shounen"
+        "fantasy",
+        "fantasy world",
+        "no dialogue",
+        "promotional",
+        "shorts",
+        "super deformed",
+        "tanned skin"
       ],
-      "id": "https://anime-planet.com/anime/detective-conan-police-academy-arc-wild-police-story"
+      "id": "https://anime-planet.com/anime/fire-emblem-heroes-book-ii-chibi-playhouse"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/161442"
+      ],
+      "title": "Float Play",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2023
+      },
+      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx161442-tMta9BndFM1O.jpg",
+      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx161442-tMta9BndFM1O.jpg",
+      "synonyms": [
+        "フロートプレイ"
+      ],
+      "relations": [],
+      "tags": [],
+      "id": "https://anilist.co/anime/161442"
     },
     {
       "sources": [
@@ -199,6 +207,7 @@
         "https://anime-planet.com/anime/happiness-the-brilliant-day-of-jun-watarase",
         "https://anisearch.com/anime/4110",
         "https://kitsu.io/anime/1712",
+        "https://livechart.me/anime/6590",
         "https://myanimelist.net/anime/1902",
         "https://notify.moe/anime/gzqf5FmiR"
       ],
@@ -274,8 +283,8 @@
         "season": "FALL",
         "year": 2005
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/4/5229.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/4/5229t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1708/132578.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1708/132578t.jpg",
       "synonyms": [
         "Ichigo 100%",
         "Ichigo 100% Special",
@@ -290,10 +299,8 @@
       "relations": [
         "https://anilist.co/anime/248",
         "https://anime-planet.com/anime/ichigo-100",
-        "https://anime-planet.com/anime/ichigo-100-jump-festa-2004",
+        "https://anime-planet.com/anime/ichigo-100-koi-ga-hajimaru-satsuei-gasshuku-yureru-kokoro-ga-higashi-e-nishi-e",
         "https://anime-planet.com/anime/ichigo-100-ova",
-        "https://anisearch.com/anime/2155",
-        "https://anisearch.com/anime/7073",
         "https://anisearch.com/anime/889",
         "https://kitsu.io/anime/7662",
         "https://myanimelist.net/anime/248",
@@ -305,14 +312,46 @@
         "comedy",
         "ecchi",
         "harem",
+        "heterosexual",
         "panty shots",
         "present",
         "romance",
         "romantic comedy",
         "school",
-        "shounen"
+        "shounen",
+        "trains"
       ],
       "id": "https://myanimelist.net/anime/641"
+    },
+    {
+      "sources": [
+        "https://anisearch.com/anime/8336"
+      ],
+      "title": "Kachou Fuugetsu",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SPRING",
+        "year": 2012
+      },
+      "picture": "https://www.anisearch.com/images/anime/cover/8/8336_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/8/8336.webp",
+      "synonyms": [
+        "Kachō Fūgetsu",
+        "華鳥風月"
+      ],
+      "relations": [
+        "https://anisearch.com/anime/7309",
+        "https://anisearch.com/anime/8335"
+      ],
+      "tags": [
+        "alternative world",
+        "fantasy",
+        "magic",
+        "youkai"
+      ],
+      "id": "https://anisearch.com/anime/8336"
     },
     {
       "sources": [
@@ -384,6 +423,7 @@
       ],
       "tags": [
         "anthropomorphic",
+        "banter",
         "comedy",
         "short episodes",
         "slice of life"
@@ -397,8 +437,8 @@
       ],
       "title": "Konbini Shoujo Z",
       "type": "OVA",
-      "episodes": 2,
-      "status": "ONGOING",
+      "episodes": 4,
+      "status": "FINISHED",
       "animeSeason": {
         "season": "FALL",
         "year": 2021
@@ -415,8 +455,11 @@
         "big boobs",
         "boobjob",
         "hentai",
+        "office lady",
         "oral",
-        "present"
+        "present",
+        "school girl",
+        "softcore"
       ],
       "id": "https://myanimelist.net/anime/42383"
     },
@@ -460,46 +503,6 @@
         "non-human protagonists"
       ],
       "id": "https://myanimelist.net/anime/12185"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/manga-hajimete-omoshiro-juku-ova",
-        "https://kitsu.io/anime/10825",
-        "https://myanimelist.net/anime/30312",
-        "https://notify.moe/anime/Z3S_tKmmg"
-      ],
-      "title": "Manga Hajimete Omoshiro Juku OVA",
-      "type": "OVA",
-      "episodes": 4,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/anime/12/72571.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/12/72571t.jpg",
-      "synonyms": [
-        "まんがはじめて面白塾"
-      ],
-      "relations": [
-        "https://anime-planet.com/anime/21-seiki-manga-hajimete-monogatari",
-        "https://anime-planet.com/anime/manga-doushite-monogatari",
-        "https://anime-planet.com/anime/manga-doushite-monogatari-ova",
-        "https://anime-planet.com/anime/manga-hajimete-monogatari",
-        "https://anime-planet.com/anime/manga-hajimete-monogatari-ova",
-        "https://anime-planet.com/anime/manga-hajimete-omoshiro-juku",
-        "https://anime-planet.com/anime/manga-naruhodo-monogatari",
-        "https://anime-planet.com/anime/manga-naruhodo-monogatari-ova",
-        "https://anime-planet.com/anime/shin-manga-naruhodo-monogatari",
-        "https://myanimelist.net/anime/10138"
-      ],
-      "tags": [
-        "adventure",
-        "family friendly",
-        "kids",
-        "recap"
-      ],
-      "id": "https://myanimelist.net/anime/30312"
     },
     {
       "sources": [
@@ -597,10 +600,12 @@
         "L'irresponsabile capitano Tylor",
         "L`irresponsabile Capitano Tylor",
         "Musekinin Kanchō Tylor",
+        "Nieodpowiedzialny kapitan Tylor",
         "The Irresponsible Captain Tylor",
         "Tylor - The irresponsible captain",
         "Tylor, El Capitán Irresponsable",
         "Tylor: The Irresposible Captain",
+        "tylor",
         "Безответственный капитан Тайлор",
         "むせきにんかんちょうたいらー",
         "無責任艦長タイラー",
@@ -614,19 +619,23 @@
         "https://anime-planet.com/anime/irresponsible-captain-tylor-music-video-collection",
         "https://anime-planet.com/anime/irresponsible-captain-tylor-ova",
         "https://anime-planet.com/anime/the-irresponsible-galaxy-tylor",
+        "https://anisearch.com/anime/12573",
         "https://anisearch.com/anime/2676",
         "https://kitsu.io/anime/1049",
         "https://myanimelist.net/anime/1168",
         "https://myanimelist.net/anime/35730",
+        "https://myanimelist.net/anime/41806",
         "https://notify.moe/anime/Ft7x5Kimg"
       ],
       "tags": [
         "action",
+        "adult cast",
         "adventure",
         "aliens",
         "based on a light novel",
         "comedy",
         "drama",
+        "ensemble cast",
         "future",
         "harem",
         "humanoid alien",
@@ -659,8 +668,8 @@
         "season": "UNDEFINED",
         "year": 2009
       },
-      "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
-      "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
+      "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+      "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
       "synonyms": [],
       "relations": [],
       "tags": [],
@@ -668,46 +677,27 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/10219",
-        "https://anisearch.com/anime/6781"
+        "https://anime-planet.com/anime/popsicle"
       ],
-      "title": "Oniichan no Koto nanka Zenzen Suki ja Nain da kara ne!!: Imouto yori Ai o Komete – Ani no ”Seitai Kansatsu-ki“",
-      "type": "SPECIAL",
+      "title": "Popsicle",
+      "type": "MOVIE",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "SUMMER",
-        "year": 2011
+        "season": "UNDEFINED",
+        "year": 2017
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/ecchi.v1.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/ecchi.v1.webp",
-      "synonyms": [
-        "I don't like my big brother at all!!: From Little Sister with Love - Big Brother's Chronicle of Turn-Ons",
-        "Little Sister's Diary of Brother's Perverted Habits",
-        "Ochinko Special",
-        "Onii-chan no Koto Nanka Zenzen Suki Janain dakara ne!! Special",
-        "Onii-chan no Koto nanka Zenzen Suki Janain Dakara ne!! Special",
-        "Onii-chan no Koto nanka Zenzen Suki JanainDakara ne!! Special",
-        "Oniichan no Koto nanka Zenzen Suki Janain Dakara ne!! Special",
-        "Oniichan no Koto nanka Zenzen Suki ja Nain da kara ne!!: Imouto yori Ai wo Komete – Ani no ”Seitai Kansatsu-ki“",
-        "Onīchan no Koto nanka Zenzen Suki ja Nain da kara ne!!: Imōto yori Ai o Komete – Ani no ”Seitai Kansatsu-ki“",
-        "お兄ちゃんのことなんかぜんぜん好きじゃないんだからねっ!!",
-        "お兄ちゃんのことなんかぜんぜん好きじゃないんだからねっ！！ 妹より愛をこめて 兄の『性態観察記』"
-      ],
-      "relations": [
-        "https://anilist.co/anime/9587",
-        "https://anisearch.com/anime/6532"
-      ],
+      "picture": "https://cdn.anime-planet.com/anime/primary/popsicle-1.webp?t=1661273235",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/popsicle-1-285x399.webp?t=1661273235",
+      "synonyms": [],
+      "relations": [],
       "tags": [
-        "comedy",
-        "ecchi",
-        "female harem",
-        "present",
-        "romance",
-        "romantic comedy",
-        "slapstick"
+        "chinese animation",
+        "death of a loved one",
+        "drama",
+        "shorts"
       ],
-      "id": "https://anisearch.com/anime/6781"
+      "id": "https://anime-planet.com/anime/popsicle"
     },
     {
       "sources": [
@@ -721,52 +711,20 @@
         "season": "FALL",
         "year": 2015
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/11/11362.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/11/11362.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/11/11362_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/11/11362.webp",
       "synonyms": [
         "Bbororoeui Geugjangpan Keompyuteo Wanggug Daemoheom",
         "Pororo, The Adventure to Computer Kingdom",
         "뽀로로 극장판 컴퓨터 왕국 대모험"
       ],
       "relations": [
-        "https://anisearch.com/anime/11363",
-        "https://anisearch.com/anime/11364",
-        "https://anisearch.com/anime/11365",
-        "https://anisearch.com/anime/11366",
-        "https://anisearch.com/anime/11367",
-        "https://anisearch.com/anime/11368",
-        "https://anisearch.com/anime/11369",
-        "https://anisearch.com/anime/11372",
-        "https://anisearch.com/anime/11373",
-        "https://anisearch.com/anime/16752",
-        "https://anisearch.com/anime/9643"
+        "https://anisearch.com/anime/11367"
       ],
       "tags": [
         "cg-anime"
       ],
       "id": "https://anisearch.com/anime/11362"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/princess-lover-magical-knight-maria-chan"
-      ],
-      "title": "Princess Lover! Magical Knight Maria-chan",
-      "type": "SPECIAL",
-      "episodes": 6,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
-      "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
-      "synonyms": [],
-      "relations": [
-        "https://anime-planet.com/anime/princess-lover",
-        "https://anime-planet.com/anime/princess-lover-picture-drama"
-      ],
-      "tags": [],
-      "id": "https://anime-planet.com/anime/princess-lover-magical-knight-maria-chan"
     },
     {
       "sources": [
@@ -796,6 +754,7 @@
         "Outlaw Star",
         "Seihō Bukyō Outlaw Star",
         "Starward Warrior Knight Outlaw Star",
+        "ostar",
         "Вольные рыцари с вольной звезды",
         "Звёздные рыцари со Звезды изгоев",
         "せいほうぶきょうあうとろーすたー",
@@ -808,10 +767,14 @@
         "https://anilist.co/anime/4650",
         "https://anime-planet.com/anime/angel-links",
         "https://anime-planet.com/anime/outlaw-star-pilot",
+        "https://anisearch.com/anime/10137",
         "https://anisearch.com/anime/12002",
+        "https://anisearch.com/anime/1833",
         "https://kitsu.io/anime/1103",
         "https://kitsu.io/anime/12451",
         "https://kitsu.io/anime/367",
+        "https://livechart.me/anime/6602",
+        "https://livechart.me/anime/6921",
         "https://myanimelist.net/anime/1226",
         "https://myanimelist.net/anime/33713",
         "https://myanimelist.net/anime/4650",
@@ -830,7 +793,6 @@
         "bionic powers",
         "bounty hunter",
         "comedy",
-        "crime",
         "cyborgs",
         "delinquent",
         "ecchi",
@@ -843,6 +805,7 @@
         "male protagonist",
         "manga",
         "mercenaries",
+        "nekomimi",
         "nudity",
         "outer space",
         "pirates",
@@ -857,7 +820,8 @@
         "seinen",
         "shipboard",
         "space",
-        "space opera"
+        "space opera",
+        "tomboy"
       ],
       "id": "https://myanimelist.net/anime/400"
     },
@@ -903,8 +867,8 @@
         "season": "SPRING",
         "year": 2020
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/15/15411.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/15/15411.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/15/15411_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/15/15411.webp",
       "synonyms": [
         "#SUPPIN-PIN de GO! (#すっぴんぴんでゴー)",
         "HABA Laboratories: Squalane CM",
@@ -916,50 +880,84 @@
     },
     {
       "sources": [
-        "https://myanimelist.net/anime/45377"
+        "https://anidb.net/anime/17608",
+        "https://anilist.co/anime/154384",
+        "https://anime-planet.com/anime/tearmoon-empire",
+        "https://anisearch.com/anime/17655",
+        "https://kitsu.io/anime/46455",
+        "https://livechart.me/anime/11459",
+        "https://myanimelist.net/anime/52962",
+        "https://notify.moe/anime/kogBnwGVg"
       ],
-      "title": "Tianyan Shen Hu2",
+      "title": "Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story",
       "type": "TV",
-      "episodes": 26,
-      "status": "FINISHED",
+      "episodes": 12,
+      "status": "UPCOMING",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
+        "season": "FALL",
+        "year": 2023
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1227/135163.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1227/135163t.jpg",
       "synonyms": [
-        "天眼神虎2"
+        "Tearmoon Empire",
+        "Tearmoon Empire Story",
+        "Tearmoon Teikoku Monogatari",
+        "Tearmoon Teikoku Monogatari: Dantōdai kara Hajimaru, Hime no Tensei Gyakuten Story",
+        "บันทึกเรื่องราวจักรวรรดิเทียร์มูน: จุดพลิกผันชะตากรรมของเจ้าหญิงเริ่มจากบนกิโยติน",
+        "ティアムーン帝国物語~断頭台から始まる, 姫の転生逆転ストーリー~",
+        "ティアムーン帝国物語～断頭台から始まる、 姫の転生逆転ストーリー～",
+        "ティアムーン帝国物語～断頭台から始まる、姫の転生逆転ストーリー～"
       ],
-      "relations": [
-        "https://myanimelist.net/anime/45376",
-        "https://myanimelist.net/anime/45378"
-      ],
+      "relations": [],
       "tags": [
-        "fantasy"
+        "age regression",
+        "age transformation",
+        "alternative world",
+        "based on a light novel",
+        "comedy",
+        "conspiracy",
+        "drama",
+        "economics",
+        "fantasy",
+        "female protagonist",
+        "kingdom building",
+        "management",
+        "nobleman",
+        "novel",
+        "ojou-sama",
+        "political",
+        "romance",
+        "royalty",
+        "school",
+        "second chance",
+        "time manipulation",
+        "time travel",
+        "villainess"
       ],
-      "id": "https://myanimelist.net/anime/45377"
+      "id": "https://myanimelist.net/anime/52962"
     },
     {
       "sources": [
-        "https://anisearch.com/anime/9595"
+        "https://anidb.net/anime/6927",
+        "https://anisearch.com/anime/8683"
       ],
-      "title": "Toruru's Adventure",
-      "type": "UNKNOWN",
-      "episodes": 4,
+      "title": "Tokechigai",
+      "type": "MOVIE",
+      "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "WINTER",
-        "year": 2014
+        "season": "SPRING",
+        "year": 1918
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/9/9595.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/9/9595.webp",
-      "synonyms": [],
-      "relations": [],
-      "tags": [
-        "adventure"
+      "picture": "https://www.anisearch.com/images/anime/cover/0_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/0.webp",
+      "synonyms": [
+        "解けちがい"
       ],
-      "id": "https://anisearch.com/anime/9595"
+      "relations": [],
+      "tags": [],
+      "id": "https://anisearch.com/anime/8683"
     },
     {
       "sources": [
@@ -997,6 +995,44 @@
         "space"
       ],
       "id": "https://kitsu.io/anime/6752"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/152184",
+        "https://kitsu.io/anime/46271"
+      ],
+      "title": "Yeosingangnim",
+      "type": "TV",
+      "episodes": 0,
+      "status": "UPCOMING",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2023
+      },
+      "picture": "https://media.kitsu.io/anime/46271/poster_image/small-ef45ccb438e053184c7c156fd5bf6ba9.jpeg",
+      "thumbnail": "https://media.kitsu.io/anime/46271/poster_image/tiny-9d0cce7cbbb25437bc872e5969636676.jpeg",
+      "synonyms": [
+        "True Beauty",
+        "여신강림"
+      ],
+      "relations": [],
+      "tags": [
+        "bullying",
+        "drama",
+        "ensemble cast",
+        "fashion",
+        "female protagonist",
+        "heterosexual",
+        "idol",
+        "love triangle",
+        "makeup",
+        "romance",
+        "school",
+        "school life",
+        "slice of life",
+        "urban"
+      ],
+      "id": "https://kitsu.io/anime/46271"
     }
   ]
 }

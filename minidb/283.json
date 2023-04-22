@@ -2,6 +2,8 @@
   "data": [
     {
       "sources": [
+        "https://anilist.co/anime/136614",
+        "https://anime-planet.com/anime/kikuo-aishite-aishite-aishite",
         "https://kitsu.io/anime/43515",
         "https://myanimelist.net/anime/40914"
       ],
@@ -16,37 +18,52 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1571/104976.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1571/104976t.jpg",
       "synonyms": [
+        "AISITE AISITE AISITE",
+        "Aishite, Aishite, Aishite",
+        "Kikuo: Aishite Aishite Aishite",
+        "Kikuo: Love Me Love Me Love Me",
         "Love Me Love Me Love Me",
+        "Love Me, Love Me, Love Me",
         "愛して愛して愛して"
       ],
       "relations": [],
       "tags": [
+        "abstract",
         "avant garde",
         "dementia",
-        "music"
+        "music",
+        "psychological",
+        "vocaloid",
+        "yandere"
       ],
       "id": "https://myanimelist.net/anime/40914"
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/ca-foscari-short-film-festival-pv",
         "https://myanimelist.net/anime/50371"
       ],
       "title": "Ca' Foscari Cinema",
-      "type": "OVA",
+      "type": "MOVIE",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "WINTER",
         "year": 2011
       },
       "picture": "https://cdn.myanimelist.net/images/anime/1005/119436.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1005/119436t.jpg",
       "synonyms": [
+        "Ca' Foscari Cinema PV",
+        "Ca' Foscari Short Film Festival PV",
+        "Venice Daigaku Eiga Sakitzuke",
         "ベネチア大学映画先付"
       ],
       "relations": [],
       "tags": [
-        "horror"
+        "avant garde",
+        "promotional",
+        "shorts"
       ],
       "id": "https://myanimelist.net/anime/50371"
     },
@@ -89,11 +106,11 @@
         "https://anime-planet.com/anime/chibi-maruko-chan-1995",
         "https://anime-planet.com/anime/chibi-maruko-chan-movie",
         "https://anime-planet.com/anime/chibi-maruko-chan-watashi-no-suki-na-uta",
-        "https://anisearch.com/anime/13904",
         "https://anisearch.com/anime/158",
-        "https://anisearch.com/anime/16276",
-        "https://anisearch.com/anime/2680",
-        "https://anisearch.com/anime/4552",
+        "https://livechart.me/anime/11112",
+        "https://livechart.me/anime/11113",
+        "https://livechart.me/anime/1484",
+        "https://livechart.me/anime/8279",
         "https://myanimelist.net/anime/6149"
       ],
       "tags": [
@@ -135,16 +152,16 @@
       "sources": [
         "https://myanimelist.net/anime/45023"
       ],
-      "title": "Dan Jihua Ertong Xilie Gushi",
+      "title": "Dan Jihua: Ertong Xilie Gushi",
       "type": "TV",
       "episodes": 52,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2019
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1482/129933.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1482/129933t.jpg",
       "synonyms": [
         "蛋计划儿童系列故事"
       ],
@@ -169,8 +186,8 @@
         "season": "UNDEFINED",
         "year": 2015
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1977/129743.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1977/129743t.jpg",
       "synonyms": [
         "粉墨宝贝"
       ],
@@ -233,8 +250,8 @@
         "season": "SPRING",
         "year": 2002
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/15/15206.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/15/15206.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/15/15206_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/15/15206.webp",
       "synonyms": [
         "Baki the Grappler: Public Enemy Zero",
         "Baki: Staatsfeind Nummer 1",
@@ -244,9 +261,7 @@
         "グラップラー刃牙（バキ） 最大トーナメント編邂逅"
       ],
       "relations": [
-        "https://anisearch.com/anime/1065",
-        "https://anisearch.com/anime/1652",
-        "https://anisearch.com/anime/3483"
+        "https://anisearch.com/anime/1652"
       ],
       "tags": [
         "action",
@@ -334,6 +349,7 @@
     {
       "sources": [
         "https://anidb.net/anime/2207",
+        "https://anilist.co/anime/148933",
         "https://anisearch.com/anime/2987",
         "https://kitsu.io/anime/9332",
         "https://myanimelist.net/anime/22887",
@@ -350,7 +366,9 @@
       "picture": "https://cdn.myanimelist.net/images/anime/8/59453.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/8/59453t.jpg",
       "synonyms": [
+        "Hyokkori Hyoutanjima",
         "Hyokkori Hyōtan Shima",
+        "The Madcap Island",
         "ひょっこりひょうたん島"
       ],
       "relations": [],
@@ -388,7 +406,6 @@
       ],
       "relations": [
         "https://anisearch.com/anime/1886",
-        "https://anisearch.com/anime/455",
         "https://myanimelist.net/anime/1274"
       ],
       "tags": [
@@ -400,6 +417,7 @@
         "hardcore",
         "hentai",
         "magic",
+        "mythology",
         "ninja",
         "slapstick",
         "supernatural drama",
@@ -409,69 +427,58 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/13137",
-        "https://anisearch.com/anime/8445",
-        "https://kitsu.io/anime/6889",
-        "https://livechart.me/anime/4861",
-        "https://myanimelist.net/anime/13137",
-        "https://notify.moe/anime/_-nDtKimR"
+        "https://anime-planet.com/anime/kaibutsu-kun-movie"
       ],
-      "title": "Itsuka Tenma no Kuro Usagi Special",
+      "title": "Kaibutsu-kun Movie",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 1969
+      },
+      "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+      "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+      "synonyms": [
+        "Kaibutsu-kun: Suna Majin wo Yattsukero no Maki / Kaibutsu-kun to Haniwa Kaishin no Maki"
+      ],
+      "relations": [
+        "https://anime-planet.com/anime/kaibutsu-kun"
+      ],
+      "tags": [
+        "black and white",
+        "comedy"
+      ],
+      "id": "https://anime-planet.com/anime/kaibutsu-kun-movie"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/kimi-no-egao",
+        "https://myanimelist.net/anime/53800"
+      ],
+      "title": "Kimi no Egao",
       "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "WINTER",
-        "year": 2012
+        "season": "FALL",
+        "year": 2020
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/9/36791.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/9/36791t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1171/131722.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1171/131722t.jpg",
       "synonyms": [
-        "A Dark Rabbit has Seven Lives Special",
-        "いつか天魔の黒ウサギ スペシャル"
+        "Minna no Uta",
+        "Minna no Uta: Kimi no Egao",
+        "キミの笑顔"
       ],
-      "relations": [
-        "https://anilist.co/anime/9750",
-        "https://kitsu.io/anime/5850",
-        "https://myanimelist.net/anime/9750",
-        "https://notify.moe/anime/bx1MpKmig"
-      ],
+      "relations": [],
       "tags": [
-        "comedy",
-        "ecchi",
-        "present",
-        "zombie"
+        "family friendly",
+        "kids",
+        "minna no uta",
+        "music"
       ],
-      "id": "https://myanimelist.net/anime/13137"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/44321"
-      ],
-      "title": "Lan Mao Taiyang Cheng De Gushi",
-      "type": "TV",
-      "episodes": 52,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "蓝猫太阳城的故事"
-      ],
-      "relations": [
-        "https://myanimelist.net/anime/44320",
-        "https://myanimelist.net/anime/44322"
-      ],
-      "tags": [
-        "action",
-        "adventure",
-        "fantasy",
-        "kids"
-      ],
-      "id": "https://myanimelist.net/anime/44321"
+      "id": "https://myanimelist.net/anime/53800"
     },
     {
       "sources": [
@@ -559,7 +566,10 @@
     },
     {
       "sources": [
+        "https://anidb.net/anime/12842",
         "https://anilist.co/anime/103394",
+        "https://anime-planet.com/anime/idolish7-monster-generation",
+        "https://anisearch.com/anime/11588",
         "https://kitsu.io/anime/11581",
         "https://myanimelist.net/anime/32446",
         "https://notify.moe/anime/KeyCpKmiR"
@@ -575,12 +585,33 @@
       "picture": "https://cdn.myanimelist.net/images/anime/8/77860.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/8/77860t.jpg",
       "synonyms": [
+        "IDOLiSH7 - MONSTER GENERATiON",
         "IDOLiSH7 - Monster Generation",
+        "IDOLiSH7: MONSTER GENERATiON",
         "IDOLiSH7: Monster Generation",
+        "Monster Generation",
+        "アイドリッシュセブン MONSTER GENERATiON",
         "アイドリッシュセブン『MONSTER GENERATiON』"
       ],
       "relations": [
+        "https://anidb.net/anime/12339",
         "https://anilist.co/anime/87495",
+        "https://anime-planet.com/anime/idolish7",
+        "https://anime-planet.com/anime/idolish7-memories-melodies",
+        "https://anime-planet.com/anime/idolish7-nanatsu-iro-realize",
+        "https://anime-planet.com/anime/idolish7-restart-pointer",
+        "https://anime-planet.com/anime/idolish7-wish-voyage",
+        "https://anime-planet.com/anime/re-vale-no-doubt",
+        "https://anime-planet.com/anime/re-vale-re-raise",
+        "https://anime-planet.com/anime/trigger-crescent-rise",
+        "https://anime-planet.com/anime/trigger-daybreak-interlude",
+        "https://anime-planet.com/anime/trigger-diamond-fusion",
+        "https://anime-planet.com/anime/trigger-leopard-eyes",
+        "https://anime-planet.com/anime/zool-bang-bang-bang",
+        "https://anisearch.com/anime/10922",
+        "https://anisearch.com/anime/11008",
+        "https://anisearch.com/anime/11526",
+        "https://anisearch.com/anime/12167",
         "https://kitsu.io/anime/11488",
         "https://kitsu.io/anime/11489",
         "https://kitsu.io/anime/12263",
@@ -598,11 +629,89 @@
         "https://notify.moe/anime/yVVV2Kimg"
       ],
       "tags": [
+        "cg-anime",
+        "cgi",
         "idol",
+        "idols",
+        "idols (male)",
         "music",
         "primarily male cast"
       ],
       "id": "https://myanimelist.net/anime/32446"
+    },
+    {
+      "sources": [
+        "https://anidb.net/anime/17275",
+        "https://anilist.co/anime/146637",
+        "https://anime-planet.com/anime/orient-awajishima-gekitou-hen",
+        "https://anisearch.com/anime/17220",
+        "https://kitsu.io/anime/45993",
+        "https://livechart.me/anime/11151",
+        "https://myanimelist.net/anime/51368",
+        "https://notify.moe/anime/0em5e5y7g"
+      ],
+      "title": "Orient: Awajishima Gekitou-hen",
+      "type": "TV",
+      "episodes": 12,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SUMMER",
+        "year": 2022
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1085/124639.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1085/124639t.jpg",
+      "synonyms": [
+        "ORIENT (Cour 2)",
+        "ORIENT 2nd Cour",
+        "ORIENT Part 2",
+        "ORIENT: Awajishima Gekitou-hen",
+        "ORIENT: The Battle of Awaji Island",
+        "Orient (2022)",
+        "Orient Cour 2",
+        "Orient Part 2",
+        "Orient: Awaji Shima Gekitou Hen",
+        "オリエント",
+        "オリエント (2022)",
+        "オリエント 淡路島激闘編",
+        "オリエント 第２クール",
+        "オリエント （2022）",
+        "东方少年 第二季",
+        "東方少年 2"
+      ],
+      "relations": [
+        "https://anidb.net/anime/15969",
+        "https://anilist.co/anime/128034",
+        "https://anime-planet.com/anime/orient",
+        "https://anisearch.com/anime/15886",
+        "https://kitsu.io/anime/44205",
+        "https://livechart.me/anime/10311",
+        "https://myanimelist.net/anime/45560",
+        "https://notify.moe/anime/jA3liD-Mg"
+      ],
+      "tags": [
+        "action",
+        "adventure",
+        "based on a manga",
+        "childhood friends",
+        "childhood promise",
+        "comedy",
+        "demon",
+        "demons",
+        "fantasy",
+        "feudal japan",
+        "fighting-shounen",
+        "historical",
+        "magic",
+        "male protagonist",
+        "old asia",
+        "orphans",
+        "samurai",
+        "shounen",
+        "supernatural",
+        "swordplay",
+        "swords & co"
+      ],
+      "id": "https://myanimelist.net/anime/51368"
     },
     {
       "sources": [
@@ -623,8 +732,8 @@
         "season": "FALL",
         "year": 2017
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/3/88190.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/3/88190t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1845/123305.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1845/123305t.jpg",
       "synonyms": [
         "Gra w Króla",
         "King's Game",
@@ -652,6 +761,7 @@
       ],
       "tags": [
         "action",
+        "avant garde",
         "based on a light novel",
         "battle royale",
         "death game",
@@ -659,6 +769,7 @@
         "drama",
         "gore",
         "high school",
+        "high stakes game",
         "high stakes games",
         "horror",
         "manga",
@@ -675,6 +786,8 @@
         "school life",
         "slice of life",
         "splatter",
+        "struggle to survive",
+        "suicide",
         "supernatural",
         "supernatural drama",
         "surreal comedy",
@@ -688,38 +801,6 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/139182",
-        "https://anisearch.com/anime/14709",
-        "https://kitsu.io/anime/43591"
-      ],
-      "title": "Pocari Sweat: Bintang SMA",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 2019
-      },
-      "picture": "https://media.kitsu.io/anime/poster_images/43591/small.jpg",
-      "thumbnail": "https://media.kitsu.io/anime/poster_images/43591/tiny.jpg",
-      "synonyms": [
-        "Bintang SMA 2020",
-        "POCARI SWEAT CM: SWEAT FOR DREAM!",
-        "アニメーションCM SWEAT FOR DREAM!"
-      ],
-      "relations": [],
-      "tags": [
-        "advertisement",
-        "anime influenced",
-        "music",
-        "present",
-        "romance",
-        "slice of life"
-      ],
-      "id": "https://kitsu.io/anime/43591"
-    },
-    {
-      "sources": [
         "https://anidb.net/anime/15308",
         "https://anilist.co/anime/113917",
         "https://anime-planet.com/anime/psycho-pass-3-first-inspector",
@@ -730,7 +811,7 @@
         "https://notify.moe/anime/k1Q2jPQZR"
       ],
       "title": "Psycho-Pass 3: First Inspector",
-      "type": "MOVIE",
+      "type": "ONA",
       "episodes": 3,
       "status": "FINISHED",
       "animeSeason": {
@@ -746,6 +827,7 @@
         "PSYCHO-PASS 3 PRIMO ISPETTORE",
         "PSYCHO-PASS 3 心靈判官3　FIRST INSPECTOR",
         "PSYCHO-PASS 3 사이코 패스3　FIRST INSPECTOR",
+        "PSYCHO-PASS 3: FIRST INSPECTOR",
         "PSYCHO-PASS 3: First Inspector",
         "PSYCHO-PASS サイコパス 3 FIRST INSPECTOR",
         "PSYCHO-PASS サイコパス ３ FIRST INSPECTOR",
@@ -756,6 +838,7 @@
         "Psycho-Pass 3: First Inspector Staffel 4",
         "Psycho-Pass 3: First Inspector Temporada 4",
         "Psycho-Pass 3: Primo Ispettore",
+        "pp movie 3",
         "Психо-паспорт 3 (2020)",
         "ไซโคพาส ถอดรหัสล่า 3 (2020)",
         "サイコパス 3 FIRST INSPECTOR",
@@ -764,13 +847,14 @@
       "relations": [
         "https://anidb.net/anime/14735",
         "https://anilist.co/anime/108307",
+        "https://anilist.co/anime/153687",
         "https://anime-planet.com/anime/psycho-pass-3",
+        "https://anime-planet.com/anime/psycho-pass-providence",
         "https://anisearch.com/anime/14240",
-        "https://anisearch.com/anime/15711",
-        "https://anisearch.com/anime/7765",
-        "https://anisearch.com/anime/8761",
-        "https://anisearch.com/anime/9098",
+        "https://anisearch.com/anime/17604",
         "https://kitsu.io/anime/42183",
+        "https://kitsu.io/anime/46358",
+        "https://livechart.me/anime/11372",
         "https://livechart.me/anime/129",
         "https://livechart.me/anime/218",
         "https://livechart.me/anime/3139",
@@ -780,19 +864,24 @@
         "https://livechart.me/anime/9266",
         "https://livechart.me/anime/956",
         "https://myanimelist.net/anime/39491",
-        "https://notify.moe/anime/XQRMrd6ig"
+        "https://myanimelist.net/anime/52747",
+        "https://notify.moe/anime/XQRMrd6ig",
+        "https://notify.moe/anime/xtNTv324g"
       ],
       "tags": [
         "action",
+        "adult cast",
         "artificial intelligence",
         "cops",
         "crime",
         "crime fiction",
         "cyberpunk",
+        "detective",
         "dystopia",
         "dystopian",
         "law and order",
         "memory manipulation",
+        "mystery",
         "new",
         "noir",
         "original work",
@@ -897,12 +986,16 @@
         "School Rumble: Heute - Nachhilfe",
         "School Rumble: Ichi Gakki Hoshū",
         "School Rumble: Nachhilfe",
+        "School Rumble: New-Term Excitement! To Be Near You Scramble! The Naked Truth!",
+        "School Rumble: Smile, Please! Mammoth, Yum! May I Fall in Love?",
         "Scramble OVA",
         "Sukuran OVA",
+        "schoolrumble ova",
         "sukuran ova",
         "Школьный переполох OVA",
         "スクールランブル一学期補習",
-        "喧嚣学园 第一学期补习"
+        "喧嚣学园 第一学期补习",
+        "校园迷糊大王 一学期补习"
       ],
       "relations": [
         "https://anidb.net/anime/2165",
@@ -913,8 +1006,6 @@
         "https://anime-planet.com/anime/school-rumble-2nd-semester",
         "https://anime-planet.com/anime/school-rumble-san-gakki",
         "https://anisearch.com/anime/1437",
-        "https://anisearch.com/anime/4757",
-        "https://anisearch.com/anime/791",
         "https://kitsu.io/anime/15",
         "https://livechart.me/anime/3689",
         "https://livechart.me/anime/4191",
@@ -930,6 +1021,7 @@
         "earth",
         "ecchi",
         "gag",
+        "heterosexual",
         "high school",
         "japan",
         "kuudere",
@@ -964,6 +1056,7 @@
       "picture": "https://cdn.myanimelist.net/images/anime/8/22146.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/8/22146t.jpg",
       "synonyms": [
+        "Las Guerreras Magicas",
         "Magical Kanan",
         "Septem Charm Magical Canan",
         "Septem Charm まじかるカナン"
@@ -993,6 +1086,31 @@
         "tentacle"
       ],
       "id": "https://myanimelist.net/anime/3301"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/155320"
+      ],
+      "title": "Sheng Tang",
+      "type": "ONA",
+      "episodes": 0,
+      "status": "UPCOMING",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": null
+      },
+      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155320-RhTnp3IfmnvM.png",
+      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155320-RhTnp3IfmnvM.png",
+      "synonyms": [
+        "圣堂"
+      ],
+      "relations": [],
+      "tags": [
+        "action",
+        "fantasy",
+        "full cgi"
+      ],
+      "id": "https://anilist.co/anime/155320"
     },
     {
       "sources": [
@@ -1065,9 +1183,11 @@
         "full cgi",
         "idol",
         "idols",
+        "idols (female)",
         "kids",
         "korean animation",
         "music",
+        "primarily female cast",
         "school life",
         "showbiz"
       ],
@@ -1095,9 +1215,12 @@
       ],
       "relations": [],
       "tags": [
+        "defloration",
         "flat chested",
         "hentai",
         "incest",
+        "oral",
+        "present",
         "school girl",
         "softcore"
       ],
@@ -1105,64 +1228,9 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/129220"
-      ],
-      "title": "Tai Yi Xian Mo Lu: Ling Fei Ji 2",
-      "type": "ONA",
-      "episodes": 26,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2017
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129220-TWsWYtczPcv5.png",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129220-TWsWYtczPcv5.png",
-      "synonyms": [
-        "Magical Legend: Rise to Immortality 2",
-        "太乙仙魔录之灵飞纪 第2季",
-        "太乙仙魔录之灵飞纪Ⅱ"
-      ],
-      "relations": [
-        "https://anilist.co/anime/129219",
-        "https://anilist.co/anime/129221"
-      ],
-      "tags": [
-        "action",
-        "adventure",
-        "fantasy",
-        "full cgi"
-      ],
-      "id": "https://anilist.co/anime/129220"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/45772"
-      ],
-      "title": "Tansuo Diqiucun season5",
-      "type": "TV",
-      "episodes": 20,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "探索地球村 第五季"
-      ],
-      "relations": [
-        "https://myanimelist.net/anime/45771"
-      ],
-      "tags": [
-        "kids"
-      ],
-      "id": "https://myanimelist.net/anime/45772"
-    },
-    {
-      "sources": [
         "https://anilist.co/anime/102578",
         "https://anime-planet.com/anime/the-gift",
+        "https://anisearch.com/anime/17834",
         "https://kitsu.io/anime/13797",
         "https://myanimelist.net/anime/36099",
         "https://notify.moe/anime/SzOIhFimg"
@@ -1182,16 +1250,22 @@
       ],
       "relations": [
         "https://anime-planet.com/anime/the-peak",
+        "https://anisearch.com/anime/16113",
         "https://myanimelist.net/anime/40570"
       ],
       "tags": [
         "adventure",
+        "alternative world",
         "cg animation",
+        "cg-anime",
+        "drama",
         "family friendly",
+        "family life",
         "fantasy",
         "kids",
         "original work",
         "person in a strange world",
+        "present",
         "shorts"
       ],
       "id": "https://myanimelist.net/anime/36099"
@@ -1208,7 +1282,7 @@
         "season": "UNDEFINED",
         "year": 2019
       },
-      "picture": "https://cdn.anime-planet.com/anime/primary/the-north-face-japan-airystring-1.webp?t=1629652464",
+      "picture": "https://cdn.anime-planet.com/anime/primary/the-north-face-japan-airystring-1.webp?t=1629652465",
       "thumbnail": "https://cdn.anime-planet.com/anime/primary/the-north-face-japan-airystring-1-285x400.webp?t=1629652465",
       "synonyms": [],
       "relations": [],
@@ -1224,16 +1298,16 @@
       "sources": [
         "https://myanimelist.net/anime/46665"
       ],
-      "title": "Tu Xiao Bei Zhi Dongwu Qi Yuan",
-      "type": "TV",
+      "title": "Tu Xiao Bei: Dongwu Qi Yuan",
+      "type": "ONA",
       "episodes": 43,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1845/131093.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1845/131093t.jpg",
       "synonyms": [
         "兔小贝之动物奇缘"
       ],
@@ -1276,39 +1350,10 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/126389",
-        "https://anime-planet.com/anime/xue-yu-xin",
-        "https://anisearch.com/anime/15948"
-      ],
-      "title": "Xue Yu Xin",
-      "type": "ONA",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2021
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/xue-yu-xin-1.jpg?t=1625791496",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/xue-yu-xin-1-190x266.jpg?t=1625908778",
-      "synonyms": [
-        "Blood & Heart",
-        "血与心"
-      ],
-      "relations": [],
-      "tags": [
-        "based on a manga",
-        "chinese animation",
-        "drama",
-        "historical",
-        "military"
-      ],
-      "id": "https://anime-planet.com/anime/xue-yu-xin"
-    },
-    {
-      "sources": [
         "https://anidb.net/anime/12958",
         "https://anilist.co/anime/103424",
         "https://anime-planet.com/anime/infinity-nado-2",
+        "https://anisearch.com/anime/12330",
         "https://kitsu.io/anime/14065",
         "https://myanimelist.net/anime/36425",
         "https://notify.moe/anime/88tH2Kimg"
@@ -1326,6 +1371,7 @@
       "synonyms": [
         "Infinity Nado 2",
         "King of Warrior 2",
+        "Zhan Dou Wang: Ju Feng Zhan Hun 2",
         "Zhandou Wang: Jufeng Zhan Hun 2",
         "战斗王之飓风战魂2"
       ],
@@ -1336,6 +1382,8 @@
         "https://anilist.co/anime/103425",
         "https://anime-planet.com/anime/infinity-nado",
         "https://anime-planet.com/anime/infinity-nado-3",
+        "https://anisearch.com/anime/12329",
+        "https://anisearch.com/anime/12331",
         "https://kitsu.io/anime/14064",
         "https://kitsu.io/anime/14066",
         "https://myanimelist.net/anime/36423",
@@ -1344,6 +1392,7 @@
       "tags": [
         "action",
         "chinese animation",
+        "ganbatte",
         "kids",
         "proxy battles",
         "shounen",
@@ -1370,8 +1419,8 @@
         "season": "FALL",
         "year": 2018
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/1094/95453.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1094/95453t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1084/128208.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1084/128208t.jpg",
       "synonyms": [
         "ZOMBIE LAND SAGA",
         "Zombie Land Saga",
@@ -1386,11 +1435,15 @@
         "https://anilist.co/anime/110733",
         "https://anilist.co/anime/121035",
         "https://anilist.co/anime/145433",
+        "https://anilist.co/anime/154006",
         "https://anime-planet.com/anime/curry-meshi-x-zombieland-saga",
         "https://anime-planet.com/anime/follow-your-fantasy",
         "https://anime-planet.com/anime/zombie-land-saga-revenge",
         "https://anime-planet.com/anime/zombieland-saga-saga-jihen",
         "https://anisearch.com/anime/14528",
+        "https://anisearch.com/anime/14783",
+        "https://anisearch.com/anime/14793",
+        "https://anisearch.com/anime/16932",
         "https://kitsu.io/anime/42467",
         "https://kitsu.io/anime/42642",
         "https://kitsu.io/anime/43283",
@@ -1406,6 +1459,7 @@
       ],
       "tags": [
         "amnesia",
+        "award winning",
         "cgi",
         "comedy",
         "dancing",
@@ -1416,6 +1470,7 @@
         "gangs",
         "idol",
         "idols",
+        "idols (female)",
         "lgbtq+ themes",
         "moe",
         "monster girl",
@@ -1436,6 +1491,7 @@
         "supernatural",
         "surreal comedy",
         "the arts",
+        "time skip",
         "tragedy",
         "transgender",
         "zombie",

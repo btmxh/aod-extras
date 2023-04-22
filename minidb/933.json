@@ -3,6 +3,7 @@
     {
       "sources": [
         "https://anilist.co/anime/11731",
+        "https://anime-planet.com/anime/chii-sui-maru-specials",
         "https://anisearch.com/anime/8500",
         "https://kitsu.io/anime/6577",
         "https://myanimelist.net/anime/11731",
@@ -19,19 +20,22 @@
       "picture": "https://cdn.myanimelist.net/images/anime/9/32751.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/9/32751t.jpg",
       "synonyms": [
+        "Chii-Sui Maru Specials",
         "ちーすい丸",
         "ちーすい丸 Specials"
       ],
       "relations": [
         "https://anilist.co/anime/8025",
+        "https://anime-planet.com/anime/chii-sui-maru",
         "https://anisearch.com/anime/6116",
-        "https://anisearch.com/anime/7393",
         "https://kitsu.io/anime/5175",
         "https://myanimelist.net/anime/8025",
         "https://notify.moe/anime/B8szpKimg"
       ],
       "tags": [
-        "comedy"
+        "comedy",
+        "insects",
+        "non-human protagonists"
       ],
       "id": "https://myanimelist.net/anime/11731"
     },
@@ -77,7 +81,6 @@
         "https://anime-planet.com/anime/ai-mai-mii",
         "https://anime-planet.com/anime/ai-mai-mii-mousou-catastrophe",
         "https://anime-planet.com/anime/ai-mai-mii-mousou-catastrophe-special",
-        "https://anisearch.com/anime/8157",
         "https://anisearch.com/anime/9579",
         "https://kitsu.io/anime/8498",
         "https://livechart.me/anime/510",
@@ -129,7 +132,10 @@
         "Twisted Tales of Tokyo (1)",
         "ちゅっ^2"
       ],
-      "relations": [],
+      "relations": [
+        "https://anisearch.com/anime/1855",
+        "https://anisearch.com/anime/2703"
+      ],
       "tags": [
         "anal",
         "contemporary fantasy",
@@ -177,6 +183,8 @@
         "https://myanimelist.net/anime/30531",
         "https://myanimelist.net/anime/33392",
         "https://myanimelist.net/anime/33912",
+        "https://myanimelist.net/anime/52759",
+        "https://myanimelist.net/anime/52760",
         "https://notify.moe/anime/3D0_pFmmR",
         "https://notify.moe/anime/a7Lz2Fimg",
         "https://notify.moe/anime/epwihFimg"
@@ -184,32 +192,35 @@
       "tags": [
         "comedy",
         "cute boys doing cute things",
-        "music"
+        "music",
+        "parody"
       ],
       "id": "https://myanimelist.net/anime/33911"
     },
     {
       "sources": [
-        "https://anisearch.com/anime/16842"
+        "https://anisearch.com/anime/17208"
       ],
-      "title": "Hanabi-chan wa Okure-gachi",
-      "type": "UNKNOWN",
-      "episodes": 0,
-      "status": "UPCOMING",
+      "title": "Headphone no Naka no Sekai",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2022
+        "season": "FALL",
+        "year": 2021
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/16/16842.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/16/16842.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/17/17208_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/17/17208.webp",
       "synonyms": [
-        "ハナビちゃんは遅れがち"
+        "KAEERU - Headphone no Naka no Sekai",
+        "KAEERU - ヘッドフォンの中の世界",
+        "ヘッドフォンの中の世界"
       ],
       "relations": [],
       "tags": [
-        "comedy"
+        "present"
       ],
-      "id": "https://anisearch.com/anime/16842"
+      "id": "https://anisearch.com/anime/17208"
     },
     {
       "sources": [
@@ -247,6 +258,7 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/genki-rockets-heavenly-star",
         "https://myanimelist.net/anime/50225"
       ],
       "title": "Heavenly Star",
@@ -259,38 +271,14 @@
       },
       "picture": "https://cdn.myanimelist.net/images/anime/1178/119683.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1178/119683t.jpg",
-      "synonyms": [],
+      "synonyms": [
+        "Genki Rockets: Heavenly Star"
+      ],
       "relations": [],
       "tags": [
         "music"
       ],
       "id": "https://myanimelist.net/anime/50225"
-    },
-    {
-      "sources": [
-        "https://anilist.co/anime/142018"
-      ],
-      "title": "Hisui",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2021
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b142018-eN858UzxGjt1.png",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b142018-eN858UzxGjt1.png",
-      "synonyms": [
-        "ヒスイ"
-      ],
-      "relations": [
-        "https://anilist.co/anime/137063"
-      ],
-      "tags": [
-        "demons",
-        "full cgi"
-      ],
-      "id": "https://anilist.co/anime/142018"
     },
     {
       "sources": [
@@ -331,20 +319,22 @@
       ],
       "title": "Huanle Zhi Cheng",
       "type": "TV",
-      "episodes": 216,
+      "episodes": 52,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2012
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1097/130258.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1097/130258t.jpg",
       "synonyms": [
+        "Happy City",
         "欢乐之城"
       ],
       "relations": [],
       "tags": [
-        "adventure"
+        "fantasy",
+        "kids"
       ],
       "id": "https://myanimelist.net/anime/46485"
     },
@@ -372,12 +362,13 @@
       "synonyms": [
         "Colegiais",
         "Girl's High",
-        "Girl's High School Students",
         "Girl`s High",
         "Girl`s High School",
         "Girl`s High School Students",
         "Girls High",
         "Girl´s High",
+        "Girl’s High",
+        "Girl’s High School Students",
         "High School Girls",
         "Joshi Kosei",
         "Joshi Kousei",
@@ -385,7 +376,8 @@
         "Joshikosei",
         "Joshikousei",
         "Joshikousei: Girl`s High",
-        "Joshikōsei: Girl's High",
+        "Joshikousei: Girl’s High",
+        "Joshikōsei: Girl’s High",
         "hsg",
         "Старшеклассницы",
         "طالبات الثانوية",
@@ -429,8 +421,14 @@
     },
     {
       "sources": [
+        "https://anidb.net/anime/523",
+        "https://anilist.co/anime/2599",
         "https://anime-planet.com/anime/heavy-metal-l-gaim-i-pentagona-window-plus-lady-gavlet",
-        "https://myanimelist.net/anime/2599"
+        "https://anisearch.com/anime/867",
+        "https://kitsu.io/anime/2363",
+        "https://livechart.me/anime/7655",
+        "https://myanimelist.net/anime/2599",
+        "https://notify.moe/anime/iYds5FmmR"
       ],
       "title": "Juusenki L-Gaim I: Pentagona Window + Lady Gavlet",
       "type": "OVA",
@@ -443,24 +441,48 @@
       "picture": "https://cdn.myanimelist.net/images/anime/2/3503.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/2/3503t.jpg",
       "synonyms": [
+        "Heavy Metal L-Gaim I: Pentagona Window + Lady Gablae",
         "Heavy Metal L-Gaim I: Pentagona Window + Lady Gavlet",
+        "Heavy Metal L-Gaim I: Pentagona Window + Lady Gyabure",
+        "Heavy Metal L-Gaim I: Petagna Window + Lady Gablae",
+        "Juusenki L-Gaim I: Pentagona Window + Lady Gablae",
+        "Juusenki L-Gaim I: Pentagona Window + Lady Gyabure",
         "重戦機エルガイムI ペンタゴナ ウインドゥ+レディ ギャブレー"
       ],
       "relations": [
+        "https://anidb.net/anime/2488",
+        "https://anidb.net/anime/522",
+        "https://anilist.co/anime/2598",
+        "https://anilist.co/anime/2600",
         "https://anime-planet.com/anime/heavy-metal-l-gaim",
         "https://anime-planet.com/anime/heavy-metal-l-gaim-ii-farewell-my-lovely-and-pentagona-doors",
         "https://anime-planet.com/anime/heavy-metal-l-gaim-iii-full-metal-soldier",
+        "https://anisearch.com/anime/1654",
+        "https://anisearch.com/anime/66",
+        "https://kitsu.io/anime/2362",
+        "https://kitsu.io/anime/2364",
         "https://myanimelist.net/anime/2598",
-        "https://myanimelist.net/anime/2600"
+        "https://myanimelist.net/anime/2600",
+        "https://notify.moe/anime/-Ady5KmmR",
+        "https://notify.moe/anime/cwOs5Fiig"
       ],
       "tags": [
         "action",
         "adventure",
+        "alternative world",
+        "comedy",
         "drama",
         "mecha",
+        "military",
+        "real robots",
+        "romance",
         "sci-fi",
+        "science fiction",
+        "science-fiction",
         "shounen",
-        "space"
+        "space",
+        "space opera",
+        "war"
       ],
       "id": "https://myanimelist.net/anime/2599"
     },
@@ -505,73 +527,6 @@
     },
     {
       "sources": [
-        "https://anisearch.com/anime/2526"
-      ],
-      "title": "Kochira Katsushika-ku Kameari Kouen-mae Hashutsujo: The Movie",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 1999
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/2/2526.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/2/2526.webp",
-      "synonyms": [
-        "Kameari Park Precinct",
-        "Kochikame Movie",
-        "Kochira Katsushika-ku Kameari Kōen-mae Hashutsujo: The Movie",
-        "Kochira Katsushikaku Kameari Kouenmae Hashutsujo The Movie",
-        "こちら葛飾区亀有公園前派出所 The Movie"
-      ],
-      "relations": [
-        "https://anisearch.com/anime/11545",
-        "https://anisearch.com/anime/11765",
-        "https://anisearch.com/anime/11779",
-        "https://anisearch.com/anime/11780",
-        "https://anisearch.com/anime/11781",
-        "https://anisearch.com/anime/11782",
-        "https://anisearch.com/anime/11783",
-        "https://anisearch.com/anime/11784",
-        "https://anisearch.com/anime/11785",
-        "https://anisearch.com/anime/11786",
-        "https://anisearch.com/anime/1722",
-        "https://anisearch.com/anime/2131",
-        "https://anisearch.com/anime/2444"
-      ],
-      "tags": [
-        "action",
-        "comedy",
-        "policeman"
-      ],
-      "id": "https://anisearch.com/anime/2526"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/10999"
-      ],
-      "title": "Kono Mayonnaise wa Yurusugiru",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2002
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/10/10999.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/10/10999.webp",
-      "synonyms": [
-        "This Mayonnaise is too Liquid",
-        "このマヨネーズはゆるすぎる"
-      ],
-      "relations": [],
-      "tags": [
-        "independent anime"
-      ],
-      "id": "https://anisearch.com/anime/10999"
-    },
-    {
-      "sources": [
         "https://anidb.net/anime/10295",
         "https://anilist.co/anime/20537",
         "https://anime-planet.com/anime/the-comic-artist-and-his-assistants",
@@ -596,11 +551,12 @@
         "Mangada-san To Assistant-san To The Animation",
         "Mangaka-san and Assistant-san and...",
         "Mangaka-san to Assistant-san to",
+        "Mangaka-san to Assistant-san to THE ANIMATION",
         "The Comic Artist & His Assistants",
         "The Comic Artist and Assistants",
         "The Comic Artist and His Assistants",
-        "The Comic Artist and His Assistants The Animation",
         "The Manga Creator and the Assistant and",
+        "manashi",
         "Манга художникът и неговите асистенти",
         "マンガ家さんとアシスタントさんと",
         "マンガ家さんとアシスタントさんと THE ANIMATION",
@@ -632,6 +588,7 @@
         "female harem",
         "half-length episodes",
         "harem",
+        "heterosexual",
         "japan",
         "manga",
         "manga & doujinshi",
@@ -640,6 +597,7 @@
         "pantsu",
         "present",
         "primarily adult cast",
+        "primarily female cast",
         "romance",
         "seinen",
         "slapstick",
@@ -660,7 +618,8 @@
         "https://anisearch.com/anime/16994",
         "https://kitsu.io/anime/45713",
         "https://livechart.me/anime/11014",
-        "https://myanimelist.net/anime/50695"
+        "https://myanimelist.net/anime/50695",
+        "https://notify.moe/anime/-eI4GC-7g"
       ],
       "title": "MF Ghost",
       "type": "TV",
@@ -670,8 +629,8 @@
         "season": "WINTER",
         "year": 2023
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/1986/120280.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1986/120280t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1249/132348.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1249/132348t.jpg",
       "synonyms": [
         "MFゴースト",
         "エムエフゴースト"
@@ -692,7 +651,8 @@
         "https://livechart.me/anime/7516",
         "https://livechart.me/anime/8273",
         "https://livechart.me/anime/8274",
-        "https://livechart.me/anime/943"
+        "https://livechart.me/anime/943",
+        "https://myanimelist.net/anime/185"
       ],
       "tags": [
         "action",
@@ -700,6 +660,7 @@
         "cars",
         "cgi",
         "drama",
+        "male protagonist",
         "motorsport",
         "present",
         "racing",
@@ -713,6 +674,7 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/milu-chuanqi",
         "https://myanimelist.net/anime/44668"
       ],
       "title": "Milu Chuanqi",
@@ -721,16 +683,17 @@
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2013
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1708/123660.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1708/123660t.jpg",
       "synonyms": [
         "麋鹿传奇"
       ],
       "relations": [],
       "tags": [
         "adventure",
+        "chinese animation",
         "fantasy",
         "kids"
       ],
@@ -739,6 +702,8 @@
     {
       "sources": [
         "https://anilist.co/anime/132904",
+        "https://anime-planet.com/anime/megalo-box-2-nomad-hummingbird-and-the-traveler",
+        "https://anisearch.com/anime/18100",
         "https://kitsu.io/anime/44821",
         "https://livechart.me/anime/10513",
         "https://myanimelist.net/anime/48678",
@@ -755,6 +720,11 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1003/116783.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1003/116783t.jpg",
       "synonyms": [
+        "Megalo Box 2: Nomad - Hachidori to Tabibito",
+        "Megalo Box 2: Nomad - Hummingbird and the Traveler",
+        "Megalo Box 2: The Hummingbird and the Nomad",
+        "NOMAD メガロボクス 2 ハチドリと旅人。",
+        "NOMAD メガロボクス2 ショートアニメ",
         "NOMAD メガロボクス2 新作ショートアニメ",
         "NOMAD メガロボクス2『ハチドリと旅人。』",
         "NOMAD メガロボクス２ 「ハチドリと旅人。」",
@@ -764,6 +734,8 @@
       ],
       "relations": [
         "https://anilist.co/anime/113359",
+        "https://anime-planet.com/anime/megalo-box-2-nomad",
+        "https://anisearch.com/anime/14789",
         "https://kitsu.io/anime/42720",
         "https://livechart.me/anime/2935",
         "https://livechart.me/anime/4179",
@@ -773,6 +745,7 @@
       ],
       "tags": [
         "action",
+        "birds",
         "boxing",
         "drama",
         "sci-fi",
@@ -783,6 +756,81 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/one-thousand-buddhas"
+      ],
+      "title": "One Thousand Buddhas",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2014
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/one-thousand-buddhas-1.webp?t=1670609301",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/one-thousand-buddhas-1-285x399.webp?t=1670609301",
+      "synonyms": [],
+      "relations": [],
+      "tags": [
+        "korean animation",
+        "shorts"
+      ],
+      "id": "https://anime-planet.com/anime/one-thousand-buddhas"
+    },
+    {
+      "sources": [
+        "https://anisearch.com/anime/18334"
+      ],
+      "title": "Pandora",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2023
+      },
+      "picture": "https://www.anisearch.com/images/anime/cover/18/18334_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/18/18334.webp",
+      "synonyms": [
+        "MAVE - Pandora",
+        "메이브 - Pandora"
+      ],
+      "relations": [],
+      "tags": [
+        "cg-anime",
+        "science-fiction"
+      ],
+      "id": "https://anisearch.com/anime/18334"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/150294"
+      ],
+      "title": "Qing Chi Hong Xiaodou Ba! Hong Yu Lü",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "UPCOMING",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2023
+      },
+      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150294-dRjSBnJ7RIUh.jpg",
+      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150294-dRjSBnJ7RIUh.jpg",
+      "synonyms": [
+        "红小豆大电影",
+        "请吃红小豆吧电影版",
+        "请吃红小豆吧！红与绿"
+      ],
+      "relations": [
+        "https://anilist.co/anime/104629"
+      ],
+      "tags": [
+        "comedy"
+      ],
+      "id": "https://anilist.co/anime/150294"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/trickstar-rebellion-star",
         "https://myanimelist.net/anime/48519"
       ],
       "title": "Rebellion Star",
@@ -790,38 +838,20 @@
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "WINTER",
         "year": 2020
       },
       "picture": "https://cdn.myanimelist.net/images/anime/1644/113601.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1644/113601t.jpg",
       "synonyms": [
-        "Ensemble Stars! Unit Song CD Vol.8 Trickstar",
-        "あんさんぶるスターズ！！ Music ゲームサイズMV「Rebellion Star」"
+        "Trickstar: Rebellion Star"
       ],
       "relations": [
-        "https://myanimelist.net/anime/32212",
-        "https://myanimelist.net/anime/40690",
-        "https://myanimelist.net/anime/40691",
-        "https://myanimelist.net/anime/42673",
-        "https://myanimelist.net/anime/48524",
-        "https://myanimelist.net/anime/48529",
-        "https://myanimelist.net/anime/48530",
-        "https://myanimelist.net/anime/48531",
-        "https://myanimelist.net/anime/48538",
-        "https://myanimelist.net/anime/48540",
-        "https://myanimelist.net/anime/48541",
-        "https://myanimelist.net/anime/48552",
-        "https://myanimelist.net/anime/48557",
-        "https://myanimelist.net/anime/48558",
-        "https://myanimelist.net/anime/48560",
-        "https://myanimelist.net/anime/48565",
-        "https://myanimelist.net/anime/48566",
-        "https://myanimelist.net/anime/49122",
-        "https://myanimelist.net/anime/49126",
-        "https://myanimelist.net/anime/49147"
+        "https://myanimelist.net/anime/32212"
       ],
       "tags": [
+        "dancing",
+        "idols (male)",
         "music"
       ],
       "id": "https://myanimelist.net/anime/48519"
@@ -838,8 +868,8 @@
         "season": "SUMMER",
         "year": 2001
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/14/14076.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/14/14076.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/14/14076_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/14/14076.webp",
       "synonyms": [
         "Rocket Girls Pilot Episode",
         "ロケットガール パイロット版"
@@ -872,8 +902,8 @@
         "season": "FALL",
         "year": 2013
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/13/56575.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/13/56575t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1462/132257.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1462/132257t.jpg",
       "synonyms": [
         "Battle Spirits 2",
         "Battle Spirits Saikyou Ginga Ultimate Zero",
@@ -890,8 +920,12 @@
       "relations": [
         "https://anidb.net/anime/11026",
         "https://anidb.net/anime/9743",
-        "https://anilist.co/anime/19877",
+        "https://anilist.co/anime/11017",
+        "https://anilist.co/anime/14913",
         "https://anilist.co/anime/21020",
+        "https://anilist.co/anime/21635",
+        "https://anilist.co/anime/5082",
+        "https://anilist.co/anime/6901",
         "https://anime-planet.com/anime/battle-spirits-brave",
         "https://anime-planet.com/anime/battle-spirits-burning-soul",
         "https://anime-planet.com/anime/battle-spirits-double-drive",
@@ -901,13 +935,6 @@
         "https://anime-planet.com/anime/battle-spirits-sword-eyes",
         "https://anime-planet.com/anime/battle-spirits-sword-eyes-gekitouden",
         "https://anisearch.com/anime/10118",
-        "https://anisearch.com/anime/11166",
-        "https://anisearch.com/anime/14543",
-        "https://anisearch.com/anime/4994",
-        "https://anisearch.com/anime/5556",
-        "https://anisearch.com/anime/6335",
-        "https://anisearch.com/anime/7269",
-        "https://anisearch.com/anime/7964",
         "https://anisearch.com/anime/8589",
         "https://kitsu.io/anime/9092",
         "https://kitsu.io/anime/9804",
@@ -922,8 +949,12 @@
         "https://livechart.me/anime/803",
         "https://livechart.me/anime/8688",
         "https://livechart.me/anime/926",
-        "https://myanimelist.net/anime/19877",
+        "https://myanimelist.net/anime/11017",
+        "https://myanimelist.net/anime/14913",
         "https://myanimelist.net/anime/27737",
+        "https://myanimelist.net/anime/32670",
+        "https://myanimelist.net/anime/5082",
+        "https://myanimelist.net/anime/6901",
         "https://notify.moe/anime/AujYtKimR",
         "https://notify.moe/anime/UJGatKimR"
       ],
@@ -931,48 +962,30 @@
         "action",
         "adventure",
         "alternative world",
+        "amnesia",
         "based on a card game",
         "brain games and gambling",
         "card battle",
         "contemporary fantasy",
         "cute girls doing cute things",
         "fantasy",
-        "game",
+        "gaming – card games",
         "ganbatte",
+        "henshin",
         "idol",
         "kids",
         "monster",
         "present",
+        "proxy battles",
         "school",
         "sci-fi",
+        "science fiction",
         "shounen",
         "space",
-        "sports"
+        "sports",
+        "strategy game"
       ],
       "id": "https://myanimelist.net/anime/19825"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/43254"
-      ],
-      "title": "San Mao Cong Jun Ji 2007(chinese)",
-      "type": "TV",
-      "episodes": 0,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "三毛從軍記2007"
-      ],
-      "relations": [],
-      "tags": [
-        "adventure"
-      ],
-      "id": "https://myanimelist.net/anime/43254"
     },
     {
       "sources": [
@@ -981,6 +994,7 @@
         "https://anime-planet.com/anime/shi-wan-ge-leng-xiaohua-movie-2",
         "https://anisearch.com/anime/13389",
         "https://kitsu.io/anime/41050",
+        "https://kitsu.io/anime/41631",
         "https://myanimelist.net/anime/36619",
         "https://notify.moe/anime/gPWKhKiig"
       ],
@@ -997,9 +1011,10 @@
       "synonyms": [
         "100,000 Bad Jokes 2nd Movie",
         "One Hundred Thousand Bad Jokes 2",
-        "One Hundred Thousand Bad Jokes II",
+        "One Hundred Thousand Bad Jokes Movie 2",
         "One Hundred Thousand Bad Jokes the movie 2",
         "Shi Wan Ge Leng Xiao Hua 2",
+        "Shi Wan Ge Leng Xiao Hua 2 (movie)",
         "Shi Wan Ge Leng Xiaohua 2",
         "Shiwan Ge Leng Xiaohua 2 (Movie)",
         "十万个冷笑话 大电影 2",
@@ -1035,6 +1050,7 @@
       "sources": [
         "https://anilist.co/anime/7108",
         "https://anime-planet.com/anime/corpse-princess-puchitto",
+        "https://anisearch.com/anime/8543",
         "https://kitsu.io/anime/4868",
         "https://livechart.me/anime/6889",
         "https://myanimelist.net/anime/7108",
@@ -1054,6 +1070,8 @@
         "Corpse Princess: Puchitto",
         "Shikabane Hime: Chibi Special",
         "Shikabane Hime: Kuro Omake",
+        "Shikabane-hime: Kuro - Puchitto",
+        "屍姫 玄 ぷちっと",
         "屍姫ぷちっと"
       ],
       "relations": [
@@ -1061,13 +1079,16 @@
         "https://anime-planet.com/anime/corpse-princess-aka",
         "https://anime-planet.com/anime/corpse-princess-kuro",
         "https://anime-planet.com/anime/corpse-princess-kuro-special",
+        "https://anisearch.com/anime/5155",
         "https://kitsu.io/anime/7667",
         "https://myanimelist.net/anime/5034",
         "https://notify.moe/anime/O5UcpFmiR"
       ],
       "tags": [
         "based on a manga",
+        "chibi",
         "comedy",
+        "present",
         "shounen",
         "zombie"
       ],

@@ -59,8 +59,11 @@
         "https://anime-planet.com/anime/heidi-pilot",
         "https://anime-planet.com/anime/hungry-days-aoharu-ka-yo",
         "https://anisearch.com/anime/11195",
+        "https://anisearch.com/anime/12554",
+        "https://anisearch.com/anime/15267",
         "https://anisearch.com/anime/5065",
         "https://anisearch.com/anime/5803",
+        "https://anisearch.com/anime/6113",
         "https://anisearch.com/anime/6486",
         "https://kitsu.io/anime/12475",
         "https://kitsu.io/anime/5226",
@@ -68,6 +71,10 @@
         "https://kitsu.io/anime/5788",
         "https://kitsu.io/anime/5789",
         "https://kitsu.io/anime/6364",
+        "https://livechart.me/anime/6718",
+        "https://livechart.me/anime/6844",
+        "https://livechart.me/anime/7860",
+        "https://livechart.me/anime/9138",
         "https://myanimelist.net/anime/10813",
         "https://myanimelist.net/anime/35770",
         "https://myanimelist.net/anime/42697",
@@ -86,8 +93,10 @@
       "tags": [
         "19th century",
         "adventure",
+        "agriculture",
         "animals",
         "based on a novel",
+        "child protagonists",
         "classic literature",
         "comedy",
         "coming of age",
@@ -125,6 +134,7 @@
       "sources": [
         "https://anilist.co/anime/114426",
         "https://anime-planet.com/anime/arigatou-kumanofu",
+        "https://anisearch.com/anime/8812",
         "https://kitsu.io/anime/9200",
         "https://myanimelist.net/anime/24809",
         "https://notify.moe/anime/VP-atKmiR"
@@ -140,6 +150,8 @@
       "picture": "https://cdn.myanimelist.net/images/anime/8/63757.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/8/63757t.jpg",
       "synonyms": [
+        "Arigatou Kuma no Fu",
+        "Arigatō Kuma no Fu",
         "Thank You Kumanofu",
         "ありがとうくまのふ"
       ],
@@ -242,8 +254,8 @@
         "season": "SUMMER",
         "year": 1984
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/8/30685.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/8/30685t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1822/116720.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1822/116720t.jpg",
       "synonyms": [
         "AWAKE",
         "アオーク"
@@ -257,6 +269,7 @@
         "earth",
         "future",
         "japan",
+        "kaiju",
         "loli",
         "mecha",
         "monster",
@@ -268,7 +281,8 @@
         "science fiction",
         "science-fiction",
         "short episodes",
-        "small breasts"
+        "small breasts",
+        "super robot"
       ],
       "id": "https://myanimelist.net/anime/11087"
     },
@@ -284,39 +298,18 @@
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1131/129370.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1131/129370t.jpg",
       "synonyms": [
+        "Funny School",
         "爆笑校园"
       ],
       "relations": [],
       "tags": [
-        "comedy"
+        "comedy",
+        "kids"
       ],
       "id": "https://myanimelist.net/anime/46873"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/boku-no-lyric-no-bouyomi-asayake-to-nettaigyo"
-      ],
-      "title": "Boku no Lyric no Bouyomi: Asayake to Nettaigyo",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2018
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/boku-no-lyric-no-bouyomi-asayake-to-nettaigyo-1.jpg?t=1625899011",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/boku-no-lyric-no-bouyomi-asayake-to-nettaigyo-1-190x266.jpg?t=1625899011",
-      "synonyms": [],
-      "relations": [
-        "https://anime-planet.com/anime/kokkoku-moment-by-moment"
-      ],
-      "tags": [
-        "abstract"
-      ],
-      "id": "https://anime-planet.com/anime/boku-no-lyric-no-bouyomi-asayake-to-nettaigyo"
     },
     {
       "sources": [
@@ -377,8 +370,8 @@
         "season": "UNDEFINED",
         "year": 2020
       },
-      "picture": "https://anime-planet.com/images/anime/covers/15719.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/15719.jpg",
+      "picture": "https://cdn.anime-planet.com/anime/primary/ele-chan-and-kyouko-no-denki-anzen-gekijou-1.jpg?t=1625908586",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/ele-chan-and-kyouko-no-denki-anzen-gekijou-1-190x266.jpg?t=1625908586",
       "synonyms": [],
       "relations": [],
       "tags": [
@@ -396,7 +389,7 @@
       "title": "Etotama: Eto Tamashii - Kids",
       "type": "TV",
       "episodes": 0,
-      "status": "UPCOMING",
+      "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
         "year": null
@@ -420,62 +413,28 @@
     },
     {
       "sources": [
-        "https://myanimelist.net/anime/49560"
-      ],
-      "title": "Gekijouban Shirobako C96 Gentei Gekijou Maeuriken Kokuchi Eizou",
-      "type": "ONA",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2019
-      },
-      "picture": "https://cdn.myanimelist.net/images/anime/1743/116983.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1743/116983t.jpg",
-      "synonyms": [
-        "劇場版「SHIROBAKO」C96限定 劇場前売り券告知映像"
-      ],
-      "relations": [
-        "https://myanimelist.net/anime/37804"
-      ],
-      "tags": [],
-      "id": "https://myanimelist.net/anime/49560"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/girls-und-panzer-akiyama-yukari-no-sensha-kouza",
-        "https://anisearch.com/anime/8958"
+        "https://anime-planet.com/anime/girls-und-panzer-akiyama-yukari-no-sensha-kouza"
       ],
       "title": "Girls und Panzer: Akiyama Yukari no Sensha Kouza",
       "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "FALL",
+        "season": "UNDEFINED",
         "year": 2014
       },
-      "picture": "https://anime-planet.com/images/anime/covers/7945.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/7945.jpg",
+      "picture": "https://cdn.anime-planet.com/anime/primary/girls-und-panzer-akiyama-yukari-no-sensha-kouza-1.jpg?t=1625897421",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/girls-und-panzer-akiyama-yukari-no-sensha-kouza-1-190x284.jpg?t=1625897421",
       "synonyms": [
-        "Girls und Panzer: Akiyama Yukari no Sensha Kōza",
-        "Girls und Panzer: Akiyama Yukari's Tank Course - Italy Version",
-        "Girls und Panzer: Akiyama Yukaris Tank Corner",
-        "Girls und Panzer: Akiyama Yukaris Tank Course",
-        "The Humble Akiyama Yukari`s Tank Course",
-        "ガールズ&パンツァー 不肖・秋山優花里の戦車講座"
+        "Girls und Panzer: Akiyama Yukari's Tank Course - Italy Version"
       ],
       "relations": [
         "https://anime-planet.com/anime/girls-und-panzer-this-is-the-real-anzio-battle"
       ],
       "tags": [
-        "action",
         "educational",
-        "indefinite",
         "military",
-        "moe",
-        "original work",
-        "present",
-        "school"
+        "original work"
       ],
       "id": "https://anime-planet.com/anime/girls-und-panzer-akiyama-yukari-no-sensha-kouza"
     },
@@ -523,7 +482,6 @@
         "https://anime-planet.com/anime/hanaukyo-maid-team",
         "https://anime-planet.com/anime/hanaukyo-maid-team-la-verite",
         "https://anisearch.com/anime/2252",
-        "https://anisearch.com/anime/2796",
         "https://kitsu.io/anime/370",
         "https://myanimelist.net/anime/403",
         "https://notify.moe/anime/4Jq2cFimg"
@@ -538,7 +496,7 @@
         "female harem",
         "harem",
         "japan",
-        "large breasts - deprecated",
+        "large breasts",
         "maid",
         "maids",
         "manga",
@@ -557,11 +515,36 @@
     },
     {
       "sources": [
-        "https://myanimelist.net/anime/35695"
+        "https://kitsu.io/anime/46824",
+        "https://myanimelist.net/anime/53757"
+      ],
+      "title": "Hello Spot CM",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2012
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1400/131631.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1400/131631t.jpg",
+      "synonyms": [],
+      "relations": [],
+      "tags": [
+        "music"
+      ],
+      "id": "https://myanimelist.net/anime/53757"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/keito-no-yousei-knit-to-wool",
+        "https://kitsu.io/anime/40819",
+        "https://myanimelist.net/anime/35695",
+        "https://notify.moe/anime/JMSd2KiiR"
       ],
       "title": "Keito no Yousei: Knit to Wool",
       "type": "TV",
-      "episodes": 0,
+      "episodes": 4,
       "status": "ONGOING",
       "animeSeason": {
         "season": "SUMMER",
@@ -574,8 +557,14 @@
       ],
       "relations": [],
       "tags": [
+        "animal protagonists",
+        "family friendly",
         "fantasy",
-        "kids"
+        "kids",
+        "non-human protagonists",
+        "short episodes",
+        "slice of life",
+        "stop motion animation"
       ],
       "id": "https://myanimelist.net/anime/35695"
     },
@@ -609,13 +598,10 @@
         "https://anilist.co/anime/274",
         "https://anilist.co/anime/3349",
         "https://anime-planet.com/anime/kiddy-girl-and",
-        "https://anisearch.com/anime/3042",
         "https://anisearch.com/anime/4106",
-        "https://anisearch.com/anime/4184",
-        "https://anisearch.com/anime/4187",
-        "https://anisearch.com/anime/4188",
         "https://kitsu.io/anime/249",
         "https://kitsu.io/anime/2948",
+        "https://livechart.me/anime/4849",
         "https://myanimelist.net/anime/274",
         "https://myanimelist.net/anime/3349",
         "https://notify.moe/anime/6S5h5Fiig",
@@ -639,30 +625,127 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/kobo-chan-aki-ga-ippai"
+        "https://anilist.co/anime/2743",
+        "https://anime-planet.com/anime/mobile-suit-gundam-seed-character-theater",
+        "https://anisearch.com/anime/4801",
+        "https://kitsu.io/anime/2503",
+        "https://livechart.me/anime/6163",
+        "https://myanimelist.net/anime/2743",
+        "https://notify.moe/anime/_Sjy5Fmmg"
+      ],
+      "title": "Kidou Senshi Gundam SEED: SEED Supernova - Tanekyara Gekijou",
+      "type": "SPECIAL",
+      "episodes": 4,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SPRING",
+        "year": 2007
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/3/52119.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/3/52119t.jpg",
+      "synonyms": [
+        "Gundam SEED Character Theater",
+        "Gundam Seed Character Theater",
+        "Gundam Seed Character Theatre Shorts",
+        "Kidou Senshi Gundam SEED: Seed Supernova - Tanekyara Gekijo",
+        "MiniSEED",
+        "Mobile Suit Gundam Mini SEED",
+        "Mobile Suit Gundam Mini Seed",
+        "Mobile Suit Gundam SEED Character Theater",
+        "Mobile Suit Gundam SEED: SEED Supernova - Tanekyara Gekijou",
+        "Mobile Suit Gundam Seed: Seed Supernova - Tanekyara Gekijou",
+        "Seed Supernova",
+        "Tanekyara Gekijou",
+        "Tanekyara Gekijō",
+        "たねきゃら劇場",
+        "機動戦士ガンダムSEED たねきゃら劇場"
+      ],
+      "relations": [
+        "https://anilist.co/anime/93",
+        "https://anime-planet.com/anime/mobile-suit-gundam-seed",
+        "https://anime-planet.com/anime/mobile-suit-gundam-seed-after-phase-in-the-valley-of-stars",
+        "https://anime-planet.com/anime/mobile-suit-gundam-seed-ce73-stargazer",
+        "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny",
+        "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny-final-plus-the-chosen-future",
+        "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny-special-edition-i-the-broken-world",
+        "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny-special-edition-ii-respective-swords",
+        "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny-special-edition-iii-the-hell-fire-of-destiny",
+        "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny-special-edition-iv-the-cost-of-freedom",
+        "https://anime-planet.com/anime/mobile-suit-gundam-seed-movie-i-the-empty-battlefield",
+        "https://anime-planet.com/anime/mobile-suit-gundam-seed-movie-ii-the-far-away-dawn",
+        "https://anime-planet.com/anime/mobile-suit-gundam-seed-movie-iii-the-rumbling-sky",
+        "https://anime-planet.com/anime/mobile-suit-gundam-seed-msv-astray",
+        "https://anisearch.com/anime/1444",
+        "https://anisearch.com/anime/1515",
+        "https://kitsu.io/anime/72",
+        "https://livechart.me/anime/10613",
+        "https://livechart.me/anime/10614",
+        "https://livechart.me/anime/10615",
+        "https://livechart.me/anime/37",
+        "https://livechart.me/anime/3933",
+        "https://livechart.me/anime/5215",
+        "https://livechart.me/anime/5685",
+        "https://livechart.me/anime/5954",
+        "https://livechart.me/anime/6499",
+        "https://livechart.me/anime/6713",
+        "https://livechart.me/anime/7403",
+        "https://myanimelist.net/anime/93",
+        "https://notify.moe/anime/qwhpcKiig"
+      ],
+      "tags": [
+        "chibi",
+        "comedy",
+        "crossdressing",
+        "episodic",
+        "military",
+        "nonsense-comedy",
+        "parody",
+        "science-fiction",
+        "short episodes",
+        "space",
+        "time travel"
+      ],
+      "id": "https://myanimelist.net/anime/2743"
+    },
+    {
+      "sources": [
+        "https://anidb.net/anime/7349",
+        "https://anilist.co/anime/136490",
+        "https://anime-planet.com/anime/kobo-chan-aki-ga-ippai",
+        "https://anisearch.com/anime/6049"
       ],
       "title": "Kobo-chan: Aki ga Ippai",
       "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "SUMMER",
         "year": 1990
       },
       "picture": "https://cdn.anime-planet.com/anime/primary/kobo-chan-aki-ga-ippai-1.jpg?t=1625898774",
       "thumbnail": "https://cdn.anime-planet.com/anime/primary/kobo-chan-aki-ga-ippai-1-190x266.jpg?t=1625898774",
-      "synonyms": [],
+      "synonyms": [
+        "Kobo-chan Special: Aki ga Ippai",
+        "Kobo-chan Special: Aki ga Ippai!!",
+        "コボちゃんスペシャル 秋がいっぱい",
+        "コボちゃんスペシャル 秋がいっぱい！！"
+      ],
       "relations": [
+        "https://anidb.net/anime/7335",
+        "https://anilist.co/anime/148078",
+        "https://anilist.co/anime/19585",
         "https://anime-planet.com/anime/kobo-chan",
         "https://anime-planet.com/anime/kobo-chan-matsuri-ga-ippai",
         "https://anime-planet.com/anime/kobo-chan-yakusoku-no-magic-day",
-        "https://anime-planet.com/anime/kobo-chan-yume-ippai"
+        "https://anime-planet.com/anime/kobo-chan-yume-ippai",
+        "https://anisearch.com/anime/5147"
       ],
       "tags": [
         "based on a 4-koma manga",
         "based on a manga",
         "comedy",
         "family friendly",
+        "family life",
         "slice of life"
       ],
       "id": "https://anime-planet.com/anime/kobo-chan-aki-ga-ippai"
@@ -696,6 +779,7 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/kokoro-no-hanataba",
         "https://kitsu.io/anime/9399",
         "https://myanimelist.net/anime/26293",
         "https://notify.moe/anime/WR5BpKiig"
@@ -715,7 +799,8 @@
       ],
       "relations": [],
       "tags": [
-        "kids"
+        "kids",
+        "shorts"
       ],
       "id": "https://myanimelist.net/anime/26293"
     },
@@ -775,97 +860,6 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/143483"
-      ],
-      "title": "Mao Xian Dong De Shou",
-      "type": "ONA",
-      "episodes": 7,
-      "status": "ONGOING",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2022
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143483-OwtSKNMrxy6Q.png",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143483-OwtSKNMrxy6Q.png",
-      "synonyms": [
-        "猫先动的手！"
-      ],
-      "relations": [],
-      "tags": [
-        "animals",
-        "comedy",
-        "slice of life"
-      ],
-      "id": "https://anilist.co/anime/143483"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/mobile-suit-gundam-seed-character-theater",
-        "https://kitsu.io/anime/2503",
-        "https://livechart.me/anime/6163",
-        "https://myanimelist.net/anime/2743",
-        "https://notify.moe/anime/_Sjy5Fmmg"
-      ],
-      "title": "Mobile Suit Gundam SEED: SEED Supernova - Tanekyara Gekijou",
-      "type": "SPECIAL",
-      "episodes": 4,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2007
-      },
-      "picture": "https://cdn.myanimelist.net/images/anime/3/52119.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/3/52119t.jpg",
-      "synonyms": [
-        "Gundam SEED Character Theater",
-        "Gundam Seed Character Theater",
-        "Mobile Suit Gundam Mini SEED",
-        "Mobile Suit Gundam Mini Seed",
-        "Mobile Suit Gundam SEED Character Theater",
-        "Mobile Suit Gundam Seed: Seed Supernova - Tanekyara Gekijou",
-        "たねきゃら劇場"
-      ],
-      "relations": [
-        "https://anime-planet.com/anime/mobile-suit-gundam-seed",
-        "https://anime-planet.com/anime/mobile-suit-gundam-seed-after-phase-in-the-valley-of-stars",
-        "https://anime-planet.com/anime/mobile-suit-gundam-seed-ce73-stargazer",
-        "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny",
-        "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny-final-plus-the-chosen-future",
-        "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny-special-edition-i-the-broken-world",
-        "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny-special-edition-ii-respective-swords",
-        "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny-special-edition-iii-the-hell-fire-of-destiny",
-        "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny-special-edition-iv-the-cost-of-freedom",
-        "https://anime-planet.com/anime/mobile-suit-gundam-seed-movie-i-the-empty-battlefield",
-        "https://anime-planet.com/anime/mobile-suit-gundam-seed-movie-ii-the-far-away-dawn",
-        "https://anime-planet.com/anime/mobile-suit-gundam-seed-movie-iii-the-rumbling-sky",
-        "https://anime-planet.com/anime/mobile-suit-gundam-seed-msv-astray",
-        "https://kitsu.io/anime/72",
-        "https://livechart.me/anime/10613",
-        "https://livechart.me/anime/10614",
-        "https://livechart.me/anime/10615",
-        "https://livechart.me/anime/37",
-        "https://livechart.me/anime/3933",
-        "https://livechart.me/anime/5215",
-        "https://livechart.me/anime/5685",
-        "https://livechart.me/anime/5954",
-        "https://livechart.me/anime/6499",
-        "https://livechart.me/anime/6713",
-        "https://livechart.me/anime/7403",
-        "https://myanimelist.net/anime/93",
-        "https://notify.moe/anime/qwhpcKiig"
-      ],
-      "tags": [
-        "chibi",
-        "comedy",
-        "crossdressing",
-        "parody",
-        "short episodes",
-        "time travel"
-      ],
-      "id": "https://myanimelist.net/anime/2743"
-    },
-    {
-      "sources": [
         "https://anisearch.com/anime/16271"
       ],
       "title": "Mythteria",
@@ -876,8 +870,8 @@
         "season": "SUMMER",
         "year": 2019
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/16/16271.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/16/16271.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/16/16271_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/16/16271.webp",
       "synonyms": [
         "미스테리야"
       ],
@@ -886,6 +880,29 @@
         "monster"
       ],
       "id": "https://anisearch.com/anime/16271"
+    },
+    {
+      "sources": [
+        "https://myanimelist.net/anime/49560"
+      ],
+      "title": "Shirobako Movie: C96 Gentei Gekijou Maeuriken Kokuchi Eizou",
+      "type": "ONA",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SUMMER",
+        "year": 2019
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1743/116983.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1743/116983t.jpg",
+      "synonyms": [
+        "劇場版「SHIROBAKO」C96限定 劇場前売り券告知映像"
+      ],
+      "relations": [
+        "https://myanimelist.net/anime/37804"
+      ],
+      "tags": [],
+      "id": "https://myanimelist.net/anime/49560"
     },
     {
       "sources": [
@@ -919,6 +936,8 @@
         "Shôjotachi wa kôya wo mezasu",
         "Shōjo-tachi wa Kōya o Mezasu",
         "The girls who aim for the wildlands",
+        "koya",
+        "le ragazze anelano alla landa selvaggia",
         "shokomeza",
         "しょうじょたちはこうやをめざす",
         "しょこめざ",
@@ -1073,6 +1092,7 @@
         "Yes! Pretty Cure 5 Go Go!",
         "Yes! Pretty Cure 5 GoGo!",
         "Yes! プリキュア5 GoGo!",
+        "Yes! 光之美少女5 GoGo!",
         "Yes!プリキュア5 GoGo!",
         "Yes!プリキュア5GoGo!",
         "precure5go"
@@ -1080,6 +1100,7 @@
       "relations": [
         "https://anidb.net/anime/14332",
         "https://anidb.net/anime/15633",
+        "https://anidb.net/anime/17907",
         "https://anidb.net/anime/4901",
         "https://anidb.net/anime/6433",
         "https://anidb.net/anime/6453",
@@ -1087,7 +1108,8 @@
         "https://anilist.co/anime/10736",
         "https://anilist.co/anime/11569",
         "https://anilist.co/anime/121026",
-        "https://anilist.co/anime/142080",
+        "https://anilist.co/anime/159429",
+        "https://anilist.co/anime/162720",
         "https://anilist.co/anime/1932",
         "https://anilist.co/anime/4703",
         "https://anime-planet.com/anime/dokidoki-pretty-cure",
@@ -1098,6 +1120,7 @@
         "https://anime-planet.com/anime/heartcatch-pretty-cure",
         "https://anime-planet.com/anime/hugtto-pretty-cure",
         "https://anime-planet.com/anime/hugtto-pretty-cure-x-futari-wa-pretty-cure-movie-all-stars-memories",
+        "https://anime-planet.com/anime/kibo-no-chikara-otona-precure-23",
         "https://anime-planet.com/anime/kirakira-pretty-cure-a-la-mode",
         "https://anime-planet.com/anime/mahou-tsukai-pretty-cure",
         "https://anime-planet.com/anime/pretty-cure",
@@ -1119,34 +1142,34 @@
         "https://anime-planet.com/anime/tropical-rouge-pretty-cure",
         "https://anime-planet.com/anime/yes-pretty-cure-5",
         "https://anime-planet.com/anime/yes-pretty-cure-5-gogo-movie-okashi-no-kuni-no-happy-birthday",
+        "https://anisearch.com/anime/18273",
         "https://anisearch.com/anime/4007",
         "https://anisearch.com/anime/4915",
-        "https://anisearch.com/anime/5834",
+        "https://anisearch.com/anime/4948",
+        "https://anisearch.com/anime/9252",
         "https://kitsu.io/anime/10034",
         "https://kitsu.io/anime/11688",
         "https://kitsu.io/anime/1739",
         "https://kitsu.io/anime/1742",
+        "https://kitsu.io/anime/47184",
         "https://kitsu.io/anime/5065",
-        "https://kitsu.io/anime/558",
         "https://kitsu.io/anime/5927",
         "https://kitsu.io/anime/6687",
         "https://kitsu.io/anime/7426",
         "https://kitsu.io/anime/8269",
-        "https://livechart.me/anime/5176",
-        "https://livechart.me/anime/5317",
-        "https://livechart.me/anime/5318",
-        "https://livechart.me/anime/5320",
+        "https://livechart.me/anime/11857",
+        "https://livechart.me/anime/1252",
+        "https://livechart.me/anime/1934",
+        "https://livechart.me/anime/325",
         "https://livechart.me/anime/5363",
-        "https://livechart.me/anime/5446",
-        "https://livechart.me/anime/5599",
+        "https://livechart.me/anime/5603",
         "https://livechart.me/anime/5668",
-        "https://livechart.me/anime/5706",
-        "https://livechart.me/anime/5787",
         "https://livechart.me/anime/5818",
-        "https://livechart.me/anime/5851",
+        "https://livechart.me/anime/5839",
         "https://livechart.me/anime/6039",
+        "https://livechart.me/anime/6048",
         "https://livechart.me/anime/6275",
-        "https://livechart.me/anime/6550",
+        "https://livechart.me/anime/905",
         "https://myanimelist.net/anime/12191",
         "https://myanimelist.net/anime/12221",
         "https://myanimelist.net/anime/1534",
@@ -1159,6 +1182,7 @@
         "https://myanimelist.net/anime/34302",
         "https://myanimelist.net/anime/36593",
         "https://myanimelist.net/anime/4703",
+        "https://myanimelist.net/anime/54716",
         "https://myanimelist.net/anime/5684",
         "https://myanimelist.net/anime/5753",
         "https://myanimelist.net/anime/603",
@@ -1196,7 +1220,6 @@
         "fantasy",
         "female protagonist",
         "henshin",
-        "henshin heroes",
         "idol",
         "japan",
         "kemonomimi",
@@ -1219,6 +1242,9 @@
     },
     {
       "sources": [
+        "https://anidb.net/anime/16676",
+        "https://anilist.co/anime/139297",
+        "https://anime-planet.com/anime/yi-shijie-zhongyao-pu-part-ii",
         "https://myanimelist.net/anime/50794"
       ],
       "title": "Yi Shijie Zhongyao Pu 2nd Season",
@@ -1226,46 +1252,38 @@
       "episodes": 60,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "SPRING",
         "year": 2021
       },
       "picture": "https://cdn.myanimelist.net/images/anime/1659/120457.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1659/120457t.jpg",
       "synonyms": [
+        "Different World Medicine Shop 2",
         "Different World Medicine Shop 2nd Season",
+        "The Pharmacy of the Other World 2",
+        "Yi Shijie Zhongyao Pu (2021)",
+        "Yi Shijie Zhongyao Pu 2",
+        "Yi Shijie Zhongyao Pu: Part II",
+        "异世界中药铺 (2021)",
         "异世界中药铺 第二季"
       ],
       "relations": [
+        "https://anidb.net/anime/15645",
+        "https://anilist.co/anime/119929",
+        "https://anime-planet.com/anime/yi-shijie-zhongyao-pu",
         "https://myanimelist.net/anime/42082"
       ],
       "tags": [
+        "based on a manga",
+        "cg animation",
+        "chinese animation",
         "drama",
-        "fantasy"
+        "fantasy",
+        "full cgi",
+        "isekai",
+        "short episodes"
       ],
       "id": "https://myanimelist.net/anime/50794"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/46828"
-      ],
-      "title": "You Er Qingjing Yingyu Ketang",
-      "type": "OVA",
-      "episodes": 44,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "幼儿情景英语课堂"
-      ],
-      "relations": [],
-      "tags": [
-        "kids"
-      ],
-      "id": "https://myanimelist.net/anime/46828"
     },
     {
       "sources": [

@@ -45,6 +45,7 @@
     {
       "sources": [
         "https://anidb.net/anime/11767",
+        "https://anime-planet.com/anime/bakabon-osomatsu-no-curry-wo-tazunete-sansenri",
         "https://anisearch.com/anime/11970",
         "https://kitsu.io/anime/9213",
         "https://livechart.me/anime/9585",
@@ -70,8 +71,17 @@
       "relations": [
         "https://anidb.net/anime/2702",
         "https://anidb.net/anime/5494",
+        "https://anime-planet.com/anime/ganso-tensai-bakabon",
+        "https://anime-planet.com/anime/osomatsu-kun",
+        "https://anisearch.com/anime/3326",
+        "https://anisearch.com/anime/4518",
         "https://kitsu.io/anime/5920",
         "https://kitsu.io/anime/6485",
+        "https://livechart.me/anime/3205",
+        "https://livechart.me/anime/743",
+        "https://livechart.me/anime/9582",
+        "https://livechart.me/anime/9583",
+        "https://livechart.me/anime/9584",
         "https://myanimelist.net/anime/19961",
         "https://myanimelist.net/anime/9883",
         "https://notify.moe/anime/QBFItFmiR",
@@ -84,23 +94,28 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/cosmo-hatsune-creation-myth"
+        "https://anime-planet.com/anime/cosmo-hatsune-creation-myth",
+        "https://kitsu.io/anime/45569"
       ],
       "title": "cosMo: Hatsune Creation Myth",
       "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "SUMMER",
         "year": 2021
       },
       "picture": "https://cdn.anime-planet.com/anime/primary/cosmo-hatsune-creation-myth-1.webp?t=1637808044",
       "thumbnail": "https://cdn.anime-planet.com/anime/primary/cosmo-hatsune-creation-myth-1-285x399.webp?t=1637808044",
       "synonyms": [
-        "cosMo: Hatsune Tenchikaibyaku Shinwa"
+        "Hatsune Creation Myth",
+        "Hatsune Tenchikaibyaku Shinwa",
+        "cosMo: Hatsune Tenchikaibyaku Shinwa",
+        "初音天地開闢神話"
       ],
       "relations": [],
       "tags": [
+        "music",
         "vocaloid"
       ],
       "id": "https://anime-planet.com/anime/cosmo-hatsune-creation-myth"
@@ -241,43 +256,6 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/139622",
-        "https://kitsu.io/anime/45288"
-      ],
-      "title": "He Nu'er De Richang 3rd Season",
-      "type": "ONA",
-      "episodes": 18,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 2018
-      },
-      "picture": "https://media.kitsu.io/anime/45288/poster_image/small-93f53bab733a89e3b313cfa8ee718071.jpeg",
-      "thumbnail": "https://media.kitsu.io/anime/45288/poster_image/tiny-fb169581881aec2d6b9e51e0d2b48e3c.jpeg",
-      "synonyms": [
-        "Daily Life with a Daughter",
-        "Grow Up with My Daughter 3rd Season",
-        "Growing Up With My Daughter 3",
-        "He Nuer de Richang",
-        "He Nü'er De Richang 3rd Season",
-        "He Nü'er De Richang Third Season",
-        "He Nüer de Richang 3",
-        "和女儿的日常 第三季"
-      ],
-      "relations": [
-        "https://anilist.co/anime/121479",
-        "https://kitsu.io/anime/42714"
-      ],
-      "tags": [
-        "comedy",
-        "family",
-        "family life",
-        "slice of life"
-      ],
-      "id": "https://kitsu.io/anime/45288"
-    },
-    {
-      "sources": [
         "https://anime-planet.com/anime/huoli-shaonian-wang-3-xuji",
         "https://kitsu.io/anime/43075",
         "https://myanimelist.net/anime/38535"
@@ -312,67 +290,38 @@
         "chinese animation",
         "family friendly",
         "fantasy",
-        "game",
         "kids",
         "magic",
-        "proxy battles"
+        "proxy battles",
+        "strategy game"
       ],
       "id": "https://myanimelist.net/anime/38535"
     },
     {
       "sources": [
-        "https://kitsu.io/anime/10271",
-        "https://myanimelist.net/anime/29293",
-        "https://notify.moe/anime/EjjypFiig"
+        "https://kitsu.io/anime/46429"
       ],
-      "title": "Isu",
-      "type": "MOVIE",
+      "title": "It Comes Ryuuu And It Goes Kyuuu",
+      "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "WINTER",
-        "year": 1964
+        "season": "SUMMER",
+        "year": 2022
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/12/70441.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/12/70441t.jpg",
+      "picture": "https://media.kitsu.io/anime/46429/poster_image/small-0b793a0c1f6c8eb33a0cabd9d3f60b64.jpeg",
+      "thumbnail": "https://media.kitsu.io/anime/46429/poster_image/tiny-38e1c21c9c059993ca087c9039acf6db.jpeg",
       "synonyms": [
-        "The Chair",
-        "椅子"
-      ],
-      "relations": [],
-      "tags": [
-        "avant garde",
-        "dementia"
-      ],
-      "id": "https://myanimelist.net/anime/29293"
-    },
-    {
-      "sources": [
-        "https://anidb.net/anime/7587"
-      ],
-      "title": "Kimagure Orange Road: Omoi Gakenai Situation",
-      "type": "OVA",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 1991
-      },
-      "picture": "https://cdn.anidb.net/images/main/49209.jpg",
-      "thumbnail": "https://cdn.anidb.net/images/main/49209.jpg-thumb.jpg",
-      "synonyms": [
-        "Kimagure Orange Road OVA 7",
-        "Kimagure Orange Road: An Unexpected Situation",
-        "きまぐれオレンジ★ロード 思いがけないシチュエーション"
+        "りゅーーっときてきゅーーっ"
       ],
       "relations": [
-        "https://anidb.net/anime/153"
+        "https://kitsu.io/anime/45202"
       ],
       "tags": [
-        "manga",
-        "shounen"
+        "idol",
+        "music"
       ],
-      "id": "https://anidb.net/anime/7587"
+      "id": "https://kitsu.io/anime/46429"
     },
     {
       "sources": [
@@ -402,6 +351,7 @@
       ],
       "relations": [],
       "tags": [
+        "cg animation",
         "chinese animation",
         "cultivation",
         "fantasy",
@@ -416,18 +366,20 @@
         "https://kitsu.io/anime/45588",
         "https://myanimelist.net/anime/50480"
       ],
-      "title": "LB Commerce CM",
-      "type": "SPECIAL",
+      "title": "LB Commerce: Omoi yo Todoke!",
+      "type": "ONA",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "WINTER",
-        "year": 2021
+        "season": "SUMMER",
+        "year": 2020
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/1164/119800.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1164/119800t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1335/130379.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1335/130379t.jpg",
       "synonyms": [
+        "LB Commerce CM",
         "LC Commerce CM",
+        "『想いよ届け！』～エルビーコマース～アニメCM",
         "【LB】アニメ制作事例"
       ],
       "relations": [],
@@ -474,58 +426,8 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/maji"
-      ],
-      "title": "Maji!",
-      "type": "OVA",
-      "episodes": 3,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/maji-1.jpg?t=1625908495",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/maji-1-190x266.jpg?t=1625908495",
-      "synonyms": [],
-      "relations": [],
-      "tags": [
-        "based on a manga",
-        "gangs",
-        "shounen",
-        "yakuza"
-      ],
-      "id": "https://anime-planet.com/anime/maji"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/16431"
-      ],
-      "title": "Matasaburou",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2021
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/16/16431.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/16/16431.webp",
-      "synonyms": [
-        "Matasaburō",
-        "Yorushika - Matasaburou",
-        "ヨルシカ - 又三郎",
-        "又三郎"
-      ],
-      "relations": [],
-      "tags": [
-        "indefinite",
-        "independent anime"
-      ],
-      "id": "https://anisearch.com/anime/16431"
-    },
-    {
-      "sources": [
         "https://anilist.co/anime/120519",
+        "https://anime-planet.com/anime/mei-chuxi-de-yinyang-shi-yijia-2nd-season",
         "https://kitsu.io/anime/45061",
         "https://myanimelist.net/anime/42319",
         "https://notify.moe/anime/kB1xFIMMR"
@@ -541,61 +443,39 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1500/108286.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1500/108286t.jpg",
       "synonyms": [
+        "A Useless Onmyoji Family 2",
         "A Useless Onmyouji Family 2",
         "Mei Chu Xi de Yin Yang Shi Yi Jia 2",
         "Mei Chuxi De Yinyangshi Yijia 2",
+        "Mei Chuxi de Yinyang Shi Yijia 2nd Season",
         "The Good-for-nothing Onmyouji Family 2",
         "没出息的阴阳师一家2"
       ],
       "relations": [
         "https://anilist.co/anime/109342",
         "https://anilist.co/anime/139351",
+        "https://anime-planet.com/anime/mei-chuxi-de-yinyang-shi-yijia",
+        "https://anime-planet.com/anime/mei-chuxi-de-yinyang-shi-yijia-3rd-season",
         "https://kitsu.io/anime/43177",
+        "https://kitsu.io/anime/45964",
         "https://myanimelist.net/anime/39678",
+        "https://myanimelist.net/anime/50841",
         "https://notify.moe/anime/MQ5qVKiMR"
       ],
       "tags": [
+        "based on a manga",
+        "chinese animation",
         "comedy",
         "demon",
         "demons",
         "fantasy",
         "historical",
+        "mythology",
+        "short episodes",
         "slice of life",
         "supernatural"
       ],
       "id": "https://myanimelist.net/anime/42319"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/13465"
-      ],
-      "title": "Mei Shi Da Mao Xian 2",
-      "type": "TV",
-      "episodes": 55,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 2015
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/13/13465.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/13/13465.webp",
-      "synonyms": [
-        "Kung Food Season 2",
-        "美食大冒险 2",
-        "美食大冒險第二季"
-      ],
-      "relations": [
-        "https://anisearch.com/anime/10452",
-        "https://anisearch.com/anime/13822"
-      ],
-      "tags": [
-        "action",
-        "action comedy",
-        "adventure",
-        "cg-anime",
-        "comedy"
-      ],
-      "id": "https://anisearch.com/anime/13465"
     },
     {
       "sources": [
@@ -649,6 +529,33 @@
     },
     {
       "sources": [
+        "https://myanimelist.net/anime/55046"
+      ],
+      "title": "Offside (Music)",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2023
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1421/135376.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1421/135376t.jpg",
+      "synonyms": [
+        "OFFSIDE"
+      ],
+      "relations": [
+        "https://myanimelist.net/anime/54540"
+      ],
+      "tags": [
+        "music",
+        "sci-fi",
+        "supernatural"
+      ],
+      "id": "https://myanimelist.net/anime/55046"
+    },
+    {
+      "sources": [
         "https://anidb.net/anime/1768",
         "https://anilist.co/anime/1376",
         "https://anime-planet.com/anime/ojamajo-doremi-naisho",
@@ -677,7 +584,9 @@
         "Ojamajo Doremi Naisho",
         "おじゃまじょどれみないしょ",
         "おジャ魔女どれみ ナ・イ・ショ",
-        "おジャ魔女どれみナ・イ・ショ"
+        "おジャ魔女どれみナ・イ・ショ",
+        "小魔女DoReMi 秘密篇",
+        "小魔女DoReMi 童年秘密篇"
       ],
       "relations": [
         "https://anidb.net/anime/1766",
@@ -690,12 +599,7 @@
         "https://anime-planet.com/anime/ojamajo-doremi-owarai-gekijou",
         "https://anime-planet.com/anime/ojamajo-doremi-sharp",
         "https://anime-planet.com/anime/ojamajo-doremi-sharp-movie",
-        "https://anisearch.com/anime/1106",
-        "https://anisearch.com/anime/2790",
-        "https://anisearch.com/anime/3083",
         "https://anisearch.com/anime/3340",
-        "https://anisearch.com/anime/3496",
-        "https://anisearch.com/anime/892",
         "https://kitsu.io/anime/319",
         "https://livechart.me/anime/5331",
         "https://livechart.me/anime/5450",
@@ -717,20 +621,25 @@
         "drama",
         "earth",
         "elementary school",
+        "episodic",
+        "fairy",
         "family friendly",
+        "family life",
         "fantasy",
+        "female protagonist",
         "henshin",
-        "henshin heroes",
         "idol",
         "japan",
         "magic",
         "magical girl",
         "mahou shoujo",
         "music",
+        "ojou-sama",
         "original work",
         "present",
         "primarily child cast",
         "primarily female cast",
+        "school",
         "school life",
         "shoujo",
         "slice of life",
@@ -743,29 +652,34 @@
     },
     {
       "sources": [
-        "https://myanimelist.net/anime/39982"
+        "https://anisearch.com/anime/17664",
+        "https://myanimelist.net/anime/52733"
       ],
-      "title": "Radiant Historia Perfect Chronology - Opening Animation",
-      "type": "ONA",
-      "episodes": 1,
+      "title": "Pretty x Cation The Animation Specials",
+      "type": "SPECIAL",
+      "episodes": 2,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2017
+        "season": "WINTER",
+        "year": 2016
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/1882/109299.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1882/109299t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1677/126918.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1677/126918t.jpg",
       "synonyms": [
-        "『ラジアントヒストリア パーフェクトクロノロジー』オープニングアニメ"
+        "Pretty x Cation The Animation Tokuten Eizou Shuuroku",
+        "Pretty × Cation The Animation Specials",
+        "Pretty × Cation The Animation Tokuten Eizou Shuuroku",
+        "Pretty × Cation The Animation Tokuten Eizō Shūroku",
+        "Pretty × Cation The Animation 特典映像 収録"
       ],
-      "relations": [],
+      "relations": [
+        "https://anisearch.com/anime/11044",
+        "https://myanimelist.net/anime/32423"
+      ],
       "tags": [
-        "action",
-        "adventure",
-        "game",
-        "shounen"
+        "hentai"
       ],
-      "id": "https://myanimelist.net/anime/39982"
+      "id": "https://myanimelist.net/anime/52733"
     },
     {
       "sources": [
@@ -832,18 +746,7 @@
       ],
       "relations": [
         "https://anime-planet.com/anime/attack-on-titan",
-        "https://anisearch.com/anime/10001",
-        "https://anisearch.com/anime/10082",
-        "https://anisearch.com/anime/12550",
-        "https://anisearch.com/anime/12714",
-        "https://anisearch.com/anime/12951",
-        "https://anisearch.com/anime/13942",
-        "https://anisearch.com/anime/14484",
-        "https://anisearch.com/anime/15289",
-        "https://anisearch.com/anime/16103",
         "https://anisearch.com/anime/8219",
-        "https://anisearch.com/anime/8677",
-        "https://anisearch.com/anime/9587",
         "https://kitsu.io/anime/7442",
         "https://kitsu.io/anime/8672",
         "https://myanimelist.net/anime/16498",
@@ -859,6 +762,7 @@
         "drama",
         "excessive violence",
         "fantasy",
+        "gore",
         "horror",
         "isolated society",
         "middle ages",
@@ -869,12 +773,72 @@
         "recap",
         "shounen",
         "super power",
-        "supernatural drama"
+        "supernatural drama",
+        "survival"
       ],
       "id": "https://myanimelist.net/anime/19285"
     },
     {
       "sources": [
+        "https://anidb.net/anime/17211",
+        "https://anilist.co/anime/145604",
+        "https://anime-planet.com/anime/shinobi-no-ittoki",
+        "https://anisearch.com/anime/17156",
+        "https://kitsu.io/anime/46134",
+        "https://livechart.me/anime/11095",
+        "https://myanimelist.net/anime/51098",
+        "https://notify.moe/anime/FCG_kwfnR"
+      ],
+      "title": "Shinobi no Ittoki",
+      "type": "TV",
+      "episodes": 12,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "FALL",
+        "year": 2022
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1476/125643.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1476/125643t.jpg",
+      "synonyms": [
+        "A Shinobi’s Moment",
+        "Ittoki",
+        "忍の一時",
+        "忍者一时"
+      ],
+      "relations": [],
+      "tags": [
+        "action",
+        "bullying",
+        "coming of age",
+        "conspiracy",
+        "contemporary fantasy",
+        "espionage",
+        "male protagonist",
+        "martial arts",
+        "middle school",
+        "new",
+        "ninja",
+        "original work",
+        "parkour",
+        "present",
+        "primarily adult cast",
+        "primarily teen cast",
+        "prison",
+        "reluctant hero",
+        "revenge",
+        "school",
+        "sci-fi",
+        "stoic heroine",
+        "time skip",
+        "tragedy",
+        "urban",
+        "war"
+      ],
+      "id": "https://myanimelist.net/anime/51098"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/spy-penguin-2013-white-christmas",
         "https://kitsu.io/anime/12970",
         "https://myanimelist.net/anime/33773",
         "https://notify.moe/anime/dtPZ2FmiR"
@@ -890,17 +854,28 @@
       "picture": "https://cdn.myanimelist.net/images/anime/2/81325.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/2/81325t.jpg",
       "synonyms": [
+        "Spy Penguin (2013): White Christmas",
         "Spy Penguin: White Christmas",
         "スパイペンギン ｢ホワイトクリスマス｣"
       ],
       "relations": [
+        "https://anime-planet.com/anime/spy-penguin",
+        "https://anime-planet.com/anime/spy-penguin-2013",
         "https://kitsu.io/anime/13217",
         "https://myanimelist.net/anime/33772",
         "https://notify.moe/anime/FXsMhKiiR"
       ],
       "tags": [
+        "action",
         "adventure",
-        "fantasy"
+        "animal protagonists",
+        "birds",
+        "cg animation",
+        "christmas",
+        "family friendly",
+        "fantasy",
+        "non-human protagonists",
+        "penguins"
       ],
       "id": "https://myanimelist.net/anime/33773"
     },
@@ -935,14 +910,17 @@
         "The Pilot’s Love Song",
         "Toaru Hikūshi e no Koiuta",
         "koiuta",
+        "آهنگ عاشقانه خلبان",
         "とあるひくうしへのこいうた",
         "とある飛空士への恋歌",
-        "献给某飞行员的恋歌"
+        "献给某飞行员的恋歌",
+        "獻給某飛行員的戀歌"
       ],
       "relations": [
         "https://anidb.net/anime/7478",
         "https://anilist.co/anime/9000",
         "https://anime-planet.com/anime/the-princess-and-the-pilot",
+        "https://anisearch.com/anime/6208",
         "https://kitsu.io/anime/5567",
         "https://myanimelist.net/anime/9000",
         "https://notify.moe/anime/VzpWtFmig"
@@ -992,8 +970,8 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/4/24754t.jpg",
       "synonyms": [
         "Visions of Frank",
-        "Visions of Frank: Short Films by Japan's Most Audaciōs Animators",
-        "Visions of Frank: Short Films by Japan`s Most Audacious Animators"
+        "Visions of Frank: Short Films by Japan`s Most Audacious Animators",
+        "Visions of Frank: Short Films by Japan’s Most Audacious Animators"
       ],
       "relations": [],
       "tags": [

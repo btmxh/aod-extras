@@ -19,15 +19,16 @@
         "season": "SUMMER",
         "year": 1995
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/7/12744.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/7/12744t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1288/120666.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1288/120666t.jpg",
       "synonyms": [
-        "3*3 Oczy",
         "3x3 Augen (OVA 2)",
+        "3x3 EYES Seima Densetsu",
         "3x3 Eyes - La légende du démon divin",
         "3x3 Eyes Seima Densetsu",
         "3x3 Eyes: Legend of the Divine Demon",
         "3x3 Occhi - La Leggenda del Demone Divino",
+        "3x3 Oczy (1995)",
         "3x3 Ojos [5-7]",
         "3x3 Ojos: La Inmortalidad es la Peor de las Maldiciones",
         "3x3 Ögon (1995)",
@@ -41,9 +42,11 @@
         "3×3 Occhi",
         "3×3 Ojos (2)",
         "3х3 глаза: Сказание Сэймы",
+        "A Revolta dos Humanos - 3x3 Olhos",
         "Sazan Eyes: Seima Densetsu",
         "Shin 3x3 Eyes",
-        "Shin 3×3 Eyes"
+        "Shin 3×3 Eyes",
+        "三只眼 圣魔传说"
       ],
       "relations": [
         "https://anidb.net/anime/2",
@@ -83,6 +86,28 @@
         "violence"
       ],
       "id": "https://myanimelist.net/anime/1225"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/ai-wei"
+      ],
+      "title": "Ai, Wei",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "UPCOMING",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": null
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/ai-wei-1.webp?t=1653364613",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/ai-wei-1-285x400.webp?t=1653364613",
+      "synonyms": [],
+      "relations": [],
+      "tags": [
+        "chinese animation",
+        "shorts"
+      ],
+      "id": "https://anime-planet.com/anime/ai-wei"
     },
     {
       "sources": [
@@ -176,36 +201,27 @@
         "https://anime-planet.com/anime/the-idolmaster-cinderella-girls-theater-specials",
         "https://anime-planet.com/anime/the-idolmaster-cinderella-girls-theater-web",
         "https://anisearch.com/anime/12399",
+        "https://anisearch.com/anime/12431",
         "https://anisearch.com/anime/12652",
         "https://anisearch.com/anime/12776",
-        "https://anisearch.com/anime/12861",
-        "https://anisearch.com/anime/13287",
-        "https://anisearch.com/anime/13430",
-        "https://anisearch.com/anime/13728",
-        "https://anisearch.com/anime/14008",
-        "https://anisearch.com/anime/14333",
-        "https://anisearch.com/anime/15123",
-        "https://anisearch.com/anime/16288",
+        "https://anisearch.com/anime/9590",
         "https://kitsu.io/anime/13076",
         "https://kitsu.io/anime/13327",
         "https://kitsu.io/anime/13625",
         "https://kitsu.io/anime/13895",
         "https://kitsu.io/anime/8777",
-        "https://livechart.me/anime/1016",
-        "https://livechart.me/anime/1229",
-        "https://livechart.me/anime/1443",
-        "https://livechart.me/anime/170",
-        "https://livechart.me/anime/1935",
         "https://livechart.me/anime/2673",
         "https://livechart.me/anime/2785",
         "https://livechart.me/anime/2786",
-        "https://livechart.me/anime/2836",
-        "https://livechart.me/anime/4369",
-        "https://livechart.me/anime/4914",
-        "https://livechart.me/anime/517",
+        "https://livechart.me/anime/3125",
+        "https://livechart.me/anime/3336",
         "https://livechart.me/anime/5519",
-        "https://livechart.me/anime/6518",
+        "https://livechart.me/anime/6599",
         "https://livechart.me/anime/7910",
+        "https://livechart.me/anime/7963",
+        "https://livechart.me/anime/8376",
+        "https://livechart.me/anime/9798",
+        "https://livechart.me/anime/9995",
         "https://myanimelist.net/anime/23587",
         "https://myanimelist.net/anime/34489",
         "https://myanimelist.net/anime/35346",
@@ -225,6 +241,7 @@
         "game",
         "idol",
         "idols",
+        "idols (female)",
         "music",
         "present",
         "primarily female cast",
@@ -266,31 +283,9 @@
     },
     {
       "sources": [
-        "https://anisearch.com/anime/16856"
-      ],
-      "title": "Gekijouban Otoppe: Papa Don’t Cry",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 2021
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/16/16856.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/16/16856.webp",
-      "synonyms": [
-        "Gekijōban Otoppe: Papa Don’t Cry",
-        "劇場版オトッペ パパ・ドント・クライ"
-      ],
-      "relations": [],
-      "tags": [],
-      "id": "https://anisearch.com/anime/16856"
-    },
-    {
-      "sources": [
         "https://anidb.net/anime/14314",
         "https://anilist.co/anime/103022",
-        "https://anime-planet.com/anime/guomin-laogong-dai-huijia-2nd-season",
+        "https://anime-planet.com/anime/bringing-the-nations-husband-home-2nd-season",
         "https://anisearch.com/anime/12796",
         "https://kitsu.io/anime/41002",
         "https://livechart.me/anime/3490",
@@ -319,6 +314,8 @@
         "Guomin Laogong Dai Huijia Di Er Ji",
         "How to Steal 55 Kisses 2",
         "How to Steal 55 Kisses 2nd Season",
+        "National Husband Bring Home 2nd Season",
+        "National Husband Bring Home SS2",
         "Taking Everybody's Husband Home 2",
         "Taking Everybody's Husband Home 2nd Season",
         "laogongdai2",
@@ -329,9 +326,9 @@
         "https://anidb.net/anime/14315",
         "https://anilist.co/anime/103023",
         "https://anilist.co/anime/99548",
-        "https://anime-planet.com/anime/guomin-laogong-dai-huijia",
-        "https://anime-planet.com/anime/guomin-laogong-dai-huijia-3rd-season",
-        "https://anime-planet.com/anime/guomin-laogong-dai-huijia-4th-season",
+        "https://anime-planet.com/anime/bringing-the-nations-husband-home",
+        "https://anime-planet.com/anime/bringing-the-nations-husband-home-3rd-season",
+        "https://anime-planet.com/anime/bringing-the-nations-husband-home-4th-season",
         "https://anisearch.com/anime/12389",
         "https://anisearch.com/anime/14309",
         "https://kitsu.io/anime/13262",
@@ -375,10 +372,11 @@
         "season": "WINTER",
         "year": 2007
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/1/1852.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1/1852t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1893/133786.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1893/133786t.jpg",
       "synonyms": [
         "Sunshine Sketch",
+        "hidaske",
         "hidasketch",
         "Наброски Хидамари",
         "ひだまりすけっち",
@@ -401,13 +399,6 @@
         "https://anime-planet.com/anime/hidamari-sketch-x-hoshimittsu-specials",
         "https://anime-planet.com/anime/hidamari-sketch-x-sp",
         "https://anisearch.com/anime/4481",
-        "https://anisearch.com/anime/4621",
-        "https://anisearch.com/anime/5551",
-        "https://anisearch.com/anime/6080",
-        "https://anisearch.com/anime/6452",
-        "https://anisearch.com/anime/7295",
-        "https://anisearch.com/anime/7312",
-        "https://anisearch.com/anime/8990",
         "https://kitsu.io/anime/10181",
         "https://kitsu.io/anime/2834",
         "https://kitsu.io/anime/8020",
@@ -428,6 +419,7 @@
         "https://notify.moe/anime/kxmQcKiiR"
       ],
       "tags": [
+        "4-koma",
         "4-koma manga",
         "achronological order",
         "art",
@@ -436,10 +428,12 @@
         "based on a 4-koma manga",
         "based on a manga",
         "boarding house",
+        "cgdct",
         "chibi",
         "comedy",
         "cute girls doing cute things",
         "daily life",
+        "denpa",
         "drawing",
         "earth",
         "episodic",
@@ -458,27 +452,34 @@
         "seinen",
         "slapstick",
         "slice of life",
-        "the arts"
+        "the arts",
+        "visual arts"
       ],
       "id": "https://myanimelist.net/anime/1852"
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/jin-yuukei-yesterday"
+        "https://anime-planet.com/anime/jin-yuukei-yesterday",
+        "https://kitsu.io/anime/13605",
+        "https://notify.moe/anime/wUo42KmmR"
       ],
       "title": "Jin: Yuukei Yesterday",
       "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "SUMMER",
         "year": 2013
       },
-      "picture": "https://anime-planet.com/images/anime/covers/6333.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/6333.jpg",
-      "synonyms": [],
+      "picture": "https://cdn.anime-planet.com/anime/primary/jin-yuukei-yesterday-1.jpg?t=1625896856",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/jin-yuukei-yesterday-1-190x266.jpg?t=1625896856",
+      "synonyms": [
+        "Yuukei Yesterday",
+        "夕景イエスタデイ"
+      ],
       "relations": [],
       "tags": [
+        "music",
         "school life",
         "vocaloid"
       ],
@@ -486,33 +487,30 @@
     },
     {
       "sources": [
-        "https://kitsu.io/anime/12697",
-        "https://notify.moe/anime/lbBi2KmiR"
+        "https://anime-planet.com/anime/kawaii-tanuki-mo-raku-ja-nai"
       ],
-      "title": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo: Washi to Ore!? - Bokura wa Asakusa Shounen Tanteid",
-      "type": "SPECIAL",
-      "episodes": 2,
+      "title": "Kawaii Tanuki mo Raku ja Nai",
+      "type": "ONA",
+      "episodes": 5,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "SPRING",
-        "year": 2008
+        "season": "SUMMER",
+        "year": 2022
       },
-      "picture": "https://media.kitsu.io/anime/poster_images/12697/small.jpg",
-      "thumbnail": "https://media.kitsu.io/anime/poster_images/12697/tiny.jpg",
-      "synonyms": [
-        "Kochikame: Washi to Ore!? - Bokura wa Asakusa Shounen Tanteid",
-        "こちら葛飾区亀有公園前派出所 ワシと俺!?〜ぼくらは浅草少年探偵団!〜"
-      ],
-      "relations": [
-        "https://kitsu.io/anime/3090",
-        "https://notify.moe/anime/KzewcFmmg"
-      ],
+      "picture": "https://cdn.anime-planet.com/anime/primary/kawaii-tanuki-mo-raku-ja-nai-1.webp?t=1662325042",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/kawaii-tanuki-mo-raku-ja-nai-1-192x270.webp?t=1662325042",
+      "synonyms": [],
+      "relations": [],
       "tags": [
+        "animal protagonists",
+        "based on a manga",
         "comedy",
-        "cops",
-        "police"
+        "non-human protagonists",
+        "short episodes",
+        "shoujo",
+        "tanuki"
       ],
-      "id": "https://kitsu.io/anime/12697"
+      "id": "https://anime-planet.com/anime/kawaii-tanuki-mo-raku-ja-nai"
     },
     {
       "sources": [
@@ -540,6 +538,8 @@
         "Duh v školjki",
         "Dvasia Šarvuose",
         "GHOST IN THE SHELL",
+        "GHOST IN THE SHELL / 攻殻機動隊",
+        "GHOST IN THE SHELL: Koukaku Kidoutai",
         "GHOST IN THE SHELL（攻殻機動隊）",
         "Ghost in the Shell",
         "Ghost in the Shell - Aaveääni",
@@ -591,19 +591,10 @@
         "https://anime-planet.com/anime/ghost-in-the-shell-stand-alone-complex-solid-state-society",
         "https://anime-planet.com/anime/ghost-in-the-shell-standalone-complex-the-laughing-man",
         "https://anime-planet.com/anime/ghost-in-the-shell-the-new-movie",
-        "https://anisearch.com/anime/10100",
-        "https://anisearch.com/anime/14020",
-        "https://anisearch.com/anime/15195",
-        "https://anisearch.com/anime/16488",
         "https://anisearch.com/anime/1740",
-        "https://anisearch.com/anime/2569",
         "https://anisearch.com/anime/2753",
-        "https://anisearch.com/anime/3563",
-        "https://anisearch.com/anime/3602",
         "https://anisearch.com/anime/4942",
         "https://anisearch.com/anime/8303",
-        "https://anisearch.com/anime/875",
-        "https://anisearch.com/anime/9293",
         "https://anisearch.com/anime/9848",
         "https://kitsu.io/anime/3732",
         "https://kitsu.io/anime/429",
@@ -637,8 +628,10 @@
       "tags": [
         "action",
         "action drama",
+        "adult cast",
         "artificial intelligence",
         "asia",
+        "award winning",
         "based on a manga",
         "bionic powers",
         "bisexual",
@@ -654,15 +647,17 @@
         "earth",
         "espionage",
         "female protagonist",
+        "future",
+        "gore",
         "guns",
         "hacking",
         "heroine of strong character",
         "human enhancement",
         "japan",
-        "kuudere",
         "law and order",
         "manga",
         "mecha",
+        "mystery",
         "noir",
         "nudity",
         "philosophy",
@@ -678,10 +673,11 @@
         "science fiction",
         "science-fiction",
         "seinen",
-        "special squads",
+        "suspense",
         "thriller",
         "urban",
         "violence",
+        "virtual reality",
         "virtual world"
       ],
       "id": "https://myanimelist.net/anime/43"
@@ -739,6 +735,7 @@
       "sources": [
         "https://anilist.co/anime/17259",
         "https://anime-planet.com/anime/kurokos-basketball-oshaberi-shiyokka",
+        "https://anisearch.com/anime/8760",
         "https://kitsu.io/anime/7620",
         "https://livechart.me/anime/4780",
         "https://myanimelist.net/anime/17259",
@@ -755,6 +752,8 @@
       "picture": "https://cdn.myanimelist.net/images/anime/11/46071.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/11/46071t.jpg",
       "synonyms": [
+        "Kuroko no Baske Fandisc Special",
+        "Kuroko no Baske: Oshaberi Shiyokka",
         "Kuroko no Basket Special",
         "Kuroko's Basketball Special",
         "Kuroko's Basketball: Let's Chat OVA",
@@ -778,19 +777,19 @@
         "https://anime-planet.com/anime/kurokos-basketball-ova",
         "https://anime-planet.com/anime/kurokos-basketball-the-greatest-present",
         "https://anime-planet.com/anime/kurokos-basketball-tip-off",
+        "https://anisearch.com/anime/17598",
+        "https://anisearch.com/anime/7314",
         "https://kitsu.io/anime/10338",
         "https://kitsu.io/anime/6595",
         "https://livechart.me/anime/1118",
         "https://livechart.me/anime/1669",
         "https://livechart.me/anime/169",
-        "https://livechart.me/anime/1837",
         "https://livechart.me/anime/2057",
         "https://livechart.me/anime/2063",
         "https://livechart.me/anime/2064",
         "https://livechart.me/anime/408",
         "https://livechart.me/anime/4427",
         "https://livechart.me/anime/4808",
-        "https://livechart.me/anime/5396",
         "https://livechart.me/anime/5468",
         "https://livechart.me/anime/5596",
         "https://livechart.me/anime/5761",
@@ -806,63 +805,43 @@
         "based on a manga",
         "basketball",
         "comedy",
+        "ganbatte",
+        "present",
         "recap",
         "school",
         "school life",
         "shounen",
         "slice of life",
-        "sports"
+        "sports",
+        "team sports"
       ],
       "id": "https://myanimelist.net/anime/17259"
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/marty-friedman-the-perfect-world"
+        "https://myanimelist.net/anime/52531"
       ],
-      "title": "Marty Friedman: The Perfect World",
+      "title": "MELtin' 17",
       "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2018
+        "season": "WINTER",
+        "year": 2021
       },
-      "picture": "https://anime-planet.com/images/anime/covers/10024.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/10024.jpg",
-      "synonyms": [],
-      "relations": [
-        "https://anime-planet.com/anime/b-the-beginning"
-      ],
-      "tags": [
-        "action",
-        "sci fi"
-      ],
-      "id": "https://anime-planet.com/anime/marty-friedman-the-perfect-world"
-    },
-    {
-      "sources": [
-        "https://livechart.me/anime/1738"
-      ],
-      "title": "Nekokirai no Ie ni Umareta Nekosuki ga Neko to Kurashi E Nikki",
-      "type": "TV",
-      "episodes": 13,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SUMMER",
-        "year": 2015
-      },
-      "picture": "https://u.livechart.me/anime/1738/poster_image/2c0e76dfcd86b4e5d010470f38cc7376.png?style=large&format=jpg",
-      "thumbnail": "https://u.livechart.me/anime/1738/poster_image/2c0e76dfcd86b4e5d010470f38cc7376.png?style=small&format=jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1568/126074.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1568/126074t.jpg",
       "synonyms": [
-        "Picture Diary of a Cat Lover, Who Was Born into a Family of Cat Haters, Living With Cats",
-        "猫嫌いの家に生まれた猫好きが猫と暮らす絵日記"
+        "Irodorimidori"
       ],
-      "relations": [],
+      "relations": [
+        "https://myanimelist.net/anime/52530",
+        "https://myanimelist.net/anime/52532"
+      ],
       "tags": [
-        "comedy",
-        "slice of life"
+        "music"
       ],
-      "id": "https://livechart.me/anime/1738"
+      "id": "https://myanimelist.net/anime/52531"
     },
     {
       "sources": [
@@ -876,10 +855,10 @@
       ],
       "title": "Ooya-san to Boku",
       "type": "TV",
-      "episodes": 10,
+      "episodes": 5,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "SPRING",
+        "season": "WINTER",
         "year": 2020
       },
       "picture": "https://cdn.myanimelist.net/images/anime/1588/106204.jpg",
@@ -890,10 +869,16 @@
         "大家さんと僕"
       ],
       "relations": [
-        "https://anidb.net/anime/13771"
+        "https://anidb.net/anime/13771",
+        "https://anilist.co/anime/149039",
+        "https://anime-planet.com/anime/udon-to-hotaru",
+        "https://anisearch.com/anime/13362",
+        "https://kitsu.io/anime/46767",
+        "https://myanimelist.net/anime/53651"
       ],
       "tags": [
         "apartment life",
+        "autobiographical",
         "based on a manga",
         "biographies",
         "landlords",
@@ -933,74 +918,110 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/out-of-service-osaka-underground"
+        "https://anime-planet.com/anime/out-of-service-osaka-underground",
+        "https://kitsu.io/anime/42506"
       ],
       "title": "out of service: Osaka Underground",
       "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "FALL",
         "year": 2014
       },
       "picture": "https://cdn.anime-planet.com/anime/primary/out-of-service-osaka-underground-1.jpg?t=1625898752",
       "thumbnail": "https://cdn.anime-planet.com/anime/primary/out-of-service-osaka-underground-1-190x266.jpg?t=1625898752",
-      "synonyms": [],
+      "synonyms": [
+        "Osaka Underground",
+        "大阪アンダーグラウンド"
+      ],
       "relations": [],
       "tags": [
+        "music",
         "vocaloid"
       ],
       "id": "https://anime-planet.com/anime/out-of-service-osaka-underground"
     },
     {
       "sources": [
-        "https://anisearch.com/anime/9664"
+        "https://myanimelist.net/anime/54082"
       ],
-      "title": "Qin Shi Mingyue 3D: Dian Ying Long Teng Wan Li",
+      "title": "Peter Pan to Hoshi no Kuni e Ikou!",
       "type": "MOVIE",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "SUMMER",
-        "year": 2014
+        "season": "FALL",
+        "year": 2004
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/9/9664.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/9/9664.webp",
+      "picture": "https://cdn.myanimelist.net/images/anime/1166/132355.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1166/132355t.jpg",
       "synonyms": [
-        "Qin Shi Ming Yue 3D: Dianying Long Teng Wanli",
-        "Qin's Moon: Soaring Dragon",
-        "The Legend of Qin",
-        "秦时明月3D电影龙腾万里"
+        "Star Fantasia: Peter Pan to Neverland e Ikou!",
+        "スターファンタジア ピーターパンとネバーランドへ行こう！",
+        "ピーターパンとほしのくにへいこう！"
       ],
-      "relations": [],
+      "relations": [
+        "https://myanimelist.net/anime/54092",
+        "https://myanimelist.net/anime/54093"
+      ],
       "tags": [
-        "action",
-        "fantasy",
-        "historical",
-        "martial arts"
+        "adventure",
+        "kids",
+        "sci-fi",
+        "space"
       ],
-      "id": "https://anisearch.com/anime/9664"
+      "id": "https://myanimelist.net/anime/54082"
     },
     {
       "sources": [
+        "https://anidb.net/anime/16694",
+        "https://anilist.co/anime/115903",
+        "https://anime-planet.com/anime/ruguo-lishi-shi-yiqun-miao-2",
         "https://myanimelist.net/anime/47621"
       ],
-      "title": "Ruguo Lishi Shi Yiqun Miao season2",
+      "title": "Ruguo Lishi Shi Yiqun Miao 2nd Season",
       "type": "ONA",
       "episodes": 13,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
+        "season": "WINTER",
+        "year": 2019
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1250/121171.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1250/121171t.jpg",
       "synonyms": [
-        "如果历史是一群喵 第2季"
+        "History Cats 2nd Season",
+        "Ruguo Lishi Shi Yi Qun Miao (2)",
+        "Ruguo Lishi Shi Yi Qun Miao 2",
+        "Ruguo Lishi Shi Yiqun Miao 2",
+        "When History Meows 2",
+        "如果历史是一群喵 (2)",
+        "如果历史是一群喵 春秋战国篇",
+        "如果历史是一群喵 第二季"
       ],
-      "relations": [],
+      "relations": [
+        "https://anidb.net/anime/16693",
+        "https://anidb.net/anime/16695",
+        "https://anilist.co/anime/115902",
+        "https://anilist.co/anime/115904",
+        "https://anime-planet.com/anime/ruguo-lishi-shi-yiqun-miao",
+        "https://anime-planet.com/anime/ruguo-lishi-shi-yiqun-miao-3",
+        "https://myanimelist.net/anime/47620",
+        "https://myanimelist.net/anime/47627"
+      ],
       "tags": [
-        "historical"
+        "animal protagonists",
+        "animals",
+        "anthropomorphic",
+        "based on a webtoon",
+        "cats",
+        "chinese animation",
+        "comedy",
+        "historical",
+        "kids",
+        "non-human protagonists",
+        "short episodes"
       ],
       "id": "https://myanimelist.net/anime/47621"
     },
@@ -1048,25 +1069,6 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/112021"
-      ],
-      "title": "San Kyuu",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2012
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112021-hxvinidqurAz.png",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112021-hxvinidqurAz.png",
-      "synonyms": [],
-      "relations": [],
-      "tags": [],
-      "id": "https://anilist.co/anime/112021"
-    },
-    {
-      "sources": [
         "https://anidb.net/anime/2823",
         "https://anilist.co/anime/3877",
         "https://anime-planet.com/anime/sasurai-no-shoujo-nell",
@@ -1101,6 +1103,7 @@
       "tags": [
         "adventure",
         "based on a novel",
+        "classic literature",
         "drama",
         "england",
         "europe",
@@ -1112,6 +1115,7 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/imarine-project-stand-up-blaze-up",
         "https://anisearch.com/anime/15018",
         "https://myanimelist.net/anime/42005"
       ],
@@ -1128,11 +1132,14 @@
       "synonyms": [
         "Stand up! Blaze up!",
         "iMarine Project",
+        "iMarine Project: Stand up! Blaze up!",
         "新章アイマリンプロジェクト第1弾"
       ],
       "relations": [],
       "tags": [
+        "cg animation",
         "cg-anime",
+        "idols",
         "indefinite",
         "music"
       ],
@@ -1140,32 +1147,9 @@
     },
     {
       "sources": [
-        "https://kitsu.io/anime/13607",
-        "https://notify.moe/anime/eR0V2FimR"
-      ],
-      "title": "Summertime Record",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 2013
-      },
-      "picture": "https://media.kitsu.io/anime/poster_images/13607/small.jpg",
-      "thumbnail": "https://media.kitsu.io/anime/poster_images/13607/tiny.jpg",
-      "synonyms": [
-        "Jin: Summertime Record"
-      ],
-      "relations": [],
-      "tags": [
-        "music"
-      ],
-      "id": "https://kitsu.io/anime/13607"
-    },
-    {
-      "sources": [
         "https://anilist.co/anime/8022",
         "https://anime-planet.com/anime/letter-bee-academy",
+        "https://anisearch.com/anime/9567",
         "https://kitsu.io/anime/5173",
         "https://livechart.me/anime/8462",
         "https://myanimelist.net/anime/8022",
@@ -1185,8 +1169,10 @@
         "Letter Bee",
         "Letter Bee Academy",
         "Letter Bee Specials",
+        "Tegami Bachi Academy",
         "Tegami Bachi Gakuen",
         "Tegami Bachi Specials",
+        "テガミバチ Academy",
         "テガミバチ学園"
       ],
       "relations": [
@@ -1195,6 +1181,7 @@
         "https://anime-planet.com/anime/tegami-bachi-letter-bee-light-and-blue-night-fantasy",
         "https://anime-planet.com/anime/tegami-bachi-letter-bee-reverse",
         "https://anime-planet.com/anime/tegami-bachi-letter-bee-reverse-specials",
+        "https://anisearch.com/anime/5439",
         "https://kitsu.io/anime/4564",
         "https://livechart.me/anime/3956",
         "https://livechart.me/anime/4656",
@@ -1205,9 +1192,15 @@
       ],
       "tags": [
         "based on a manga",
+        "chibi",
         "comedy",
+        "epic fantasy",
+        "episodic",
+        "fantasy",
+        "nonsense-comedy",
         "school",
-        "shounen"
+        "shounen",
+        "slapstick"
       ],
       "id": "https://myanimelist.net/anime/8022"
     },
@@ -1243,32 +1236,6 @@
     },
     {
       "sources": [
-        "https://anisearch.com/anime/10574"
-      ],
-      "title": "Toaru Majutsu no Index 10 Shuunen Kinen PV",
-      "type": "ONA",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SUMMER",
-        "year": 2014
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/10/10574.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/10/10574.webp",
-      "synonyms": [
-        "Toaru Majutsu no Index 10 Shūnen Kinen PV",
-        "Toaru Majutsu no Index 10th Anniversary PV",
-        "とある魔術の禁書目録 10周年記念 PV"
-      ],
-      "relations": [],
-      "tags": [
-        "action",
-        "comedy"
-      ],
-      "id": "https://anisearch.com/anime/10574"
-    },
-    {
-      "sources": [
         "https://anidb.net/anime/2120",
         "https://anilist.co/anime/1002",
         "https://anime-planet.com/anime/gunbuster-2",
@@ -1299,7 +1266,6 @@
         "Punta al Top 2! Diebuster",
         "Punta al top 2! Diebuster",
         "Top o Nerae 2!",
-        "Top o Nerae 2! Diebuster",
         "Top o Nerae! 2",
         "Top wo Nerae 2! DIEBUSTER",
         "Top wo Nerae! 2",
@@ -1308,6 +1274,7 @@
         "Дайбастер: дотянись до неба - 2!",
         "Дотянись до неба 2",
         "กันบัสเตอร์ 2: ไดบัสเตอร์",
+        "トップをねらえ2!",
         "トップをねらえ2! DIEBUSTER",
         "トップをねらえ2！",
         "トップをねらえ2！DIEBUSTER",
@@ -1324,15 +1291,15 @@
         "https://anime-planet.com/anime/gunbuster",
         "https://anime-planet.com/anime/gunbuster-2-movie",
         "https://anime-planet.com/anime/gunbuster-2-science-lessons",
+        "https://anime-planet.com/anime/gunbuster-3",
         "https://anime-planet.com/anime/gunbuster-movie",
         "https://anime-planet.com/anime/gunbuster-renewal-ex",
         "https://anime-planet.com/anime/gunbuster-science-lessons",
         "https://anime-planet.com/anime/gunbuster-science-lessons-return",
-        "https://anime-planet.com/anime/top-wo-nerae-3",
         "https://anisearch.com/anime/13870",
         "https://anisearch.com/anime/3201",
         "https://anisearch.com/anime/3916",
-        "https://anisearch.com/anime/4025",
+        "https://anisearch.com/anime/8961",
         "https://kitsu.io/anime/1721",
         "https://kitsu.io/anime/42716",
         "https://kitsu.io/anime/841",
@@ -1358,6 +1325,7 @@
         "aliens",
         "android",
         "androids",
+        "award winning",
         "cgi",
         "comedy",
         "coming of age",
@@ -1366,7 +1334,9 @@
         "ecchi",
         "female protagonist",
         "future",
+        "henshin",
         "kaiju",
+        "lgbtq+ themes",
         "mecha",
         "military",
         "monster",
@@ -1375,6 +1345,7 @@
         "original work",
         "outer space",
         "piloted robot",
+        "plot continuity",
         "robots",
         "robots & androids",
         "sci fi",
@@ -1383,13 +1354,11 @@
         "science-fiction",
         "shipboard",
         "space",
-        "space battles",
         "space opera",
         "super robot",
         "super robots",
         "supernatural",
-        "tragedy",
-        "war"
+        "tragedy"
       ],
       "id": "https://myanimelist.net/anime/1002"
     },
@@ -1429,9 +1398,11 @@
         "coming of age",
         "daily life",
         "drama",
+        "drawing",
         "foreign",
         "love triangle",
         "manhua",
+        "primarily teen cast",
         "romance",
         "school",
         "school life",

@@ -12,51 +12,38 @@
         "season": "UNDEFINED",
         "year": 2016
       },
-      "picture": "https://anime-planet.com/images/anime/covers/16552.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/16552.jpg",
+      "picture": "https://cdn.anime-planet.com/anime/primary/knowname-harvest-1.jpg?t=1625908874",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/knowname-harvest-1-190x266.jpg?t=1625908874",
       "synonyms": [],
       "relations": [
         "https://anime-planet.com/anime/grimgar-of-fantasy-and-ash"
       ],
-      "tags": [],
+      "tags": [
+        "fantasy"
+      ],
       "id": "https://anime-planet.com/anime/knowname-harvest"
     },
     {
       "sources": [
-        "https://anilist.co/anime/145210",
-        "https://myanimelist.net/anime/51083"
+        "https://anilist.co/anime/151661"
       ],
-      "title": "Douluo Dalu: Feng Qi Tang Men",
-      "type": "ONA",
-      "episodes": 13,
-      "status": "ONGOING",
+      "title": "Dakishimetai Hodo Utsukushii Hibi ni",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
       "animeSeason": {
-        "season": "WINTER",
+        "season": "UNDEFINED",
         "year": 2022
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/1224/121040.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1224/121040t.jpg",
+      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151661-0JfkR7FbMvKU.png",
+      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151661-0JfkR7FbMvKU.png",
       "synonyms": [
-        "Douluo Dalu 12th Season",
-        "Douluo Dalu Part 12",
-        "Soul Land Part 12",
-        "斗罗大陆 第十二部分",
-        "斗罗大陆 风起唐门"
+        "Beautiful Day",
+        "抱きしめたいほど美しい日々に"
       ],
-      "relations": [
-        "https://anilist.co/anime/141802",
-        "https://myanimelist.net/anime/50364"
-      ],
-      "tags": [
-        "action",
-        "adventure",
-        "fantasy",
-        "full cgi",
-        "historical",
-        "martial arts",
-        "romance"
-      ],
-      "id": "https://myanimelist.net/anime/51083"
+      "relations": [],
+      "tags": [],
+      "id": "https://anilist.co/anime/151661"
     },
     {
       "sources": [
@@ -93,6 +80,7 @@
       "relations": [
         "https://anilist.co/anime/98144",
         "https://anime-planet.com/anime/mahoujin-guru-guru-2017",
+        "https://anisearch.com/anime/12398",
         "https://kitsu.io/anime/13402",
         "https://livechart.me/anime/2508",
         "https://livechart.me/anime/4870",
@@ -110,6 +98,7 @@
         "short episodes",
         "shounen",
         "slice of life",
+        "super deformed",
         "super power"
       ],
       "id": "https://myanimelist.net/anime/35909"
@@ -140,7 +129,10 @@
         "Horizon feat. Hatsune Miku",
         "八王子P - HORIZON feat. 初音ミク"
       ],
-      "relations": [],
+      "relations": [
+        "https://anisearch.com/anime/11774",
+        "https://anisearch.com/anime/11834"
+      ],
       "tags": [
         "music",
         "vocaloid"
@@ -169,6 +161,8 @@
       "picture": "https://cdn.myanimelist.net/images/anime/9/10521.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/9/10521t.jpg",
       "synonyms": [
+        "ID s4",
+        "ID4S",
         "ID4th",
         "Initial D - 4eme étape",
         "Initial D 4th Stage",
@@ -176,6 +170,7 @@
         "Initial D 4ème-Etape",
         "Initial D FOURTH STAGE",
         "Initial D: 4e Étape",
+        "Initial D: 4th Stage",
         "Initial D: Cuarta Temporada",
         "Initial D: Fourth Stage",
         "Initial D: Supera el Límite de Velocidad Temporada 4",
@@ -209,17 +204,9 @@
         "https://anime-planet.com/anime/initial-d-third-stage",
         "https://anisearch.com/anime/11448",
         "https://anisearch.com/anime/1399",
-        "https://anisearch.com/anime/1636",
-        "https://anisearch.com/anime/16539",
-        "https://anisearch.com/anime/3277",
         "https://anisearch.com/anime/4225",
-        "https://anisearch.com/anime/5049",
         "https://anisearch.com/anime/5050",
         "https://anisearch.com/anime/7988",
-        "https://anisearch.com/anime/806",
-        "https://anisearch.com/anime/9093",
-        "https://anisearch.com/anime/9494",
-        "https://anisearch.com/anime/986",
         "https://kitsu.io/anime/164",
         "https://kitsu.io/anime/3358",
         "https://kitsu.io/anime/3999",
@@ -283,9 +270,10 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/kaitei-koku-no-koutsuu-anzen",
         "https://myanimelist.net/anime/39405"
       ],
-      "title": "Kaitei-koku no Koutsu Anzen",
+      "title": "Kaitei-koku no Koutsuu Anzen",
       "type": "OVA",
       "episodes": 1,
       "status": "FINISHED",
@@ -300,6 +288,7 @@
       ],
       "relations": [],
       "tags": [
+        "educational",
         "fantasy",
         "kids"
       ],
@@ -316,7 +305,7 @@
         "https://myanimelist.net/anime/40716",
         "https://notify.moe/anime/EuV32AUWg"
       ],
-      "title": "Kakushigoto (TV)",
+      "title": "Kakushigoto",
       "type": "TV",
       "episodes": 12,
       "status": "FINISHED",
@@ -324,13 +313,15 @@
         "season": "SPRING",
         "year": 2020
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/1046/114345.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1046/114345t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1048/128385.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1048/128385t.jpg",
       "synonyms": [
         "Hidden Things",
-        "Kakushigoto",
+        "Kakushigoto (TV)",
+        "Kakushigoto: My Dad's Secret Ambition",
         "Скрытые вещи",
         "Тайная работа Какуси Гото",
+        "ความลับของคุณพ่อเลี้ยงเดี่ยว",
         "かくしごと",
         "隐瞒之事",
         "隱瞞之事"
@@ -343,6 +334,7 @@
         "https://anime-planet.com/anime/kakushigoto-movie-himegoto-wa-nandesuka",
         "https://anime-planet.com/anime/kakushigoto-pv",
         "https://anime-planet.com/anime/kakushigoto-recap",
+        "https://anisearch.com/anime/11712",
         "https://anisearch.com/anime/16045",
         "https://kitsu.io/anime/12978",
         "https://kitsu.io/anime/43810",
@@ -350,28 +342,36 @@
         "https://livechart.me/anime/10264",
         "https://myanimelist.net/anime/33455",
         "https://myanimelist.net/anime/44586",
+        "https://myanimelist.net/anime/52931",
         "https://notify.moe/anime/1zL810JMR",
         "https://notify.moe/anime/ubyWhFmiR"
       ],
       "tags": [
         "achronological order",
         "amnesia",
+        "angst",
         "based on a manga",
         "childcare",
         "comedy",
+        "coming of age",
         "drama",
         "drawing",
-        "episodic",
         "family",
         "family life",
+        "female protagonist",
+        "gag humor",
+        "male protagonist",
         "manga",
         "manga & doujinshi",
         "manga industry",
         "meta",
+        "otaku culture",
         "present",
+        "primarily adult cast",
         "satire",
         "shounen",
         "single parent",
+        "slapstick",
         "slice of life",
         "the arts",
         "time skip",
@@ -381,28 +381,6 @@
         "working life"
       ],
       "id": "https://myanimelist.net/anime/40716"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/kenshi-yonezu-suna-no-wakusei"
-      ],
-      "title": "Kenshi Yonezu: Suna no Wakusei",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2017
-      },
-      "picture": "https://www.anime-planet.com/images/anime/screenshots/kenshi-yonezu-suna-no-wakusei-9917-1.jpg",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/kenshi-yonezu-suna-no-wakusei-1-190x285.jpg?t=1625898122",
-      "synonyms": [],
-      "relations": [],
-      "tags": [
-        "desert",
-        "vocaloid"
-      ],
-      "id": "https://anime-planet.com/anime/kenshi-yonezu-suna-no-wakusei"
     },
     {
       "sources": [
@@ -435,7 +413,8 @@
         "こいするてんしあんじぇりーくかがやきのあす",
         "恋する天使アンジェリーク ~かがやきの明日~",
         "恋する天使アンジェリーク ～かがやきの明日～",
-        "恋之天使安琪莉可 - 闪光的明天"
+        "恋之天使安琪莉可 - 闪光的明天",
+        "恋爱天使 安琪莉可 闪耀的明日"
       ],
       "relations": [
         "https://anidb.net/anime/4197",
@@ -450,6 +429,12 @@
         "https://kitsu.io/anime/1418",
         "https://kitsu.io/anime/4943",
         "https://kitsu.io/anime/5229",
+        "https://livechart.me/anime/5326",
+        "https://livechart.me/anime/6020",
+        "https://livechart.me/anime/8418",
+        "https://livechart.me/anime/8477",
+        "https://livechart.me/anime/8479",
+        "https://livechart.me/anime/8480",
         "https://myanimelist.net/anime/1578",
         "https://myanimelist.net/anime/7333",
         "https://myanimelist.net/anime/8180",
@@ -542,7 +527,7 @@
         "season": "UNDEFINED",
         "year": 2004
       },
-      "picture": "https://cdn.anime-planet.com/anime/primary/love-jeans-1.jpg?t=1625791965",
+      "picture": "https://cdn.anime-planet.com/anime/primary/love-jeans-1.jpg?t=1625908876",
       "thumbnail": "https://cdn.anime-planet.com/anime/primary/love-jeans-1-190x266.jpg?t=1625908876",
       "synonyms": [
         "SMAnime: LOVE Jeans?"
@@ -590,57 +575,6 @@
     },
     {
       "sources": [
-        "https://anidb.net/anime/16492"
-      ],
-      "title": "Moshi Juexing: Suyuan",
-      "type": "ONA",
-      "episodes": 13,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 2020
-      },
-      "picture": "https://cdn.anidb.net/images/main/263706.jpg",
-      "thumbnail": "https://cdn.anidb.net/images/main/263706.jpg-thumb.jpg",
-      "synonyms": [
-        "Awakening 3",
-        "Awakening Ⅲ",
-        "末世觉醒之溯源"
-      ],
-      "relations": [
-        "https://anidb.net/anime/14375",
-        "https://anidb.net/anime/16517"
-      ],
-      "tags": [],
-      "id": "https://anidb.net/anime/16492"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/46017"
-      ],
-      "title": "Nan Nan Mao He Jing Jing Shu Zhi Zhengyi Xianfeng",
-      "type": "TV",
-      "episodes": 14,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "南南猫和京京鼠之正义先锋"
-      ],
-      "relations": [
-        "https://myanimelist.net/anime/46006"
-      ],
-      "tags": [
-        "kids"
-      ],
-      "id": "https://myanimelist.net/anime/46017"
-    },
-    {
-      "sources": [
         "https://anime-planet.com/anime/neko-to-mata-2020"
       ],
       "title": "Neko to Mata (2020)",
@@ -671,32 +605,43 @@
     },
     {
       "sources": [
-        "https://anisearch.com/anime/14742"
+        "https://anime-planet.com/anime/great-march-of-pokemon",
+        "https://kitsu.io/anime/46759",
+        "https://myanimelist.net/anime/51865"
       ],
-      "title": "Relife: Kanketsu-hen - Shagaihi Relife Kenkyuusho Support-ka",
-      "type": "SPECIAL",
-      "episodes": 2,
+      "title": "Pokemon Dai Koushin!",
+      "type": "ONA",
+      "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
         "season": "WINTER",
-        "year": 2018
+        "year": 2019
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/14/14742.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/14/14742.webp",
+      "picture": "https://cdn.myanimelist.net/images/anime/1724/123922.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1724/123922t.jpg",
       "synonyms": [
-        "ReLIFE Kanketsu-hen Special Smartphone Anime",
-        "ReLIFE 完結編 社外秘 リライフ研究所 サポート課",
-        "ReLIFE: Confidential Relife Institute Support Department",
-        "ReLIFE: Final Arc - Internal Secret Files",
-        "Relife: Kanketsu-hen - Shagaihi Relife Kenkyūsho Support-ka"
+        "Great March of Pokemon",
+        "Great March of Pokémon",
+        "Pokemon Fun Video",
+        "Pokémon Kids TV: Great March of Pokémon",
+        "ポケモンだいこうしん!"
       ],
-      "relations": [],
+      "relations": [
+        "https://kitsu.io/anime/486",
+        "https://myanimelist.net/anime/527"
+      ],
       "tags": [
-        "comedy",
-        "present",
-        "slice of life"
+        "based on a video game",
+        "family friendly",
+        "fantasy",
+        "kids",
+        "monsters",
+        "music",
+        "no dialogue",
+        "non-human protagonists",
+        "shorts"
       ],
-      "id": "https://anisearch.com/anime/14742"
+      "id": "https://myanimelist.net/anime/51865"
     },
     {
       "sources": [
@@ -730,9 +675,11 @@
         "Shokugeki no Soma",
         "Shokugeki no Sōma",
         "Voedselgevecht!",
+        "Кулинарные поединки",
         "Повар-боец Сома",
         "حروب الطعام",
         "لا سلام على طعام",
+        "ยอดนักปรุงโซมะ",
         "しょくげきのそーま",
         "食戟のソーマ",
         "食戟之灵"
@@ -753,12 +700,6 @@
         "https://anime-planet.com/anime/food-wars-toutsuki-juukketsu",
         "https://anisearch.com/anime/10898",
         "https://anisearch.com/anime/10982",
-        "https://anisearch.com/anime/12563",
-        "https://anisearch.com/anime/12891",
-        "https://anisearch.com/anime/13111",
-        "https://anisearch.com/anime/13120",
-        "https://anisearch.com/anime/14440",
-        "https://anisearch.com/anime/15006",
         "https://kitsu.io/anime/11353",
         "https://kitsu.io/anime/11612",
         "https://livechart.me/anime/1735",
@@ -784,6 +725,7 @@
         "drama",
         "ecchi",
         "educational",
+        "female harem",
         "food",
         "food and beverage",
         "food preparation",
@@ -815,6 +757,38 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/shounen-sunday-cm-h2",
+        "https://kitsu.io/anime/46354",
+        "https://myanimelist.net/anime/52618"
+      ],
+      "title": "Shounen Sunday CM: H2",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SPRING",
+        "year": 1996
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1728/126600.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1728/126600t.jpg",
+      "synonyms": [
+        "CM　小学館　少年サンデー　「H2（エイチ・ツー）」編"
+      ],
+      "relations": [
+        "https://anime-planet.com/anime/h2"
+      ],
+      "tags": [
+        "baseball",
+        "based on a manga",
+        "commercials",
+        "promotional",
+        "shounen",
+        "sports"
+      ],
+      "id": "https://myanimelist.net/anime/52618"
+    },
+    {
+      "sources": [
         "https://anidb.net/anime/695",
         "https://anilist.co/anime/1764",
         "https://anime-planet.com/anime/slam-dunk-movie-1",
@@ -837,8 +811,10 @@
       "synonyms": [
         "SDM1",
         "SLAM DUNK (1994)",
+        "SLAM DUNK (Movie)",
         "Slam Dunk (1994)",
         "Slam Dunk Movie 1",
+        "สแลมดังก์ เดอะ มูฟวี่ อดีตรัก คู่ปรับเก่า และบาสเกตบอล",
         "スラムダンク",
         "スラムダンク (1994)",
         "スラムダンク （1994）"
@@ -851,9 +827,6 @@
         "https://anime-planet.com/anime/slam-dunk-movie-3",
         "https://anime-planet.com/anime/slam-dunk-movie-4",
         "https://anisearch.com/anime/1808",
-        "https://anisearch.com/anime/2407",
-        "https://anisearch.com/anime/2942",
-        "https://anisearch.com/anime/3384",
         "https://kitsu.io/anime/148",
         "https://livechart.me/anime/10318",
         "https://livechart.me/anime/3848",
@@ -877,40 +850,16 @@
         "school life",
         "shounen",
         "slice of life",
-        "sports"
+        "sports",
+        "team sports"
       ],
       "id": "https://myanimelist.net/anime/1764"
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/taoreujima-buster"
-      ],
-      "title": "Taoreujima Buster",
-      "type": "TV",
-      "episodes": 44,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/taoreujima-buster-1.jpg?t=1625792169",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/taoreujima-buster-1-190x269.jpg?t=1625908912",
-      "synonyms": [],
-      "relations": [
-        "https://anime-planet.com/anime/geukjangpan-taoreujima-buster-black-assault-ui-gwihwan"
-      ],
-      "tags": [
-        "comedy",
-        "family friendly",
-        "korean animation",
-        "mecha"
-      ],
-      "id": "https://anime-planet.com/anime/taoreujima-buster"
-    },
-    {
-      "sources": [
         "https://anidb.net/anime/10633",
         "https://anilist.co/anime/18205",
+        "https://anime-planet.com/anime/world-fool-news-2013",
         "https://anisearch.com/anime/8821",
         "https://kitsu.io/anime/8527",
         "https://myanimelist.net/anime/24437",
@@ -927,24 +876,32 @@
       "picture": "https://cdn.myanimelist.net/images/anime/6/63067.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/6/63067t.jpg",
       "synonyms": [
+        "World Fool News (2013)",
         "World Fool News (Web)",
         "ワールド フールニュース"
       ],
       "relations": [
         "https://anidb.net/anime/10685",
         "https://anilist.co/anime/98552",
-        "https://anisearch.com/anime/12392",
+        "https://anime-planet.com/anime/world-fool-news",
+        "https://anime-planet.com/anime/world-fool-news-part-ii",
         "https://anisearch.com/anime/9767",
         "https://kitsu.io/anime/8448",
         "https://myanimelist.net/anime/18205",
         "https://notify.moe/anime/WpcApKmig"
       ],
       "tags": [
+        "anime bancho",
         "comedy",
+        "coworkers",
         "daily life",
+        "journalism",
         "new",
         "present",
-        "slice of life"
+        "short episodes",
+        "slice of life",
+        "work life",
+        "workplace"
       ],
       "id": "https://myanimelist.net/anime/24437"
     },
@@ -960,8 +917,8 @@
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1813/130091.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1813/130091t.jpg",
       "synonyms": [
         "乡土童年红旗渠"
       ],
@@ -981,15 +938,17 @@
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2008
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1703/128844.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1703/128844t.jpg",
       "synonyms": [
         "小龙阿布"
       ],
       "relations": [],
       "tags": [
+        "comedy",
+        "fantasy",
         "kids"
       ],
       "id": "https://myanimelist.net/anime/46059"
@@ -1006,7 +965,7 @@
         "season": "UNDEFINED",
         "year": 2017
       },
-      "picture": "https://www.anime-planet.com/images/anime/screenshots/yamaki-x-taka-no-tsume-daisakusen-11869-1.jpg",
+      "picture": "https://cdn.anime-planet.com/anime/primary/yamaki-x-taka-no-tsume-daisakusen-1.jpg?t=1625898767",
       "thumbnail": "https://cdn.anime-planet.com/anime/primary/yamaki-x-taka-no-tsume-daisakusen-1-190x266.jpg?t=1625898767",
       "synonyms": [
         "Yamaki x Eagle Talon Daisakusen"
@@ -1030,55 +989,7 @@
     },
     {
       "sources": [
-        "https://anisearch.com/anime/5576"
-      ],
-      "title": "Yuu Gi Ou 5D's: Shinkasuru Kettou! Stardust VS Red Demons",
-      "type": "UNKNOWN",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SUMMER",
-        "year": 2008
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/5/5576.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/5/5576.webp",
-      "synonyms": [
-        "Yu-Gi-Oh! 5D's OVA",
-        "Yu-Gi-Oh! 5D's Special",
-        "Yu-Gi-Oh! 5D's: Evolving Duel! Stardust Dragon Vs. Red Dragon Archfiend",
-        "Yū Gi Ō 5D's: Shinkasuru Kettō! Stardust VS Red Demons",
-        "遊戯王5D's 進化する決闘！スターダストVSレッド・デーモンズ"
-      ],
-      "relations": [
-        "https://anisearch.com/anime/10086",
-        "https://anisearch.com/anime/10482",
-        "https://anisearch.com/anime/12209",
-        "https://anisearch.com/anime/1310",
-        "https://anisearch.com/anime/14866",
-        "https://anisearch.com/anime/1590",
-        "https://anisearch.com/anime/220",
-        "https://anisearch.com/anime/2618",
-        "https://anisearch.com/anime/4740",
-        "https://anisearch.com/anime/482",
-        "https://anisearch.com/anime/6825",
-        "https://anisearch.com/anime/8038",
-        "https://anisearch.com/anime/9402",
-        "https://anisearch.com/anime/9616",
-        "https://anisearch.com/anime/9659"
-      ],
-      "tags": [
-        "action",
-        "brain games and gambling",
-        "ganbatte",
-        "magic",
-        "monster",
-        "racing",
-        "science-fiction"
-      ],
-      "id": "https://anisearch.com/anime/5576"
-    },
-    {
-      "sources": [
+        "https://anime-planet.com/anime/zhihui-zhi-cheng",
         "https://myanimelist.net/anime/44722"
       ],
       "title": "Zhihui Zhi Cheng",
@@ -1089,15 +1000,18 @@
         "season": "UNDEFINED",
         "year": 2008
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1420/124040.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1420/124040t.jpg",
       "synonyms": [
         "智慧之城"
       ],
       "relations": [],
       "tags": [
         "adventure",
-        "kids"
+        "chinese animation",
+        "family friendly",
+        "kids",
+        "short episodes"
       ],
       "id": "https://myanimelist.net/anime/44722"
     }

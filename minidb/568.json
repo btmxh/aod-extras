@@ -64,7 +64,6 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1051/100526t.jpg",
       "synonyms": [
         "Andersen Monogatari Movie",
-        "Andersen Monogatari: Match Uri no Shoujo",
         "Andersen Stories",
         "Andersen story",
         "Die wunderbaren Abenteuer des Hans Christian Andersen",
@@ -74,15 +73,16 @@
         "Fables from Hans Christian Andersen Movie",
         "Le Meravigliose Favole Di Andersen",
         "The World of Hans Christian Andersen",
+        "andersen",
         "Сказки Андерсена",
-        "アンデルセン物語",
-        "アンデルセン物語 マッチ売りの少女"
+        "アンデルセン物語"
       ],
       "relations": [
         "https://anidb.net/anime/2314",
         "https://anilist.co/anime/7779",
         "https://anime-planet.com/anime/andersen-monogatari-tv",
         "https://kitsu.io/anime/5119",
+        "https://livechart.me/anime/11927",
         "https://myanimelist.net/anime/7779",
         "https://notify.moe/anime/_v0ktFmiR"
       ],
@@ -93,73 +93,10 @@
         "drama",
         "family friendly",
         "fantasy",
+        "foreign",
         "kids"
       ],
       "id": "https://myanimelist.net/anime/5098"
-    },
-    {
-      "sources": [
-        "https://kitsu.io/anime/12658",
-        "https://notify.moe/anime/V7TihKmig"
-      ],
-      "title": "Aoyo, Kaette Koi: Tokyo Dai Kuushuu",
-      "type": "OVA",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 1990
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "あおよ、かえってこい －東京大空襲－"
-      ],
-      "relations": [],
-      "tags": [
-        "drama",
-        "historical"
-      ],
-      "id": "https://kitsu.io/anime/12658"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/arifureta-from-commonplace-to-worlds-strongest-omnibus-the-great-orcus-labyrinth"
-      ],
-      "title": "Arifureta: From Commonplace to World's Strongest - Omnibus: The Great Orcus Labyrinth",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2019
-      },
-      "picture": "https://anime-planet.com/images/anime/covers/13859.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/13859.jpg",
-      "synonyms": [
-        "Arifureta Shokugyou de Sekaisaikyou: Omnibus - The Great Orcus Labyrinth"
-      ],
-      "relations": [
-        "https://anime-planet.com/anime/arifureta-from-commonplace-to-worlds-strongest",
-        "https://anime-planet.com/anime/arifureta-from-commonplace-to-worlds-strongest-2nd-season",
-        "https://anime-planet.com/anime/arifureta-from-commonplace-to-worlds-strongest-specials"
-      ],
-      "tags": [
-        "action",
-        "adventure",
-        "based on a light novel",
-        "dark fantasy",
-        "dungeon",
-        "fantasy",
-        "isekai",
-        "magic",
-        "overpowered main characters",
-        "person in a strange world",
-        "recap",
-        "rpg",
-        "summoned into another world"
-      ],
-      "id": "https://anime-planet.com/anime/arifureta-from-commonplace-to-worlds-strongest-omnibus-the-great-orcus-labyrinth"
     },
     {
       "sources": [
@@ -196,11 +133,15 @@
         "comedy",
         "drama",
         "e-sports",
-        "game",
+        "esports",
         "novel",
         "romance",
+        "shounen ai",
         "shounen-ai",
-        "video games"
+        "sports",
+        "strategy game",
+        "video games",
+        "yaoi"
       ],
       "id": "https://myanimelist.net/anime/49567"
     },
@@ -269,6 +210,7 @@
         "ばくあね 弟しぼっちゃうぞ！ The Animation"
       ],
       "relations": [
+        "https://anisearch.com/anime/12781",
         "https://myanimelist.net/anime/36225"
       ],
       "tags": [
@@ -289,22 +231,25 @@
       "sources": [
         "https://myanimelist.net/anime/47246"
       ],
-      "title": "Bao Ji Qiangshou Zhi AK Xiyou",
+      "title": "Bao Ji Qiangshou: AK Xiyou",
       "type": "ONA",
       "episodes": 12,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
+        "season": "SPRING",
+        "year": 2017
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1021/129246.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1021/129246t.jpg",
       "synonyms": [
         "暴基枪手之AK西游"
       ],
-      "relations": [],
+      "relations": [
+        "https://myanimelist.net/anime/47245"
+      ],
       "tags": [
-        "comedy"
+        "comedy",
+        "parody"
       ],
       "id": "https://myanimelist.net/anime/47246"
     },
@@ -331,7 +276,6 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1959/108682t.jpg",
       "synonyms": [
         "BSM",
-        "Binbo Shimai Monogatari",
         "Binbō Shimai Monogatari",
         "Fakir Kız Kardeşlerin Hikayesi",
         "Flat Broke Sisters",
@@ -344,7 +288,8 @@
         "びんぼうしまいものがたり",
         "貧乏姉妹物語",
         "贫乏姊妹物语",
-        "贫穷姊妹物语"
+        "贫穷姊妹物语",
+        "贫穷姐妹物语"
       ],
       "relations": [],
       "tags": [
@@ -378,38 +323,6 @@
     },
     {
       "sources": [
-        "https://anisearch.com/anime/7692"
-      ],
-      "title": "Bosporus Kaikyou Tunnel",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 2011
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/7/7692.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/7/7692.webp",
-      "synonyms": [
-        "Bosporus Kaikyō Tunnel",
-        "Taisei Corporation CM: Bosphorus Strait Tunnel",
-        "Taisei Kensetsu CM: Bosporus Kaikyou Tunnel",
-        "ボスポラス海峡トンネル"
-      ],
-      "relations": [
-        "https://anisearch.com/anime/10571",
-        "https://anisearch.com/anime/16862",
-        "https://anisearch.com/anime/8042"
-      ],
-      "tags": [
-        "drama",
-        "present",
-        "slice of life"
-      ],
-      "id": "https://anisearch.com/anime/7692"
-    },
-    {
-      "sources": [
         "https://anidb.net/anime/15000",
         "https://anime-planet.com/anime/hyperdimension-neptunia-hi-light",
         "https://anisearch.com/anime/14509",
@@ -430,9 +343,11 @@
       "synonyms": [
         "Choujigen Game Neptune Hi Light",
         "Chōjigen Game Neptune Hi Light",
+        "HDNA (2020)",
         "Hyperdimension Neptunia Hi Light",
         "Hyperdimension Neptunia Special Edition Highlight",
         "Hyperdimension Neptunia The Animation: Hi Light",
+        "Hyperdimension Neptunia The Animation: Hi☆Light",
         "Hyperdimension Neptunia Victory Hi☆Light",
         "Hyperdimension Neptunia: Hi☆Light",
         "Kami Jigen Game Neptune V Hi☆Light",
@@ -445,8 +360,8 @@
         "https://anidb.net/anime/9395",
         "https://anime-planet.com/anime/hyperdimension-neptunia",
         "https://anisearch.com/anime/8255",
-        "https://anisearch.com/anime/9283",
         "https://livechart.me/anime/10820",
+        "https://livechart.me/anime/11226",
         "https://livechart.me/anime/14",
         "https://livechart.me/anime/367",
         "https://livechart.me/anime/9400",
@@ -491,7 +406,8 @@
         "Ангел гоночных трасс",
         "サーキットエンジェル ~決意のスターティング・グリッド~",
         "サーキットエンジェル 決意のスターティング・グリッド",
-        "サーキットエンジェル　決意のスターティング・グリッド"
+        "サーキットエンジェル　決意のスターティング・グリッド",
+        "赛道天使"
       ],
       "relations": [],
       "tags": [
@@ -499,6 +415,7 @@
         "adventure",
         "motorcycles",
         "motorsport",
+        "nudity",
         "present",
         "racing",
         "sports"
@@ -507,55 +424,26 @@
     },
     {
       "sources": [
-        "https://anidb.net/anime/15694",
-        "https://anilist.co/anime/121215"
+        "https://anilist.co/anime/155308"
       ],
-      "title": "Dahua: Shaonian You",
+      "title": "Da Tianzun",
       "type": "ONA",
-      "episodes": 16,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SUMMER",
-        "year": 2020
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121215-cgBBv9wxRdAJ.png",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121215-cgBBv9wxRdAJ.png",
-      "synonyms": [
-        "Da Hua: Shao Nian You",
-        "Westward Juvenile Journey",
-        "大话之少年游"
-      ],
-      "relations": [],
-      "tags": [
-        "adventure",
-        "fantasy",
-        "full cgi",
-        "game"
-      ],
-      "id": "https://anilist.co/anime/121215"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/dareharu-flowering"
-      ],
-      "title": "Dareharu: Flowering",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
+      "episodes": 0,
+      "status": "UPCOMING",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": 2020
+        "year": null
       },
-      "picture": "https://cdn.anime-planet.com/anime/primary/dareharu-flowering-1.webp?t=1642560001",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/dareharu-flowering-1-285x400.webp?t=1642560001",
+      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155308-5n7QtBnGt1TE.png",
+      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155308-5n7QtBnGt1TE.png",
       "synonyms": [
-        "Dareharu: Neoropieoora"
+        "大天尊"
       ],
       "relations": [],
       "tags": [
-        "korean animation"
+        "fantasy"
       ],
-      "id": "https://anime-planet.com/anime/dareharu-flowering"
+      "id": "https://anilist.co/anime/155308"
     },
     {
       "sources": [
@@ -616,8 +504,8 @@
         "season": "SUMMER",
         "year": 2020
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/14/14801.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/14/14801.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/14/14801_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/14/14801.webp",
       "synonyms": [
         "A Mortal’s Journey",
         "A Record of a Mortal's Journey to Immortality",
@@ -628,9 +516,7 @@
         "凡人修仙传 风起天南"
       ],
       "relations": [
-        "https://anisearch.com/anime/16255",
-        "https://anisearch.com/anime/16921",
-        "https://anisearch.com/anime/16922"
+        "https://anisearch.com/anime/16921"
       ],
       "tags": [
         "action",
@@ -640,34 +526,10 @@
         "magic",
         "monster",
         "old asia",
-        "swords & co"
+        "swords & co",
+        "wuxia"
       ],
       "id": "https://anisearch.com/anime/14801"
-    },
-    {
-      "sources": [
-        "https://anilist.co/anime/143291"
-      ],
-      "title": "Fuku-chan (1982)",
-      "type": "TV",
-      "episodes": 71,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 1982
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b143291-DQBXuU6wO9qE.jpg",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b143291-DQBXuU6wO9qE.jpg",
-      "synonyms": [
-        "フクちゃん (1982)"
-      ],
-      "relations": [
-        "https://anilist.co/anime/140019"
-      ],
-      "tags": [
-        "comedy"
-      ],
-      "id": "https://anilist.co/anime/143291"
     },
     {
       "sources": [
@@ -745,7 +607,7 @@
         "https://myanimelist.net/anime/33280",
         "https://notify.moe/anime/7H7RhKimg"
       ],
-      "title": "Gochuumon wa Usagi Desu ka??: Dear My Sister",
+      "title": "Gochuumon wa Usagi desu ka?? Dear My Sister",
       "type": "MOVIE",
       "episodes": 1,
       "status": "FINISHED",
@@ -759,7 +621,6 @@
         "GochiUsa",
         "Gochuumon wa Usagi Desu ka?? Dear My Sister",
         "Gochuumon wa Usagi Desuka?? Dear My Sister",
-        "Gochuumon wa Usagi desu ka?? Dear My Sister",
         "Gochuumon wa Usagi desu ka?? ~Dear My Sister~",
         "Gochuumon wa Usagi desu ka??: Dear My Sister",
         "Gochūmon wa Usagi desu ka??: Dear My Sister",
@@ -768,6 +629,7 @@
         "Is the Order a Rabbit?? ～Dear My Sister～",
         "Is the order a rabbit?? (Special Episode)",
         "Is the order a rabbit?? Dear My Sister",
+        "gochiusa movie",
         "ご注文はうさぎですか?? ~Dear My Sister~",
         "ご注文はうさぎですか?? ～Dear My Sister～",
         "ご注文はうさぎですか??～Dear My Sister～",
@@ -787,8 +649,6 @@
         "https://anime-planet.com/anime/is-the-order-a-rabbit-sing-for-you",
         "https://anisearch.com/anime/10175",
         "https://anisearch.com/anime/13898",
-        "https://anisearch.com/anime/13899",
-        "https://anisearch.com/anime/9234",
         "https://kitsu.io/anime/10346",
         "https://kitsu.io/anime/42364",
         "https://livechart.me/anime/1383",
@@ -801,12 +661,15 @@
         "https://notify.moe/anime/f0IUpKmiR"
       ],
       "tags": [
+        "4-koma",
         "based on a 4-koma manga",
         "based on a manga",
         "cafe",
+        "cgdct",
         "comedy",
         "cute girls doing cute things",
         "daily life",
+        "female protagonist",
         "food preparation",
         "iyashikei",
         "kuudere",
@@ -815,14 +678,18 @@
         "moe",
         "present",
         "primarily female cast",
+        "primarily teen cast",
         "seinen",
-        "slice of life"
+        "slice of life",
+        "workplace"
       ],
       "id": "https://myanimelist.net/anime/33280"
     },
     {
       "sources": [
         "https://anilist.co/anime/143303",
+        "https://anime-planet.com/anime/hakyuu-hoshin-engi-the-blood-of-the-koh-family",
+        "https://anisearch.com/anime/13968",
         "https://kitsu.io/anime/43245",
         "https://myanimelist.net/anime/38650"
       ],
@@ -837,26 +704,40 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1670/96523.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1670/96523t.jpg",
       "synonyms": [
+        "HAKYU HOSHIN ENGI Episode 24",
+        "HAKYU HOSHIN ENGI: The Blood of the Koh Family",
         "Hakyu Hoshin Engi Folge 24: Das Blut der Familie Ko",
         "Hakyu Hoshin Engi Épisode 24: Le sang des Huang",
+        "Hakyu Hoshin Engi: Das Blut der Familie Kou",
+        "Hakyu Hoshin Engi: El linaje de Koh",
+        "Hakyu Hoshin Engi: Le sang des Huang",
         "Hakyu Hoshin Engi: The Blood of the Koh Family",
+        "Hakyuu Hoshin Engi: Kou-ke no Chi",
+        "Hakyuu Hoshin Engi: The Blood of the Koh Family",
+        "Hakyuu Houshin Engi Episode 24",
         "Hakyuu Houshin Engi Special",
         "Hakyuu Houshin Engi. Episodio 24: El linaje de Koh",
+        "Hakyuu Houshin Engi: Kouka no Chi",
         "Hakyuu Houshin Engi: The Blood of the Koh Family",
+        "Hakyū Hōshin Engi: Kōka no Chi",
         "覇穹 封神演義 スペシャル・エピソード「黄家の血」",
+        "覇穹 封神演義 黄家の血",
         "覇穹 封神演義：黄家の血"
       ],
       "relations": [
         "https://anilist.co/anime/99727",
+        "https://anime-planet.com/anime/hakyuu-hoshin-engi",
+        "https://anisearch.com/anime/12681",
         "https://kitsu.io/anime/13686",
         "https://myanimelist.net/anime/36029"
       ],
       "tags": [
         "action",
         "adventure",
+        "based on a manga",
         "demon",
-        "demons",
         "fantasy",
+        "mythology",
         "shounen",
         "supernatural"
       ],
@@ -864,18 +745,19 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/hong-mao-lan-tu-nao-xinchun",
         "https://myanimelist.net/anime/44358"
       ],
-      "title": "Hong Mao Lan Tu Nao Xinchun",
+      "title": "Hong Mao Lan Tu: Nao Xinchun",
       "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "WINTER",
         "year": 2005
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1081/123080.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1081/123080t.jpg",
       "synonyms": [
         "虹猫蓝兔闹新春"
       ],
@@ -883,44 +765,55 @@
         "https://myanimelist.net/anime/39121"
       ],
       "tags": [
-        "kids"
+        "adventure",
+        "animal protagonists",
+        "anthropomorphic",
+        "chinese animation",
+        "family friendly",
+        "kids",
+        "non-human protagonists"
       ],
       "id": "https://myanimelist.net/anime/44358"
     },
     {
       "sources": [
-        "https://anisearch.com/anime/955"
+        "https://anilist.co/anime/108020",
+        "https://anime-planet.com/anime/vary-peri",
+        "https://kitsu.io/anime/41581",
+        "https://myanimelist.net/anime/35641"
       ],
-      "title": "Idol Fight Suchie-Pai 2: Ikanimo Dai Ichi Watte Kanji?",
-      "type": "OVA",
-      "episodes": 1,
+      "title": "Huan Bian Jingling: Dangao Tianxin",
+      "type": "TV",
+      "episodes": 40,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "SPRING",
-        "year": 1996
+        "season": "FALL",
+        "year": 2012
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/0/955.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/0/955.webp",
+      "picture": "https://cdn.myanimelist.net/images/anime/1133/93044.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1133/93044t.jpg",
       "synonyms": [
-        "Idol Fight Suchie-Pai",
-        "Idol Fighter Su-Chi-Pai",
-        "Idol Janshi Suchi-Pai",
-        "Suchi Pai",
-        "アイドルファイト スーチーパイ2 ～いかにも第一話ってカンジ？～"
+        "Magical Wizard Cake Fairy",
+        "Sweet Fairies",
+        "Sweets Fairy",
+        "Vary Peri",
+        "幻变精灵之蛋糕甜心"
       ],
       "relations": [],
       "tags": [
-        "action",
-        "action comedy",
-        "aliens",
-        "beastmen",
+        "adventure",
+        "animal protagonists",
+        "anthropomorphic",
+        "cg animation",
+        "chinese animation",
         "comedy",
-        "contemporary fantasy",
-        "ecchi",
+        "family friendly",
         "fantasy",
-        "magic"
+        "kids",
+        "magic",
+        "non-human protagonists"
       ],
-      "id": "https://anisearch.com/anime/955"
+      "id": "https://myanimelist.net/anime/35641"
     },
     {
       "sources": [
@@ -932,22 +825,24 @@
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2009
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1053/129663.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1053/129663t.jpg",
       "synonyms": [
         "叽里咕噜讲故事"
       ],
       "relations": [],
       "tags": [
-        "historical"
+        "kids"
       ],
       "id": "https://myanimelist.net/anime/46211"
     },
     {
       "sources": [
         "https://anidb.net/anime/14581",
+        "https://anilist.co/anime/104559",
+        "https://anime-planet.com/anime/jinxiu-shenzhou-zhi-xingshi-wangguo",
         "https://myanimelist.net/anime/45780"
       ],
       "title": "Jinxiu Shenzhou: Xingshi Wangguo",
@@ -961,22 +856,64 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1718/114945.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1718/114945t.jpg",
       "synonyms": [
+        "Jinxiu Shenzhou Zhi Qi You Ji 2",
+        "Jinxiu Shenzhou Zhi Xingshi Wangguo",
+        "Splendid China - Hunting Treasures 2",
+        "锦绣神州之奇游迹 第二季",
         "锦绣神州之姓氏王国"
       ],
       "relations": [
         "https://anidb.net/anime/12538",
+        "https://anilist.co/anime/104558",
+        "https://anime-planet.com/anime/jinxiu-shenzhou-zhi-qi-you-ji",
         "https://myanimelist.net/anime/33267"
       ],
       "tags": [
         "adventure",
+        "chinese animation",
         "fantasy",
-        "half-length episodes"
+        "half-length episodes",
+        "lost civilization",
+        "martial arts"
       ],
       "id": "https://myanimelist.net/anime/45780"
     },
     {
       "sources": [
+        "https://anilist.co/anime/154247",
+        "https://anisearch.com/anime/17174"
+      ],
+      "title": "Kagari Hibana",
+      "type": "ONA",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "FALL",
+        "year": 2021
+      },
+      "picture": "https://www.anisearch.com/images/anime/cover/17/17174_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/17/17174.webp",
+      "synonyms": [
+        "カガリ ヒバナ"
+      ],
+      "relations": [],
+      "tags": [
+        "action",
+        "fantasy",
+        "independent anime",
+        "monster",
+        "romance",
+        "supernatural"
+      ],
+      "id": "https://anisearch.com/anime/17174"
+    },
+    {
+      "sources": [
+        "https://anidb.net/anime/15642",
+        "https://anilist.co/anime/121592",
         "https://anime-planet.com/anime/kamen-rider-zero-one-short-anime-everyones-daily-life",
+        "https://anisearch.com/anime/15443",
+        "https://livechart.me/anime/10072",
         "https://myanimelist.net/anime/42491"
       ],
       "title": "Kamen Rider Zero-One: Short Anime - Everyone's Daily Life",
@@ -990,18 +927,34 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1268/108559.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1268/108559t.jpg",
       "synonyms": [
+        "Kamen Rider Zero One: Everyone’s Daily Life",
+        "Kamen Rider Zero-One Anime",
         "Kamen Rider Zero-One Short Anime: Everyone's Daily Life",
-        "仮面ライダーゼロワン ショートアニメ EVERYONE’S DAILY LIFE"
+        "Kamen Rider Zero-One: EVERYONE'S DAILY LIFE",
+        "Kamen Rider Zero-One: Everyone's Daily Life",
+        "Kamen Rider Zero-One: Short Anime - Everyone`s Daily Life",
+        "仮面ライダーゼロワン EVERYONE'S DAILY LIFE",
+        "仮面ライダーゼロワン EVERYONE’S DAILY LIFE",
+        "仮面ライダーゼロワン ショートアニメ EVERYONE`S DAILY LIFE",
+        "仮面ライダーゼロワン ショートアニメ EVERYONE’S DAILY LIFE",
+        "仮面ライダーゼロワン　EVERYONE'S DAILY LIFE"
       ],
       "relations": [
         "https://anime-planet.com/anime/bessatsu-kamen-rider-saber-tanpen-katsudou-manga-shuu",
-        "https://anime-planet.com/anime/good-theater-manners-from-kamen-rider-zero-one-and-kamen-rider-saber"
+        "https://anime-planet.com/anime/good-theater-manners-from-kamen-rider-zero-one-and-kamen-rider-saber",
+        "https://livechart.me/anime/10510",
+        "https://livechart.me/anime/10547",
+        "https://livechart.me/anime/11178",
+        "https://livechart.me/anime/7832",
+        "https://livechart.me/anime/8405",
+        "https://livechart.me/anime/8553",
+        "https://livechart.me/anime/9047"
       ],
       "tags": [
         "based on a tv series",
         "chibi",
         "comedy",
-        "henshin heroes",
+        "sci-fi",
         "short episodes",
         "slice of life"
       ],
@@ -1039,6 +992,7 @@
       "relations": [],
       "tags": [
         "asia",
+        "cohabitation",
         "contemporary fantasy",
         "daily life",
         "deity",
@@ -1049,10 +1003,12 @@
         "female protagonist",
         "girls love",
         "gl",
+        "interspecies relationship",
         "japan",
         "kamis",
         "new",
         "no dialogue",
+        "non-human protagonists",
         "original work",
         "present",
         "primarily female cast",
@@ -1071,6 +1027,40 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/uchikubi-gokumon-doukoukai-kangaroo-wa-doko-ni-itta-no-ka",
+        "https://myanimelist.net/anime/52939"
+      ],
+      "title": "Kangaroo wa Doko ni Itta no ka",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SPRING",
+        "year": 2021
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1428/132872.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1428/132872t.jpg",
+      "synonyms": [
+        "Uchikubi Gokumon Doukoukai: Kangaroo wa Doko ni Itta no ka",
+        "Where did the kangaroo go?",
+        "カンガルーはどこに行ったのか"
+      ],
+      "relations": [
+        "https://anime-planet.com/anime/shima-shima-tora-no-shimajirou",
+        "https://myanimelist.net/anime/34259",
+        "https://myanimelist.net/anime/9768"
+      ],
+      "tags": [
+        "animal protagonists",
+        "anthropomorphic",
+        "music",
+        "non-human protagonists"
+      ],
+      "id": "https://myanimelist.net/anime/52939"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/151053",
         "https://anisearch.com/anime/16989"
       ],
       "title": "Kizu to Mitsu",
@@ -1081,12 +1071,13 @@
         "season": "WINTER",
         "year": 2021
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/16/16989.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/16/16989.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/16/16989_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/16/16989.webp",
       "synonyms": [
         "GALDE'rLa - Kizu to Mitsu",
         "GALDE'rLa - 傷と蜜",
         "Scratch & Honey",
+        "Scratch&Honey",
         "傷と蜜"
       ],
       "relations": [],
@@ -1107,7 +1098,7 @@
         "https://myanimelist.net/anime/4195",
         "https://notify.moe/anime/1z2u5FiiR"
       ],
-      "title": "Kodomo no Jikan: Ni Gakki",
+      "title": "Kodomo no Jikan Ni Gakki",
       "type": "OVA",
       "episodes": 3,
       "status": "FINISHED",
@@ -1122,6 +1113,7 @@
         "Kodomo no Jikan OVA 3",
         "Kodomo no Jikan Second Term",
         "Kodomo no Jikan: Drugi Semestr",
+        "Kodomo no Jikan: Ni Gakki",
         "Kodomo no Jikan: Second Term",
         "Kojika",
         "kojikan 2",
@@ -1137,9 +1129,7 @@
         "https://anime-planet.com/anime/kodomo-no-jikan-kodomo-no-natsu-jikan",
         "https://anime-planet.com/anime/kodomo-no-jikan-kuro-chan-to-shiro-chan",
         "https://anime-planet.com/anime/kodomo-no-jikan-rins-classroom-diary",
-        "https://anisearch.com/anime/4134",
         "https://anisearch.com/anime/4490",
-        "https://anisearch.com/anime/6954",
         "https://anisearch.com/anime/6955",
         "https://anisearch.com/anime/6958",
         "https://kitsu.io/anime/2179",
@@ -1180,6 +1170,7 @@
       "sources": [
         "https://anilist.co/anime/98525",
         "https://anime-planet.com/anime/kurokos-basketball-oshaberi-shiyou-ka",
+        "https://anisearch.com/anime/17793",
         "https://kitsu.io/anime/13330",
         "https://livechart.me/anime/5761",
         "https://myanimelist.net/anime/34784",
@@ -1196,6 +1187,7 @@
       "picture": "https://cdn.myanimelist.net/images/anime/9/83916.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/9/83916t.jpg",
       "synonyms": [
+        "Kuroko no Basket: Oshaberi Shiyō ka",
         "Kuroko's Basketball: Oshaberi Shiyou ka",
         "お喋りしようか",
         "黒子のバスケ お喋りしようか"
@@ -1217,10 +1209,10 @@
         "https://anime-planet.com/anime/kurokos-basketball-ova",
         "https://anime-planet.com/anime/kurokos-basketball-the-greatest-present",
         "https://anime-planet.com/anime/kurokos-basketball-tip-off",
+        "https://anisearch.com/anime/9677",
         "https://livechart.me/anime/1118",
         "https://livechart.me/anime/1669",
         "https://livechart.me/anime/169",
-        "https://livechart.me/anime/1837",
         "https://livechart.me/anime/2057",
         "https://livechart.me/anime/2063",
         "https://livechart.me/anime/2064",
@@ -1228,7 +1220,6 @@
         "https://livechart.me/anime/4427",
         "https://livechart.me/anime/4780",
         "https://livechart.me/anime/4808",
-        "https://livechart.me/anime/5396",
         "https://livechart.me/anime/5468",
         "https://livechart.me/anime/5596",
         "https://livechart.me/anime/597",
@@ -1241,12 +1232,14 @@
         "basketball",
         "comedy",
         "male protagonist",
+        "present",
         "primarily male cast",
         "recap",
         "school",
         "school life",
         "shounen",
-        "sports"
+        "sports",
+        "team sports"
       ],
       "id": "https://myanimelist.net/anime/34784"
     },
@@ -1285,7 +1278,6 @@
         "https://anime-planet.com/anime/lalala-lala-chan-lala-to-mainichi",
         "https://anime-planet.com/anime/lalala-lala-chan-patapata-daisensou",
         "https://anisearch.com/anime/12798",
-        "https://anisearch.com/anime/12801",
         "https://anisearch.com/anime/14052",
         "https://myanimelist.net/anime/36551",
         "https://myanimelist.net/anime/36804",
@@ -1302,33 +1294,6 @@
         "short episodes"
       ],
       "id": "https://myanimelist.net/anime/36486"
-    },
-    {
-      "sources": [
-        "https://anilist.co/anime/139695",
-        "https://kitsu.io/anime/45255",
-        "https://myanimelist.net/anime/50918"
-      ],
-      "title": "Lion Nani no Tabi",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 2018
-      },
-      "picture": "https://cdn.myanimelist.net/images/anime/1691/120709.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1691/120709t.jpg",
-      "synonyms": [
-        "Lion Nanny's Journey",
-        "Lion Nanny’s Journey",
-        "ライオンナニーの旅"
-      ],
-      "relations": [],
-      "tags": [
-        "slice of life"
-      ],
-      "id": "https://myanimelist.net/anime/50918"
     },
     {
       "sources": [
@@ -1354,6 +1319,7 @@
         "Animal Sumo",
         "Animated Revue \"Spring\"",
         "Doubutsu Sumou Taikai (動物相撲大会)",
+        "Norakuro: Manga Revue Haru",
         "漫画レビュー 春"
       ],
       "relations": [
@@ -1368,9 +1334,13 @@
         "black and white",
         "comedy",
         "kids",
+        "no dialogue",
         "non-human protagonists",
+        "rural",
+        "school",
         "short movie",
-        "shorts"
+        "shorts",
+        "silent movie"
       ],
       "id": "https://myanimelist.net/anime/35403"
     },
@@ -1473,6 +1443,7 @@
       "sources": [
         "https://anidb.net/anime/6630",
         "https://anilist.co/anime/7495",
+        "https://anisearch.com/anime/5806",
         "https://kitsu.io/anime/5000",
         "https://myanimelist.net/anime/7495",
         "https://notify.moe/anime/4VgzpFiig"
@@ -1489,6 +1460,8 @@
       "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
       "synonyms": [
         "Dreamy Urashima",
+        "Nonki na Tousan Ryuuguu Mairi",
+        "Nonki na Tōsan Ryūgū Mairi",
         "ノンキナトウサン竜宮参り"
       ],
       "relations": [],
@@ -1510,8 +1483,8 @@
       ],
       "title": "Ore, Tsushima (ONA)",
       "type": "ONA",
-      "episodes": 89,
-      "status": "ONGOING",
+      "episodes": 93,
+      "status": "FINISHED",
       "animeSeason": {
         "season": "SUMMER",
         "year": 2021
@@ -1519,6 +1492,7 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1809/117254.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1809/117254t.jpg",
       "synonyms": [
+        "I am Tsushima",
         "I'm Tsushima the Cat",
         "I, Tsushima",
         "I, Tsushima (ONA)",
@@ -1526,13 +1500,16 @@
         "Ore, Tsushima",
         "Ore, Tsushima (2021)",
         "Ore, Tsushima (Web)",
+        "เรียกข้าว่าสึชิมะ [ฉบับฉายบนเว็บ]",
         "俺、つしま",
         "俺、つしま (ONA)",
         "俺、つしま （2021）"
       ],
       "relations": [
         "https://anilist.co/anime/130392",
+        "https://anilist.co/anime/145852",
         "https://anime-planet.com/anime/ore-tsushima",
+        "https://anime-planet.com/anime/ore-tsushima-x-na-mo-naki-nezumi",
         "https://anisearch.com/anime/16244",
         "https://kitsu.io/anime/44290",
         "https://livechart.me/anime/10430",
@@ -1586,48 +1563,7 @@
     },
     {
       "sources": [
-        "https://livechart.me/anime/1060"
-      ],
-      "title": "Pocket Monsters Best Wishes! Season 2: Kyurem vs. Seikenshi",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SUMMER",
-        "year": 2012
-      },
-      "picture": "https://u.livechart.me/anime/1060/poster_image/c7838e0a12660773998b5da52f8f7341.jpg?style=large&format=jpg",
-      "thumbnail": "https://u.livechart.me/anime/1060/poster_image/c7838e0a12660773998b5da52f8f7341.jpg?style=small&format=jpg",
-      "synonyms": [
-        "Pokémon the Movie: Kyurem VS. The Sword of Justice",
-        "ポケットモンスター ベストウイッシュ キュレムVS聖剣士"
-      ],
-      "relations": [
-        "https://livechart.me/anime/3702",
-        "https://livechart.me/anime/3816",
-        "https://livechart.me/anime/3936",
-        "https://livechart.me/anime/3979",
-        "https://livechart.me/anime/3992",
-        "https://livechart.me/anime/4045",
-        "https://livechart.me/anime/4148",
-        "https://livechart.me/anime/4505",
-        "https://livechart.me/anime/5217",
-        "https://livechart.me/anime/5359",
-        "https://livechart.me/anime/5371",
-        "https://livechart.me/anime/5627",
-        "https://livechart.me/anime/5641",
-        "https://livechart.me/anime/5643",
-        "https://livechart.me/anime/8945"
-      ],
-      "tags": [
-        "adventure",
-        "comedy",
-        "shounen"
-      ],
-      "id": "https://livechart.me/anime/1060"
-    },
-    {
-      "sources": [
+        "https://anidb.net/anime/5249",
         "https://anisearch.com/anime/8939"
       ],
       "title": "Reporter Blues (1992)",
@@ -1638,13 +1574,16 @@
         "season": "UNDEFINED",
         "year": 1992
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/8/8939.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/8/8939.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/8/8939_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/8/8939.webp",
       "synonyms": [
+        "Reporter Blues (suite)",
         "Reporter Blues 2ème Saison",
+        "レポーターブルース (1992)",
         "レポーターブルース （1992）"
       ],
       "relations": [
+        "https://anidb.net/anime/4744",
         "https://anisearch.com/anime/3873"
       ],
       "tags": [
@@ -1665,8 +1604,8 @@
         "season": "FALL",
         "year": 2014
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/10/10253.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/10/10253.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/10/10253_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/10/10253.webp",
       "synonyms": [
         "Marukome CM2",
         "Ryoutei no Aji: Working Away From Home",
@@ -1674,7 +1613,10 @@
         "Sokunama Misoshiru Ryotei-No-Aji",
         "料亭の味 即席生みそ汁 単身赴任篇"
       ],
-      "relations": [],
+      "relations": [
+        "https://anisearch.com/anime/10255",
+        "https://anisearch.com/anime/10275"
+      ],
       "tags": [
         "drama",
         "food preparation",
@@ -1704,6 +1646,7 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/2/78755t.jpg",
       "synonyms": [
         "SAMURAI",
+        "SAMURAI (2011)",
         "Sakamoto Kyouju - Samurai",
         "Samurai"
       ],
@@ -1713,40 +1656,6 @@
         "samurai"
       ],
       "id": "https://myanimelist.net/anime/32847"
-    },
-    {
-      "sources": [
-        "https://anilist.co/anime/129586",
-        "https://kitsu.io/anime/44047"
-      ],
-      "title": "Seer 2",
-      "type": "TV",
-      "episodes": 40,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 2013
-      },
-      "picture": "https://media.kitsu.io/anime/poster_images/44047/small.jpg",
-      "thumbnail": "https://media.kitsu.io/anime/poster_images/44047/tiny.jpg",
-      "synonyms": [
-        "赛尔号 第二季",
-        "赛尔号之圣者逆袭"
-      ],
-      "relations": [
-        "https://anilist.co/anime/129584",
-        "https://anilist.co/anime/129587",
-        "https://kitsu.io/anime/44044",
-        "https://kitsu.io/anime/44053"
-      ],
-      "tags": [
-        "adventure",
-        "fantasy",
-        "kids",
-        "sci-fi",
-        "science fiction"
-      ],
-      "id": "https://kitsu.io/anime/44047"
     },
     {
       "sources": [
@@ -1807,12 +1716,15 @@
         "earth",
         "fantasy",
         "henshin",
+        "heterosexual",
         "japan",
-        "kids",
+        "kaiju",
         "law and order",
+        "lost civilization",
         "new",
         "original work",
         "parody",
+        "post-apocalyptic",
         "robots",
         "school",
         "school life",
@@ -1821,35 +1733,87 @@
         "sports",
         "super power",
         "superpowers",
+        "surreal comedy",
+        "swordplay",
         "tokusatsu"
       ],
       "id": "https://myanimelist.net/anime/20973"
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/shounen-sunday-cm-arms"
+        "https://anidb.net/anime/17693",
+        "https://anilist.co/anime/156131",
+        "https://anime-planet.com/anime/banished-from-the-heros-party-i-decided-to-live-a-quiet-life-in-the-countryside-2nd-season",
+        "https://anisearch.com/anime/17803",
+        "https://kitsu.io/anime/46686",
+        "https://livechart.me/anime/11585",
+        "https://myanimelist.net/anime/53488",
+        "https://notify.moe/anime/TL7dNkO4g"
       ],
-      "title": "Shounen Sunday CM: ARMS",
-      "type": "SPECIAL",
-      "episodes": 1,
+      "title": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd Season",
+      "type": "TV",
+      "episodes": 12,
       "status": "UPCOMING",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
+        "season": "WINTER",
+        "year": 2023
       },
-      "picture": "https://anime-planet.com/images/anime/covers/16625.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/16625.jpg",
-      "synonyms": [],
-      "relations": [],
+      "picture": "https://cdn.myanimelist.net/images/anime/1150/130148.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1150/130148t.jpg",
+      "synonyms": [
+        "Banished From The Hero's Party, I Decided To Live A Quiet Life In The Countryside 2",
+        "Banished From The Hero's Party, I Decided To Live A Quiet Life In The Countryside Season 2",
+        "Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside 2nd Season",
+        "Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside Season 2",
+        "Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside, I Was Kicked out of the Hero's Party Because I Wasn't a True Companion so I Decided to Have a Slow Life at the Frontier 2",
+        "Banished from the Hero`s Party",
+        "Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside Season 2",
+        "Banished from the brave man's group, I decided to lead a slow life in the back country.",
+        "I Decided to Live a Quiet Life in the Countryside 2",
+        "I Was Kicked out of the Hero's Party Because I Wasn't a True Companion so I Decided to Have a Slow Life at the Frontier 2",
+        "I Was Kicked out of the Hero’s Party Because I Wasn’t a True Companion so I Decided to Have a Slow Life at the Frontier Season 2",
+        "Shin no Nakama ja Nai to Yuusha no Party o Oidasareta no de, Henkyou de Slow Life Suru Koto ni Shimashita 2",
+        "Shin no Nakama ja Nai to Yuusha no Party o Oidasareta node, Henkyou de Slow Life Suru Koto ni Shimashita 2",
+        "Shin no Nakama ja Nai to Yuusha no Party o Oidasareta node, Henkyou de Slow Life Suru Koto ni Shimashita 2nd Season",
+        "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta no de, Henkyou de Slow Life Suru Koto ni Shimashita 2",
+        "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shima",
+        "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita 2nd Season",
+        "Shin no Nakama ja Nai to Yūsha no Party o Oidasareta no de, Henkyō de Slow Life Suru Koto ni Shimashita 2",
+        "ผมโดนกลุ่มผู้กล้าขับไส เลยต้องไปสโลว์ไลฟ์ที่ชายแดน ภาค 2",
+        "真の仲間じゃないと勇者のパーティーを追い出されたので, 辺境でスローライフすることにしました 2",
+        "真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました 2",
+        "真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました 第2期"
+      ],
+      "relations": [
+        "https://anidb.net/anime/15853",
+        "https://anilist.co/anime/126213",
+        "https://anime-planet.com/anime/banished-from-the-heros-party-i-decided-to-live-a-quiet-life-in-the-countryside",
+        "https://anisearch.com/anime/15757",
+        "https://kitsu.io/anime/44167",
+        "https://livechart.me/anime/10222",
+        "https://myanimelist.net/anime/44037",
+        "https://notify.moe/anime/5ZHv_pTMR"
+      ],
       "tags": [
         "action",
-        "based on a manga",
-        "commercials",
-        "promotional",
-        "sci fi",
-        "shounen"
+        "adventure",
+        "alternative world",
+        "based on a light novel",
+        "comedy",
+        "countryside",
+        "demons",
+        "ecchi",
+        "elves",
+        "fantasy",
+        "female harem",
+        "heterosexual",
+        "magic",
+        "romance",
+        "slice of life",
+        "slow life",
+        "working life"
       ],
-      "id": "https://anime-planet.com/anime/shounen-sunday-cm-arms"
+      "id": "https://myanimelist.net/anime/53488"
     },
     {
       "sources": [
@@ -1896,17 +1860,8 @@
         "https://anime-planet.com/anime/slayers-the-book-of-spells",
         "https://anime-planet.com/anime/slayers-the-motion-picture",
         "https://anime-planet.com/anime/slayers-try",
-        "https://anisearch.com/anime/1200",
-        "https://anisearch.com/anime/1236",
-        "https://anisearch.com/anime/2089",
         "https://anisearch.com/anime/2106",
-        "https://anisearch.com/anime/2378",
-        "https://anisearch.com/anime/3416",
-        "https://anisearch.com/anime/447",
-        "https://anisearch.com/anime/4849",
-        "https://anisearch.com/anime/5124",
         "https://anisearch.com/anime/545",
-        "https://anisearch.com/anime/678",
         "https://kitsu.io/anime/493",
         "https://kitsu.io/anime/769",
         "https://livechart.me/anime/4050",
@@ -1946,32 +1901,66 @@
     },
     {
       "sources": [
-        "https://anidb.net/anime/9845"
+        "https://anime-planet.com/anime/sore-ike-anpanman-sl-man-to-hoshi-wo-utsusou",
+        "https://myanimelist.net/anime/53943"
       ],
-      "title": "Soukou Kihei Votoms: Sunsa",
-      "type": "OVA",
+      "title": "Sore Ike! Anpanman: SLman to Hoshi wo Utsusou",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SPRING",
+        "year": 2008
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1371/132023.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1371/132023t.jpg",
+      "synonyms": [
+        "Sore Ike! Anpanman: SL-man to Hoshi wo Utsusou",
+        "それいけ！ アンパンマン ～SLマンと星をうつそう～"
+      ],
+      "relations": [
+        "https://anime-planet.com/anime/sore-ike-anpanman",
+        "https://myanimelist.net/anime/1960"
+      ],
+      "tags": [
+        "comedy",
+        "family friendly",
+        "fantasy",
+        "kids",
+        "sci-fi",
+        "space"
+      ],
+      "id": "https://myanimelist.net/anime/53943"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/116914",
+        "https://anime-planet.com/anime/the-man-who-ate-an-apple",
+        "https://kitsu.io/anime/45777"
+      ],
+      "title": "The Man Who Ate an Apple",
+      "type": "MOVIE",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
         "season": "WINTER",
-        "year": 1988
+        "year": 2012
       },
-      "picture": "https://cdn.anidb.net/images/main/157367.jpg",
-      "thumbnail": "https://cdn.anidb.net/images/main/157367.jpg-thumb.jpg",
-      "synonyms": [
-        "Soukou Kihei Votoms: Sansa",
-        "装甲騎兵ボトムズ サンサ"
+      "picture": "https://cdn.anime-planet.com/anime/primary/the-man-who-ate-an-apple-1.webp?t=1656357875",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/the-man-who-ate-an-apple-1-285x399.webp?t=1656357875",
+      "synonyms": [],
+      "relations": [],
+      "tags": [
+        "abstract",
+        "psychological",
+        "shorts"
       ],
-      "relations": [
-        "https://anidb.net/anime/9843",
-        "https://anidb.net/anime/9844"
-      ],
-      "tags": [],
-      "id": "https://anidb.net/anime/9845"
+      "id": "https://anime-planet.com/anime/the-man-who-ate-an-apple"
     },
     {
       "sources": [
         "https://anime-planet.com/anime/tobacco-wa-dasai",
+        "https://anisearch.com/anime/15555",
         "https://kitsu.io/anime/8462",
         "https://livechart.me/anime/7902",
         "https://myanimelist.net/anime/23401",
@@ -1989,12 +1978,16 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/4/60441t.jpg",
       "synonyms": [
         "Cigarettes are Lame",
+        "Tabaco wa Dasai",
         "たばこはダサい"
       ],
       "relations": [],
       "tags": [
+        "basketball",
         "educational",
         "family friendly",
+        "high school",
+        "present",
         "school",
         "school life",
         "slice of life"
@@ -2040,70 +2033,6 @@
     },
     {
       "sources": [
-        "https://kitsu.io/anime/44316"
-      ],
-      "title": "Untitled World",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SUMMER",
-        "year": 2020
-      },
-      "picture": "https://media.kitsu.io/anime/poster_images/44316/small.jpg",
-      "thumbnail": "https://media.kitsu.io/anime/poster_images/44316/tiny.jpg",
-      "synonyms": [],
-      "relations": [
-        "https://kitsu.io/anime/43899"
-      ],
-      "tags": [
-        "action",
-        "fantasy",
-        "music"
-      ],
-      "id": "https://kitsu.io/anime/44316"
-    },
-    {
-      "sources": [
-        "https://anilist.co/anime/108020",
-        "https://anime-planet.com/anime/vary-peri",
-        "https://kitsu.io/anime/41581",
-        "https://myanimelist.net/anime/35641"
-      ],
-      "title": "Vary Peri",
-      "type": "TV",
-      "episodes": 40,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 2012
-      },
-      "picture": "https://cdn.myanimelist.net/images/anime/1133/93044.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1133/93044t.jpg",
-      "synonyms": [
-        "Magical Wizard Cake Fairy",
-        "Sweet Fairies",
-        "Sweets Fairy",
-        "幻变精灵之蛋糕甜心"
-      ],
-      "relations": [],
-      "tags": [
-        "adventure",
-        "animal protagonists",
-        "anthropomorphic",
-        "cg animation",
-        "chinese animation",
-        "comedy",
-        "family friendly",
-        "fantasy",
-        "kids",
-        "magic",
-        "non-human protagonists"
-      ],
-      "id": "https://myanimelist.net/anime/35641"
-    },
-    {
-      "sources": [
         "https://anime-planet.com/anime/wave-surfing-yappe-movie-3",
         "https://livechart.me/anime/9907"
       ],
@@ -2112,10 +2041,10 @@
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "FALL",
+        "season": "UNDEFINED",
         "year": 2020
       },
-      "picture": "https://cdn.anime-planet.com/anime/primary/wave-surfing-yappe-movie-3-1.jpg?t=1625790474",
+      "picture": "https://cdn.anime-planet.com/anime/primary/wave-surfing-yappe-movie-3-1.jpg?t=1625908484",
       "thumbnail": "https://cdn.anime-planet.com/anime/primary/wave-surfing-yappe-movie-3-1-190x269.jpg?t=1625908484",
       "synonyms": [
         "WAVE!! -Let's go surfing!!- 3",
@@ -2133,7 +2062,8 @@
       "tags": [
         "ocean",
         "slice of life",
-        "sports"
+        "sports",
+        "surfing"
       ],
       "id": "https://anime-planet.com/anime/wave-surfing-yappe-movie-3"
     },
@@ -2142,20 +2072,21 @@
         "https://myanimelist.net/anime/46929"
       ],
       "title": "Xiao Ban Long Xijun Da Zuozhan",
-      "type": "TV",
+      "type": "ONA",
       "episodes": 10,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1044/129399.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1044/129399t.jpg",
       "synonyms": [
         "小伴龙细菌大作战"
       ],
       "relations": [],
       "tags": [
+        "fantasy",
         "kids"
       ],
       "id": "https://myanimelist.net/anime/46929"

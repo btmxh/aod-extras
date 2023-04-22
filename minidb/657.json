@@ -43,65 +43,6 @@
     },
     {
       "sources": [
-        "https://anidb.net/anime/16671",
-        "https://anilist.co/anime/137339",
-        "https://anime-planet.com/anime/ashuai-5th-season"
-      ],
-      "title": "Ashuai 5th Season",
-      "type": "ONA",
-      "episodes": 34,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2021
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/ashuai-5th-season-1.jpg?t=1628202749",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/ashuai-5th-season-1-285x399.jpg?t=1628202749",
-      "synonyms": [
-        "A-Shuai Di 5 Ji",
-        "Ashuai 5",
-        "阿衰 第5季",
-        "阿衰 第五季"
-      ],
-      "relations": [
-        "https://anidb.net/anime/16670",
-        "https://anilist.co/anime/131015",
-        "https://anilist.co/anime/139479",
-        "https://anime-planet.com/anime/ashuai-4th-season",
-        "https://anime-planet.com/anime/ashuai-6th-season"
-      ],
-      "tags": [
-        "chinese animation",
-        "comedy",
-        "short episodes"
-      ],
-      "id": "https://anime-planet.com/anime/ashuai-5th-season"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/46508"
-      ],
-      "title": "Bei Wa Gushi",
-      "type": "TV",
-      "episodes": 70,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "贝瓦故事"
-      ],
-      "relations": [],
-      "tags": [
-        "kids"
-      ],
-      "id": "https://myanimelist.net/anime/46508"
-    },
-    {
-      "sources": [
         "https://anidb.net/anime/9306",
         "https://anilist.co/anime/14751",
         "https://anime-planet.com/anime/pretty-guardian-sailor-moon-crystal",
@@ -134,11 +75,13 @@
         "SMC",
         "Sailor Moon Crystal",
         "Sailor Moon Remake",
+        "sm (2015)",
         "sm2014",
         "Красавица-воин Сейлор Мун: Кристалл",
         "Красивата пазителка Сейлър Муун: Кристал",
         "Прекрасная воительница Сейлор Мун: Кристалл",
         "びしょうじょせんしせーらーむーんくりすたる",
+        "美少女战士Crystal",
         "美少女戦士セーラームーン Crystal",
         "美少女戦士セーラームーン Crystal Season I",
         "美少女戦士セーラームーン Crystal Season II",
@@ -156,6 +99,8 @@
         "https://anilist.co/anime/21462",
         "https://anilist.co/anime/530",
         "https://anilist.co/anime/740",
+        "https://anime-planet.com/anime/bishoujo-senshi-sailor-moon-cosmos-movie-1",
+        "https://anime-planet.com/anime/bishoujo-senshi-sailor-moon-cosmos-movie-2",
         "https://anime-planet.com/anime/momoiro-clover-z-moon-pride",
         "https://anime-planet.com/anime/pretty-guardian-sailor-moon-crystal-2016",
         "https://anime-planet.com/anime/pretty-guardian-sailor-moon-eternal-movie-1",
@@ -177,19 +122,10 @@
         "https://anime-planet.com/anime/sailor-moon-super-s-special",
         "https://anime-planet.com/anime/sailor-moon-super-s-the-movie",
         "https://anisearch.com/anime/11125",
-        "https://anisearch.com/anime/12190",
-        "https://anisearch.com/anime/14257",
-        "https://anisearch.com/anime/1619",
-        "https://anisearch.com/anime/1927",
+        "https://anisearch.com/anime/13380",
         "https://anisearch.com/anime/2110",
-        "https://anisearch.com/anime/2150",
-        "https://anisearch.com/anime/2333",
         "https://anisearch.com/anime/2469",
-        "https://anisearch.com/anime/3904",
-        "https://anisearch.com/anime/83",
-        "https://anisearch.com/anime/855",
-        "https://anisearch.com/anime/8625",
-        "https://anisearch.com/anime/8627",
+        "https://anisearch.com/anime/9751",
         "https://kitsu.io/anime/11415",
         "https://kitsu.io/anime/489",
         "https://kitsu.io/anime/664",
@@ -226,35 +162,50 @@
         "asia",
         "based on a manga",
         "bisexual",
+        "bullying",
+        "cgi",
+        "coming of age",
         "contemporary fantasy",
+        "demon",
         "demons",
         "drama",
         "earth",
         "elemental powers",
+        "fairy tale",
         "fantasy",
         "fated lovers",
         "female protagonist",
+        "found family",
         "henshin",
-        "henshin heroes",
         "japan",
+        "lost civilization",
         "magic",
         "magical girl",
         "mahou shoujo",
         "manga",
+        "mythology",
         "plot continuity",
         "present",
         "primarily female cast",
+        "primarily teen cast",
+        "rehabilitation",
         "reincarnation",
+        "revenge",
         "romance",
         "romantic drama",
+        "school",
         "school life",
         "sentai",
         "shoujo",
+        "shrine maiden",
+        "space",
         "super power",
+        "superhero",
         "time manipulation",
         "time travel",
         "tokusatsu",
         "tokyo",
+        "tragedy",
         "urban fantasy"
       ],
       "id": "https://myanimelist.net/anime/14751"
@@ -282,6 +233,7 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/4/15774t.jpg",
       "synonyms": [
         "BLUE GENDER THE WARRIOR",
+        "BLUE GENDER: THE WARRIOR",
         "Blue Gender - Harcra született",
         "Blue Gender - The Warrior",
         "Blue Gender - Zrozen k boji",
@@ -313,7 +265,6 @@
         "mecha",
         "military",
         "monster",
-        "post apocalypse",
         "post-apocalyptic",
         "real robots",
         "romance",
@@ -330,6 +281,7 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/fei-mao-zheng-zhuan",
         "https://myanimelist.net/anime/46291"
       ],
       "title": "Fei Mao Zheng Zhuan",
@@ -338,53 +290,29 @@
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2008
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1384/127682.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1384/127682t.jpg",
       "synonyms": [
         "肥猫正传"
       ],
       "relations": [],
       "tags": [
-        "kids"
+        "animal protagonists",
+        "anthropomorphic",
+        "chinese animation",
+        "comedy",
+        "fantasy",
+        "kids",
+        "non-human protagonists",
+        "short episodes"
       ],
       "id": "https://myanimelist.net/anime/46291"
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/garo-vanishing-line-recap",
-        "https://kitsu.io/anime/41713"
-      ],
-      "title": "Garo: Vanishing Line Recap",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 2018
-      },
-      "picture": "https://anime-planet.com/images/anime/covers/9590.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/9590.jpg",
-      "synonyms": [
-        "Garo: Vanishing Line Episode 12.5",
-        "牙狼＜GARO＞-VANISHING LINE- 総集編"
-      ],
-      "relations": [
-        "https://anime-planet.com/anime/garo-vanishing-line"
-      ],
-      "tags": [
-        "action",
-        "based on a tv series",
-        "conspiracy",
-        "recap",
-        "sci fi",
-        "superheroes"
-      ],
-      "id": "https://anime-planet.com/anime/garo-vanishing-line-recap"
-    },
-    {
-      "sources": [
+        "https://anidb.net/anime/13941",
         "https://anisearch.com/anime/13491"
       ],
       "title": "Gekijouban Soushuuhen Made in Abyss",
@@ -395,35 +323,46 @@
         "season": "WINTER",
         "year": 2019
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/13/13491.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/13/13491.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/13/13491_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/13/13491.webp",
       "synonyms": [
         "Gekijōban Sōshūhen Made in Abyss",
         "Made in Abyss (Compendium Films)",
         "Made in Abyss (Movie)",
+        "Made in Abyss (Movies)",
         "Made in Abyss (Películas)",
         "Made in Abyss (Recap Filme)",
+        "Made in Abyss : L`aube du voyage",
+        "Made in Abyss : Le crépuscule errant",
         "Made in Abyss Recap Movies",
-        "劇場版総集編メイドインアビス"
+        "mia movie",
+        "Созданный в Бездне (movie)",
+        "劇場版総集編メイドインアビス",
+        "来自深渊 漂泊的黄昏"
       ],
       "relations": [
-        "https://anisearch.com/anime/12134",
-        "https://anisearch.com/anime/13071",
-        "https://anisearch.com/anime/14893"
+        "https://anidb.net/anime/12681",
+        "https://anisearch.com/anime/12134"
       ],
       "tags": [
         "action",
         "adventure",
         "alternative world",
+        "android",
         "comedy",
         "dark fantasy",
         "fantasy",
         "heroine of strong character",
+        "manga",
+        "mecha",
         "monster",
         "robots & androids",
+        "science fiction",
         "science-fiction",
+        "seinen",
         "slapstick",
-        "supernatural drama"
+        "supernatural drama",
+        "violence"
       ],
       "id": "https://anisearch.com/anime/13491"
     },
@@ -486,6 +425,7 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/6/72771t.jpg",
       "synonyms": [
         "GON -ゴン-(第2期)",
+        "GON 2nd Season",
         "GON-ゴン- (2015)",
         "Gon (2015)",
         "Gon 2",
@@ -524,33 +464,8 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/126762"
-      ],
-      "title": "Gudetama Put Your Hands Up",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2019
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126762-QqOvIS1tj8F7.jpg",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126762-QqOvIS1tj8F7.jpg",
-      "synonyms": [
-        "ぐでたまぷちょへんざ"
-      ],
-      "relations": [
-        "https://anilist.co/anime/97861"
-      ],
-      "tags": [
-        "agender",
-        "henshin"
-      ],
-      "id": "https://anilist.co/anime/126762"
-    },
-    {
-      "sources": [
         "https://anilist.co/anime/129866",
+        "https://anisearch.com/anime/14118",
         "https://kitsu.io/anime/11289",
         "https://myanimelist.net/anime/31255",
         "https://notify.moe/anime/ZuV9pKmmg"
@@ -566,11 +481,14 @@
       "picture": "https://cdn.myanimelist.net/images/anime/9/75110.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/9/75110t.jpg",
       "synonyms": [
+        "Hakusai Anime Bangai-hen: Ichitaka Voice Drama",
         "Hakusai Anime Special",
-        "白菜アニメ番外編"
+        "白菜アニメ番外編",
+        "白菜アニメ番外編 一高ボイスドラマ"
       ],
       "relations": [
         "https://anilist.co/anime/19495",
+        "https://anisearch.com/anime/8928",
         "https://kitsu.io/anime/9839",
         "https://myanimelist.net/anime/19495",
         "https://notify.moe/anime/0pkEpFimR"
@@ -625,9 +543,11 @@
         "https://anime-planet.com/anime/strawberry-marshmallow-special-episode-0",
         "https://anisearch.com/anime/10422",
         "https://anisearch.com/anime/4157",
-        "https://anisearch.com/anime/5085",
         "https://kitsu.io/anime/1698",
         "https://kitsu.io/anime/3493",
+        "https://livechart.me/anime/4277",
+        "https://livechart.me/anime/4506",
+        "https://livechart.me/anime/4554",
         "https://myanimelist.net/anime/1888",
         "https://myanimelist.net/anime/4156",
         "https://notify.moe/anime/bedu5Kmig",
@@ -636,6 +556,8 @@
       "tags": [
         "asia",
         "based on a manga",
+        "cgdct",
+        "child protagonists",
         "comedy",
         "cute girls doing cute things",
         "daily life",
@@ -645,6 +567,7 @@
         "female protagonist",
         "iyashikei",
         "japan",
+        "language barrier",
         "manga",
         "moe",
         "present",
@@ -679,7 +602,6 @@
         "姦染3 首都崩壊"
       ],
       "relations": [
-        "https://anisearch.com/anime/5577",
         "https://anisearch.com/anime/5870",
         "https://anisearch.com/anime/7665",
         "https://myanimelist.net/anime/12961",
@@ -707,8 +629,8 @@
       ],
       "title": "Konu to Tanoshii Otomodachi",
       "type": "TV",
-      "episodes": 2,
-      "status": "ONGOING",
+      "episodes": 12,
+      "status": "FINISHED",
       "animeSeason": {
         "season": "FALL",
         "year": 2021
@@ -758,6 +680,7 @@
     {
       "sources": [
         "https://anidb.net/anime/10865",
+        "https://anime-planet.com/anime/nami-shen-bing",
         "https://anisearch.com/anime/10202",
         "https://kitsu.io/anime/9903",
         "https://livechart.me/anime/7715",
@@ -786,6 +709,8 @@
       "tags": [
         "action",
         "adventure",
+        "chinese animation",
+        "family friendly",
         "fantasy",
         "new",
         "science-fiction",
@@ -799,58 +724,25 @@
       "sources": [
         "https://myanimelist.net/anime/47374"
       ],
-      "title": "Naohonghong De Huihua Ben",
+      "title": "Naohonghong de Huihua Ben",
       "type": "ONA",
       "episodes": 18,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2015
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1836/129421.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1836/129421t.jpg",
       "synonyms": [
         "闹哄哄的绘画本"
       ],
       "relations": [],
       "tags": [
-        "fantasy"
+        "fantasy",
+        "kids"
       ],
       "id": "https://myanimelist.net/anime/47374"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/11659"
-      ],
-      "title": "Oda Nobuna no Yabou Soushuuhen: Hime Bushou-tachi no Tatakai",
-      "type": "OVA",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2013
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/11/11659.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/11/11659.webp",
-      "synonyms": [
-        "Oda Nobuna no Yabou Recap Full Version",
-        "Oda Nobuna no Yabou Soushuuhen Kanzenban",
-        "Oda Nobuna no Yabō Sōshūhen: Hime Bushō-tachi no Tatakai",
-        "The Ambition of Oda Nobuna Summary Full Version",
-        "織田信奈の野望 総集編 完全版",
-        "織田信奈の野望 総集編 ～姫武将たちの戦い～"
-      ],
-      "relations": [
-        "https://anisearch.com/anime/7505",
-        "https://anisearch.com/anime/8396"
-      ],
-      "tags": [
-        "action",
-        "ecchi",
-        "historical",
-        "war"
-      ],
-      "id": "https://anisearch.com/anime/11659"
     },
     {
       "sources": [
@@ -864,26 +756,24 @@
         "season": "SPRING",
         "year": 2013
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/9/9809.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/9/9809.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/9/9809_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/9/9809.webp",
       "synonyms": [
-        "My Little Sister Can't Be This Cute 2: Animated Commentary",
+        "My Little Sister Can’t Be This Cute 2: Animated Commentary",
         "Ore no Imōto ga Konna ni Kawaī Wake ga Nai.: Animated Commentary",
         "俺の妹がこんなに可愛いわけがない。 ～Animated Commentary～"
       ],
       "relations": [
-        "https://anisearch.com/anime/6232",
-        "https://anisearch.com/anime/6974",
         "https://anisearch.com/anime/7763",
-        "https://anisearch.com/anime/8972",
-        "https://anisearch.com/anime/9772"
+        "https://anisearch.com/anime/8112"
       ],
       "tags": [
         "comedy",
         "drama",
         "moe",
         "present",
-        "romance"
+        "romance",
+        "super deformed"
       ],
       "id": "https://anisearch.com/anime/9809"
     },
@@ -913,10 +803,13 @@
     },
     {
       "sources": [
+        "https://anidb.net/anime/1784",
         "https://anilist.co/anime/2906",
         "https://anime-planet.com/anime/rokushin-gattai-god-mars-juunanasai-no-densetsu",
+        "https://anisearch.com/anime/513",
         "https://kitsu.io/anime/2636",
-        "https://myanimelist.net/anime/2906"
+        "https://myanimelist.net/anime/2906",
+        "https://notify.moe/anime/zE5UcKimg"
       ],
       "title": "Rokushin Gattai GodMars: Juunana-sai no Densetsu",
       "type": "OVA",
@@ -926,22 +819,32 @@
         "season": "SPRING",
         "year": 1988
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/3/58745.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/3/58745t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1946/134588.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1946/134588t.jpg",
       "synonyms": [
+        "6god ova",
         "God Mars: The Legend of 17 Years",
         "God Mars: Untold Legend",
         "Rokushin Gattai God Mars Juunanasai no Densetsu",
+        "Rokushin Gattai God Mars: Juunanansai no Densetsu",
+        "Rokushin Gattai God Mars: Jūnanansai no Densetsu",
+        "Rokushin Gattai GodMars: Juunanasai no Densetsu",
         "Six God Combination God Mars: Seventeen Year Old Legend",
+        "六神合体 十七岁的传说",
         "六神合体ゴッドマーズ 十七歳の伝説"
       ],
       "relations": [
+        "https://anidb.net/anime/967",
+        "https://anidb.net/anime/968",
         "https://anilist.co/anime/3399",
         "https://anime-planet.com/anime/rokushin-gattai-god-mars",
         "https://anime-planet.com/anime/rokushin-gattai-god-mars-movie",
+        "https://anisearch.com/anime/1266",
         "https://kitsu.io/anime/2984",
         "https://kitsu.io/anime/5712",
-        "https://myanimelist.net/anime/3399"
+        "https://myanimelist.net/anime/3399",
+        "https://notify.moe/anime/usaw5Fimg",
+        "https://notify.moe/anime/z9eWtFmmg"
       ],
       "tags": [
         "action",
@@ -953,6 +856,7 @@
         "sci fi",
         "sci-fi",
         "science fiction",
+        "science-fiction",
         "space",
         "space opera",
         "super robot",
@@ -982,8 +886,10 @@
         "애니메이션 런닝맨"
       ],
       "relations": [
+        "https://anime-planet.com/anime/running-man-the-ultimate-challenge",
         "https://anisearch.com/anime/14861",
-        "https://anisearch.com/anime/15486"
+        "https://anisearch.com/anime/15486",
+        "https://myanimelist.net/anime/48183"
       ],
       "tags": [
         "action",
@@ -1001,25 +907,100 @@
     },
     {
       "sources": [
+        "https://anidb.net/anime/17277",
+        "https://anilist.co/anime/146668",
+        "https://anime-planet.com/anime/rwby-ice-queendom",
+        "https://anisearch.com/anime/17249",
+        "https://kitsu.io/anime/45997",
+        "https://livechart.me/anime/11155",
+        "https://myanimelist.net/anime/51381",
+        "https://notify.moe/anime/K-3D3cy7g"
+      ],
+      "title": "RWBY: Hyousetsu Teikoku",
+      "type": "TV",
+      "episodes": 12,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SUMMER",
+        "year": 2022
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1356/121832.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1356/121832t.jpg",
+      "synonyms": [
+        "RWBY : Ice Queendom",
+        "RWBY Ледяное королевство",
+        "RWBY 冰雪帝国",
+        "RWBY 冰雪帝國",
+        "RWBY 氷雪帝国",
+        "RWBY: Hyosetsu Teikoku",
+        "RWBY: Hyōsetsu Teikoku",
+        "RWBY: Ice Queendom",
+        "RWBY: Ледяная империя",
+        "RWBY: จักรวรรดิเหมันต์",
+        "Красный",
+        "белый",
+        "жёлтый: Ледяная империя",
+        "чёрный"
+      ],
+      "relations": [
+        "https://kitsu.io/anime/7929"
+      ],
+      "tags": [
+        "action",
+        "american derived",
+        "based on a cartoon",
+        "cgi",
+        "coming of age",
+        "cyberpunk",
+        "drama",
+        "dream world",
+        "ensemble cast",
+        "fairy tale",
+        "fantasy",
+        "female protagonist",
+        "guns",
+        "kemonomimi",
+        "lgbtq+ themes",
+        "magic",
+        "ojou-sama",
+        "primarily female cast",
+        "school",
+        "sci fi",
+        "sci-fi",
+        "science fiction",
+        "science-fiction",
+        "shounen",
+        "super power",
+        "swordplay",
+        "terrorism",
+        "western animated cartoon"
+      ],
+      "id": "https://myanimelist.net/anime/51381"
+    },
+    {
+      "sources": [
         "https://anilist.co/anime/126289",
         "https://anime-planet.com/anime/deep-sea",
+        "https://anisearch.com/anime/18077",
         "https://kitsu.io/anime/44755",
-        "https://myanimelist.net/anime/44212"
+        "https://myanimelist.net/anime/44212",
+        "https://notify.moe/anime/bQMlsP04g"
       ],
       "title": "Shenhai",
       "type": "MOVIE",
       "episodes": 1,
-      "status": "UPCOMING",
+      "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
+        "season": "WINTER",
+        "year": 2023
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/1974/110398.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1974/110398t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1122/132765.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1122/132765t.jpg",
       "synonyms": [
         "Deep Sea",
         "Shen Hai",
-        "深海"
+        "深海",
+        "深海之驭海人"
       ],
       "relations": [
         "https://myanimelist.net/anime/40111",
@@ -1028,8 +1009,10 @@
       "tags": [
         "adventure",
         "cg animation",
+        "cg-anime",
         "chinese animation",
         "fantasy",
+        "female protagonist",
         "full cgi",
         "original work"
       ],
@@ -1037,31 +1020,13 @@
     },
     {
       "sources": [
-        "https://kitsu.io/anime/43359"
-      ],
-      "title": "Shirokuro Obake no Ekaki Uta",
-      "type": "ONA",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 2017
-      },
-      "picture": "https://media.kitsu.io/anime/poster_images/43359/small.jpg",
-      "thumbnail": "https://media.kitsu.io/anime/poster_images/43359/tiny.jpg",
-      "synonyms": [
-        "Twin Obake's Drawing Song UTA-MON"
-      ],
-      "relations": [],
-      "tags": [
-        "music",
-        "supernatural"
-      ],
-      "id": "https://kitsu.io/anime/43359"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/3138"
+        "https://anilist.co/anime/3138",
+        "https://anime-planet.com/anime/solty-rei-opportunities-missed-love-shared",
+        "https://anisearch.com/anime/10396",
+        "https://kitsu.io/anime/2820",
+        "https://livechart.me/anime/7694",
+        "https://myanimelist.net/anime/3138",
+        "https://notify.moe/anime/Fgzw5Kmig"
       ],
       "title": "Solty Rei: Surechigau Kimochi de, Omoi Au Kokoro de.",
       "type": "SPECIAL",
@@ -1074,19 +1039,42 @@
       "picture": "https://cdn.myanimelist.net/images/anime/6/69657.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/6/69657t.jpg",
       "synonyms": [
+        "Love Shared",
         "Solty Rei",
+        "Solty Rei Bonus Episodes",
+        "Solty Rei Episode 9.5",
         "Solty Rei Episodee 9.5",
+        "Solty Rei Extra Episode",
         "Solty Rei OVA",
+        "Solty Rei Special",
+        "Solty Rei Specials",
+        "Solty Rei: Mit dem vorbeigehenden Gefühl, mit dem Herz des Gedankens",
+        "Solty Rei: Opportunities Missed",
+        "Solty Rei: Opportunities Missed / Love Shared",
         "Solty Rei: Opportunities Missed, Love Shared",
+        "Solty Rei: Surechigau Kimochi de, Omoiau Kokoro de.",
         "SoltyRei Special",
-        "ソルティレイ すれ違うキモチで, 想い合うココロで."
+        "SoltyRei Specials",
+        "そるてぃれい",
+        "ソルティレイ",
+        "ソルティレイ すれ違うキモチで, 想い合うココロで.",
+        "ソルティレイ すれ違うキモチで、 想い合うココロで。"
       ],
       "relations": [
-        "https://myanimelist.net/anime/152"
+        "https://anilist.co/anime/152",
+        "https://anime-planet.com/anime/solty-rei",
+        "https://anisearch.com/anime/2702",
+        "https://kitsu.io/anime/130",
+        "https://livechart.me/anime/4736",
+        "https://myanimelist.net/anime/152",
+        "https://notify.moe/anime/xSUpcFmiR"
       ],
       "tags": [
         "comedy",
-        "drama"
+        "cyberpunk",
+        "drama",
+        "robots & androids",
+        "romance"
       ],
       "id": "https://myanimelist.net/anime/3138"
     },
@@ -1100,7 +1088,7 @@
         "https://notify.moe/anime/wejDpKmiR"
       ],
       "title": "Thermae Romae: Kodai Romajin ga Uchuu e",
-      "type": "SPECIAL",
+      "type": "ONA",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
@@ -1199,6 +1187,8 @@
       "synonyms": [
         "Dragon Slayer Legend",
         "XANADU Dragon Slayer Densetsu",
+        "XANADU Dragonslayer Densetsu",
+        "XANADU ドラゴンスレイヤー伝説",
         "Xanadu",
         "Xanadu Dragonslayer Legend",
         "Xanadu: Legend of Dragonslayer",
@@ -1232,31 +1222,6 @@
     },
     {
       "sources": [
-        "https://myanimelist.net/anime/45714"
-      ],
-      "title": "Xiyangyang Yu Huitailang Zhi Yangyang Deyi Xiyangyang Fanwai Pian",
-      "type": "TV",
-      "episodes": 5,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "喜羊羊与灰太狼之洋洋得意喜羊羊 番外篇"
-      ],
-      "relations": [
-        "https://myanimelist.net/anime/43982"
-      ],
-      "tags": [
-        "kids"
-      ],
-      "id": "https://myanimelist.net/anime/45714"
-    },
-    {
-      "sources": [
         "https://anime-planet.com/anime/youko-takahashi-the-cruel-angels-thesis"
       ],
       "title": "Youko Takahashi: The Cruel Angel's Thesis",
@@ -1267,8 +1232,8 @@
         "season": "UNDEFINED",
         "year": 2018
       },
-      "picture": "https://anime-planet.com/images/anime/covers/17593.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/17593.jpg",
+      "picture": "https://cdn.anime-planet.com/anime/primary/youko-takahashi-the-cruel-angels-thesis-1.webp?t=1629233232",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/youko-takahashi-the-cruel-angels-thesis-1-285x400.webp?t=1629233232",
       "synonyms": [
         "Youko Takahashi: Zankoku na Tenshi no Te-ze"
       ],

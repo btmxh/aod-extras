@@ -2,26 +2,26 @@
   "data": [
     {
       "sources": [
-        "https://myanimelist.net/anime/48233"
+        "https://anime-planet.com/anime/art-of-war-way-to-be-an-influencer"
       ],
-      "title": "Bei Ken Xio season5",
-      "type": "TV",
-      "episodes": 52,
+      "title": "Art of War: Way to Be an Influencer",
+      "type": "MOVIE",
+      "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2021
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "빼꼼"
-      ],
+      "picture": "https://cdn.anime-planet.com/anime/primary/art-of-war-way-to-be-an-influencer-1.webp?t=1662656285",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/art-of-war-way-to-be-an-influencer-1-285x400.webp?t=1662656285",
+      "synonyms": [],
       "relations": [],
       "tags": [
-        "comedy"
+        "korean animation",
+        "military",
+        "shorts"
       ],
-      "id": "https://myanimelist.net/anime/48233"
+      "id": "https://anime-planet.com/anime/art-of-war-way-to-be-an-influencer"
     },
     {
       "sources": [
@@ -35,12 +35,14 @@
         "season": "SUMMER",
         "year": 2019
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/14/14741.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/14/14741.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/14/14741_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/14/14741.webp",
       "synonyms": [
         "Boboiboy: Elemental Heroes"
       ],
-      "relations": [],
+      "relations": [
+        "https://anisearch.com/anime/11584"
+      ],
       "tags": [
         "cg-anime"
       ],
@@ -77,98 +79,42 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/126670"
-      ],
-      "title": "Carry Me Off",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2014
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126670-N7OuKspKFPjV.jpg",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126670-N7OuKspKFPjV.jpg",
-      "synonyms": [],
-      "relations": [],
-      "tags": [],
-      "id": "https://anilist.co/anime/126670"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/45773"
-      ],
-      "title": "Dream of the Red Chamber (2011)",
-      "type": "TV",
-      "episodes": 108,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "红楼梦(2011)"
-      ],
-      "relations": [],
-      "tags": [
-        "kids"
-      ],
-      "id": "https://myanimelist.net/anime/45773"
-    },
-    {
-      "sources": [
+        "https://anilist.co/anime/129300",
+        "https://anime-planet.com/anime/duo-bao-xingyun-xing-2nd-season",
         "https://myanimelist.net/anime/44811"
       ],
-      "title": "Duo Bao Xingyun Xing season2",
+      "title": "Duo Bao Xingyun Xing 2",
       "type": "TV",
       "episodes": 52,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2009
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1008/129908.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1008/129908t.jpg",
       "synonyms": [
-        "夺宝幸运星2"
+        "Duo Bao Xingyun Xing 2nd Season",
+        "夺宝幸运星2",
+        "开心西游记2"
       ],
       "relations": [
+        "https://anilist.co/anime/129299",
+        "https://anilist.co/anime/129301",
+        "https://anime-planet.com/anime/duo-bao-xingyun-xing",
+        "https://anime-planet.com/anime/duo-bao-xingyun-xing-3rd-season",
         "https://myanimelist.net/anime/44810",
         "https://myanimelist.net/anime/44812"
       ],
       "tags": [
+        "adventure",
+        "chinese animation",
+        "comedy",
         "fantasy",
-        "kids"
+        "kids",
+        "short episodes"
       ],
       "id": "https://myanimelist.net/anime/44811"
-    },
-    {
-      "sources": [
-        "https://livechart.me/anime/10868"
-      ],
-      "title": "Fudanshi Shoukan: Isekai de Shinjuu ni Hameraremashita 2nd",
-      "type": "ONA",
-      "episodes": 3,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 2021
-      },
-      "picture": "https://u.livechart.me/anime/10868/poster_image/cb53691a76357b8d611f772f26533c28.jpg?style=large&format=jpg",
-      "thumbnail": "https://u.livechart.me/anime/10868/poster_image/cb53691a76357b8d611f772f26533c28.jpg?style=small&format=jpg",
-      "synonyms": [
-        "腐男子召喚～異世界で神獣にハメられました～ 2nd"
-      ],
-      "relations": [
-        "https://livechart.me/anime/10145"
-      ],
-      "tags": [
-        "fantasy",
-        "shounen ai"
-      ],
-      "id": "https://livechart.me/anime/10868"
     },
     {
       "sources": [
@@ -205,6 +151,7 @@
     {
       "sources": [
         "https://anidb.net/anime/14745",
+        "https://kitsu.io/anime/46976",
         "https://myanimelist.net/anime/38545"
       ],
       "title": "Han Solo/Star Wars Story",
@@ -222,10 +169,13 @@
         "ハン・ソロ／スター・ウォーズ・ストーリー"
       ],
       "relations": [
+        "https://anidb.net/anime/16420",
         "https://myanimelist.net/anime/37334"
       ],
       "tags": [
-        "sci-fi"
+        "sci-fi",
+        "science fiction",
+        "short episodes"
       ],
       "id": "https://myanimelist.net/anime/38545"
     },
@@ -241,8 +191,8 @@
         "season": "WINTER",
         "year": 2015
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/11/11167.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/11/11167.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/11/11167_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/11/11167.webp",
       "synonyms": [
         "Ano ne! (あのね！)",
         "Ano ne: Flash Anime (\"あのね\" フラッシュ風アニメ)",
@@ -294,6 +244,38 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/hong-lou-meng",
+        "https://myanimelist.net/anime/45773"
+      ],
+      "title": "Hong Lou Meng",
+      "type": "TV",
+      "episodes": 108,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2011
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1249/123467.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1249/123467t.jpg",
+      "synonyms": [
+        "Dream of the Red Chamber",
+        "Hongloumeng",
+        "红楼梦"
+      ],
+      "relations": [
+        "https://anime-planet.com/anime/hong-lou-meng-2018",
+        "https://myanimelist.net/anime/45774"
+      ],
+      "tags": [
+        "chinese animation",
+        "historical",
+        "kids",
+        "short episodes"
+      ],
+      "id": "https://myanimelist.net/anime/45773"
+    },
+    {
+      "sources": [
         "https://anime-planet.com/anime/mirage-of-blaze-recap",
         "https://myanimelist.net/anime/40104"
       ],
@@ -326,7 +308,6 @@
         "historical",
         "recap",
         "reincarnation",
-        "romance",
         "school",
         "shounen-ai",
         "supernatural"
@@ -335,35 +316,10 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/ie-naki-ko-remi-2001"
-      ],
-      "title": "Ie Naki Ko Remi (2001)",
-      "type": "SPECIAL",
-      "episodes": 2,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2001
-      },
-      "picture": "https://anime-planet.com/images/anime/covers/9971.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/9971.jpg",
-      "synonyms": [],
-      "relations": [
-        "https://anime-planet.com/anime/ie-naki-ko-remi",
-        "https://anime-planet.com/anime/ie-naki-ko-remi-specials"
-      ],
-      "tags": [
-        "19th century",
-        "historical",
-        "recap"
-      ],
-      "id": "https://anime-planet.com/anime/ie-naki-ko-remi-2001"
-    },
-    {
-      "sources": [
         "https://anilist.co/anime/102349",
         "https://anime-planet.com/anime/k-seven-stories-movie-5-memory-of-red-burn",
         "https://kitsu.io/anime/41768",
+        "https://livechart.me/anime/2917",
         "https://myanimelist.net/anime/37306",
         "https://notify.moe/anime/qj7D6LoiR"
       ],
@@ -379,10 +335,12 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1790/91851t.jpg",
       "synonyms": [
         "K SEVEN STORIES Episode 5",
+        "K SEVEN STORIES Episode 5　「メモリー・オブ・レッド ～BURN～」",
         "K SEVEN STORIES: Memory of Red ~BURN~",
         "K SEVEN STORIES「メモリー・オブ・レッド ～BURN～」",
         "K Seven Stories メモリー・オブ・レッド ~BURN~",
         "K: SEVEN STORIES \"Memory of RED - BURN -\"",
+        "K: Seven Stories Episode 5 - Memory of Red ~BURN~",
         "K: Seven Stories Movie 5 - Memory of Red ~BURN~"
       ],
       "relations": [
@@ -400,6 +358,15 @@
         "https://anime-planet.com/anime/k-seven-stories-the-idol-k",
         "https://kitsu.io/anime/41767",
         "https://kitsu.io/anime/41771",
+        "https://livechart.me/anime/116",
+        "https://livechart.me/anime/1268",
+        "https://livechart.me/anime/2177",
+        "https://livechart.me/anime/2914",
+        "https://livechart.me/anime/2915",
+        "https://livechart.me/anime/2916",
+        "https://livechart.me/anime/2918",
+        "https://livechart.me/anime/2919",
+        "https://livechart.me/anime/948",
         "https://myanimelist.net/anime/37305",
         "https://myanimelist.net/anime/37307",
         "https://myanimelist.net/anime/37308"
@@ -412,10 +379,12 @@
         "fantasy",
         "gangs",
         "kuudere",
+        "mystery",
         "original work",
         "primarily male cast",
         "super power",
         "supernatural",
+        "superpower",
         "superpowers",
         "tragedy"
       ],
@@ -478,7 +447,7 @@
       "sources": [
         "https://myanimelist.net/anime/46953"
       ],
-      "title": "Kexue Guai Boshi Zhi Shenqi De Taiyang Xueyuan",
+      "title": "Kexue Guai Boshi: Shenqi de Taiyang Xueyuan",
       "type": "TV",
       "episodes": 26,
       "status": "FINISHED",
@@ -486,8 +455,8 @@
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1138/130466.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1138/130466t.jpg",
       "synonyms": [
         "科学怪博士之神奇的太阳学院"
       ],
@@ -500,6 +469,8 @@
     {
       "sources": [
         "https://anidb.net/anime/12706",
+        "https://anilist.co/anime/160189",
+        "https://anime-planet.com/anime/the-blue-hearts-kiss-shite-hoshii",
         "https://kitsu.io/anime/13131",
         "https://myanimelist.net/anime/32928",
         "https://notify.moe/anime/ZhcG2Kmig"
@@ -516,9 +487,11 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/5/79012t.jpg",
       "synonyms": [
         "I Want a Kiss",
+        "Kiss Shite Hoshii (Tuu Tuu Tuu)",
         "Kisu Shite Hoshii",
+        "THE BLUE HEARTS: Kiss Shite Hoshii",
         "キスしてほしい",
-        "スしてほしい"
+        "キスしてほしい（トゥー・トゥー・トゥー）"
       ],
       "relations": [],
       "tags": [
@@ -537,7 +510,7 @@
         "https://myanimelist.net/anime/33795",
         "https://notify.moe/anime/2G-zhFmmg"
       ],
-      "title": "Mahou Shoujo Nante Mou Ii Desukara. Second Season",
+      "title": "Mahou Shoujo Nante Mou Ii desu kara. Second Season",
       "type": "TV",
       "episodes": 12,
       "status": "FINISHED",
@@ -556,6 +529,7 @@
         "Mahou Shoujo Nante Mou Ii Desu kara. Second Season",
         "Mahou Shoujo Nante Mou Ii Desukara. 2",
         "Mahou Shoujo Nante Mou Ii Desukara. 2nd Season",
+        "Mahou Shoujo Nante Mou Ii Desukara. Second Season",
         "Mahou Shoujo Nante Mouiidesukara 2",
         "Mahou Shoujo Nante Mouiidesukara Second Season",
         "Mahou Shoujo Nante Mouiidesukara Zweite Staffel",
@@ -593,7 +567,6 @@
         "female protagonist",
         "ghosts",
         "henshin",
-        "henshin heroes",
         "kuudere",
         "magic",
         "magical girl",
@@ -613,6 +586,27 @@
     },
     {
       "sources": [
+        "https://kitsu.io/anime/46269"
+      ],
+      "title": "Make ‘Em Afraid",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SUMMER",
+        "year": 2022
+      },
+      "picture": "https://media.kitsu.io/anime/46269/poster_image/small-6a2776fc66baf78a96b88f103e47f643.jpeg",
+      "thumbnail": "https://media.kitsu.io/anime/46269/poster_image/tiny-a3ac465382254c7e004fe0f2e53c02af.jpeg",
+      "synonyms": [],
+      "relations": [
+        "https://kitsu.io/anime/44088"
+      ],
+      "tags": [],
+      "id": "https://kitsu.io/anime/46269"
+    },
+    {
+      "sources": [
         "https://myanimelist.net/anime/44755"
       ],
       "title": "Maomao Wang Xingqiu Xunbao",
@@ -621,11 +615,12 @@
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2011
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1939/128514.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1939/128514t.jpg",
       "synonyms": [
+        "Momoking Universal Treasure Hunting",
         "毛毛王星球寻宝"
       ],
       "relations": [],
@@ -651,7 +646,7 @@
         "season": "WINTER",
         "year": 2021
       },
-      "picture": "https://cdn.anime-planet.com/anime/primary/mashin-eiyuuden-wataru-nana-tamashii-no-ryuujinmaru-saikai-1.jpg?t=1635090831",
+      "picture": "https://cdn.anime-planet.com/anime/primary/mashin-eiyuuden-wataru-nana-tamashii-no-ryuujinmaru-saikai-1.jpg?t=1635090844",
       "thumbnail": "https://cdn.anime-planet.com/anime/primary/mashin-eiyuuden-wataru-nana-tamashii-no-ryuujinmaru-saikai-1-285x399.jpg?t=1635090844",
       "synonyms": [
         "Mashin Eiyuuden Wataru: Nana Tamashii no Ryuujinmaru -Saikai-",
@@ -696,7 +691,7 @@
         "season": "UNDEFINED",
         "year": 2013
       },
-      "picture": "https://cdn.anime-planet.com/anime/primary/mikito-p-boku-wa-hatsune-miku-to-kiss-wo-shita-1.jpg?t=1625788110",
+      "picture": "https://cdn.anime-planet.com/anime/primary/mikito-p-boku-wa-hatsune-miku-to-kiss-wo-shita-1.jpg?t=1625907353",
       "thumbnail": "https://cdn.anime-planet.com/anime/primary/mikito-p-boku-wa-hatsune-miku-to-kiss-wo-shita-1-190x266.jpg?t=1625907353",
       "synonyms": [
         "Mikito-P: I Shared a Kiss with Hatsune Miku"
@@ -709,6 +704,7 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/163697",
         "https://myanimelist.net/anime/44863"
       ],
       "title": "Mohuan Xian Zong",
@@ -719,14 +715,18 @@
         "season": "UNDEFINED",
         "year": 2008
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1059/128367.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1059/128367t.jpg",
       "synonyms": [
+        "Magic Wonderland",
         "魔幻仙踪"
       ],
-      "relations": [],
+      "relations": [
+        "https://myanimelist.net/anime/45142"
+      ],
       "tags": [
         "adventure",
+        "fantasy",
         "kids"
       ],
       "id": "https://myanimelist.net/anime/44863"
@@ -754,6 +754,7 @@
         "https://myanimelist.net/anime/39265"
       ],
       "tags": [
+        "educational",
         "family friendly",
         "kids"
       ],
@@ -814,6 +815,7 @@
         "police",
         "present",
         "prison",
+        "prisoner",
         "psi-powers",
         "revenge",
         "seinen",
@@ -827,6 +829,7 @@
     {
       "sources": [
         "https://anilist.co/anime/145437",
+        "https://anime-planet.com/anime/meg-and-patron-ryuusei-girl",
         "https://kitsu.io/anime/13165",
         "https://myanimelist.net/anime/32752",
         "https://notify.moe/anime/Oq0G2FiiR"
@@ -842,6 +845,7 @@
       "picture": "https://cdn.myanimelist.net/images/anime/5/78580.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/5/78580t.jpg",
       "synonyms": [
+        "Meg & Patron: Ryuusei Girl",
         "流星ガール"
       ],
       "relations": [],
@@ -849,52 +853,6 @@
         "music"
       ],
       "id": "https://myanimelist.net/anime/32752"
-    },
-    {
-      "sources": [
-        "https://anilist.co/anime/129584",
-        "https://anime-planet.com/anime/seer",
-        "https://kitsu.io/anime/44044"
-      ],
-      "title": "Seer",
-      "type": "TV",
-      "episodes": 52,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 2012
-      },
-      "picture": "https://anime-planet.com/images/anime/covers/16882.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/16882.jpg",
-      "synonyms": [
-        "Purcell",
-        "Sai Er Hao",
-        "赛尔号",
-        "赛尔号 第一季",
-        "赛尔号之雷伊传说",
-        "赛尔号之雷神传说"
-      ],
-      "relations": [
-        "https://anilist.co/anime/129550",
-        "https://anilist.co/anime/129586",
-        "https://anime-planet.com/anime/seer-2nd-season",
-        "https://anime-planet.com/anime/seer-da-dianying-2-leiyi-yu-maiersi",
-        "https://anime-planet.com/anime/seer-da-dianying-xunzhao-fenghuang-shenshou",
-        "https://kitsu.io/anime/44045",
-        "https://kitsu.io/anime/44047"
-      ],
-      "tags": [
-        "adventure",
-        "chinese animation",
-        "family friendly",
-        "fantasy",
-        "kids",
-        "robots",
-        "sci fi",
-        "sci-fi",
-        "science fiction"
-      ],
-      "id": "https://anime-planet.com/anime/seer"
     },
     {
       "sources": [
@@ -914,8 +872,8 @@
         "season": "SUMMER",
         "year": 1998
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/11/43727.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/11/43727t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1013/128283.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1013/128283t.jpg",
       "synonyms": [
         "世紀末リーダー外伝たけし!",
         "世紀末リーダー外伝たけし！"
@@ -946,18 +904,41 @@
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2015
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1599/130504.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1599/130504t.jpg",
       "synonyms": [
         "少年曹操"
       ],
       "relations": [],
       "tags": [
-        "historical"
+        "kids"
       ],
       "id": "https://myanimelist.net/anime/47105"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/the-same-river-twice"
+      ],
+      "title": "The Same River Twice",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2015
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/the-same-river-twice-1.webp?t=1654924205",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/the-same-river-twice-1-285x399.webp?t=1654924205",
+      "synonyms": [],
+      "relations": [],
+      "tags": [
+        "chinese animation",
+        "family life",
+        "shorts"
+      ],
+      "id": "https://anime-planet.com/anime/the-same-river-twice"
     },
     {
       "sources": [
@@ -983,6 +964,7 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/tsujitsuji-sensha",
         "https://myanimelist.net/anime/48908"
       ],
       "title": "Tsujitsuji Sensha",
@@ -1000,41 +982,13 @@
         "つじつじ戦車"
       ],
       "relations": [
+        "https://anime-planet.com/anime/yawaraka-sensha",
         "https://myanimelist.net/anime/21275"
       ],
       "tags": [
         "music"
       ],
       "id": "https://myanimelist.net/anime/48908"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/11021"
-      ],
-      "title": "Youkai Ninpouchou Jiraiya! PV",
-      "type": "ONA",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2015
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/11/11021.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/11/11021.webp",
-      "synonyms": [
-        "Youkai Ninpouchou Jiraiya! Special",
-        "Yōkai Ninpōchō Jiraiya! PV",
-        "妖怪忍法帖ジライヤ！ PV"
-      ],
-      "relations": [],
-      "tags": [
-        "action",
-        "action comedy",
-        "comedy",
-        "ninja",
-        "youkai"
-      ],
-      "id": "https://anisearch.com/anime/11021"
     },
     {
       "sources": [
@@ -1074,25 +1028,38 @@
     },
     {
       "sources": [
+        "https://anidb.net/anime/13711",
+        "https://anime-planet.com/anime/zhongkui-chuanqi-sui-han-sanyou",
+        "https://anisearch.com/anime/13177",
         "https://myanimelist.net/anime/45011"
       ],
-      "title": "Zhongkui Chuanqi Zhi Sui Han Sanyou",
+      "title": "Zhongkui Chuanqi: Sui Han Sanyou",
       "type": "MOVIE",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "FALL",
         "year": 2017
       },
       "picture": "https://cdn.myanimelist.net/images/anime/1427/118743.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1427/118743t.jpg",
       "synonyms": [
+        "Judge Zhongkui",
+        "Zhong Kui Chuan Qi Zhi Sui Han San You",
+        "Zhong Kui Chuan Qi: Sui Han San You",
+        "Zhongkui Chuanqi Zhi Sui Han San You",
+        "Zhongkui Chuanqi: Sui Han San You",
         "钟馗传奇之岁寒三友"
       ],
       "relations": [],
       "tags": [
+        "action",
         "adventure",
-        "historical"
+        "chinese animation",
+        "fantasy",
+        "martial arts",
+        "mythology",
+        "old asia"
       ],
       "id": "https://myanimelist.net/anime/45011"
     }

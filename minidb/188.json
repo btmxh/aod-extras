@@ -79,6 +79,8 @@
         "https://anime-planet.com/anime/love-love-specials",
         "https://anime-planet.com/anime/smash-hit",
         "https://anime-planet.com/anime/smash-hit-specials",
+        "https://anisearch.com/anime/26",
+        "https://anisearch.com/anime/2696",
         "https://anisearch.com/anime/3553",
         "https://kitsu.io/anime/250",
         "https://kitsu.io/anime/639",
@@ -101,9 +103,9 @@
         "comedy",
         "ecchi",
         "fantasy",
+        "female protagonist",
         "half-length episodes",
         "henshin",
-        "henshin heroes",
         "magic",
         "magical girl",
         "new",
@@ -120,6 +122,27 @@
         "superpower"
       ],
       "id": "https://myanimelist.net/anime/112"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/down-down-down"
+      ],
+      "title": "Down Down Down",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2012
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/down-down-down-1.webp?t=1654665421",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/down-down-down-1-285x399.webp?t=1654665421",
+      "synonyms": [],
+      "relations": [],
+      "tags": [
+        "shorts"
+      ],
+      "id": "https://anime-planet.com/anime/down-down-down"
     },
     {
       "sources": [
@@ -185,71 +208,129 @@
     },
     {
       "sources": [
-        "https://anisearch.com/anime/16346"
+        "https://anidb.net/anime/2009",
+        "https://anilist.co/anime/2695",
+        "https://anime-planet.com/anime/mobile-suit-gundam-0083-the-afterglow-of-zeon",
+        "https://anisearch.com/anime/1424",
+        "https://kitsu.io/anime/2457",
+        "https://livechart.me/anime/6061",
+        "https://myanimelist.net/anime/2695",
+        "https://notify.moe/anime/qOss5Fiig"
       ],
-      "title": "Gifted",
-      "type": "UNKNOWN",
+      "title": "Kidou Senshi Gundam 0083: Zeon no Zankou",
+      "type": "MOVIE",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2018
+        "season": "SUMMER",
+        "year": 1992
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/16/16346.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/16/16346.webp",
-      "synonyms": [],
-      "relations": [],
-      "tags": [
-        "independent anime"
-      ],
-      "id": "https://anisearch.com/anime/16346"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/group-inou-catch"
-      ],
-      "title": "group_inou: CATCH",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2016
-      },
-      "picture": "https://anime-planet.com/images/anime/covers/16474.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/16474.jpg",
-      "synonyms": [],
-      "relations": [],
-      "tags": [
-        "animal protagonists",
-        "cats",
-        "comedy"
-      ],
-      "id": "https://anime-planet.com/anime/group-inou-catch"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/45227"
-      ],
-      "title": "Hong Hai Er Chuanqi",
-      "type": "TV",
-      "episodes": 26,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/5/75776.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/5/75776t.jpg",
       "synonyms": [
-        "红孩儿传奇"
+        "Gundam 0083: The Afterglow of Zeon",
+        "Gundam 0083: The Last Blitz of Zeon",
+        "Gundam: Kidou Senshi Gundam 0083: Zeon no Zankou",
+        "Kidou Senshi Gundam 0083 - JION no Zankou -",
+        "Kidou Senshi Gundam 0083: Jion no Zankou",
+        "Kidō Senshi Gundam 0083: Jion no Zankō",
+        "Mobile Suit Gundam 0083 - Le crépuscule de Zeon",
+        "Mobile Suit Gundam 0083 : Le Crépuscule de Zeon",
+        "Mobile Suit Gundam 0083 Film: Der Untergang Zions",
+        "Mobile Suit Gundam 0083 Film: Le Crépuscule de Zeon",
+        "Mobile Suit Gundam 0083 The Movie - L`Ultima Scintilla Di Zeon",
+        "Mobile Suit Gundam 0083: Der Untergang Zions",
+        "Mobile Suit Gundam 0083: L'ultima scintilla di Zeon",
+        "Mobile Suit Gundam 0083: The Afterglow Of Zeon",
+        "Mobile Suit Gundam 0083: The Afterglow of Zeon",
+        "Mobile Suit Gundam 0083: The Fading Light of Zeon",
+        "Mobile Suit Gundam 0083: The Last Blitz of Zeon",
+        "Mobile Suit Gundam 0083: The Twilight of Zeon",
+        "Mobile Suit Gundam 0083: Zmierzch Zeonu",
+        "机动战士高达0083 吉恩的残光",
+        "機動戦士ガンダム 0083 -ジオンの残光-",
+        "機動戦士ガンダム0083 -ジオンの残光-",
+        "機動戦士ガンダム0083 －ジオンの残光－"
       ],
-      "relations": [],
+      "relations": [
+        "https://anidb.net/anime/717",
+        "https://anilist.co/anime/84",
+        "https://anime-planet.com/anime/30th-gundam-perfect-mission",
+        "https://anime-planet.com/anime/after-war-gundam-x",
+        "https://anime-planet.com/anime/all-that-gundam",
+        "https://anime-planet.com/anime/chou-denei-ban-sd-gundam-sangokuden-brave-battle-warriors",
+        "https://anime-planet.com/anime/collection-of-key-animation-films",
+        "https://anime-planet.com/anime/gundam-mission-to-the-rise",
+        "https://anime-planet.com/anime/mobile-fighter-g-gundam",
+        "https://anime-planet.com/anime/mobile-suit-gundam-00",
+        "https://anime-planet.com/anime/mobile-suit-gundam-00-second-season",
+        "https://anime-planet.com/anime/mobile-suit-gundam-00-special-edition-i-celestial-being",
+        "https://anime-planet.com/anime/mobile-suit-gundam-00-special-edition-iii-return-the-world",
+        "https://anime-planet.com/anime/mobile-suit-gundam-00-the-movie-a-wakening-of-the-trailblazer",
+        "https://anime-planet.com/anime/mobile-suit-gundam-0083-stardust-memory",
+        "https://anime-planet.com/anime/mobile-suit-gundam-0083-stardust-memory-picture-drama",
+        "https://anime-planet.com/anime/mobile-suit-gundam-0083-stardust-memory-the-mayfly-of-space",
+        "https://anime-planet.com/anime/mobile-suit-gundam-age",
+        "https://anime-planet.com/anime/mobile-suit-gundam-age-memory-of-eden",
+        "https://anime-planet.com/anime/mobile-suit-gundam-evolve",
+        "https://anime-planet.com/anime/mobile-suit-gundam-iron-blooded-orphans",
+        "https://anime-planet.com/anime/mobile-suit-gundam-iron-blooded-orphans-2nd-season",
+        "https://anime-planet.com/anime/mobile-suit-gundam-seed-after-phase-in-the-valley-of-stars",
+        "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny",
+        "https://anime-planet.com/anime/mobile-suit-gundam-special-edition-ii-end-of-the-world",
+        "https://anime-planet.com/anime/mobile-suit-gundam-wing",
+        "https://anime-planet.com/anime/mobile-suit-gundam-wing-endless-waltz",
+        "https://anime-planet.com/anime/mobile-suit-gundam-wing-endless-waltz-special-edition",
+        "https://anime-planet.com/anime/mobile-suit-gundam-zz-gundam-frag",
+        "https://anime-planet.com/anime/mobile-suit-sd-gundam-mk-i",
+        "https://anime-planet.com/anime/mobile-suit-sd-gundam-no-gyakushuu-arashi-wo-yobu-gakuensai",
+        "https://anime-planet.com/anime/mobile-suit-zeta-gundam",
+        "https://anime-planet.com/anime/mokei-senshi-gunpla-builders-beginning-g",
+        "https://anime-planet.com/anime/ring-of-gundam",
+        "https://anime-planet.com/anime/turn-a-gundam",
+        "https://anisearch.com/anime/2690",
+        "https://kitsu.io/anime/63",
+        "https://livechart.me/anime/3938",
+        "https://livechart.me/anime/4607",
+        "https://livechart.me/anime/4659",
+        "https://livechart.me/anime/4683",
+        "https://livechart.me/anime/4695",
+        "https://livechart.me/anime/4944",
+        "https://livechart.me/anime/5926",
+        "https://livechart.me/anime/5947",
+        "https://livechart.me/anime/6906",
+        "https://livechart.me/anime/6987",
+        "https://livechart.me/anime/7514",
+        "https://livechart.me/anime/7582",
+        "https://livechart.me/anime/7717",
+        "https://livechart.me/anime/7848",
+        "https://livechart.me/anime/8121",
+        "https://myanimelist.net/anime/84",
+        "https://notify.moe/anime/vTptcKmmg"
+      ],
       "tags": [
+        "action",
+        "action drama",
         "adventure",
-        "fantasy"
+        "age gap",
+        "drama",
+        "mecha",
+        "military",
+        "original work",
+        "outer space",
+        "piloted robot",
+        "politics",
+        "real robot",
+        "real robots",
+        "romance",
+        "sci fi",
+        "sci-fi",
+        "science fiction",
+        "science-fiction",
+        "space",
+        "war"
       ],
-      "id": "https://myanimelist.net/anime/45227"
+      "id": "https://myanimelist.net/anime/2695"
     },
     {
       "sources": [
@@ -366,6 +447,7 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/march-comes-in-like-a-lion-cm-lion-x-hachiclo",
         "https://kitsu.io/anime/42944",
         "https://myanimelist.net/anime/38864"
       ],
@@ -382,18 +464,26 @@
       "synonyms": [
         "\"3-gatsu no Lion\" 14-kan Eco Bag-tsuki Tokusou-ban PV",
         "3-gatsu no Lion 14-kan Eco Bag-tsuki Tokusou-ban PV",
+        "3-gatsu no Lion CM: Lion x HachiClo",
         "March Comes in Like a Lion",
+        "March Comes in like a Lion CM: Lion x HachiClo",
         "「ライオン」meets「ハチクロ」"
       ],
       "relations": [
+        "https://anime-planet.com/anime/honey-and-clover",
+        "https://anime-planet.com/anime/march-comes-in-like-a-lion",
         "https://kitsu.io/anime/1023",
         "https://kitsu.io/anime/11380",
         "https://myanimelist.net/anime/1142",
         "https://myanimelist.net/anime/35180"
       ],
       "tags": [
+        "commercials",
+        "crossover",
         "parody",
+        "promotional",
         "seinen",
+        "short episodes",
         "slice of life"
       ],
       "id": "https://myanimelist.net/anime/38864"
@@ -408,10 +498,10 @@
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2012
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1797/129714.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1797/129714t.jpg",
       "synonyms": [
         "龙骨山"
       ],
@@ -423,206 +513,51 @@
     },
     {
       "sources": [
-        "https://anidb.net/anime/2009",
-        "https://anilist.co/anime/2695",
-        "https://anime-planet.com/anime/mobile-suit-gundam-0083-the-afterglow-of-zeon",
-        "https://anisearch.com/anime/1424",
-        "https://kitsu.io/anime/2457",
-        "https://livechart.me/anime/6061",
-        "https://myanimelist.net/anime/2695",
-        "https://notify.moe/anime/qOss5Fiig"
-      ],
-      "title": "Mobile Suit Gundam 0083: The Fading Light of Zeon",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SUMMER",
-        "year": 1992
-      },
-      "picture": "https://cdn.myanimelist.net/images/anime/5/75776.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/5/75776t.jpg",
-      "synonyms": [
-        "Gundam 0083: The Afterglow of Zeon",
-        "Gundam 0083: The Last Blitz of Zeon",
-        "Kidou Senshi Gundam 0083 - JION no Zankou -",
-        "Kidou Senshi Gundam 0083 - Zeon no Zankou -",
-        "Kidou Senshi Gundam 0083: Jion no Zankou",
-        "Kidou Senshi Gundam 0083: Zeon no Zankou",
-        "Kidō Senshi Gundam 0083: Jion no Zankō",
-        "Mobile Suit Gundam 0083 - Le crépuscule de Zeon",
-        "Mobile Suit Gundam 0083 : Le Crépuscule de Zeon",
-        "Mobile Suit Gundam 0083 Film: Der Untergang Zions",
-        "Mobile Suit Gundam 0083 Film: Le Crépuscule de Zeon",
-        "Mobile Suit Gundam 0083 The Movie - L`Ultima Scintilla Di Zeon",
-        "Mobile Suit Gundam 0083: Der Untergang Zions",
-        "Mobile Suit Gundam 0083: L'ultima scintilla di Zeon",
-        "Mobile Suit Gundam 0083: The Afterglow Of Zeon",
-        "Mobile Suit Gundam 0083: The Afterglow of Zeon",
-        "Mobile Suit Gundam 0083: The Last Blitz of Zeon",
-        "Mobile Suit Gundam 0083: The Twilight of Zeon",
-        "Mobile Suit Gundam 0083: Zmierzch Zeonu",
-        "機動戦士ガンダム 0083 -ジオンの残光-",
-        "機動戦士ガンダム0083 -ジオンの残光-",
-        "機動戦士ガンダム0083 －ジオンの残光－"
-      ],
-      "relations": [
-        "https://anidb.net/anime/717",
-        "https://anilist.co/anime/84",
-        "https://anime-planet.com/anime/30th-gundam-perfect-mission",
-        "https://anime-planet.com/anime/after-war-gundam-x",
-        "https://anime-planet.com/anime/all-that-gundam",
-        "https://anime-planet.com/anime/chou-denei-ban-sd-gundam-sangokuden-brave-battle-warriors",
-        "https://anime-planet.com/anime/collection-of-key-animation-films",
-        "https://anime-planet.com/anime/gundam-mission-to-the-rise",
-        "https://anime-planet.com/anime/mobile-fighter-g-gundam",
-        "https://anime-planet.com/anime/mobile-suit-gundam-00",
-        "https://anime-planet.com/anime/mobile-suit-gundam-00-second-season",
-        "https://anime-planet.com/anime/mobile-suit-gundam-00-special-edition-i-celestial-being",
-        "https://anime-planet.com/anime/mobile-suit-gundam-00-special-edition-iii-return-the-world",
-        "https://anime-planet.com/anime/mobile-suit-gundam-00-the-movie-a-wakening-of-the-trailblazer",
-        "https://anime-planet.com/anime/mobile-suit-gundam-0080-war-in-the-pocket",
-        "https://anime-planet.com/anime/mobile-suit-gundam-0083-stardust-memory",
-        "https://anime-planet.com/anime/mobile-suit-gundam-0083-stardust-memory-picture-drama",
-        "https://anime-planet.com/anime/mobile-suit-gundam-0083-stardust-memory-the-mayfly-of-space",
-        "https://anime-planet.com/anime/mobile-suit-gundam-age",
-        "https://anime-planet.com/anime/mobile-suit-gundam-age-memory-of-eden",
-        "https://anime-planet.com/anime/mobile-suit-gundam-chars-counterattack",
-        "https://anime-planet.com/anime/mobile-suit-gundam-evolve",
-        "https://anime-planet.com/anime/mobile-suit-gundam-f91",
-        "https://anime-planet.com/anime/mobile-suit-gundam-iron-blooded-orphans",
-        "https://anime-planet.com/anime/mobile-suit-gundam-iron-blooded-orphans-2",
-        "https://anime-planet.com/anime/mobile-suit-gundam-ms-igloo-2-juuryoku-sensen",
-        "https://anime-planet.com/anime/mobile-suit-gundam-ms-igloo-apocalypse-0079",
-        "https://anime-planet.com/anime/mobile-suit-gundam-ms-igloo-the-hidden-one-year-war",
-        "https://anime-planet.com/anime/mobile-suit-gundam-seed-after-phase-in-the-valley-of-stars",
-        "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny",
-        "https://anime-planet.com/anime/mobile-suit-gundam-special-edition-ii-end-of-the-world",
-        "https://anime-planet.com/anime/mobile-suit-gundam-the-08th-ms-team",
-        "https://anime-planet.com/anime/mobile-suit-gundam-the-origin",
-        "https://anime-planet.com/anime/mobile-suit-gundam-thunderbolt",
-        "https://anime-planet.com/anime/mobile-suit-gundam-unicorn",
-        "https://anime-planet.com/anime/mobile-suit-gundam-wing",
-        "https://anime-planet.com/anime/mobile-suit-gundam-wing-endless-waltz",
-        "https://anime-planet.com/anime/mobile-suit-gundam-wing-endless-waltz-movie",
-        "https://anime-planet.com/anime/mobile-suit-gundam-zz",
-        "https://anime-planet.com/anime/mobile-suit-gundam-zz-gundam-frag",
-        "https://anime-planet.com/anime/mobile-suit-sd-gundam-mk-i",
-        "https://anime-planet.com/anime/mobile-suit-sd-gundam-no-gyakushuu-arashi-wo-yobu-gakuensai",
-        "https://anime-planet.com/anime/mobile-suit-victory-gundam",
-        "https://anime-planet.com/anime/mobile-suit-zeta-gundam",
-        "https://anime-planet.com/anime/mokei-senshi-gunpla-builders-beginning-g",
-        "https://anime-planet.com/anime/ring-of-gundam",
-        "https://anime-planet.com/anime/turn-a-gundam",
-        "https://anisearch.com/anime/10546",
-        "https://anisearch.com/anime/10601",
-        "https://anisearch.com/anime/10932",
-        "https://anisearch.com/anime/11228",
-        "https://anisearch.com/anime/11417",
-        "https://anisearch.com/anime/12025",
-        "https://anisearch.com/anime/12177",
-        "https://anisearch.com/anime/12405",
-        "https://anisearch.com/anime/12661",
-        "https://anisearch.com/anime/12834",
-        "https://anisearch.com/anime/13579",
-        "https://anisearch.com/anime/13996",
-        "https://anisearch.com/anime/1581",
-        "https://anisearch.com/anime/1602",
-        "https://anisearch.com/anime/174",
-        "https://anisearch.com/anime/1959",
-        "https://anisearch.com/anime/1978",
-        "https://anisearch.com/anime/2662",
-        "https://anisearch.com/anime/2688",
-        "https://anisearch.com/anime/2690",
-        "https://anisearch.com/anime/2737",
-        "https://anisearch.com/anime/3125",
-        "https://anisearch.com/anime/3234",
-        "https://anisearch.com/anime/3329",
-        "https://anisearch.com/anime/3426",
-        "https://anisearch.com/anime/394",
-        "https://anisearch.com/anime/4810",
-        "https://anisearch.com/anime/5404",
-        "https://anisearch.com/anime/581",
-        "https://anisearch.com/anime/5932",
-        "https://anisearch.com/anime/602",
-        "https://anisearch.com/anime/647",
-        "https://anisearch.com/anime/7192",
-        "https://anisearch.com/anime/8338",
-        "https://anisearch.com/anime/8466",
-        "https://anisearch.com/anime/8522",
-        "https://anisearch.com/anime/8926",
-        "https://anisearch.com/anime/9",
-        "https://kitsu.io/anime/63",
-        "https://livechart.me/anime/3938",
-        "https://livechart.me/anime/4607",
-        "https://livechart.me/anime/4659",
-        "https://livechart.me/anime/4683",
-        "https://livechart.me/anime/4695",
-        "https://livechart.me/anime/4944",
-        "https://livechart.me/anime/5926",
-        "https://livechart.me/anime/5947",
-        "https://livechart.me/anime/6906",
-        "https://livechart.me/anime/6987",
-        "https://livechart.me/anime/7514",
-        "https://livechart.me/anime/7582",
-        "https://livechart.me/anime/7717",
-        "https://livechart.me/anime/7848",
-        "https://livechart.me/anime/8121",
-        "https://myanimelist.net/anime/84",
-        "https://notify.moe/anime/vTptcKmmg"
-      ],
-      "tags": [
-        "action",
-        "action drama",
-        "adventure",
-        "age gap",
-        "drama",
-        "mecha",
-        "military",
-        "original work",
-        "outer space",
-        "piloted robot",
-        "politics",
-        "real robot",
-        "real robots",
-        "romance",
-        "sci fi",
-        "sci-fi",
-        "science fiction",
-        "science-fiction",
-        "space",
-        "war"
-      ],
-      "id": "https://myanimelist.net/anime/2695"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/my-wife-is-the-student-council-president-okusama-gekijou"
+        "https://anilist.co/anime/102499",
+        "https://anime-planet.com/anime/my-wife-is-the-student-council-president-okusama-gekijou",
+        "https://kitsu.io/anime/11828",
+        "https://livechart.me/anime/5313",
+        "https://notify.moe/anime/I5_3tFmiR"
       ],
       "title": "My Wife Is the Student Council President! Okusama Gekijou",
       "type": "SPECIAL",
       "episodes": 13,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "SUMMER",
         "year": 2015
       },
       "picture": "https://cdn.anime-planet.com/anime/primary/my-wife-is-the-student-council-president-okusama-gekijou-1.jpg?t=1625897352",
       "thumbnail": "https://cdn.anime-planet.com/anime/primary/my-wife-is-the-student-council-president-okusama-gekijou-1-190x268.jpg?t=1625897352",
       "synonyms": [
-        "Okusama ga Seito Kaichou! Okusama Gekijou"
+        "My Wife is the Student Council President: Wife Theater",
+        "Okusama ga Seito Kaichou! Okusama Gekijou",
+        "Okusama ga Seitokaichou! Specials",
+        "Okusama ga Seitokaichou!: Okusama Gekijou",
+        "おくさまが生徒会長！「おくさま劇場」"
       ],
       "relations": [
+        "https://anilist.co/anime/20984",
         "https://anime-planet.com/anime/my-wife-is-the-student-council-president",
         "https://anime-planet.com/anime/my-wife-is-the-student-council-president-ova",
         "https://anime-planet.com/anime/my-wife-is-the-student-council-president-ova-okusama-gekijou",
-        "https://anime-planet.com/anime/my-wife-is-the-student-council-president-plus"
+        "https://anime-planet.com/anime/my-wife-is-the-student-council-president-plus",
+        "https://kitsu.io/anime/10069",
+        "https://kitsu.io/anime/12086",
+        "https://livechart.me/anime/1322",
+        "https://livechart.me/anime/1898",
+        "https://livechart.me/anime/2011",
+        "https://livechart.me/anime/6057",
+        "https://notify.moe/anime/chqetKimR",
+        "https://notify.moe/anime/l0mspKmmg"
       ],
       "tags": [
         "based on a manga",
         "chibi",
         "comedy",
+        "nudity",
         "picture drama",
+        "school",
         "school life",
         "shounen",
         "student council"
@@ -676,7 +611,6 @@
         "https://anime-planet.com/anime/oshiri-no-yama-wa-everest",
         "https://anisearch.com/anime/10805",
         "https://anisearch.com/anime/6362",
-        "https://anisearch.com/anime/7814",
         "https://kitsu.io/anime/11590",
         "https://kitsu.io/anime/7976",
         "https://livechart.me/anime/1852",
@@ -760,7 +694,7 @@
       "sources": [
         "https://myanimelist.net/anime/47898"
       ],
-      "title": "Pi PI Zhu Zhi Conglin Da Maoxian",
+      "title": "Pipi Zhu: Conglin Da Maoxian",
       "type": "TV",
       "episodes": 20,
       "status": "FINISHED",
@@ -768,19 +702,25 @@
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1884/130061.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1884/130061t.jpg",
       "synonyms": [
         "皮皮猪之丛林大冒险"
       ],
       "relations": [],
       "tags": [
+        "anthropomorphic",
+        "fantasy",
         "kids"
       ],
       "id": "https://myanimelist.net/anime/47898"
     },
     {
       "sources": [
+        "https://anidb.net/anime/14562",
+        "https://anilist.co/anime/107874",
+        "https://anime-planet.com/anime/kangoku-jikken",
+        "https://anisearch.com/anime/14066",
         "https://kitsu.io/anime/42086",
         "https://livechart.me/anime/8360",
         "https://myanimelist.net/anime/38902",
@@ -798,39 +738,39 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1192/97875t.jpg",
       "synonyms": [
         "Kangoku Jikken",
+        "Prison Experiment",
+        "Prison Lab (プリズンラボ-)",
+        "監獄実験",
+        "監獄実験 -プリズンラボ-",
         "監獄実験-プリズンラボ-",
         "監獄実験〈プリズンラボ〉"
       ],
       "relations": [],
       "tags": [
+        "based on a manga",
+        "drama",
+        "high school",
+        "high stakes games",
         "horror",
-        "psychological"
+        "kidnapping",
+        "manga",
+        "mystery",
+        "present",
+        "psychological",
+        "psychological drama",
+        "revenge",
+        "seinen",
+        "short episodes",
+        "supernatural drama",
+        "vertical anime"
       ],
       "id": "https://myanimelist.net/anime/38902"
     },
     {
       "sources": [
-        "https://anilist.co/anime/139025"
-      ],
-      "title": "Raise Me Up",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2016
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b139025-zPNxA3RLsLUV.jpg",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b139025-zPNxA3RLsLUV.jpg",
-      "synonyms": [],
-      "relations": [],
-      "tags": [],
-      "id": "https://anilist.co/anime/139025"
-    },
-    {
-      "sources": [
         "https://anilist.co/anime/8710",
         "https://anime-planet.com/anime/sos-tv-walpurgis-night-fever-episode-0",
+        "https://anisearch.com/anime/6899",
         "https://kitsu.io/anime/5453",
         "https://myanimelist.net/anime/8710",
         "https://notify.moe/anime/T7CmpFmiR"
@@ -846,12 +786,15 @@
       "picture": "https://cdn.myanimelist.net/images/anime/9/24007.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/9/24007t.jpg",
       "synonyms": [
+        "SOS TV Walpurgis Night Fever: Walpurgis no Futari",
         "SOS TV Warupurgis Night Fever Episode 0",
+        "SOS TV ワルプルギス・ナイトフィーバー ワルプルギスの二人",
         "ワルプルギスナイトフィーバー"
       ],
       "relations": [
         "https://anilist.co/anime/8706",
         "https://anime-planet.com/anime/sos-tv-walpurgis-night-fever",
+        "https://anisearch.com/anime/6687",
         "https://kitsu.io/anime/5450",
         "https://myanimelist.net/anime/8706",
         "https://notify.moe/anime/0UritFmmg"
@@ -864,9 +807,11 @@
         "full cgi",
         "original work",
         "post-apocalyptic",
+        "present",
         "robots",
         "sci-fi",
         "science fiction",
+        "science-fiction",
         "space",
         "surreal comedy"
       ],
@@ -874,9 +819,11 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/20895",
         "https://anime-planet.com/anime/sword-art-online-sword-art-offline-extra-edition",
         "https://anisearch.com/anime/9475",
         "https://kitsu.io/anime/8196",
+        "https://livechart.me/anime/392",
         "https://myanimelist.net/anime/21879",
         "https://notify.moe/anime/J5OotFiig"
       ],
@@ -888,14 +835,19 @@
         "season": "SPRING",
         "year": 2014
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/13/57589.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/13/57589t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1944/122685.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1944/122685t.jpg",
       "synonyms": [
         "S.A.O Special",
         "SAO Special",
+        "Sword Art Offline Extra Edition",
+        "Sword Art Offline: Extra Edition",
         "そーどあーと・おふらいん Extra Edition"
       ],
       "relations": [
+        "https://anilist.co/anime/16099",
+        "https://anilist.co/anime/20021",
+        "https://anilist.co/anime/21155",
         "https://anime-planet.com/anime/sword-art-online",
         "https://anime-planet.com/anime/sword-art-online-alternative-gun-gale-online",
         "https://anime-planet.com/anime/sword-art-online-alternative-gun-gale-online-refrain",
@@ -906,12 +858,26 @@
         "https://anime-planet.com/anime/sword-art-online-ii-sword-art-offline-ii",
         "https://anime-planet.com/anime/sword-art-online-movie-ordinal-scale",
         "https://anime-planet.com/anime/sword-art-online-sword-art-offline",
-        "https://anisearch.com/anime/12860",
         "https://anisearch.com/anime/8184",
+        "https://anisearch.com/anime/9077",
         "https://anisearch.com/anime/9952",
         "https://kitsu.io/anime/7372",
         "https://kitsu.io/anime/7914",
         "https://kitsu.io/anime/9963",
+        "https://livechart.me/anime/10159",
+        "https://livechart.me/anime/1017",
+        "https://livechart.me/anime/1038",
+        "https://livechart.me/anime/10864",
+        "https://livechart.me/anime/11599",
+        "https://livechart.me/anime/1750",
+        "https://livechart.me/anime/1859",
+        "https://livechart.me/anime/186",
+        "https://livechart.me/anime/2908",
+        "https://livechart.me/anime/2909",
+        "https://livechart.me/anime/3148",
+        "https://livechart.me/anime/391",
+        "https://livechart.me/anime/9404",
+        "https://livechart.me/anime/9733",
         "https://myanimelist.net/anime/16099",
         "https://myanimelist.net/anime/20021",
         "https://myanimelist.net/anime/28063",
@@ -925,8 +891,11 @@
         "comedy",
         "ecchi",
         "isekai",
+        "primarily female cast",
         "science-fiction",
+        "super deformed",
         "verbal comedy",
+        "video games",
         "virtual reality",
         "virtual world"
       ],
@@ -944,8 +913,8 @@
         "season": "SPRING",
         "year": 2001
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/15/15790.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/15/15790.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/15/15790_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/15/15790.webp",
       "synonyms": [
         "더 킹 - 다윗과 골리앗"
       ],
@@ -992,11 +961,6 @@
         "https://anime-planet.com/anime/to-love-ru-multiplication-mae-kara-ushiro-kara",
         "https://anime-planet.com/anime/to-love-ru-ova",
         "https://anisearch.com/anime/10072",
-        "https://anisearch.com/anime/4655",
-        "https://anisearch.com/anime/5201",
-        "https://anisearch.com/anime/6357",
-        "https://anisearch.com/anime/7781",
-        "https://anisearch.com/anime/7788",
         "https://kitsu.io/anime/10078",
         "https://kitsu.io/anime/14159",
         "https://livechart.me/anime/1094",
@@ -1021,6 +985,7 @@
         "female harem",
         "genius",
         "harem",
+        "heterosexual",
         "kuudere",
         "love triangle",
         "magic",
@@ -1090,10 +1055,17 @@
         "https://livechart.me/anime/10550",
         "https://livechart.me/anime/10551",
         "https://livechart.me/anime/10552",
-        "https://livechart.me/anime/10553",
         "https://livechart.me/anime/1617",
+        "https://livechart.me/anime/976",
+        "https://myanimelist.net/anime/13439",
+        "https://myanimelist.net/anime/13441",
         "https://myanimelist.net/anime/30850",
+        "https://myanimelist.net/anime/3496",
         "https://myanimelist.net/anime/48951",
+        "https://myanimelist.net/anime/6937",
+        "https://myanimelist.net/anime/6939",
+        "https://myanimelist.net/anime/6985",
+        "https://myanimelist.net/anime/7985",
         "https://notify.moe/anime/FLwqn-M7g",
         "https://notify.moe/anime/YdRXtFimR"
       ],
@@ -1254,6 +1226,7 @@
     {
       "sources": [
         "https://anidb.net/anime/14176",
+        "https://anime-planet.com/anime/fantastica-a-boonie-bears-adventure",
         "https://anisearch.com/anime/12541",
         "https://kitsu.io/anime/40991",
         "https://myanimelist.net/anime/37100",
@@ -1275,6 +1248,7 @@
         "Boonie Bears: Fantastica (2017)",
         "Fantastica: A Boonie Bears Adventure",
         "Xiong Chu Mo: Qi Huan Kong Jian",
+        "Xiong Chu Mo: Qihuan Kongjian",
         "Xiong Chumo Zhi: Qihuan Kongjian",
         "熊出沒之奇幻空間",
         "熊出没·奇幻空间"
@@ -1287,60 +1261,20 @@
       ],
       "tags": [
         "adventure",
+        "adventure comedy",
+        "animal protagonists",
+        "bears",
         "beastmen",
         "cg-anime",
+        "chinese animation",
         "comedy",
+        "family friendly",
         "fantasy",
         "kids",
+        "non-human protagonists",
         "sci-fi"
       ],
       "id": "https://myanimelist.net/anime/37100"
-    },
-    {
-      "sources": [
-        "https://kitsu.io/anime/13397",
-        "https://notify.moe/anime/pla72KmiR"
-      ],
-      "title": "Yakimochi no Kotae",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2013
-      },
-      "picture": "https://media.kitsu.io/anime/poster_images/13397/small.jpg",
-      "thumbnail": "https://media.kitsu.io/anime/poster_images/13397/tiny.jpg",
-      "synonyms": [
-        "HoneyWorks: Yakimochi no Kotae",
-        "ヤキモチの答え"
-      ],
-      "relations": [],
-      "tags": [
-        "music"
-      ],
-      "id": "https://kitsu.io/anime/13397"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/41936"
-      ],
-      "title": "Yum-Yum! Pizza!",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2013
-      },
-      "picture": "https://cdn.myanimelist.net/images/anime/1588/107466.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1588/107466t.jpg",
-      "synonyms": [],
-      "relations": [],
-      "tags": [
-        "music"
-      ],
-      "id": "https://myanimelist.net/anime/41936"
     }
   ]
 }

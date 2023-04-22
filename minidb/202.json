@@ -2,6 +2,7 @@
   "data": [
     {
       "sources": [
+        "https://anidb.net/anime/12114",
         "https://anisearch.com/anime/12119"
       ],
       "title": "A Boy",
@@ -12,65 +13,21 @@
         "season": "WINTER",
         "year": 2014
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/12/12119.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/12/12119.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/12/12119_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/12/12119.webp",
       "synonyms": [
         "Ieiri Leo x Jungle Taitei `a boy` (家入レオxジャングル大帝「a boy」)",
-        "Ieiri Leo x Jungle Taitei `a boy` (家入レオ×ジャングル大帝「a boy」)"
+        "Ieiri Leo x Jungle Taitei `a boy` (家入レオ×ジャングル大帝「a boy」)",
+        "Ieiri Leo x Jungle Taitei: \"A Boy\"",
+        "家入レオ×ジャングル大帝「a boy」"
       ],
-      "relations": [],
+      "relations": [
+        "https://anidb.net/anime/1490",
+        "https://anidb.net/anime/6652",
+        "https://anisearch.com/anime/1317"
+      ],
       "tags": [],
       "id": "https://anisearch.com/anime/12119"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/animal-yokocho"
-      ],
-      "title": "Animal Yokocho",
-      "type": "TV",
-      "episodes": 51,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 2005
-      },
-      "picture": "https://anime-planet.com/images/anime/covers/1470.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/1470.jpg",
-      "synonyms": [],
-      "relations": [],
-      "tags": [
-        "animal protagonists",
-        "anthropomorphic",
-        "based on a manga",
-        "bears",
-        "comedy",
-        "family friendly",
-        "non-human protagonists",
-        "rabbits"
-      ],
-      "id": "https://anime-planet.com/anime/animal-yokocho"
-    },
-    {
-      "sources": [
-        "https://anilist.co/anime/125713"
-      ],
-      "title": "Attakaito",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2016
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125713-a57qOaYbEUlA.jpg",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125713-a57qOaYbEUlA.jpg",
-      "synonyms": [
-        "Warm Kaito",
-        "あったかいと"
-      ],
-      "relations": [],
-      "tags": [],
-      "id": "https://anilist.co/anime/125713"
     },
     {
       "sources": [
@@ -119,46 +76,51 @@
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1343/130103.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1343/130103t.jpg",
       "synonyms": [
         "菜虫饭米粒"
       ],
       "relations": [],
       "tags": [
-        "fantasy"
+        "anthropomorphic",
+        "fantasy",
+        "kids"
       ],
       "id": "https://myanimelist.net/anime/47969"
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/croisee-in-a-foreign-labyrinth-concert"
+        "https://anime-planet.com/anime/dig-rock-duel-fes-vol-1-type-ic-impish-crow-grow-cm"
       ],
-      "title": "Croisee in a Foreign Labyrinth: Concert",
+      "title": "DIG-ROCK -DUEL FES- Vol. 1 Type: IC - Impish Crow - GROW CM",
       "type": "ONA",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "SUMMER",
-        "year": 2011
+        "season": "UNDEFINED",
+        "year": 2020
       },
-      "picture": "https://cdn.anime-planet.com/anime/primary/croisee-in-a-foreign-labyrinth-concert-1.jpg?t=1625896173",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/croisee-in-a-foreign-labyrinth-concert-1-190x270.jpg?t=1625896173",
-      "synonyms": [
-        "Ikoku Meiro no Croisee: Ongakkai \"Recital\""
-      ],
+      "picture": "https://cdn.anime-planet.com/anime/primary/dig-rock-duel-fes-vol-1-type-ic-impish-crow-grow-cm-1.webp?t=1679974443",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/dig-rock-duel-fes-vol-1-type-ic-impish-crow-grow-cm-1-285x399.webp?t=1679974443",
+      "synonyms": [],
       "relations": [
-        "https://anime-planet.com/anime/croisee-in-a-foreign-labyrinth",
-        "https://anime-planet.com/anime/croisee-in-a-foreign-labyrinth-picture-drama",
-        "https://anime-planet.com/anime/croisee-in-a-foreign-labyrinth-yune-and-alice"
+        "https://anime-planet.com/anime/dig-rock-blue-type-ic-impish-crow-sky-is-the-limit-cm",
+        "https://anime-planet.com/anime/dig-rock-break-time-type-ic-impish-crow-be-ambitious-cm",
+        "https://anime-planet.com/anime/dig-rock-dice-type-ic-impish-crow-updraft-cm",
+        "https://anime-planet.com/anime/dig-rock-dice-type-icxhr-impish-crow-ram-cm",
+        "https://anime-planet.com/anime/dig-rock-duel-fes-vol-2-impish-crow-ride-the-wind-cm",
+        "https://anime-planet.com/anime/dig-rock-faith-mini-album-impish-crow-faith-cm",
+        "https://anime-planet.com/anime/dig-rock-impish-crow-vol-1-impish-crow-rise-cm",
+        "https://anime-planet.com/anime/dig-rock-impish-crow-vol-2-impish-crow-pump-it-cm",
+        "https://anime-planet.com/anime/dig-rock-impish-crow-vol-3-impish-crow-beyond-the-sky-cm",
+        "https://anime-planet.com/anime/dig-rock-trick-mini-album-impish-crow-trick-cm"
       ],
       "tags": [
-        "19th century",
-        "based on a manga",
-        "historical",
-        "shounen"
+        "commercials",
+        "promotional"
       ],
-      "id": "https://anime-planet.com/anime/croisee-in-a-foreign-labyrinth-concert"
+      "id": "https://anime-planet.com/anime/dig-rock-duel-fes-vol-1-type-ic-impish-crow-grow-cm"
     },
     {
       "sources": [
@@ -191,7 +153,9 @@
       ],
       "tags": [
         "comedy",
+        "fantasy",
         "magic",
+        "mahou shoujo",
         "shoujo"
       ],
       "id": "https://myanimelist.net/anime/29231"
@@ -201,6 +165,7 @@
         "https://anidb.net/anime/2240",
         "https://anilist.co/anime/9811",
         "https://anime-planet.com/anime/hanasaka-tenshi-tenten-kun",
+        "https://anisearch.com/anime/1107",
         "https://kitsu.io/anime/5882",
         "https://myanimelist.net/anime/9811",
         "https://notify.moe/anime/4oEMpFiiR"
@@ -217,6 +182,7 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/4/27207t.jpg",
       "synonyms": [
         "Flower Angel Ten-Ten",
+        "Hanasaka Tenshi Ten-Ten-kun",
         "เท็นเท็นคุง",
         "花さか天使テンテンくん"
       ],
@@ -241,14 +207,17 @@
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2015
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1456/129241.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1456/129241t.jpg",
       "synonyms": [
+        "Jiangjiu Ren Extra",
         "讲究人 番外"
       ],
-      "relations": [],
+      "relations": [
+        "https://myanimelist.net/anime/47208"
+      ],
       "tags": [
         "comedy"
       ],
@@ -257,6 +226,7 @@
     {
       "sources": [
         "https://anidb.net/anime/10225",
+        "https://anilist.co/anime/149036",
         "https://anime-planet.com/anime/juugo-shounen-hyouryuuki-kaizokujima-de-daibouken",
         "https://anisearch.com/anime/9214",
         "https://kitsu.io/anime/9010",
@@ -275,14 +245,19 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/5/55483t.jpg",
       "synonyms": [
         "Juugo Shounen Hyouryuuki Kaizokujima DE! Daibouken",
+        "Juugo Shounen Hyouryuuki: Kaizoku-jima DE! Daibouken",
         "Juugo Shounen Hyouryuuki: Kaizokujima DE! Daibouken",
         "Jūgo Shōnen Hyōryūki Kaizokujima DE! Daibōken",
+        "Miao Xing Shaonian Piaoliu Ji",
         "The Lost 15 Boys: The Big Adventure on Pirates' Island",
         "十五少年漂流記 海賊島DE! 大冒険",
         "十五少年漂流記 海賊島DE！ 大冒険",
         "十五少年漂流記 海賊島DE！大冒険"
       ],
       "relations": [
+        "https://anilist.co/anime/5013",
+        "https://anilist.co/anime/9095",
+        "https://anisearch.com/anime/441",
         "https://myanimelist.net/anime/5013",
         "https://myanimelist.net/anime/9095"
       ],
@@ -295,6 +270,7 @@
         "cats",
         "cg animation",
         "fantasy",
+        "full cgi",
         "island",
         "kids",
         "non-human protagonists",
@@ -343,6 +319,7 @@
     },
     {
       "sources": [
+        "https://anidb.net/anime/7582",
         "https://anisearch.com/anime/2989"
       ],
       "title": "Kimagure Orange Road: Hawaiian Suspense",
@@ -353,8 +330,8 @@
         "season": "WINTER",
         "year": 1989
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/hentai.v1.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/hentai.v1.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/hentai.v1_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/hentai.v1.webp",
       "synonyms": [
         "Kimagure Orange Road : Suspense à Hawaï",
         "Kimagure Orange Road OVA 2",
@@ -363,60 +340,22 @@
         "きまぐれオレンジ★ロード ハワイアン・サスペンス"
       ],
       "relations": [
-        "https://anisearch.com/anime/1641",
-        "https://anisearch.com/anime/1717",
-        "https://anisearch.com/anime/2103",
-        "https://anisearch.com/anime/2129",
-        "https://anisearch.com/anime/2636",
-        "https://anisearch.com/anime/2879",
-        "https://anisearch.com/anime/341",
-        "https://anisearch.com/anime/3794",
-        "https://anisearch.com/anime/391",
-        "https://anisearch.com/anime/4710",
-        "https://anisearch.com/anime/6273",
-        "https://anisearch.com/anime/6274"
+        "https://anidb.net/anime/153",
+        "https://anisearch.com/anime/2103"
       ],
       "tags": [
         "comedy",
         "contemporary fantasy",
+        "love polygon",
+        "manga",
         "mecha",
         "present",
         "psi-powers",
         "romance",
-        "romantic comedy"
+        "romantic comedy",
+        "shounen"
       ],
       "id": "https://anisearch.com/anime/2989"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/16658"
-      ],
-      "title": "Kimetsu no Yaiba: Asakusa-hen",
-      "type": "TV",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SUMMER",
-        "year": 2021
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/16/16658.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/16/16658.webp",
-      "synonyms": [
-        "Demon Slayer: Kimetsu no Yaiba - Asakusa Arc",
-        "鬼滅の刃 浅草編"
-      ],
-      "relations": [
-        "https://anisearch.com/anime/13658",
-        "https://anisearch.com/anime/14215",
-        "https://anisearch.com/anime/14653",
-        "https://anisearch.com/anime/15986",
-        "https://anisearch.com/anime/16194",
-        "https://anisearch.com/anime/16195",
-        "https://anisearch.com/anime/16614",
-        "https://anisearch.com/anime/16659"
-      ],
-      "tags": [],
-      "id": "https://anisearch.com/anime/16658"
     },
     {
       "sources": [
@@ -448,9 +387,11 @@
         "Knight’s and Magic",
         "Naitsuma",
         "k&m",
+        "km",
         "Рыцари и магия",
         "ไนท์ & แมจิก",
         "ナイツ&マジック",
+        "ナイツマ",
         "骑士&魔法",
         "나이츠 & 매직"
       ],
@@ -489,6 +430,7 @@
         "science fiction",
         "seinen",
         "shota",
+        "shounen",
         "super robot",
         "super robots",
         "swords & co",
@@ -499,22 +441,26 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/kodansha-morning-two-cm"
+        "https://anime-planet.com/anime/kodansha-morning-two-cm",
+        "https://kitsu.io/anime/43292"
       ],
       "title": "Kodansha Morning Two CM",
       "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "SPRING",
         "year": 2011
       },
-      "picture": "https://anime-planet.com/images/anime/covers/11304.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/11304.jpg",
-      "synonyms": [],
+      "picture": "https://cdn.anime-planet.com/anime/primary/kodansha-morning-two-cm-1.jpg?t=1625898603",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/kodansha-morning-two-cm-1-190x281.jpg?t=1625898603",
+      "synonyms": [
+        "Kodansha Morning 2"
+      ],
       "relations": [
         "https://anime-planet.com/anime/kremlin",
-        "https://anime-planet.com/anime/saint-young-men-movie"
+        "https://anime-planet.com/anime/saint-young-men-movie",
+        "https://kitsu.io/anime/43293"
       ],
       "tags": [
         "comedy",
@@ -638,7 +584,6 @@
         "daily life",
         "earth",
         "henshin",
-        "henshin heroes",
         "isekai",
         "japan",
         "kodomo",
@@ -656,6 +601,8 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/13757",
+        "https://anime-planet.com/anime/mashiroiro-symphony-the-color-of-lovers-picture-drama",
         "https://anisearch.com/anime/8611",
         "https://kitsu.io/anime/7022",
         "https://livechart.me/anime/4888",
@@ -670,27 +617,41 @@
         "season": "WINTER",
         "year": 2012
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/9/38265.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/9/38265t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1316/130375.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1316/130375t.jpg",
       "synonyms": [
+        "Mashiro-iro Symphony Picture Drama",
         "Mashiro-iro Symphony: Love Is Pure White Picture Drama",
         "Mashiro-iro Symphony: The Color of Lovers Special",
         "Mashiroiro Symphony Picture Drama",
+        "Mashiroiro Symphony: Love Is Pure White Picture Drama",
+        "Mashiroiro Symphony: The Color of Lovers Picture Drama",
+        "Mashiroiro Symphony: The Color of Lovers Special",
+        "Mashiroiro Symphony: The color of lovers Picture Drama",
         "Pure White Symphony Picture Drama",
         "ましろ色シンフォニー -The color of lovers- ピクチャードラマ"
       ],
       "relations": [
+        "https://anilist.co/anime/10397",
+        "https://anime-planet.com/anime/mashiroiro-symphony-airi-ga-anata-no-kanojo-ni",
+        "https://anime-planet.com/anime/mashiroiro-symphony-the-color-of-lovers",
         "https://anisearch.com/anime/7232",
-        "https://anisearch.com/anime/8391",
         "https://kitsu.io/anime/6165",
+        "https://livechart.me/anime/1195",
+        "https://livechart.me/anime/4513",
         "https://myanimelist.net/anime/10397",
         "https://notify.moe/anime/hAenpKmmg"
       ],
       "tags": [
+        "based on a visual novel",
+        "based on an eroge",
         "drama",
+        "female harem",
         "harem",
+        "picture drama",
         "present",
-        "romance"
+        "romance",
+        "shounen"
       ],
       "id": "https://myanimelist.net/anime/13757"
     },
@@ -698,6 +659,7 @@
       "sources": [
         "https://anilist.co/anime/98095",
         "https://anime-planet.com/anime/monster-strike-rain-of-memories",
+        "https://anisearch.com/anime/12097",
         "https://kitsu.io/anime/12827",
         "https://livechart.me/anime/8523",
         "https://myanimelist.net/anime/34475",
@@ -714,8 +676,14 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1460/119146.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1460/119146t.jpg",
       "synonyms": [
+        "Monster Strike Eiga Koukai Special: Rain of Memories",
+        "Monster Strike Eiga Kōkai Special: Rain of Memories",
         "Monster Strike Winter Special",
+        "Monster Strike Winter Special: Lluvia de Memorias",
+        "Monster Strike Winter Special: Rain of Memories",
+        "Monster Strike Winter Special: Regen der Erinnerungen",
         "Monster Strike: Winter Special - Rain of Memories",
+        "モンスターストライク 映画公開スペシャル: レイン オブ メモリーズ",
         "映画公開スペシャル「レイン・オブ・メモリーズ」"
       ],
       "relations": [
@@ -732,6 +700,8 @@
         "https://anime-planet.com/anime/monster-strike-the-movie",
         "https://anime-planet.com/anime/monster-strike-the-movie-3-lucifer-dawn-of-despair",
         "https://anime-planet.com/anime/msonic-dartagnyans-rise-to-fame",
+        "https://anisearch.com/anime/10568",
+        "https://anisearch.com/anime/11695",
         "https://kitsu.io/anime/12504",
         "https://myanimelist.net/anime/33724",
         "https://notify.moe/anime/LoUz2KiiR"
@@ -743,6 +713,7 @@
         "game",
         "kids",
         "monsters",
+        "video game",
         "virtual reality"
       ],
       "id": "https://myanimelist.net/anime/34475"
@@ -775,7 +746,8 @@
         "isekai",
         "music",
         "original work",
-        "shorts"
+        "shorts",
+        "surreal comedy"
       ],
       "id": "https://myanimelist.net/anime/33694"
     },
@@ -811,7 +783,9 @@
         "Number Six",
         "no6",
         "Номер 6",
-        "رقم 6"
+        "رقم 6",
+        "ナンバー・シックス",
+        "未来都市NO.6"
       ],
       "relations": [],
       "tags": [
@@ -819,7 +793,7 @@
         "agender",
         "apocalyptic fiction",
         "asia",
-        "based on a light novel",
+        "based on a novel",
         "bishounen",
         "bl",
         "boys love",
@@ -839,7 +813,7 @@
         "isolated society",
         "japan",
         "josei",
-        "lgbt themes",
+        "male protagonist",
         "memory manipulation",
         "mystery",
         "noitamina",
@@ -857,8 +831,11 @@
         "shounen-ai",
         "struggle to survive",
         "supernatural drama",
+        "survival",
         "thriller",
-        "tragedy"
+        "tragedy",
+        "urban",
+        "yandere"
       ],
       "id": "https://myanimelist.net/anime/10161"
     },
@@ -874,8 +851,8 @@
         "season": "WINTER",
         "year": 2014
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/17/17030.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17030.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/17/17030_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/17/17030.webp",
       "synonyms": [
         "Don’t Let Go of the Mental Rope",
         "놓지마 정신줄"
@@ -887,6 +864,32 @@
         "comedy"
       ],
       "id": "https://anisearch.com/anime/17030"
+    },
+    {
+      "sources": [
+        "https://kitsu.io/anime/46559"
+      ],
+      "title": "Non-Fiction",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "FALL",
+        "year": 2022
+      },
+      "picture": "https://media.kitsu.io/anime/46559/poster_image/small-4954a1a972826eafae8f0615c38c8098.jpeg",
+      "thumbnail": "https://media.kitsu.io/anime/46559/poster_image/tiny-30d3c1f6d348a93d32e33aefbaaaeba5.jpeg",
+      "synonyms": [],
+      "relations": [
+        "https://kitsu.io/anime/44088"
+      ],
+      "tags": [
+        "anime influenced",
+        "fantasy",
+        "idol",
+        "music"
+      ],
+      "id": "https://kitsu.io/anime/46559"
     },
     {
       "sources": [
@@ -994,24 +997,21 @@
         "https://anilist.co/anime/132696",
         "https://anime-planet.com/anime/oshiri-tantei-4th-season",
         "https://anime-planet.com/anime/oshiri-tantei-6th-season",
-        "https://anisearch.com/anime/12517",
-        "https://anisearch.com/anime/15033",
-        "https://anisearch.com/anime/15158",
-        "https://anisearch.com/anime/15170",
         "https://anisearch.com/anime/16185",
-        "https://anisearch.com/anime/16243",
-        "https://anisearch.com/anime/16703",
         "https://anisearch.com/anime/16909",
         "https://livechart.me/anime/10522",
         "https://livechart.me/anime/10543",
         "https://livechart.me/anime/10849",
         "https://livechart.me/anime/10862",
+        "https://livechart.me/anime/11817",
+        "https://livechart.me/anime/11819",
         "https://livechart.me/anime/3183",
         "https://livechart.me/anime/8368",
         "https://livechart.me/anime/9493",
         "https://livechart.me/anime/9791",
         "https://livechart.me/anime/9827",
         "https://myanimelist.net/anime/41778",
+        "https://myanimelist.net/anime/50799",
         "https://notify.moe/anime/iEz6IVwMR"
       ],
       "tags": [
@@ -1026,73 +1026,6 @@
         "mystery"
       ],
       "id": "https://myanimelist.net/anime/48486"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/pokemon-hoopa-the-mischief-pokemon"
-      ],
-      "title": "Pokemon: Hoopa, The Mischief Pokemon",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2015
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/pokemon-hoopa-the-mischief-pokemon-1.jpg?t=1625779182",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/pokemon-hoopa-the-mischief-pokemon-1-190x285.jpg?t=1625897201",
-      "synonyms": [
-        "Pokemon XY: Odemashi Ko Majin Fuupa"
-      ],
-      "relations": [
-        "https://anime-planet.com/anime/pikachus-summer-festival",
-        "https://anime-planet.com/anime/pokemon-black-and-white",
-        "https://anime-planet.com/anime/pokemon-black-and-white-adventures-in-unova",
-        "https://anime-planet.com/anime/pokemon-black-and-white-adventures-in-unova-and-beyond",
-        "https://anime-planet.com/anime/pokemon-black-and-white-rival-destinies",
-        "https://anime-planet.com/anime/pokemon-black-version-2-and-white-version-2",
-        "https://anime-planet.com/anime/pokemon-black-victini-and-reshiram",
-        "https://anime-planet.com/anime/pokemon-diamond-and-pearl",
-        "https://anime-planet.com/anime/pokemon-diancie-and-the-cocoon-of-destruction",
-        "https://anime-planet.com/anime/pokemon-diancie-princess-of-the-diamond-domain",
-        "https://anime-planet.com/anime/pokemon-eevee-and-friends",
-        "https://anime-planet.com/anime/pokemon-giratina-and-the-sky-warrior",
-        "https://anime-planet.com/anime/pokemon-gotta-dance",
-        "https://anime-planet.com/anime/pokemon-meloettas-moonlight-serenade",
-        "https://anime-planet.com/anime/pokemon-mewtwo-prologue-to-awakening",
-        "https://anime-planet.com/anime/pokemon-movie-10-the-rise-of-darkrai",
-        "https://anime-planet.com/anime/pokemon-movie-12-arceus-and-the-jewel-of-life",
-        "https://anime-planet.com/anime/pokemon-movie-15-kyurem-vs-the-sword-of-justice",
-        "https://anime-planet.com/anime/pokemon-movie-18-hoopa-and-the-clash-of-ages",
-        "https://anime-planet.com/anime/pokemon-movie-6-jirachi-wish-maker",
-        "https://anime-planet.com/anime/pokemon-movie-7-destiny-deoxys",
-        "https://anime-planet.com/anime/pokemon-movie-8-lucario-and-the-mystery-of-mew",
-        "https://anime-planet.com/anime/pokemon-mystery-dungeon-explorers-of-time-and-darkness",
-        "https://anime-planet.com/anime/pokemon-pichu-bros-in-party-panic",
-        "https://anime-planet.com/anime/pokemon-pikachu-tanken-club",
-        "https://anime-planet.com/anime/pokemon-pikachus-big-mysterious-adventure",
-        "https://anime-planet.com/anime/pokemon-pikachus-ghost-carnival",
-        "https://anime-planet.com/anime/pokemon-pikachus-great-ice-adventure",
-        "https://anime-planet.com/anime/pokemon-pikachus-great-sparking-search",
-        "https://anime-planet.com/anime/pokemon-pikachus-island-adventure",
-        "https://anime-planet.com/anime/pokemon-ranger-and-the-temple-of-the-sea",
-        "https://anime-planet.com/anime/pokemon-utae-meloetta-rinka-no-mi-wo-sagase",
-        "https://anime-planet.com/anime/pokemon-white-victini-and-zekrom",
-        "https://anime-planet.com/anime/pokemon-xy-mega-evolution",
-        "https://anime-planet.com/anime/pokemon-xy-sora-no-hahen",
-        "https://anime-planet.com/anime/pokemon-xy-special-road-to-kalos",
-        "https://anime-planet.com/anime/pokemon-zoroark-master-of-illusions"
-      ],
-      "tags": [
-        "based on a video game",
-        "comedy",
-        "family friendly",
-        "fantasy",
-        "monsters",
-        "shorts",
-        "shounen"
-      ],
-      "id": "https://anime-planet.com/anime/pokemon-hoopa-the-mischief-pokemon"
     },
     {
       "sources": [
@@ -1146,48 +1079,6 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/145358",
-        "https://myanimelist.net/anime/50500"
-      ],
-      "title": "Seikimatsu Densetsu Wonderful Tatsunoko Land",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 1999
-      },
-      "picture": "https://cdn.myanimelist.net/images/anime/1623/119840.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1623/119840t.jpg",
-      "synonyms": [
-        "世紀末伝説 ワンダフル タツノコランド"
-      ],
-      "relations": [
-        "https://anilist.co/anime/11873",
-        "https://anilist.co/anime/1445",
-        "https://anilist.co/anime/1458",
-        "https://anilist.co/anime/15957",
-        "https://anilist.co/anime/2389",
-        "https://anilist.co/anime/2574",
-        "https://anilist.co/anime/307",
-        "https://anilist.co/anime/3683",
-        "https://anilist.co/anime/3858",
-        "https://anilist.co/anime/3915",
-        "https://anilist.co/anime/4013",
-        "https://anilist.co/anime/4808",
-        "https://anilist.co/anime/4810",
-        "https://anilist.co/anime/5287",
-        "https://anilist.co/anime/6989",
-        "https://anilist.co/anime/7551"
-      ],
-      "tags": [
-        "comedy",
-        "crossover"
-      ],
-      "id": "https://myanimelist.net/anime/50500"
-    },
-    {
-      "sources": [
         "https://myanimelist.net/anime/47673"
       ],
       "title": "Shenmi Di Haidao",
@@ -1198,61 +1089,21 @@
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1636/130699.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1636/130699t.jpg",
       "synonyms": [
         "神秘的海岛"
       ],
       "relations": [],
       "tags": [
-        "adventure"
+        "kids"
       ],
       "id": "https://myanimelist.net/anime/47673"
     },
     {
       "sources": [
-        "https://anidb.net/anime/16302",
-        "https://anime-planet.com/anime/shimajirou-to-nagareboshi-no-negaigoto"
-      ],
-      "title": "Shimajirou to Nagareboshi no Negaigoto",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2019
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/shimajirou-to-nagareboshi-no-negaigoto-1.jpg?t=1632518073",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/shimajirou-to-nagareboshi-no-negaigoto-1-285x399.jpg?t=1632518073",
-      "synonyms": [
-        "しまじろうとながれぼしのねがいごと"
-      ],
-      "relations": [
-        "https://anidb.net/anime/9131",
-        "https://anime-planet.com/anime/hakken-taiken-daisuki-shimajirou",
-        "https://anime-planet.com/anime/shima-shima-tora-no-shimajirou",
-        "https://anime-planet.com/anime/shimajirou-hesoka",
-        "https://anime-planet.com/anime/shimajirou-mahou-no-shima-no-daibouken",
-        "https://anime-planet.com/anime/shimajirou-no-wow",
-        "https://anime-planet.com/anime/shimajirou-to-ehon-no-kuni",
-        "https://anime-planet.com/anime/shimajirou-to-fufu-no-daibouken-movie-sukue-nana-iro-no-hana",
-        "https://anime-planet.com/anime/shimajirou-to-kujira-no-uta",
-        "https://anime-planet.com/anime/shimajirou-to-niji-no-oasis",
-        "https://anime-planet.com/anime/shimajirou-to-ookinaki",
-        "https://anime-planet.com/anime/shimajirou-to-otsuki-sama-no-himitsu",
-        "https://anime-planet.com/anime/shimajirou-to-tanjoubi-no-ohoshi-sama",
-        "https://anime-planet.com/anime/shimajirou-to-ururu-no-hero-land"
-      ],
-      "tags": [
-        "animal protagonists",
-        "anthropomorphic",
-        "non-human protagonists",
-        "shorts"
-      ],
-      "id": "https://anime-planet.com/anime/shimajirou-to-nagareboshi-no-negaigoto"
-    },
-    {
-      "sources": [
+        "https://anime-planet.com/anime/shounen-sunday-cm-all-star-total-appearance",
+        "https://anisearch.com/anime/9199",
         "https://kitsu.io/anime/42582",
         "https://myanimelist.net/anime/40349"
       ],
@@ -1262,51 +1113,35 @@
       "status": "FINISHED",
       "animeSeason": {
         "season": "WINTER",
-        "year": 1995
+        "year": 1999
       },
       "picture": "https://cdn.myanimelist.net/images/anime/1856/102860.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1856/102860t.jpg",
       "synonyms": [
-        "CM 小学館 少年サンデー「オールスター総出演」編"
+        "CM Gekijou: All-Star Sou Shutsuen",
+        "CM Gekijō: All-Star Sō Shutsuen",
+        "CM 小学館 少年サンデー「オールスター総出演」編",
+        "CM劇場 オールスター総出演",
+        "Shounen Sunday All-Stars-Commercial 1999",
+        "Shounen Sunday CM: All-Star Sou Shitsuen"
       ],
-      "relations": [],
+      "relations": [
+        "https://anisearch.com/anime/1721",
+        "https://anisearch.com/anime/2581",
+        "https://anisearch.com/anime/6"
+      ],
       "tags": [
         "baseball",
         "comedy",
+        "commercials",
+        "ganbatte",
+        "present",
+        "promotional",
         "shounen",
-        "sports"
+        "sports",
+        "team sports"
       ],
       "id": "https://myanimelist.net/anime/40349"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/snickers-x-dr-stone"
-      ],
-      "title": "Snickers x Dr. Stone",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2020
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/snickers-x-dr-stone-1.jpg?t=1625761851",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/snickers-x-dr-stone-1-190x266.jpg?t=1625908626",
-      "synonyms": [],
-      "relations": [
-        "https://anime-planet.com/anime/dr-stone"
-      ],
-      "tags": [
-        "comedy",
-        "commercials",
-        "food and beverage",
-        "post-apocalyptic",
-        "promotional",
-        "sci fi",
-        "shounen",
-        "survival"
-      ],
-      "id": "https://anime-planet.com/anime/snickers-x-dr-stone"
     },
     {
       "sources": [
@@ -1320,8 +1155,8 @@
         "season": "FALL",
         "year": 2018
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/16/16700.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/16/16700.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/16/16700_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/16/16700.webp",
       "synonyms": [
         "T-Buster Season 2",
         "타오르지마 버스터 시즌 2"
@@ -1341,6 +1176,7 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/103987",
         "https://anime-planet.com/anime/zhu-zhu-xia-jing-qiu-xiao-yingxiong",
         "https://myanimelist.net/anime/38138"
       ],
@@ -1357,9 +1193,12 @@
       "synonyms": [
         "GG Bond 14",
         "GG Bond Season 14: Dodgeball Legend",
+        "Zhuzhu Xia: Jing Qiu Xiao Yingxiong",
         "猪猪侠 竞球小英雄"
       ],
       "relations": [
+        "https://anilist.co/anime/103988",
+        "https://anilist.co/anime/123113",
         "https://anime-planet.com/anime/bai-bian-zhu-zhu-xia",
         "https://anime-planet.com/anime/zhu-zhu-xia-bai-bian-lian-meng",
         "https://anime-planet.com/anime/zhu-zhu-xia-bian-shen-xiao-ying-xiong",
@@ -1394,6 +1233,7 @@
         "chinese animation",
         "dodgeball",
         "family friendly",
+        "full cgi",
         "kids",
         "non-human protagonists",
         "pigs",

@@ -61,6 +61,7 @@
         "fantasy",
         "horror",
         "music",
+        "mythology",
         "revenge",
         "science-fiction",
         "splatter",
@@ -106,6 +107,7 @@
       "relations": [
         "https://anidb.net/anime/5320",
         "https://anilist.co/anime/13365",
+        "https://anisearch.com/anime/8486",
         "https://kitsu.io/anime/6946",
         "https://myanimelist.net/anime/13365",
         "https://notify.moe/anime/965DpKmmR"
@@ -175,7 +177,9 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/129933",
         "https://anime-planet.com/anime/den-den-mushi-no-danko-san",
+        "https://kitsu.io/anime/43191",
         "https://myanimelist.net/anime/39499"
       ],
       "title": "Den Den Mushi no Danko-san",
@@ -189,6 +193,10 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1172/99711.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1172/99711t.jpg",
       "synonyms": [
+        "Den Den Mushi no Denko-san",
+        "Denden Mushi no Denko-san",
+        "Dendenmushi no Denko-san",
+        "Denko-san the Snail",
         "Minna no Uta",
         "Minna no Uta: Den Den Mushi no Danko-san",
         "デンデン虫のデン子さん"
@@ -196,6 +204,8 @@
       "relations": [],
       "tags": [
         "animal protagonists",
+        "animals",
+        "body horror",
         "family friendly",
         "kids",
         "minna no uta",
@@ -247,14 +257,16 @@
         "https://anime-planet.com/anime/galaxy-angel-s",
         "https://anime-planet.com/anime/galaxy-angel-z",
         "https://anime-planet.com/anime/galaxy-angel-z-special",
-        "https://anisearch.com/anime/14915",
-        "https://anisearch.com/anime/16608",
         "https://anisearch.com/anime/2208",
-        "https://anisearch.com/anime/2467",
-        "https://anisearch.com/anime/2666",
-        "https://anisearch.com/anime/3903",
-        "https://anisearch.com/anime/8840",
         "https://kitsu.io/anime/601",
+        "https://livechart.me/anime/5454",
+        "https://livechart.me/anime/5680",
+        "https://livechart.me/anime/5992",
+        "https://livechart.me/anime/6134",
+        "https://livechart.me/anime/6312",
+        "https://livechart.me/anime/6680",
+        "https://livechart.me/anime/7651",
+        "https://livechart.me/anime/7895",
         "https://myanimelist.net/anime/653",
         "https://notify.moe/anime/BCmAcFiig"
       ],
@@ -278,6 +290,7 @@
         "game",
         "kemonomimi",
         "kuudere",
+        "lost civilization",
         "love triangle",
         "nonsense-comedy",
         "other planet",
@@ -366,9 +379,9 @@
         "chinese animation",
         "family friendly",
         "fantasy",
-        "game",
         "kids",
-        "proxy battles"
+        "proxy battles",
+        "strategy game"
       ],
       "id": "https://myanimelist.net/anime/35643"
     },
@@ -406,10 +419,7 @@
         "https://anime-planet.com/anime/ikkyuu-san",
         "https://anime-planet.com/anime/ikkyuu-san-to-yancha-hime",
         "https://anime-planet.com/anime/ikkyuu-san-wide-ban-ooabare-yancha-hime",
-        "https://anisearch.com/anime/12062",
         "https://anisearch.com/anime/1512",
-        "https://anisearch.com/anime/8060",
-        "https://anisearch.com/anime/846",
         "https://kitsu.io/anime/3857",
         "https://myanimelist.net/anime/4935",
         "https://notify.moe/anime/Z-ArcKmmg"
@@ -430,13 +440,15 @@
         "https://anilist.co/anime/144853",
         "https://anime-planet.com/anime/insect-land",
         "https://anisearch.com/anime/16586",
+        "https://kitsu.io/anime/46292",
         "https://livechart.me/anime/10952",
-        "https://myanimelist.net/anime/50600"
+        "https://myanimelist.net/anime/50600",
+        "https://notify.moe/anime/JySXXYYnR"
       ],
       "title": "Insect Land",
       "type": "TV",
-      "episodes": 0,
-      "status": "UPCOMING",
+      "episodes": 22,
+      "status": "FINISHED",
       "animeSeason": {
         "season": "SPRING",
         "year": 2022
@@ -455,82 +467,15 @@
         "insects",
         "kids",
         "non-human protagonists",
+        "short episodes",
         "slice of life"
       ],
       "id": "https://myanimelist.net/anime/50600"
     },
     {
       "sources": [
-        "https://anidb.net/anime/4165"
-      ],
-      "title": "Kidou Senshi Gundam SEED: Meidou no Sora",
-      "type": "OVA",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 2004
-      },
-      "picture": "https://cdn.anidb.net/images/main/10141.jpg",
-      "thumbnail": "https://cdn.anidb.net/images/main/10141.jpg-thumb.jpg",
-      "synonyms": [
-        "GS SE III",
-        "GS Special Edition III",
-        "Kidou Senshi Gundam SEED Special Edition Kanketsuhen: Meidou no Sora",
-        "Mobile Suit Gundam SEED: Movie III - The Rumbling Sky",
-        "機動戦士ガンダムSEED -鳴動の宇宙[そら]-",
-        "機動戦士ガンダムSEED スペシャルエディション完結編 鳴動の宇宙"
-      ],
-      "relations": [
-        "https://anidb.net/anime/252",
-        "https://anidb.net/anime/4168"
-      ],
-      "tags": [
-        "action",
-        "genetic modification",
-        "mecha",
-        "new",
-        "piloted robot",
-        "science fiction",
-        "shounen"
-      ],
-      "id": "https://anidb.net/anime/4165"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/10857"
-      ],
-      "title": "Mahouka Koukou no Rettousei: Yoku Wakaru Mahouka - Dai 7 Kai",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 2015
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/10/10857.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/10/10857.webp",
-      "synonyms": [
-        "Mahouka Koukou no Rettousei: Yoku Wakaru Mahouka Episode 7",
-        "Mahouka Koukou no Rettousei: Yoku Wakaru Mahouka Special",
-        "Mahouka for Dummies Episode 7",
-        "Mahōka Kōkō no Rettōsei: Yoku Wakaru Mahōka - Dai 7 Kai",
-        "The Irregular at Magic High School: Grundkurs in Magie - Folge 7 - Was ist die ‚Wiederherstellung’?",
-        "魔法科高校の劣等生 よくわかる魔法科！ 第7回"
-      ],
-      "relations": [
-        "https://anisearch.com/anime/9541"
-      ],
-      "tags": [
-        "comedy",
-        "high school",
-        "science-fiction"
-      ],
-      "id": "https://anisearch.com/anime/10857"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/mao-tian-mao-di"
+        "https://anime-planet.com/anime/mao-tian-mao-di",
+        "https://anisearch.com/anime/8622"
       ],
       "title": "Mao Tian Mao Di",
       "type": "MOVIE",
@@ -543,7 +488,9 @@
       "picture": "https://cdn.anime-planet.com/anime/primary/mao-tian-mao-di-1.jpg?t=1625908989",
       "thumbnail": "https://cdn.anime-planet.com/anime/primary/mao-tian-mao-di-1-190x266.jpg?t=1625908989",
       "synonyms": [
-        "Full of Cats"
+        "FoC",
+        "Full of Cats",
+        "猫天猫地"
       ],
       "relations": [],
       "tags": [
@@ -554,12 +501,16 @@
         "comedy",
         "flash animation",
         "non-human protagonists",
-        "shorts"
+        "school",
+        "shorts",
+        "slapstick",
+        "slice of life"
       ],
       "id": "https://anime-planet.com/anime/mao-tian-mao-di"
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/mifeng-yu-qiuyin",
         "https://myanimelist.net/anime/43259"
       ],
       "title": "Mi Feng Yu Qiu Yin",
@@ -573,11 +524,14 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1228/118051.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1228/118051t.jpg",
       "synonyms": [
+        "Mifeng Yu Qiuyin",
         "蜜蜂與蚯蚓"
       ],
       "relations": [],
       "tags": [
-        "kids"
+        "chinese animation",
+        "kids",
+        "shorts"
       ],
       "id": "https://myanimelist.net/anime/43259"
     },
@@ -586,6 +540,7 @@
         "https://anidb.net/anime/5595",
         "https://anilist.co/anime/3573",
         "https://anime-planet.com/anime/moegaku-5",
+        "https://anisearch.com/anime/4618",
         "https://kitsu.io/anime/3114",
         "https://myanimelist.net/anime/3573",
         "https://notify.moe/anime/rog_5Fiig"
@@ -617,7 +572,6 @@
         "educational",
         "female protagonist",
         "half-length episodes",
-        "henshin heroes",
         "magic",
         "magical girl",
         "mahou shoujo",
@@ -626,34 +580,6 @@
         "urban"
       ],
       "id": "https://myanimelist.net/anime/3573"
-    },
-    {
-      "sources": [
-        "https://anidb.net/anime/13197"
-      ],
-      "title": "Monster Sonic! D`Artagnan no Idol Sengen",
-      "type": "ONA",
-      "episodes": 5,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2017
-      },
-      "picture": "https://cdn.anidb.net/images/main/202836.jpg",
-      "thumbnail": "https://cdn.anidb.net/images/main/202836.jpg-thumb.jpg",
-      "synonyms": [
-        "MSonic!",
-        "Monster Sonic! D`Artagnyan`s Rise to Fame",
-        "モンソニ! ダルタニャンのアイドル宣言"
-      ],
-      "relations": [
-        "https://anidb.net/anime/12703"
-      ],
-      "tags": [
-        "game",
-        "half-length episodes"
-      ],
-      "id": "https://anidb.net/anime/13197"
     },
     {
       "sources": [
@@ -708,8 +634,8 @@
         "season": "SUMMER",
         "year": 2014
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/4/63885.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/4/63885t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/12/66311.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/12/66311t.jpg",
       "synonyms": [
         "SHONEN HOLLYWOOD -HOLLY STAGE FOR 49-",
         "ShoHari",
@@ -727,6 +653,7 @@
         "https://anidb.net/anime/10855",
         "https://anilist.co/anime/20868",
         "https://anime-planet.com/anime/shounen-hollywood-holly-stage-for-50",
+        "https://anisearch.com/anime/8962",
         "https://anisearch.com/anime/9892",
         "https://kitsu.io/anime/9175",
         "https://livechart.me/anime/1139",
@@ -739,15 +666,18 @@
         "bishounen",
         "coming of age",
         "cute boys doing cute things",
+        "dancing",
         "earth",
         "ganbatte",
         "idol",
         "idols",
+        "idols (male)",
         "japan",
         "music",
         "musical",
         "musical band",
         "performance",
+        "performing arts",
         "present",
         "primarily male cast",
         "shoujo",
@@ -786,46 +716,9 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/spookiz-season-2"
-      ],
-      "title": "Spookiz Season 2",
-      "type": "ONA",
-      "episodes": 23,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2016
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/spookiz-season-2-1.jpg?t=1625899001",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/spookiz-season-2-1-190x271.jpg?t=1625899001",
-      "synonyms": [],
-      "relations": [
-        "https://anime-planet.com/anime/spookiz",
-        "https://anime-planet.com/anime/spookiz-halloween-special",
-        "https://anime-planet.com/anime/spookiz-season-3",
-        "https://anime-planet.com/anime/spookiz-trick-or-treat"
-      ],
-      "tags": [
-        "cg animation",
-        "comedy",
-        "crude",
-        "demons",
-        "episodic",
-        "family friendly",
-        "korean animation",
-        "monsters",
-        "school life",
-        "short episodes",
-        "supernatural",
-        "vampires",
-        "zombies"
-      ],
-      "id": "https://anime-planet.com/anime/spookiz-season-2"
-    },
-    {
-      "sources": [
         "https://anidb.net/anime/3144",
         "https://anilist.co/anime/9175",
+        "https://anisearch.com/anime/3181",
         "https://kitsu.io/anime/5624",
         "https://myanimelist.net/anime/9175",
         "https://notify.moe/anime/NDYZpKimR"
@@ -842,8 +735,10 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/8/72389t.jpg",
       "synonyms": [
         "I`m the Crane Princess -- !",
+        "Tsuru-hime Ja!",
         "つる姫じゃ~っ!",
         "つる姫じゃーっ!",
+        "つる姫じゃーっ！",
         "つる姫じゃ～っ！"
       ],
       "relations": [],
@@ -854,14 +749,47 @@
         "comedy",
         "daily life",
         "earth",
+        "fantasy",
         "japan",
         "kids",
+        "magic",
         "manga",
         "shoujo",
         "slapstick",
         "slice of life"
       ],
       "id": "https://myanimelist.net/anime/9175"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/150151",
+        "https://anime-planet.com/anime/wu-di-de-zuqiu",
+        "https://myanimelist.net/anime/51974"
+      ],
+      "title": "Wu Di de Zuqiu",
+      "type": "ONA",
+      "episodes": 0,
+      "status": "UPCOMING",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2023
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1177/124186.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1177/124186t.jpg",
+      "synonyms": [
+        "Wu Di De Zuqiu",
+        "Wu Di's Football",
+        "吴狄的足球"
+      ],
+      "relations": [],
+      "tags": [
+        "chinese animation",
+        "football",
+        "soccer",
+        "sports",
+        "team sports"
+      ],
+      "id": "https://myanimelist.net/anime/51974"
     },
     {
       "sources": [
@@ -907,10 +835,8 @@
         "fantasy",
         "female harem",
         "harem",
-        "henshin",
-        "henshin heroes",
         "japan",
-        "large breasts - deprecated",
+        "large breasts",
         "magic",
         "magical girl",
         "mahou shoujo",
@@ -926,6 +852,30 @@
         "shorts"
       ],
       "id": "https://myanimelist.net/anime/16656"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/zobotz"
+      ],
+      "title": "ZobotZ",
+      "type": "TV",
+      "episodes": 52,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2010
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/zobotz-1.webp?t=1652546473",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/zobotz-1-285x400.webp?t=1652546473",
+      "synonyms": [],
+      "relations": [],
+      "tags": [
+        "chinese animation",
+        "family friendly",
+        "robots",
+        "sci fi"
+      ],
+      "id": "https://anime-planet.com/anime/zobotz"
     }
   ]
 }

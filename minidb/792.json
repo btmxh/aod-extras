@@ -2,26 +2,33 @@
   "data": [
     {
       "sources": [
-        "https://myanimelist.net/anime/46257"
+        "https://anilist.co/anime/116237",
+        "https://anime-planet.com/anime/4-stories",
+        "https://kitsu.io/anime/44901"
       ],
-      "title": "A Te De Qihuan Zhi Lu",
-      "type": "TV",
-      "episodes": 26,
+      "title": "4 stories",
+      "type": "MOVIE",
+      "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
+        "season": "WINTER",
+        "year": 2016
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.anime-planet.com/anime/primary/4-stories-1.webp?t=1656451169",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/4-stories-1-285x399.webp?t=1656451169",
       "synonyms": [
-        "阿特的奇幻之旅"
+        "4 Stories",
+        "Monogatari-tachi e",
+        "物語たちへ"
       ],
       "relations": [],
       "tags": [
-        "fantasy"
+        "abstract",
+        "black and white",
+        "psychological",
+        "shorts"
       ],
-      "id": "https://myanimelist.net/anime/46257"
+      "id": "https://anime-planet.com/anime/4-stories"
     },
     {
       "sources": [
@@ -85,6 +92,7 @@
       "synonyms": [
         "Anime Tenchou Gekijouban",
         "Anime Tenchō Gekijōban",
+        "aniten movie",
         "Аниме продавачът",
         "アニメ店長 激情版"
       ],
@@ -94,6 +102,7 @@
         "https://anilist.co/anime/9875",
         "https://anime-planet.com/anime/anime-tenchou",
         "https://anime-planet.com/anime/anime-tenchou-x-touhou-project",
+        "https://anisearch.com/anime/4376",
         "https://kitsu.io/anime/2778",
         "https://myanimelist.net/anime/3080",
         "https://myanimelist.net/anime/9875",
@@ -102,6 +111,7 @@
       "tags": [
         "action",
         "comedy",
+        "josei",
         "nonsense-comedy",
         "otaku culture",
         "parody",
@@ -157,7 +167,8 @@
       ],
       "relations": [
         "https://anidb.net/anime/2360",
-        "https://anidb.net/anime/3662"
+        "https://anidb.net/anime/3662",
+        "https://anisearch.com/anime/3205"
       ],
       "tags": [
         "action",
@@ -174,33 +185,31 @@
     },
     {
       "sources": [
-        "https://kitsu.io/anime/44327"
+        "https://anime-planet.com/anime/art-de-qihuan-zhi-lu",
+        "https://myanimelist.net/anime/46257"
       ],
-      "title": "Bad ∞ End ∞ Night",
-      "type": "SPECIAL",
-      "episodes": 1,
+      "title": "Art de Qihuan Zhi Lu",
+      "type": "TV",
+      "episodes": 26,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "WINTER",
-        "year": 2014
+        "season": "UNDEFINED",
+        "year": 2010
       },
-      "picture": "https://media.kitsu.io/anime/poster_images/44327/small.jpg",
-      "thumbnail": "https://media.kitsu.io/anime/poster_images/44327/tiny.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1892/129826.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1892/129826t.jpg",
       "synonyms": [
-        "Hitoshizuku-P x Yama△: Bad ∞ End ∞ Night"
+        "Art's Magic Journey",
+        "阿特的奇幻之旅"
       ],
-      "relations": [
-        "https://kitsu.io/anime/44329",
-        "https://kitsu.io/anime/44334",
-        "https://kitsu.io/anime/44335"
-      ],
+      "relations": [],
       "tags": [
-        "horror",
-        "music",
-        "mystery",
-        "psychological"
+        "adventure",
+        "chinese animation",
+        "fantasy",
+        "kids"
       ],
-      "id": "https://kitsu.io/anime/44327"
+      "id": "https://myanimelist.net/anime/46257"
     },
     {
       "sources": [
@@ -242,7 +251,6 @@
         "https://anime-planet.com/anime/bai-gui-youeryuan",
         "https://anime-planet.com/anime/bai-gui-youeryuan-2nd-season",
         "https://anime-planet.com/anime/bai-gui-youeryuan-4th-season",
-        "https://anisearch.com/anime/13892",
         "https://anisearch.com/anime/14387",
         "https://kitsu.io/anime/43376",
         "https://kitsu.io/anime/45079",
@@ -266,6 +274,34 @@
         "super deformed"
       ],
       "id": "https://myanimelist.net/anime/42445"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/151088",
+        "https://anime-planet.com/anime/between-showers",
+        "https://kitsu.io/anime/46633",
+        "https://myanimelist.net/anime/52443"
+      ],
+      "title": "Between Showers",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2009
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1682/125543.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1682/125543t.jpg",
+      "synonyms": [],
+      "relations": [],
+      "tags": [
+        "abstract",
+        "avant garde",
+        "black and white",
+        "dementia",
+        "shorts"
+      ],
+      "id": "https://myanimelist.net/anime/52443"
     },
     {
       "sources": [
@@ -307,6 +343,7 @@
         "detective",
         "detectives",
         "gender bender",
+        "magical sex shift",
         "manga",
         "mystery",
         "present",
@@ -331,8 +368,8 @@
         "season": "UNDEFINED",
         "year": 2010
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/7/7901.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/7/7901.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/7/7901_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/7/7901.webp",
       "synonyms": [],
       "relations": [],
       "tags": [
@@ -411,39 +448,18 @@
         "based on a manga",
         "comedy",
         "fantasy",
+        "gore",
         "horror",
         "island",
         "manga",
         "seinen",
         "short episodes",
         "supernatural",
+        "survival",
         "vampire",
         "vampires"
       ],
       "id": "https://myanimelist.net/anime/34222"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/47135"
-      ],
-      "title": "Huangdou Bao Er",
-      "type": "ONA",
-      "episodes": 13,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "黄豆包儿"
-      ],
-      "relations": [],
-      "tags": [
-        "kids"
-      ],
-      "id": "https://myanimelist.net/anime/47135"
     },
     {
       "sources": [
@@ -454,19 +470,19 @@
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "SUMMER",
         "year": 2013
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1086/128455.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1086/128455t.jpg",
       "synonyms": [
+        "Adventure at Flaming Mountains",
         "火焰山历险记"
       ],
       "relations": [],
       "tags": [
         "adventure",
         "fantasy",
-        "historical",
         "kids"
       ],
       "id": "https://myanimelist.net/anime/44850"
@@ -535,41 +551,6 @@
     },
     {
       "sources": [
-        "https://anidb.net/anime/9829",
-        "https://anilist.co/anime/7261",
-        "https://anisearch.com/anime/8629"
-      ],
-      "title": "Mameshiba",
-      "type": "ONA",
-      "episodes": 20,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2009
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/8/8629.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/8/8629.webp",
-      "synonyms": [
-        "豆しば"
-      ],
-      "relations": [
-        "https://anidb.net/anime/11249",
-        "https://anidb.net/anime/12364",
-        "https://anidb.net/anime/12413",
-        "https://anilist.co/anime/19261",
-        "https://anilist.co/anime/97961",
-        "https://anisearch.com/anime/12790"
-      ],
-      "tags": [
-        "comedy",
-        "new",
-        "present",
-        "short episodes"
-      ],
-      "id": "https://anisearch.com/anime/8629"
-    },
-    {
-      "sources": [
         "https://anime-planet.com/anime/mameshiba-mamerry-christmas-2020"
       ],
       "title": "Mameshiba: Mamerry Christmas 2020",
@@ -626,6 +607,7 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/neppu-kairiku-bushi-road-kibou-e-no-michi",
         "https://myanimelist.net/anime/41139"
       ],
       "title": "Neppuu Kairiku Bushi Road: Kibou e no Michi",
@@ -633,19 +615,24 @@
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "WINTER",
         "year": 2014
       },
       "picture": "https://cdn.myanimelist.net/images/anime/1048/105618.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1048/105618t.jpg",
       "synonyms": [
+        "Neppu Kairiku Bushi Road: Kibou e no Michi",
         "熱風海陸ブシロード「希望への道」"
       ],
       "relations": [
+        "https://anime-planet.com/anime/neppu-kairiku-bushi-road",
         "https://myanimelist.net/anime/19653"
       ],
       "tags": [
-        "action"
+        "action",
+        "fantasy",
+        "sci fi",
+        "sci-fi"
       ],
       "id": "https://myanimelist.net/anime/41139"
     },
@@ -708,7 +695,7 @@
         "https://myanimelist.net/anime/33181",
         "https://notify.moe/anime/U8wetKimg"
       ],
-      "title": "Nijiiro Days OVA",
+      "title": "Nijiiro Days: Nijiiro Biyori",
       "type": "OVA",
       "episodes": 1,
       "status": "FINISHED",
@@ -722,8 +709,10 @@
         "Niji-iro Days OAD",
         "Niji-iro Days: Niji-iro Biyori",
         "Nijiiro Days OAD",
+        "Nijiiro Days OVA",
         "Rainbow Days OAD",
         "Rainbow Days OVA",
+        "nijiirodays ova",
         "虹色デイズ OAD",
         "虹色デイズ OVA",
         "虹色デイズ 虹色日和"
@@ -734,8 +723,8 @@
         "https://anime-planet.com/anime/rainbow-days",
         "https://anime-planet.com/anime/rainbow-days-after-school-special",
         "https://anisearch.com/anime/10619",
-        "https://anisearch.com/anime/11576",
         "https://kitsu.io/anime/11323",
+        "https://livechart.me/anime/1769",
         "https://myanimelist.net/anime/31414",
         "https://notify.moe/anime/OnF9tFmmg"
       ],
@@ -781,6 +770,33 @@
     },
     {
       "sources": [
+        "https://myanimelist.net/anime/51185"
+      ],
+      "title": "Nonsense Bungaku (2022)",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2022
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1900/121283.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1900/121283t.jpg",
+      "synonyms": [
+        "Literary Nonsense",
+        "Nonsense Bungaku/Wonderlands×Showtime × Kagamine Len",
+        "ナンセンス文学 / ワンダーランズ×ショウタイム × 鏡音レン"
+      ],
+      "relations": [
+        "https://myanimelist.net/anime/39163"
+      ],
+      "tags": [
+        "music"
+      ],
+      "id": "https://myanimelist.net/anime/51185"
+    },
+    {
+      "sources": [
         "https://anilist.co/anime/121964",
         "https://anime-planet.com/anime/bloomed-words",
         "https://anisearch.com/anime/13338",
@@ -812,16 +828,16 @@
       "sources": [
         "https://myanimelist.net/anime/45237"
       ],
-      "title": "Qianfang Gaoneng Zhi Huaji",
-      "type": "TV",
+      "title": "Qianfang Gaoneng: Huaji",
+      "type": "ONA",
       "episodes": 8,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
+        "season": "WINTER",
+        "year": 2017
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1581/131213.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1581/131213t.jpg",
       "synonyms": [
         "前方高能之滑稽"
       ],
@@ -838,37 +854,6 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/14957"
-      ],
-      "title": "Shakugan no SHANA: Naze Nani Shana 2",
-      "type": "SPECIAL",
-      "episodes": 8,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 2008
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14957.jpg",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14957.jpg",
-      "synonyms": [
-        "Friagne and Marianne's Why What Shana! Ask Anything Question Box",
-        "Friagne to Marianne no Naze Nani Shana! Nandemo Shitsumonbako!",
-        "フリアグネとマリアンヌの なぜなにシャナ! なんでも質問箱!"
-      ],
-      "relations": [
-        "https://anilist.co/anime/2787",
-        "https://anilist.co/anime/6330"
-      ],
-      "tags": [
-        "comedy",
-        "fantasy",
-        "kuudere",
-        "supernatural"
-      ],
-      "id": "https://anilist.co/anime/14957"
-    },
-    {
-      "sources": [
         "https://anisearch.com/anime/15907"
       ],
       "title": "Towa to Kage",
@@ -879,8 +864,8 @@
         "season": "WINTER",
         "year": 2021
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/15/15907.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/15/15907.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/15/15907_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/15/15907.webp",
       "synonyms": [
         "ROTTENGRAFFTY - Towa to Kage",
         "ROTTENGRAFFTY - 永遠と影",
@@ -936,8 +921,6 @@
         "https://anime-planet.com/anime/trinity-seven-movie-eternal-library-alchemic-girl",
         "https://anime-planet.com/anime/trinity-seven-ova",
         "https://anisearch.com/anime/10073",
-        "https://anisearch.com/anime/11573",
-        "https://anisearch.com/anime/13727",
         "https://kitsu.io/anime/10014",
         "https://kitsu.io/anime/12324",
         "https://livechart.me/anime/1287",
@@ -992,48 +975,25 @@
       "episodes": 72,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
+        "season": "WINTER",
+        "year": 2017
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1856/129457.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1856/129457t.jpg",
       "synonyms": [
+        "Deer Run",
         "无敌小鹿"
       ],
-      "relations": [],
+      "relations": [
+        "https://myanimelist.net/anime/47471",
+        "https://myanimelist.net/anime/47473",
+        "https://myanimelist.net/anime/47475"
+      ],
       "tags": [
-        "fantasy"
+        "fantasy",
+        "kids"
       ],
       "id": "https://myanimelist.net/anime/47470"
-    },
-    {
-      "sources": [
-        "https://anilist.co/anime/129466",
-        "https://anime-planet.com/anime/xiurong-zhen",
-        "https://myanimelist.net/anime/43880"
-      ],
-      "title": "Xiurong Zhen",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2020
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "THE TOWN",
-        "The Town",
-        "修容镇"
-      ],
-      "relations": [],
-      "tags": [
-        "chinese animation",
-        "drama",
-        "fantasy"
-      ],
-      "id": "https://myanimelist.net/anime/43880"
     },
     {
       "sources": [

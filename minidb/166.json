@@ -2,6 +2,34 @@
   "data": [
     {
       "sources": [
+        "https://anime-planet.com/anime/3341",
+        "https://myanimelist.net/anime/53771"
+      ],
+      "title": "3341",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "FALL",
+        "year": 2018
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1000/131650.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1000/131650t.jpg",
+      "synonyms": [
+        "Minna no Uta",
+        "３ ３ ４ １"
+      ],
+      "relations": [],
+      "tags": [
+        "family friendly",
+        "kids",
+        "minna no uta",
+        "music"
+      ],
+      "id": "https://myanimelist.net/anime/53771"
+    },
+    {
+      "sources": [
         "https://anidb.net/anime/4679",
         "https://anilist.co/anime/108751",
         "https://anime-planet.com/anime/asobo-toy-chan",
@@ -73,29 +101,6 @@
     },
     {
       "sources": [
-        "https://myanimelist.net/anime/46416"
-      ],
-      "title": "Bianxing Jingche Po Li",
-      "type": "TV",
-      "episodes": 52,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "变形警车珀利"
-      ],
-      "relations": [],
-      "tags": [
-        "kids"
-      ],
-      "id": "https://myanimelist.net/anime/46416"
-    },
-    {
-      "sources": [
         "https://anidb.net/anime/16965",
         "https://anilist.co/anime/141249",
         "https://anime-planet.com/anime/bungo-stray-dogs-4th-season",
@@ -107,63 +112,70 @@
       ],
       "title": "Bungou Stray Dogs 4th Season",
       "type": "TV",
-      "episodes": 12,
-      "status": "UPCOMING",
+      "episodes": 13,
+      "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
+        "season": "WINTER",
+        "year": 2023
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/1363/119297.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1363/119297t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1263/132759.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1263/132759t.jpg",
       "synonyms": [
-        "BSD",
         "BSD 4",
-        "Bungo Stray Dogs",
-        "Bungo Stray Dogs (New Season)",
         "Bungo Stray Dogs 4",
         "Bungo Stray Dogs 4th Season",
-        "Bungou Stray Dogs (Shin Season)",
+        "Bungo Stray Dogs : Saison 4",
+        "Bungou Stray Dogs (2023)",
         "Bungou Stray Dogs 4",
-        "BungouSD",
-        "Bungō Stray Dogs (Shin Season)",
+        "BungouSD 4",
+        "Bungō Stray Dogs (2023)",
+        "bsd4",
         "คณะประพันธกรจรจัด ภาค 4",
         "文豪ストレイドッグス",
-        "文豪ストレイドッグス (新シーズン)",
+        "文豪ストレイドッグス (2023)",
         "文豪ストレイドッグス 4",
-        "文豪ストレイドッグス （新シーズン）"
+        "文豪ストレイドッグス 第4シーズン",
+        "文豪ストレイドッグス （2023）",
+        "文豪野犬 第四季",
+        "文豪野犬第四季"
       ],
       "relations": [
         "https://anidb.net/anime/14230",
+        "https://anidb.net/anime/17962",
         "https://anilist.co/anime/103223",
+        "https://anilist.co/anime/163263",
         "https://anime-planet.com/anime/bungo-stray-dogs",
         "https://anime-planet.com/anime/bungo-stray-dogs-2nd-season",
         "https://anime-planet.com/anime/bungo-stray-dogs-3rd-season",
+        "https://anime-planet.com/anime/bungo-stray-dogs-5th-season",
         "https://anime-planet.com/anime/bungo-stray-dogs-movie-dead-apple",
         "https://anime-planet.com/anime/bungo-stray-dogs-walking-alone",
         "https://anime-planet.com/anime/bungo-stray-dogs-wan",
-        "https://anisearch.com/anime/10694",
-        "https://anisearch.com/anime/11246",
-        "https://anisearch.com/anime/11981",
-        "https://anisearch.com/anime/12234",
         "https://anisearch.com/anime/13766",
-        "https://anisearch.com/anime/15337",
+        "https://anisearch.com/anime/18320",
         "https://kitsu.io/anime/41984",
+        "https://kitsu.io/anime/47258",
         "https://livechart.me/anime/10021",
+        "https://livechart.me/anime/11915",
         "https://livechart.me/anime/1783",
         "https://livechart.me/anime/2056",
         "https://livechart.me/anime/2135",
         "https://livechart.me/anime/2554",
         "https://livechart.me/anime/3427",
         "https://myanimelist.net/anime/38003",
+        "https://myanimelist.net/anime/54898",
+        "https://notify.moe/anime/AugJ_7YVg",
         "https://notify.moe/anime/gVOp2f-mR"
       ],
       "tags": [
         "action",
         "action comedy",
+        "adult cast",
         "anti-hero",
         "based on a manga",
         "classic literature",
         "comedy",
+        "conspiracy",
         "contemporary fantasy",
         "crime",
         "detective",
@@ -172,26 +184,33 @@
         "ensemble cast",
         "espionage",
         "fantasy",
+        "fugitive",
         "gambling",
         "gangs",
         "gore",
         "guns",
         "mafia",
         "male protagonist",
+        "manga",
         "military",
         "mystery",
+        "organized crime",
         "orphans",
         "present",
         "primarily adult cast",
         "primarily male cast",
         "romance",
         "seinen",
+        "suicide",
         "super power",
         "supernatural",
         "supernatural drama",
         "superpower",
         "superpowers",
-        "urban fantasy"
+        "terrorism",
+        "tragedy",
+        "urban fantasy",
+        "war"
       ],
       "id": "https://myanimelist.net/anime/50330"
     },
@@ -200,6 +219,7 @@
         "https://anidb.net/anime/14476",
         "https://anilist.co/anime/105190",
         "https://anime-planet.com/anime/darwins-game",
+        "https://anisearch.com/anime/13976",
         "https://kitsu.io/anime/42260",
         "https://livechart.me/anime/8230",
         "https://myanimelist.net/anime/38656",
@@ -217,6 +237,7 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1016/107222t.jpg",
       "synonyms": [
         "Darwin`s Game",
+        "Darwin’s Game",
         "Игра Дарвина",
         "لعبة داروين",
         "ダーウィンズゲーム",
@@ -225,6 +246,7 @@
       ],
       "relations": [
         "https://anime-planet.com/anime/darwins-game-log-line",
+        "https://anisearch.com/anime/14967",
         "https://kitsu.io/anime/42982",
         "https://myanimelist.net/anime/41194",
         "https://notify.moe/anime/2i3fW0UZg"
@@ -235,29 +257,44 @@
         "based on a manga",
         "battle royale",
         "conspiracy",
+        "cute boys doing cute things",
         "death game",
         "dissociative identities",
         "drama",
+        "ecchi",
+        "excessive violence",
         "gambling",
         "gore",
         "guns",
+        "hero of strong character",
+        "heroine of strong character",
+        "high stakes game",
         "high stakes games",
         "male protagonist",
         "manga",
         "martial arts",
         "mystery",
+        "philosophy",
         "play or die",
+        "present",
+        "psi-powers",
         "psychological",
+        "psychological drama",
         "pvp",
+        "romance",
         "samurai",
         "sci fi",
         "sci-fi",
         "science fiction",
+        "science-fiction",
         "shounen",
+        "splatter",
+        "struggle to survive",
         "super power",
         "superpowers",
         "survival",
         "swordplay",
+        "swords & co",
         "thriller",
         "twins",
         "urban",
@@ -278,12 +315,14 @@
         "season": "UNDEFINED",
         "year": 1972
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/15/15474.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/15/15474.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/15/15474_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/15/15474.webp",
       "synonyms": [
         "デビルマンPilot Film"
       ],
-      "relations": [],
+      "relations": [
+        "https://anisearch.com/anime/820"
+      ],
       "tags": [
         "action",
         "fantasy",
@@ -310,8 +349,8 @@
         "season": "SPRING",
         "year": 2006
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/4/49919.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/4/49919t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1230/133528.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1230/133528t.jpg",
       "synonyms": [
         "Fushigi Boshi no Futago Hime Gyu!",
         "Fushigi-boshi no Futago-hime Gyu!",
@@ -347,14 +386,14 @@
         "comedy",
         "family friendly",
         "fantasy",
-        "henshin heroes",
         "magic",
         "magical girl",
         "mahou shoujo",
         "original work",
         "romance",
         "school life",
-        "shoujo"
+        "shoujo",
+        "twins"
       ],
       "id": "https://myanimelist.net/anime/1886"
     },
@@ -401,6 +440,31 @@
     },
     {
       "sources": [
+        "https://anisearch.com/anime/18227"
+      ],
+      "title": "Gachi Yabejan",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "FALL",
+        "year": 2020
+      },
+      "picture": "https://www.anisearch.com/images/anime/cover/18/18227_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/18/18227.webp",
+      "synonyms": [
+        "P Maru-sama. - Gachi Yabejan feat. Nanamori.",
+        "P丸様。- ガチやべぇじゃん feat.ななもり。",
+        "ガチやべぇじゃん"
+      ],
+      "relations": [],
+      "tags": [
+        "independent anime"
+      ],
+      "id": "https://anisearch.com/anime/18227"
+    },
+    {
+      "sources": [
         "https://anisearch.com/anime/13094",
         "https://myanimelist.net/anime/36956"
       ],
@@ -415,6 +479,7 @@
       "picture": "https://cdn.myanimelist.net/images/anime/3/89486.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/3/89486t.jpg",
       "synonyms": [
+        "Jewelry",
         "Jewelry THE ANIMATION",
         "ジュエリー ジ アニメーション"
       ],
@@ -424,34 +489,43 @@
         "housewife",
         "oral",
         "present",
-        "romance",
         "softcore"
       ],
       "id": "https://myanimelist.net/anime/36956"
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/jin-daze"
+        "https://anilist.co/anime/137641",
+        "https://anime-planet.com/anime/novoland-eagle-flag",
+        "https://anisearch.com/anime/18169",
+        "https://kitsu.io/anime/45696",
+        "https://myanimelist.net/anime/51207",
+        "https://notify.moe/anime/QC2wqJTVg"
       ],
-      "title": "Jin: daze",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
+      "title": "Jiuzhou Piaomiao Lu",
+      "type": "ONA",
+      "episodes": 12,
+      "status": "ONGOING",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2014
+        "season": "WINTER",
+        "year": 2023
       },
-      "picture": "https://cdn.anime-planet.com/anime/primary/jin-daze-1.jpg?t=1625896912",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/jin-daze-1-190x275.jpg?t=1625896912",
-      "synonyms": [],
-      "relations": [
-        "https://anime-planet.com/anime/mekakucity-actors"
+      "picture": "https://cdn.myanimelist.net/images/anime/1281/126741.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1281/126741t.jpg",
+      "synonyms": [
+        "Jiu Zhou Piao Miao Lu",
+        "Novoland Eagle Flag",
+        "九州缥缈录"
       ],
+      "relations": [],
       "tags": [
-        "forest",
-        "slice of life"
+        "action",
+        "chinese animation",
+        "drama",
+        "fantasy",
+        "full cgi"
       ],
-      "id": "https://anime-planet.com/anime/jin-daze"
+      "id": "https://myanimelist.net/anime/51207"
     },
     {
       "sources": [
@@ -508,12 +582,18 @@
         "Demon-slaying blade",
         "Guardianes De La Noche: Kimetsu no Yaiba",
         "Guardianes de la Noche: Kimetsu no Yaiba",
+        "Guardianes de la noche",
+        "Guardians de la nit",
+        "Guardians de la nit: Kimetsu no Yaiba",
         "Kimetsu no Yaiba: Kyoudai no Kizuna",
         "Kimetsu no Yaiba: Riisshi Hen",
         "KnY",
-        "Miecz zabójców Demonów",
+        "KnY s1",
+        "Miecz Zabójcy Demonów",
+        "Miecz zabójcy demonów – Kimetsu no Yaiba",
         "Thanh gươm diệt quỷ",
         "Ucigașul de demoni",
+        "ds s1",
         "İblis Keser",
         "Истребитель демонов",
         "Клинок убивающий демонов",
@@ -539,19 +619,21 @@
         "https://anilist.co/anime/112151",
         "https://anilist.co/anime/129627",
         "https://anilist.co/anime/129874",
+        "https://anilist.co/anime/154541",
         "https://anime-planet.com/anime/demon-slayer-kimetsu-no-yaiba-entertainment-district-arc",
         "https://anime-planet.com/anime/demon-slayer-kimetsu-no-yaiba-movie-mugen-train",
         "https://anime-planet.com/anime/demon-slayer-kimetsu-no-yaiba-mugen-train",
+        "https://anime-planet.com/anime/demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc",
+        "https://anime-planet.com/anime/kimetsu-gakuen-monogatari-kimetsu-no-utage-tokubetsu-hen",
         "https://anime-planet.com/anime/kimetsu-gakuen-valentine-hen",
         "https://anisearch.com/anime/14215",
         "https://anisearch.com/anime/14653",
-        "https://anisearch.com/anime/15986",
+        "https://anisearch.com/anime/15971",
         "https://anisearch.com/anime/16194",
         "https://anisearch.com/anime/16195",
         "https://anisearch.com/anime/16614",
         "https://anisearch.com/anime/16658",
         "https://anisearch.com/anime/16659",
-        "https://anisearch.com/anime/17088",
         "https://kitsu.io/anime/42586",
         "https://kitsu.io/anime/44063",
         "https://kitsu.io/anime/44388",
@@ -559,13 +641,19 @@
         "https://kitsu.io/anime/44390",
         "https://kitsu.io/anime/45253",
         "https://kitsu.io/anime/45254",
+        "https://kitsu.io/anime/45828",
         "https://livechart.me/anime/10399",
         "https://livechart.me/anime/10420",
         "https://livechart.me/anime/10816",
+        "https://livechart.me/anime/11084",
+        "https://livechart.me/anime/11722",
+        "https://livechart.me/anime/11814",
         "https://livechart.me/anime/9232",
         "https://livechart.me/anime/9614",
         "https://myanimelist.net/anime/40456",
         "https://myanimelist.net/anime/47398",
+        "https://myanimelist.net/anime/48861",
+        "https://myanimelist.net/anime/49926",
         "https://notify.moe/anime/LidKO4EMg",
         "https://notify.moe/anime/a8hdTT2WR"
       ],
@@ -573,9 +661,9 @@
         "action",
         "action drama",
         "adventure",
+        "award winning",
         "based on a manga",
         "body horror",
-        "cannibalism",
         "cgi",
         "chibi",
         "comedy",
@@ -599,6 +687,7 @@
         "martial arts",
         "monster girl",
         "mythology",
+        "orphan",
         "orphans",
         "primarily male cast",
         "primarily teen cast",
@@ -616,6 +705,7 @@
         "swords & co",
         "time skip",
         "tragedy",
+        "travel",
         "violence"
       ],
       "id": "https://myanimelist.net/anime/38000"
@@ -658,6 +748,7 @@
         "asia",
         "based on a manga",
         "bicycling",
+        "cgdct",
         "cgi",
         "college",
         "comedy",
@@ -668,6 +759,7 @@
         "fitness",
         "food",
         "ganbatte",
+        "iyashikei",
         "japan",
         "manga",
         "outdoor",
@@ -727,7 +819,6 @@
         "https://anime-planet.com/anime/lovely-muuuuuuuco-ova",
         "https://anisearch.com/anime/10548",
         "https://anisearch.com/anime/10596",
-        "https://anisearch.com/anime/11538",
         "https://kitsu.io/anime/10978",
         "https://kitsu.io/anime/9896",
         "https://myanimelist.net/anime/23897",
@@ -756,6 +847,7 @@
       "sources": [
         "https://anidb.net/anime/7159",
         "https://anime-planet.com/anime/meiken-lassie-specials",
+        "https://anisearch.com/anime/6149",
         "https://kitsu.io/anime/9441",
         "https://myanimelist.net/anime/25085",
         "https://notify.moe/anime/ymJBtFimR"
@@ -773,13 +865,16 @@
       "synonyms": [
         "Famous Dog Lassie Specials",
         "Sekai Meisaku Gekijou Kanketsu Ban: Meiken Lassie",
+        "Sekai Meisaku Gekijō Kanketsu Ban: Meiken Lassie",
         "World Masterpiece Theater Complete Edition: Lassie",
+        "世界名作劇場・完結版 名犬ラッシ",
         "世界名作劇場・完結版 名犬ラッシー"
       ],
       "relations": [
         "https://anidb.net/anime/2289",
         "https://anime-planet.com/anime/meiken-lassie",
         "https://anime-planet.com/anime/meiken-lassie-yume-ni-mukatte-hashire",
+        "https://anisearch.com/anime/1439",
         "https://kitsu.io/anime/3000",
         "https://myanimelist.net/anime/3425",
         "https://notify.moe/anime/1AYw5Kiig"
@@ -797,28 +892,6 @@
         "world masterpiece theater"
       ],
       "id": "https://myanimelist.net/anime/25085"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/mifeng-yu-qiuyin"
-      ],
-      "title": "Mifeng Yu Qiuyin",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 1959
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/mifeng-yu-qiuyin-1.jpg?t=1636421916",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/mifeng-yu-qiuyin-1-285x399.jpg?t=1636421916",
-      "synonyms": [],
-      "relations": [],
-      "tags": [
-        "chinese animation",
-        "shorts"
-      ],
-      "id": "https://anime-planet.com/anime/mifeng-yu-qiuyin"
     },
     {
       "sources": [
@@ -858,79 +931,78 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/monogatari-wo-kimi-e-fukaku-ni-q2-ending-animation"
+        "https://anilist.co/anime/133146",
+        "https://anime-planet.com/anime/monogatari-wo-kimi-e-fukaku-ni-q2-ending-animation",
+        "https://kitsu.io/anime/44861"
       ],
       "title": "Monogatari wo kimi e: Fukaku ni Q2 Ending Animation",
       "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "SPRING",
         "year": 2021
       },
       "picture": "https://cdn.anime-planet.com/anime/primary/monogatari-wo-kimi-e-fukaku-ni-q2-ending-animation-1.webp?t=1632081273",
       "thumbnail": "https://cdn.anime-planet.com/anime/primary/monogatari-wo-kimi-e-fukaku-ni-q2-ending-animation-1-285x399.webp?t=1632081273",
-      "synonyms": [],
+      "synonyms": [
+        "Monogatari wo kimi e. #2 - Fukakai 2 Q2 Ending Animation",
+        "物語を君へ。#2 -不可解弐Q2 エンディングアニメーション-"
+      ],
       "relations": [
-        "https://anime-planet.com/anime/monogatari-wo-kimi-e-fukaku-ni-q1-ending-animation"
+        "https://anilist.co/anime/127041",
+        "https://anilist.co/anime/136128",
+        "https://anime-planet.com/anime/monogatari-wo-kimi-e-fukaku-ni-q1-ending-animation",
+        "https://kitsu.io/anime/44305",
+        "https://kitsu.io/anime/44862"
       ],
       "tags": [
+        "female protagonist",
+        "music",
+        "primarily female cast",
         "promotional",
-        "vtubers"
+        "vtuber"
       ],
       "id": "https://anime-planet.com/anime/monogatari-wo-kimi-e-fukaku-ni-q2-ending-animation"
     },
     {
       "sources": [
-        "https://anilist.co/anime/118609"
+        "https://anime-planet.com/anime/pokemon-sports-day",
+        "https://kitsu.io/anime/46290",
+        "https://myanimelist.net/anime/51884"
       ],
-      "title": "Obenkyou Shitoiteyo",
-      "type": "SPECIAL",
+      "title": "Pokemon Daiundoukai",
+      "type": "ONA",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "FALL",
         "year": 2020
       },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118609-UOlySNiUwejd.png",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118609-UOlySNiUwejd.png",
+      "picture": "https://cdn.myanimelist.net/images/anime/1682/123952.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1682/123952t.jpg",
       "synonyms": [
-        "STUDY ME",
-        "お勉強しといてよ"
+        "Pokemon Sports Day",
+        "Pokémon Fun Video",
+        "Pokémon Kids TV: Sports Day",
+        "Pokémon Sports Day",
+        "ポケモン大運動会"
       ],
       "relations": [
-        "https://anilist.co/anime/131755"
+        "https://kitsu.io/anime/486",
+        "https://myanimelist.net/anime/527"
       ],
-      "tags": [],
-      "id": "https://anilist.co/anime/118609"
-    },
-    {
-      "sources": [
-        "https://anidb.net/anime/16972",
-        "https://anilist.co/anime/143415",
-        "https://anisearch.com/anime/16782",
-        "https://livechart.me/anime/10938",
-        "https://myanimelist.net/anime/50576"
-      ],
-      "title": "Ohiru no Shocker-san",
-      "type": "TV",
-      "episodes": 12,
-      "status": "UPCOMING",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 2021
-      },
-      "picture": "https://cdn.myanimelist.net/images/anime/1913/120020.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1913/120020t.jpg",
-      "synonyms": [
-        "お昼のショッカーさん"
-      ],
-      "relations": [],
       "tags": [
-        "comedy",
-        "work life"
+        "based on a video game",
+        "family friendly",
+        "fantasy",
+        "kids",
+        "monsters",
+        "music",
+        "no dialogue",
+        "shorts"
       ],
-      "id": "https://myanimelist.net/anime/50576"
+      "id": "https://myanimelist.net/anime/51884"
     },
     {
       "sources": [
@@ -957,11 +1029,14 @@
         "Meloetta: Search for the Rinka Berries!",
         "Pocket Monsters: Sing Meloetta - Search for the Rinka Berries",
         "Pokemon: Sing Meloetta - Search for the Rinka Berries",
+        "Pokémon: Sing Meloetta - Search for the Rinka Berries",
         "Pokémon: Sing, Meloetta: Search for the Rinka Berries!",
         "Sing",
+        "Sing Meloetta: Search for the Rinka Berries",
         "Utae Meloetta: Rinka no Mi o Sagase",
         "Utae Meloetta: Rinka no Mi o Sagase!",
         "Utae Meloetta: Rinka no Mi wo Sagase!",
+        "pm ova 5",
         "うたえメロエッタ リンカのみをさがせ"
       ],
       "relations": [
@@ -1004,77 +1079,7 @@
         "https://anime-planet.com/anime/pokemon-xy-sora-no-hahen",
         "https://anime-planet.com/anime/pokemon-xy-special-road-to-kalos",
         "https://anime-planet.com/anime/pokemon-zoroark-master-of-illusions",
-        "https://anisearch.com/anime/10132",
-        "https://anisearch.com/anime/10444",
-        "https://anisearch.com/anime/10686",
-        "https://anisearch.com/anime/10759",
-        "https://anisearch.com/anime/109",
-        "https://anisearch.com/anime/11070",
-        "https://anisearch.com/anime/11242",
-        "https://anisearch.com/anime/11243",
-        "https://anisearch.com/anime/11244",
-        "https://anisearch.com/anime/11245",
-        "https://anisearch.com/anime/11309",
-        "https://anisearch.com/anime/11437",
-        "https://anisearch.com/anime/11443",
-        "https://anisearch.com/anime/11662",
-        "https://anisearch.com/anime/11677",
-        "https://anisearch.com/anime/11757",
-        "https://anisearch.com/anime/11938",
-        "https://anisearch.com/anime/11939",
-        "https://anisearch.com/anime/12149",
-        "https://anisearch.com/anime/12911",
-        "https://anisearch.com/anime/13078",
-        "https://anisearch.com/anime/13125",
-        "https://anisearch.com/anime/13756",
-        "https://anisearch.com/anime/14495",
-        "https://anisearch.com/anime/14596",
-        "https://anisearch.com/anime/1476",
-        "https://anisearch.com/anime/15641",
-        "https://anisearch.com/anime/1612",
-        "https://anisearch.com/anime/164",
-        "https://anisearch.com/anime/1864",
-        "https://anisearch.com/anime/2105",
-        "https://anisearch.com/anime/2136",
-        "https://anisearch.com/anime/2222",
-        "https://anisearch.com/anime/2446",
-        "https://anisearch.com/anime/2602",
-        "https://anisearch.com/anime/2658",
-        "https://anisearch.com/anime/2831",
-        "https://anisearch.com/anime/2914",
-        "https://anisearch.com/anime/3100",
-        "https://anisearch.com/anime/3139",
-        "https://anisearch.com/anime/3293",
-        "https://anisearch.com/anime/3495",
-        "https://anisearch.com/anime/3551",
-        "https://anisearch.com/anime/3684",
-        "https://anisearch.com/anime/3721",
-        "https://anisearch.com/anime/3975",
-        "https://anisearch.com/anime/4690",
-        "https://anisearch.com/anime/5197",
-        "https://anisearch.com/anime/5533",
-        "https://anisearch.com/anime/5740",
-        "https://anisearch.com/anime/5741",
-        "https://anisearch.com/anime/5867",
-        "https://anisearch.com/anime/6306",
-        "https://anisearch.com/anime/6678",
-        "https://anisearch.com/anime/7344",
-        "https://anisearch.com/anime/7521",
-        "https://anisearch.com/anime/7540",
-        "https://anisearch.com/anime/7550",
-        "https://anisearch.com/anime/7655",
         "https://anisearch.com/anime/7870",
-        "https://anisearch.com/anime/8231",
-        "https://anisearch.com/anime/8300",
-        "https://anisearch.com/anime/8513",
-        "https://anisearch.com/anime/8744",
-        "https://anisearch.com/anime/8745",
-        "https://anisearch.com/anime/9040",
-        "https://anisearch.com/anime/9045",
-        "https://anisearch.com/anime/9184",
-        "https://anisearch.com/anime/9404",
-        "https://anisearch.com/anime/9591",
-        "https://anisearch.com/anime/9801",
         "https://kitsu.io/anime/7080",
         "https://livechart.me/anime/3702",
         "https://livechart.me/anime/3816",
@@ -1141,8 +1146,10 @@
         "Saredo Tsumibito wa Ryū to Odoru: Dances with the Dragons",
         "Saredo Zainin wa Ryuu to Odoru",
         "Sinners Dance with Dragons",
+        "sareryuu",
         "されど罪人は竜と踊る",
         "されど罪人は竜と踊る Dances with the Dragons",
+        "され竜",
         "罪人与龙共舞",
         "그러나 죄인은 용과 춤춘다"
       ],
@@ -1174,6 +1181,7 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/kiddets",
         "https://myanimelist.net/anime/47697"
       ],
       "title": "Taikong Xueyuan",
@@ -1182,71 +1190,24 @@
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2018
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1762/123427.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1762/123427t.jpg",
       "synonyms": [
+        "Kiddets",
         "太空学院"
       ],
       "relations": [],
       "tags": [
-        "kids"
+        "anthropomorphic",
+        "chinese animation",
+        "educational",
+        "family friendly",
+        "kids",
+        "short episodes"
       ],
       "id": "https://myanimelist.net/anime/47697"
-    },
-    {
-      "sources": [
-        "https://anidb.net/anime/10767"
-      ],
-      "title": "Tamayura: Sotsugyou Shashin",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2015
-      },
-      "picture": "https://cdn.anidb.net/images/main/231188.jpg",
-      "thumbnail": "https://cdn.anidb.net/images/main/231188.jpg-thumb.jpg",
-      "synonyms": [
-        "Tamayura: Graduation Photo",
-        "たまゆら~卒業写真~",
-        "玉响/幸福光斑 剧场版:毕业写真"
-      ],
-      "relations": [
-        "https://anidb.net/anime/9107"
-      ],
-      "tags": [
-        "daily life",
-        "new",
-        "school life"
-      ],
-      "id": "https://anidb.net/anime/10767"
-    },
-    {
-      "sources": [
-        "https://anilist.co/anime/115488",
-        "https://kitsu.io/anime/45864"
-      ],
-      "title": "The Blooms",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 2013
-      },
-      "picture": "https://media.kitsu.io/anime/45864/poster_image/small-808b76c6f6ba9ada31d189af628bdb55.jpeg",
-      "thumbnail": "https://media.kitsu.io/anime/45864/poster_image/tiny-8024a5292267d69fec7f3335e8949e65.jpeg",
-      "synonyms": [],
-      "relations": [],
-      "tags": [
-        "fantasy",
-        "music",
-        "nudity"
-      ],
-      "id": "https://kitsu.io/anime/45864"
     },
     {
       "sources": [
@@ -1282,23 +1243,32 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/wudi-yoyo",
         "https://myanimelist.net/anime/46380"
       ],
-      "title": "Wudi Youyou",
+      "title": "Wudi YoYo",
       "type": "TV",
       "episodes": 100,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2011
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1235/123810.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1235/123810t.jpg",
       "synonyms": [
+        "Super YoYo",
+        "Super YoYo (2011)",
         "无敌优优"
       ],
-      "relations": [],
+      "relations": [
+        "https://myanimelist.net/anime/46254"
+      ],
       "tags": [
+        "anthropomorphic",
+        "chinese animation",
+        "family friendly",
+        "fantasy",
         "kids"
       ],
       "id": "https://myanimelist.net/anime/46380"
@@ -1307,16 +1277,16 @@
       "sources": [
         "https://myanimelist.net/anime/44921"
       ],
-      "title": "Xinnian Lai La Zhi Baicao Jie Yao",
+      "title": "Xinnian Lai La: Baicao Jie Yao",
       "type": "TV",
       "episodes": 26,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2017
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1514/129919.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1514/129919t.jpg",
       "synonyms": [
         "新年来啦之百草解药"
       ],
@@ -1325,7 +1295,6 @@
         "https://myanimelist.net/anime/44922"
       ],
       "tags": [
-        "adventure",
         "fantasy",
         "kids"
       ],
@@ -1333,6 +1302,7 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/143714",
         "https://anime-planet.com/anime/yi-ye-fu-weng",
         "https://myanimelist.net/anime/43605"
       ],
@@ -1347,6 +1317,7 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1981/118450.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1981/118450t.jpg",
       "synonyms": [
+        "Yi Ye Fuweng",
         "一夜富翁"
       ],
       "relations": [],
@@ -1362,7 +1333,6 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/115927",
         "https://anime-planet.com/anime/saga-of-tanya-the-evil-movie-manner-movie",
         "https://anisearch.com/anime/14949",
         "https://kitsu.io/anime/43374",
@@ -1376,29 +1346,31 @@
         "season": "WINTER",
         "year": 2019
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/1699/103299.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1699/103299t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1788/102766.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1788/102766t.jpg",
       "synonyms": [
         "Gekijouban Youjo Senki Manner Eizou",
         "Gekijouban Youjo Senki: Manner Eizou",
         "Saga of Tanya the Evil Manner Movie",
         "Saga of Tanya the Evil Movie: Manner Movie",
-        "Youjo Senki Movie: Manner Movie",
+        "Saga of Tanya the Evil: The Movie - Manner Movie",
         "Youjo Senki: Manner Eizou",
         "Yōjo Senki Movie: Manner Eizō",
         "劇場版 幼女戦記 マナー映像"
       ],
       "relations": [
-        "https://anilist.co/anime/100878",
         "https://anime-planet.com/anime/saga-of-tanya-the-evil-movie",
+        "https://anisearch.com/anime/13181",
         "https://kitsu.io/anime/14173",
         "https://myanimelist.net/anime/37055"
       ],
       "tags": [
         "chibi",
         "comedy",
+        "isekai",
         "military",
         "parody",
+        "reincarnation",
         "super deformed"
       ],
       "id": "https://myanimelist.net/anime/40298"

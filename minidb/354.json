@@ -2,26 +2,77 @@
   "data": [
     {
       "sources": [
+        "https://anilist.co/anime/152180"
+      ],
+      "title": "ablation",
+      "type": "MOVIE",
+      "episodes": 2,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2009
+      },
+      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152180-baBjOH09HtyO.png",
+      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152180-baBjOH09HtyO.png",
+      "synonyms": [
+        "My pudding",
+        "The picture book of ancient forest",
+        "​わたしのプティング",
+        "​故き森の絵本"
+      ],
+      "relations": [],
+      "tags": [],
+      "id": "https://anilist.co/anime/152180"
+    },
+    {
+      "sources": [
         "https://myanimelist.net/anime/46719"
       ],
-      "title": "Bei Wa Qimeng Yingwen Yanse",
-      "type": "TV",
+      "title": "Beva Qimeng Yingwen Yanse",
+      "type": "ONA",
       "episodes": 40,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1232/131132.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1232/131132t.jpg",
       "synonyms": [
         "贝瓦启蒙 英文颜色"
       ],
-      "relations": [],
+      "relations": [
+        "https://myanimelist.net/anime/46718"
+      ],
       "tags": [
         "kids"
       ],
       "id": "https://myanimelist.net/anime/46719"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/cardfight-vanguard-overdress-8th-season"
+      ],
+      "title": "Cardfight!! Vanguard: overDress 8th Season",
+      "type": "TV",
+      "episodes": 0,
+      "status": "UPCOMING",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2025
+      },
+      "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+      "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+      "synonyms": [],
+      "relations": [
+        "https://anime-planet.com/anime/cardfight-vanguard-overdress-7th-season",
+        "https://anime-planet.com/anime/cardfight-vanguard-overdress-9th-season"
+      ],
+      "tags": [
+        "based on a card game",
+        "card battles"
+      ],
+      "id": "https://anime-planet.com/anime/cardfight-vanguard-overdress-8th-season"
     },
     {
       "sources": [
@@ -46,11 +97,13 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/6/23532t.jpg",
       "synonyms": [
         "Code Geass: Hangyaku no Lelouch - Special Edition Black Rebellion",
+        "Code Geass: Hangyaku no Lelouch SPECIAL EDITION BLACK REBELLION",
         "Code Geass: Hangyaku no Lelouch Special Edition Black Rebellion",
         "Code Geass: Hangyaku no Lelōch - Special Edition Black Rebellion",
         "Code Geass: Lelouch of the Rebellion Special Edition - Black Rebellion",
         "Code Geass: Lelouch of the Rebellion Special Edition Black Rebellion",
         "Code Geass: Lelouch of the Rebellion Special Edition `Black Rebellion`",
+        "cg ova 1",
         "コードギアス 反逆のルルーシュ SPECIAL EDITION BLACK REBELLION",
         "코드 기어스: 반역의 를르슈 Special Edition - Black Rebellion"
       ],
@@ -69,30 +122,11 @@
         "https://anime-planet.com/anime/code-geass-lelouch-of-the-rebellion-r2-special-edition-zero-requiem",
         "https://anime-planet.com/anime/code-geass-lelouch-of-the-rebellion-recaps",
         "https://anime-planet.com/anime/code-geass-nunnally-in-wonderland",
-        "https://anisearch.com/anime/10958",
-        "https://anisearch.com/anime/10959",
-        "https://anisearch.com/anime/10963",
-        "https://anisearch.com/anime/12051",
-        "https://anisearch.com/anime/12052",
         "https://anisearch.com/anime/3663",
-        "https://anisearch.com/anime/4174",
-        "https://anisearch.com/anime/5477",
-        "https://anisearch.com/anime/6300",
-        "https://anisearch.com/anime/7561",
-        "https://anisearch.com/anime/7932",
-        "https://anisearch.com/anime/8114",
         "https://kitsu.io/anime/1415",
         "https://kitsu.io/anime/4705",
-        "https://livechart.me/anime/10250",
         "https://livechart.me/anime/1052",
         "https://livechart.me/anime/1064",
-        "https://livechart.me/anime/1579",
-        "https://livechart.me/anime/2429",
-        "https://livechart.me/anime/2430",
-        "https://livechart.me/anime/2431",
-        "https://livechart.me/anime/2432",
-        "https://livechart.me/anime/354",
-        "https://livechart.me/anime/355",
         "https://livechart.me/anime/3580",
         "https://livechart.me/anime/3584",
         "https://livechart.me/anime/42",
@@ -106,9 +140,6 @@
         "https://livechart.me/anime/5426",
         "https://livechart.me/anime/5452",
         "https://livechart.me/anime/5871",
-        "https://livechart.me/anime/6475",
-        "https://livechart.me/anime/7697",
-        "https://livechart.me/anime/7857",
         "https://myanimelist.net/anime/1575",
         "https://myanimelist.net/anime/6768",
         "https://notify.moe/anime/T8P-5KmiR",
@@ -128,7 +159,7 @@
         "military",
         "new",
         "piloted robot",
-        "politics",
+        "plot continuity",
         "psychological drama",
         "real robot",
         "real robots",
@@ -191,6 +222,7 @@
     },
     {
       "sources": [
+        "https://anidb.net/anime/12277",
         "https://anisearch.com/anime/11747"
       ],
       "title": "Cyborg 009: Call of Justice",
@@ -201,20 +233,26 @@
         "season": "FALL",
         "year": 2016
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/11/11747.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/11/11747.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/11/11747_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/11/11747.webp",
       "synonyms": [
-        "Cyborg 009: En nombre de la justicia"
+        "CYBORG009 CALL OF JUSTICE",
+        "Cyborg 009: En nombre de la justicia",
+        "Sayborg 009: Adaletin Çağrısı",
+        "בשם הצדק :Cyborg 009"
       ],
       "relations": [
+        "https://anidb.net/anime/8699",
         "https://anisearch.com/anime/7334"
       ],
       "tags": [
         "action",
         "adventure",
         "cg-anime",
+        "manga",
         "mecha",
-        "science-fiction"
+        "science-fiction",
+        "shounen"
       ],
       "id": "https://anisearch.com/anime/11747"
     },
@@ -235,7 +273,6 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1843/103910t.jpg",
       "synonyms": [
         "Dark Shell: Lust in the Cage",
-        "Dark Shell: Ori no Naka no Namamek",
         "ダーク・シェル 檻の中の艶"
       ],
       "relations": [],
@@ -316,7 +353,8 @@
         "original work",
         "shounen",
         "soccer",
-        "sports"
+        "sports",
+        "team sports"
       ],
       "id": "https://myanimelist.net/anime/5197"
     },
@@ -339,6 +377,7 @@
         "Eoli Iyagi",
         "Eori",
         "Eori's Story",
+        "优瑞历险记",
         "어리 이야기"
       ],
       "relations": [],
@@ -351,55 +390,6 @@
         "short episodes"
       ],
       "id": "https://myanimelist.net/anime/48289"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/fence-of-defense-data-no6"
-      ],
-      "title": "FENCE OF DEFENSE: DATA NO.6",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 1989
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/fence-of-defense-data-no6-1.webp?t=1631065927",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/fence-of-defense-data-no6-1-285x400.webp?t=1631065928",
-      "synonyms": [],
-      "relations": [],
-      "tags": [
-        "music",
-        "rock music",
-        "sci fi"
-      ],
-      "id": "https://anime-planet.com/anime/fence-of-defense-data-no6"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/44298",
-        "https://myanimelist.net/anime/44299"
-      ],
-      "title": "Gangtie Feilong 2 Zhi Ao Te Man Liliang",
-      "type": "TV",
-      "episodes": 26,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2018
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "钢铁飞龙2之奥特曼力量"
-      ],
-      "relations": [],
-      "tags": [
-        "action",
-        "adventure",
-        "kids"
-      ],
-      "id": "https://myanimelist.net/anime/44299"
     },
     {
       "sources": [
@@ -429,14 +419,18 @@
         "Macross Frontier Short Movie: Toki no Meikyuu",
         "Macross Frontier: Labyrinth of Time",
         "Macross Frontier: Toki no Meikyuu",
+        "Macross: Gekijou Tanpen Macross Frontier: Toki no Meikyuu",
         "劇場短編マクロスF ～時の迷宮～",
         "劇場短編マクロスfrontier~時の迷宮~",
         "劇場短編マクロスfrontier～時の迷宮～"
       ],
       "relations": [
+        "https://anidb.net/anime/14408",
+        "https://anidb.net/anime/7959",
         "https://anilist.co/anime/118126",
         "https://anilist.co/anime/3572",
         "https://anime-planet.com/anime/macross-delta-movie-2-zettai-live",
+        "https://anisearch.com/anime/4465",
         "https://livechart.me/anime/3982",
         "https://livechart.me/anime/4000",
         "https://livechart.me/anime/4354",
@@ -453,18 +447,27 @@
         "https://livechart.me/anime/7343",
         "https://livechart.me/anime/7445",
         "https://myanimelist.net/anime/38373",
+        "https://myanimelist.net/anime/7222",
         "https://notify.moe/anime/Lo9MPvLGR"
       ],
       "tags": [
         "action",
+        "drama",
+        "idol",
         "mecha",
         "military",
         "music",
         "original work",
+        "real robots",
         "romance",
         "sci fi",
         "sci-fi",
-        "space"
+        "science-fiction",
+        "solo singer",
+        "space",
+        "space opera",
+        "supernatural drama",
+        "war"
       ],
       "id": "https://myanimelist.net/anime/47409"
     },
@@ -492,14 +495,17 @@
       "synonyms": [
         "GSZS",
         "Goku Sayonara Zetsubou-sensei",
-        "Goku Sayonara Zetsubō Sensei",
+        "Goku Sayonara Zetsubō-sensei",
         "Goodbye Mr. Despair OAD",
         "Goodbye Mr. Despair OVA",
         "Sayonara Zetsubou Sensei OAD",
         "Sayonara Zetsubou Sensei OVA",
+        "Sayonara Zetsubou-sensei OVA",
         "gszs",
         "szs ova",
         "szs3",
+        "zetsubou ova",
+        "zetsubou2 ova",
         "Прощай",
         "Сбогом",
         "безрадостный учитель OVA-1",
@@ -520,14 +526,8 @@
         "https://anime-planet.com/anime/zan-sayonara-zetsubou-sensei",
         "https://anime-planet.com/anime/zan-sayonara-zetsubou-sensei-bangaichi",
         "https://anime-planet.com/anime/zoku-sayonara-zetsubou-sensei",
-        "https://anisearch.com/anime/4273",
         "https://anisearch.com/anime/4590",
         "https://anisearch.com/anime/5373",
-        "https://anisearch.com/anime/5784",
-        "https://anisearch.com/anime/7671",
-        "https://anisearch.com/anime/8463",
-        "https://anisearch.com/anime/8815",
-        "https://anisearch.com/anime/8816",
         "https://kitsu.io/anime/2871",
         "https://kitsu.io/anime/4537",
         "https://livechart.me/anime/3647",
@@ -552,6 +552,7 @@
         "earth",
         "female harem",
         "gag",
+        "gag humor",
         "high school",
         "japan",
         "kuudere",
@@ -601,7 +602,6 @@
         "Pokemon: Twilight Wings - Hoshi no Matsuri",
         "Pokemon: Twilight Wings - The Gathering of Stars",
         "Pokemon: Twilight Wings EXPANSION",
-        "Pokemon: Twilight Wings—The Gathering of Stars",
         "Pokémon: Twilight Wings - The Gathering of Stars",
         "Pokémon: Twilight Wings—The Gathering of Stars",
         "Pokémon: Zwielichtschwingen – Die Zusammenkunft der Stars",
@@ -639,6 +639,7 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/118031",
         "https://anime-planet.com/anime/hiyoko-no-basket-movie-last-game-0401",
         "https://anisearch.com/anime/13443",
         "https://kitsu.io/anime/41557",
@@ -659,11 +660,14 @@
         "Gekijouban Hiyoko no Basket: Last Game 0401",
         "Gekijouban Kiyoko no Basket: Last Game 0401",
         "Gekijōban Kiyoko no Basket: Last Game 0401",
+        "Hiyoko no Basket: LAST GAME 0401",
         "Kuroko's Basketball April Fools' Day",
         "劇場版 ひよこのバスケ LAST GAME 0401"
       ],
       "relations": [
+        "https://anilist.co/anime/21377",
         "https://anime-planet.com/anime/kurokos-basketball-last-game",
+        "https://anisearch.com/anime/11270",
         "https://myanimelist.net/anime/31658"
       ],
       "tags": [
@@ -671,6 +675,7 @@
         "basketball",
         "birds",
         "comedy",
+        "kuudere",
         "non-human protagonists",
         "parody",
         "short episodes",
@@ -690,7 +695,7 @@
       ],
       "title": "Isobe Isobee Monogatari: Ukiyo wa Tsurai yo (2015)",
       "type": "ONA",
-      "episodes": 1,
+      "episodes": 33,
       "status": "FINISHED",
       "animeSeason": {
         "season": "FALL",
@@ -714,11 +719,14 @@
         "https://myanimelist.net/anime/28427",
         "https://myanimelist.net/anime/34166",
         "https://myanimelist.net/anime/35475",
+        "https://myanimelist.net/anime/53744",
+        "https://myanimelist.net/anime/53745",
         "https://notify.moe/anime/VodG2KmmR",
         "https://notify.moe/anime/czfypFiig"
       ],
       "tags": [
         "comedy",
+        "gag humor",
         "historical",
         "manga",
         "short episodes",
@@ -774,8 +782,8 @@
         "season": "SUMMER",
         "year": 2017
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/12/12983.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/12/12983.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/12/12983_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/12/12983.webp",
       "synonyms": [
         "\"ブルボンxSCANDAL\" Webアニメーションムービー",
         "\"ブルボン×SCANDAL\" Webアニメーションムービー",
@@ -791,6 +799,7 @@
     {
       "sources": [
         "https://anilist.co/anime/121965",
+        "https://anime-planet.com/anime/kokoroya",
         "https://kitsu.io/anime/9892",
         "https://myanimelist.net/anime/26117",
         "https://notify.moe/anime/KsSEtKimg"
@@ -832,8 +841,8 @@
         "season": "WINTER",
         "year": 2014
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/14/14777.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/14/14777.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/14/14777_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/14/14777.webp",
       "synonyms": [
         "Kobe Stylisch: Agriculture and Fishery",
         "Kōbe no Stylish: Nōgyogyō",
@@ -849,28 +858,29 @@
     },
     {
       "sources": [
-        "https://anisearch.com/anime/14765"
+        "https://anilist.co/anime/127403",
+        "https://anime-planet.com/anime/yoh-kamiyama-laundry",
+        "https://myanimelist.net/anime/53931"
       ],
-      "title": "Koutetsujou no Kabaneri Ran Opening Movie",
-      "type": "ONA",
+      "title": "Laundry",
+      "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
         "season": "SUMMER",
-        "year": 2018
+        "year": 2020
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/14/14765.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/14/14765.webp",
+      "picture": "https://cdn.myanimelist.net/images/anime/1208/132002.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1208/132002t.jpg",
       "synonyms": [
-        "Kabaneri of the Iron Fortress Ran Intro",
-        "Kōtetsujō no Kabaneri Ran Opening Movie",
-        "甲鉄城のカバネリ -乱- オープニングムービー"
+        "Yoh Kamiyama: Laundry"
       ],
       "relations": [],
       "tags": [
-        "action"
+        "abstract",
+        "music"
       ],
-      "id": "https://anisearch.com/anime/14765"
+      "id": "https://myanimelist.net/anime/53931"
     },
     {
       "sources": [
@@ -905,6 +915,7 @@
         "https://anime-planet.com/anime/little-charo-2",
         "https://anime-planet.com/anime/little-charo-4-new-york-again",
         "https://anime-planet.com/anime/little-charo-touhoku-hen",
+        "https://anisearch.com/anime/10229",
         "https://anisearch.com/anime/6793",
         "https://kitsu.io/anime/6905",
         "https://kitsu.io/anime/6973",
@@ -922,6 +933,7 @@
         "animal protagonists",
         "animals",
         "dogs",
+        "educational",
         "family friendly",
         "foreign",
         "kids",
@@ -965,6 +977,7 @@
         "https://anime-planet.com/anime/little-charo-4-new-york-again",
         "https://anime-planet.com/anime/little-charo-touhoku-hen",
         "https://anisearch.com/anime/6790",
+        "https://anisearch.com/anime/7734",
         "https://kitsu.io/anime/6904",
         "https://livechart.me/anime/11027",
         "https://livechart.me/anime/11029",
@@ -977,6 +990,7 @@
         "adventure",
         "animal protagonists",
         "dogs",
+        "educational",
         "family friendly",
         "kids",
         "non-human protagonists",
@@ -997,13 +1011,14 @@
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1895/132342.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1895/132342t.jpg",
       "synonyms": [
         "漫画天下"
       ],
       "relations": [],
       "tags": [
+        "comedy",
         "kids"
       ],
       "id": "https://myanimelist.net/anime/46917"
@@ -1020,14 +1035,16 @@
         "season": "SPRING",
         "year": 2012
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/8/8109.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/8/8109.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/8/8109_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/8/8109.webp",
       "synonyms": [
         "Moyashimon Returns Road Trip Shorts",
         "Moyashimon Returns Shutchō-ban",
         "もやしもん リターンズ しゅっちょうばん"
       ],
-      "relations": [],
+      "relations": [
+        "https://anisearch.com/anime/7740"
+      ],
       "tags": [
         "comedy",
         "episodic",
@@ -1041,6 +1058,7 @@
     {
       "sources": [
         "https://anidb.net/anime/3100",
+        "https://anilist.co/anime/159416",
         "https://anime-planet.com/anime/ninjaman-ippei",
         "https://anisearch.com/anime/1294",
         "https://kitsu.io/anime/9493",
@@ -1055,8 +1073,8 @@
         "season": "FALL",
         "year": 1982
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/7/56697.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/7/56697t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1618/121191.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1618/121191t.jpg",
       "synonyms": [
         "The Ninja Boy",
         "فتى النينجا",
@@ -1112,50 +1130,7 @@
       "relations": [
         "https://anilist.co/anime/21",
         "https://anime-planet.com/anime/one-piece",
-        "https://anisearch.com/anime/10689",
-        "https://anisearch.com/anime/10975",
-        "https://anisearch.com/anime/11009",
-        "https://anisearch.com/anime/11484",
-        "https://anisearch.com/anime/11565",
-        "https://anisearch.com/anime/12168",
-        "https://anisearch.com/anime/12595",
-        "https://anisearch.com/anime/13630",
-        "https://anisearch.com/anime/1369",
-        "https://anisearch.com/anime/13833",
-        "https://anisearch.com/anime/14420",
-        "https://anisearch.com/anime/14746",
-        "https://anisearch.com/anime/15205",
-        "https://anisearch.com/anime/15379",
-        "https://anisearch.com/anime/15494",
-        "https://anisearch.com/anime/15495",
-        "https://anisearch.com/anime/15516",
-        "https://anisearch.com/anime/16819",
-        "https://anisearch.com/anime/1815",
-        "https://anisearch.com/anime/1854",
         "https://anisearch.com/anime/2227",
-        "https://anisearch.com/anime/2376",
-        "https://anisearch.com/anime/2553",
-        "https://anisearch.com/anime/302",
-        "https://anisearch.com/anime/3260",
-        "https://anisearch.com/anime/3359",
-        "https://anisearch.com/anime/3804",
-        "https://anisearch.com/anime/3823",
-        "https://anisearch.com/anime/3836",
-        "https://anisearch.com/anime/3941",
-        "https://anisearch.com/anime/3965",
-        "https://anisearch.com/anime/4495",
-        "https://anisearch.com/anime/5131",
-        "https://anisearch.com/anime/5400",
-        "https://anisearch.com/anime/6498",
-        "https://anisearch.com/anime/6545",
-        "https://anisearch.com/anime/7388",
-        "https://anisearch.com/anime/7573",
-        "https://anisearch.com/anime/8028",
-        "https://anisearch.com/anime/8211",
-        "https://anisearch.com/anime/8279",
-        "https://anisearch.com/anime/8738",
-        "https://anisearch.com/anime/9785",
-        "https://anisearch.com/anime/9793",
         "https://kitsu.io/anime/12",
         "https://livechart.me/anime/321",
         "https://livechart.me/anime/4028",
@@ -1245,6 +1220,7 @@
         "https://anime-planet.com/anime/di-gi-charat-tsuyu-specials",
         "https://anime-planet.com/anime/di-gi-charat-winter-garden",
         "https://anime-planet.com/anime/leave-it-to-piyoko",
+        "https://anisearch.com/anime/3272",
         "https://kitsu.io/anime/268",
         "https://livechart.me/anime/10641",
         "https://livechart.me/anime/6074",
@@ -1313,33 +1289,8 @@
     },
     {
       "sources": [
-        "https://anisearch.com/anime/15750",
-        "https://livechart.me/anime/10219"
-      ],
-      "title": "Pont Qiao Booth",
-      "type": "TV",
-      "episodes": 22,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 2020
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/15/15750.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/15/15750.webp",
-      "synonyms": [
-        "PQB",
-        "ポンチャオブース"
-      ],
-      "relations": [],
-      "tags": [
-        "comedy",
-        "slice of life"
-      ],
-      "id": "https://anisearch.com/anime/15750"
-    },
-    {
-      "sources": [
         "https://anilist.co/anime/124196",
+        "https://anime-planet.com/anime/king-gnu-prayer-x",
         "https://myanimelist.net/anime/44086"
       ],
       "title": "Prayer X",
@@ -1352,12 +1303,15 @@
       },
       "picture": "https://cdn.myanimelist.net/images/anime/1576/110329.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1576/110329t.jpg",
-      "synonyms": [],
+      "synonyms": [
+        "King Gnu: Prayer X"
+      ],
       "relations": [
         "https://anilist.co/anime/100388",
         "https://myanimelist.net/anime/36649"
       ],
       "tags": [
+        "abstract",
         "avant garde",
         "music",
         "no dialogue",
@@ -1379,11 +1333,11 @@
       ],
       "title": "Seirei Gensouki 2nd Season",
       "type": "TV",
-      "episodes": 0,
+      "episodes": 1,
       "status": "UPCOMING",
       "animeSeason": {
         "season": "WINTER",
-        "year": 2022
+        "year": 2023
       },
       "picture": "https://cdn.myanimelist.net/images/anime/1443/119231.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1443/119231t.jpg",
@@ -1394,6 +1348,7 @@
         "Seirei Gensouki: Spirit Chronicles Season 2",
         "Seirei Gensōki 2",
         "Spirit Chronicles Season 2",
+        "seigen s2",
         "ตำนานวิญญาณแฟนซี ภาค 2",
         "精灵幻想记吧2",
         "精霊幻想記",
@@ -1435,6 +1390,35 @@
         "swords & co"
       ],
       "id": "https://myanimelist.net/anime/50306"
+    },
+    {
+      "sources": [
+        "https://myanimelist.net/anime/54268"
+      ],
+      "title": "Shimajirou no Wow! Movie 9: Shimajirou to Miracle-jima no Nanairo Carnation",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SUMMER",
+        "year": 2021
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1103/132821.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1103/132821t.jpg",
+      "synonyms": [
+        "Qiaohu Mofa Dao Lixian Ji",
+        "Shimajirou and the Seven-Colored Carnation from Miracle Island",
+        "映画しまじろう しまじろうとミラクルじまのなないろカーネーション"
+      ],
+      "relations": [
+        "https://myanimelist.net/anime/18941",
+        "https://myanimelist.net/anime/54403"
+      ],
+      "tags": [
+        "anthropomorphic",
+        "kids"
+      ],
+      "id": "https://myanimelist.net/anime/54268"
     },
     {
       "sources": [
@@ -1496,6 +1480,7 @@
         "no dialogue",
         "short movie",
         "shorts",
+        "stop motion",
         "stop motion animation"
       ],
       "id": "https://myanimelist.net/anime/31259"
@@ -1563,7 +1548,6 @@
         "Маги в законе",
         "うぃざーどばりすたーずべんましせしる",
         "ウィザード・バリスターズ 弁魔士セシル",
-        "ウィザード・バリスターズ〜弁魔士セシル",
         "ウィザード・バリスターズ～弁魔士セシル",
         "위저드 배리스터즈: 변마사 세실"
       ],
@@ -1640,10 +1624,10 @@
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2008
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1043/129989.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1043/129989t.jpg",
       "synonyms": [
         "亿唐格林童话故事"
       ],

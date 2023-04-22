@@ -27,12 +27,15 @@
       ],
       "relations": [],
       "tags": [
+        "4-koma",
         "4-koma manga",
         "based on a manga",
+        "cgdct",
         "comedy",
         "cute girls doing cute things",
         "daily life",
         "episodic",
+        "female protagonist",
         "friendship",
         "high school",
         "iyashikei",
@@ -53,6 +56,7 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/alan-kun-no-koutsuu-rule-wo-mamorou-ne",
         "https://myanimelist.net/anime/35150"
       ],
       "title": "Alan-kun no Koutsuu Rule wo Mamorou ne!",
@@ -70,10 +74,37 @@
       ],
       "relations": [],
       "tags": [
+        "aliens",
+        "educational",
+        "family friendly",
         "kids",
         "sci-fi"
       ],
       "id": "https://myanimelist.net/anime/35150"
+    },
+    {
+      "sources": [
+        "https://kitsu.io/anime/47103"
+      ],
+      "title": "Annie May",
+      "type": "OVA",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SUMMER",
+        "year": 1995
+      },
+      "picture": "https://media.kitsu.io/anime/47103/poster_image/small-d38214dc11265045fa7833ba3789863a.jpeg",
+      "thumbnail": "https://media.kitsu.io/anime/47103/poster_image/tiny-6cc00606489129ceddbc28812ee07b9e.jpeg",
+      "synonyms": [],
+      "relations": [],
+      "tags": [
+        "action",
+        "anime influenced",
+        "music",
+        "science fiction"
+      ],
+      "id": "https://kitsu.io/anime/47103"
     },
     {
       "sources": [
@@ -105,11 +136,14 @@
       "relations": [
         "https://anidb.net/anime/2830",
         "https://anilist.co/anime/10447",
+        "https://anilist.co/anime/162921",
         "https://anime-planet.com/anime/aquarion",
         "https://anime-planet.com/anime/aquarion-evol",
         "https://anime-planet.com/anime/aquarion-love",
         "https://anime-planet.com/anime/aquarion-movie",
         "https://anime-planet.com/anime/aquarion-ova",
+        "https://anisearch.com/anime/10318",
+        "https://anisearch.com/anime/1634",
         "https://kitsu.io/anime/6185",
         "https://livechart.me/anime/1142",
         "https://livechart.me/anime/1462",
@@ -132,6 +166,7 @@
         "new",
         "original work",
         "piloted robot",
+        "rakugo",
         "robot",
         "romance",
         "sci fi",
@@ -144,18 +179,44 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/arknights-an-obscure-wanderer-event-pv"
+      ],
+      "title": "Arknights: An Obscure Wanderer Event PV",
+      "type": "ONA",
+      "episodes": 1,
+      "status": "UNKNOWN",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2023
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/arknights-an-obscure-wanderer-event-pv-1.webp?t=1679966096",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/arknights-an-obscure-wanderer-event-pv-1-285x399.webp?t=1679966096",
+      "synonyms": [
+        "Arknights: Yuukei ni Kage Arite Anime PV"
+      ],
+      "relations": [
+        "https://anime-planet.com/anime/arknights-prelude-to-dawn"
+      ],
+      "tags": [
+        "animal characteristics",
+        "based on a mobile game"
+      ],
+      "id": "https://anime-planet.com/anime/arknights-an-obscure-wanderer-event-pv"
+    },
+    {
+      "sources": [
         "https://myanimelist.net/anime/46401"
       ],
-      "title": "Ben Ben You Youji Zhi Chuanyue Huaxia",
+      "title": "Ben Ben You Youji: Chuanyue Huaxia",
       "type": "TV",
       "episodes": 42,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
+        "season": "WINTER",
+        "year": 2012
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1026/129717.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1026/129717t.jpg",
       "synonyms": [
         "笨笨悠游记之穿越华夏"
       ],
@@ -167,31 +228,6 @@
         "kids"
       ],
       "id": "https://myanimelist.net/anime/46401"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/black-clover-petit-clover-advance"
-      ],
-      "title": "Black Clover: Petit Clover Advance",
-      "type": "SPECIAL",
-      "episodes": 15,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/black-clover-petit-clover-advance-1.jpg?t=1625907914",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/black-clover-petit-clover-advance-1-190x266.jpg?t=1625907914",
-      "synonyms": [],
-      "relations": [
-        "https://anime-planet.com/anime/black-clover",
-        "https://anime-planet.com/anime/black-clover-movie"
-      ],
-      "tags": [
-        "chibi",
-        "comedy"
-      ],
-      "id": "https://anime-planet.com/anime/black-clover-petit-clover-advance"
     },
     {
       "sources": [
@@ -215,6 +251,7 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/13/42743t.jpg",
       "synonyms": [
         "B.B",
+        "B.B BURNING BLOOD",
         "B.B.",
         "B・B BURNING BLOOD",
         "ビービー",
@@ -225,6 +262,8 @@
         "action",
         "based on a manga",
         "boxing",
+        "combat sport",
+        "combat sports",
         "delinquents",
         "drama",
         "hand to hand combat",
@@ -239,6 +278,30 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/do-ji-le"
+      ],
+      "title": "Do-ji-le?",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2019
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/do-ji-le-1.webp?t=1661273395",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/do-ji-le-1-285x400.webp?t=1661273395",
+      "synonyms": [],
+      "relations": [],
+      "tags": [
+        "chinese animation",
+        "shorts"
+      ],
+      "id": "https://anime-planet.com/anime/do-ji-le"
+    },
+    {
+      "sources": [
+        "https://anidb.net/anime/17033",
+        "https://anisearch.com/anime/16921",
         "https://kitsu.io/anime/43794",
         "https://notify.moe/anime/v75hoaxGg"
       ],
@@ -253,11 +316,22 @@
       "picture": "https://media.kitsu.io/anime/poster_images/43794/small.jpg",
       "thumbnail": "https://media.kitsu.io/anime/poster_images/43794/tiny.jpg",
       "synonyms": [
+        "A Mortal’s Journey 2",
         "A Record of a Mortal's Journey to Immortality 2",
+        "A Record of a Mortal’s Journey to Immortality 2",
+        "An Immortal’s Journey to Immortality 2",
+        "Fan Ren Xiu Xian Chuan: Feng Qi Tian Nan Er",
+        "Fanren Xiu Xian Chuan 2",
         "Fanren Xiu Xian Chuan Zhi Fanren Feng Qi Tian Nan 2",
+        "Fanren Xiuxian Chuan: Feng Qi Tian Nan Er",
+        "凡人修仙传之 风起天南 贰",
         "凡人修仙传之凡人风起天南 贰"
       ],
       "relations": [
+        "https://anidb.net/anime/15425",
+        "https://anidb.net/anime/16039",
+        "https://anisearch.com/anime/14801",
+        "https://anisearch.com/anime/16255",
         "https://kitsu.io/anime/43274",
         "https://kitsu.io/anime/43877",
         "https://notify.moe/anime/TCOE-XWGg",
@@ -266,15 +340,23 @@
       "tags": [
         "action",
         "adventure",
+        "cg-anime",
         "fantasy",
-        "historical"
+        "historical",
+        "magic",
+        "martial arts",
+        "monster",
+        "novel",
+        "old asia",
+        "swords & co",
+        "wuxia"
       ],
       "id": "https://kitsu.io/anime/43794"
     },
     {
       "sources": [
-        "https://anilist.co/anime/104411",
         "https://anime-planet.com/anime/kara-no-kyoukai-cinema-intros",
+        "https://anisearch.com/anime/16855",
         "https://kitsu.io/anime/8432",
         "https://livechart.me/anime/4735",
         "https://myanimelist.net/anime/23697",
@@ -291,22 +373,18 @@
       "picture": "https://cdn.myanimelist.net/images/anime/4/78704.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/4/78704t.jpg",
       "synonyms": [
+        "Gekijouban Kara no Kyoukai: Gekijou Kanshou Manner CM",
+        "Gekijōban Kara no Kyōkai: Gekijō Kanshō Manner CM",
         "Kara no Kyoukai Specials",
         "Kara no Kyoukai: Cinema Intros",
         "Kara no Kyoukai: The Garden of Sinners Specials",
         "The Garden of Sinners: Cinema Intros",
+        "The Garden of Sinners: Manner Movies",
+        "The Garden of Sinners: Pre-show Reminder",
         "the Garden of sinners Pre-show Reminder",
         "劇場版 空の境界 劇場鑑賞マナーCM"
       ],
       "relations": [
-        "https://anilist.co/anime/2593",
-        "https://anilist.co/anime/3782",
-        "https://anilist.co/anime/3783",
-        "https://anilist.co/anime/4280",
-        "https://anilist.co/anime/4282",
-        "https://anilist.co/anime/5204",
-        "https://anilist.co/anime/5205",
-        "https://anilist.co/anime/98142",
         "https://anime-planet.com/anime/the-garden-of-sinners-epilogue",
         "https://anime-planet.com/anime/the-garden-of-sinners-movie-1-thanatos-overlooking-view",
         "https://anime-planet.com/anime/the-garden-of-sinners-movie-2-and-nothing-heart-murder-speculation-part-a",
@@ -318,6 +396,13 @@
         "https://anime-planet.com/anime/the-garden-of-sinners-recalled-out-summer",
         "https://anime-planet.com/anime/the-garden-of-sinners-recalled-out-summer-extra-chorus",
         "https://anime-planet.com/anime/the-garden-of-sinners-remix-gate-of-seventh-heaven",
+        "https://anisearch.com/anime/4068",
+        "https://anisearch.com/anime/5391",
+        "https://anisearch.com/anime/5392",
+        "https://anisearch.com/anime/5393",
+        "https://anisearch.com/anime/5394",
+        "https://anisearch.com/anime/5395",
+        "https://anisearch.com/anime/5396",
         "https://kitsu.io/anime/2357",
         "https://kitsu.io/anime/3248",
         "https://kitsu.io/anime/3249",
@@ -342,9 +427,9 @@
       ],
       "tags": [
         "action",
+        "action comedy",
         "comedy",
         "short episodes",
-        "slapstick",
         "stop motion",
         "stop motion animation"
       ],
@@ -352,6 +437,7 @@
     },
     {
       "sources": [
+        "https://anidb.net/anime/16675",
         "https://anilist.co/anime/126395",
         "https://anime-planet.com/anime/li-linke-de-xiao-guaner",
         "https://anisearch.com/anime/17135",
@@ -372,16 +458,23 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1442/114642t.jpg",
       "synonyms": [
         "Li Lin Ke De Xiao Guan Er",
+        "Li Lin Ke Di: Xiao Guan Ren",
         "Li Linke De Xiao Guaner",
         "The Bistro of Li Linke",
         "The Bistro of LiLinke",
         "The Dining Room of Link Lee",
         "The Dining of Link Lee",
+        "李林克的 小馆儿",
         "李林克的小馆儿"
       ],
       "relations": [
+        "https://anidb.net/anime/17858",
         "https://anilist.co/anime/141876",
-        "https://anisearch.com/anime/17136"
+        "https://anime-planet.com/anime/li-linke-de-xiao-guaner-2nd-season",
+        "https://anisearch.com/anime/17136",
+        "https://kitsu.io/anime/47044",
+        "https://myanimelist.net/anime/54014",
+        "https://notify.moe/anime/3aqH7Ko4R"
       ],
       "tags": [
         "chinese animation",
@@ -392,7 +485,8 @@
         "food preparation",
         "gourmet",
         "original work",
-        "slice of life"
+        "slice of life",
+        "workplace"
       ],
       "id": "https://myanimelist.net/anime/48845"
     },
@@ -418,7 +512,8 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/4/27325t.jpg",
       "synonyms": [
         "Licca the Movie: Licca-chan to Yamaneko Hoshi no Tabi",
-        "Licca the movie リカちゃん リカちゃんとヤマネコ星の旅"
+        "Licca the movie リカちゃん リカちゃんとヤマネコ星の旅",
+        "Licca the movie: Licca-chan to Yamaneko Hoshi no Tabi"
       ],
       "relations": [
         "https://anidb.net/anime/1743",
@@ -428,9 +523,8 @@
         "https://anime-planet.com/anime/licca-chan-fushigi-na-mahou-no-ring",
         "https://anime-planet.com/anime/licca-chan-no-nichiyoubi",
         "https://anime-planet.com/anime/super-doll-licca-chan",
-        "https://anisearch.com/anime/3695",
         "https://anisearch.com/anime/4938",
-        "https://anisearch.com/anime/6617",
+        "https://anisearch.com/anime/6623",
         "https://myanimelist.net/anime/2766",
         "https://myanimelist.net/anime/7294",
         "https://myanimelist.net/anime/8919",
@@ -484,83 +578,6 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/monster-strike-a-rhapsody-called-lucy-the-very-first-song"
-      ],
-      "title": "Monster Strike: A Rhapsody Called Lucy -The Very First Song-",
-      "type": "ONA",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2017
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/monster-strike-a-rhapsody-called-lucy-the-very-first-song-1.jpg?t=1625781315",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/monster-strike-a-rhapsody-called-lucy-the-very-first-song-1-190x270.jpg?t=1625897755",
-      "synonyms": [
-        "Monster Strike: Senritsu no Lucifer, Tada Hitotsu no Hajimari no Uta"
-      ],
-      "relations": [
-        "https://anime-planet.com/anime/haitoku-pistols-no-kinkyuu-kaigi",
-        "https://anime-planet.com/anime/haitoku-pistols-wishing",
-        "https://anime-planet.com/anime/monster-strike",
-        "https://anime-planet.com/anime/monster-strike-2nd-season",
-        "https://anime-planet.com/anime/monster-strike-an-encore-and-continuance-pandoras-box",
-        "https://anime-planet.com/anime/monster-strike-mermaid-rhapsody",
-        "https://anime-planet.com/anime/monster-strike-rain-of-memories",
-        "https://anime-planet.com/anime/monster-strike-the-animation",
-        "https://anime-planet.com/anime/monster-strike-the-animation-trouble-in-monster-strike",
-        "https://anime-planet.com/anime/monster-strike-the-fading-cosmos",
-        "https://anime-planet.com/anime/monster-strike-the-long-awaited-utopia",
-        "https://anime-planet.com/anime/monster-strike-the-movie",
-        "https://anime-planet.com/anime/monster-strike-the-movie-3-lucifer-dawn-of-despair",
-        "https://anime-planet.com/anime/msonic-dartagnyans-rise-to-fame"
-      ],
-      "tags": [
-        "based on a mobile game",
-        "fantasy",
-        "music"
-      ],
-      "id": "https://anime-planet.com/anime/monster-strike-a-rhapsody-called-lucy-the-very-first-song"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/12377"
-      ],
-      "title": "Ohayou Loveless-kun",
-      "type": "SPECIAL",
-      "episodes": 6,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SUMMER",
-        "year": 2005
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/12/12377.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/12/12377.webp",
-      "synonyms": [
-        "Good Morning Loveless",
-        "Guten Morgen Loveless",
-        "Loveless Specials",
-        "Loveless: Ohayou Loveless-kun",
-        "Loveless: SD Theatre",
-        "Ohayō Loveless-kun",
-        "おはよう ラブレスくーん"
-      ],
-      "relations": [],
-      "tags": [
-        "boys love",
-        "comedy",
-        "fantasy",
-        "kemonomimi",
-        "parody",
-        "present",
-        "romance",
-        "slapstick",
-        "supernatural drama"
-      ],
-      "id": "https://anisearch.com/anime/12377"
-    },
-    {
-      "sources": [
         "https://anidb.net/anime/7832",
         "https://anisearch.com/anime/6490",
         "https://kitsu.io/anime/9926",
@@ -579,11 +596,18 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/9/58957t.jpg",
       "synonyms": [
         "Hello Kitty and Friends: Exciting Birthday",
+        "Hello Kitty e os Seus Amigos - Um Aniversário Emocionante",
         "Keroppi and Friends: Exciting Birthday",
         "Pochacco in Exciting Birthday",
-        "ポチャッコのわくわくバースデイ"
+        "Pochacco: Exciting Birthday",
+        "ポチャッコのわくわくバースデイ",
+        "ポチャッコのわくわくバースデー"
       ],
-      "relations": [],
+      "relations": [
+        "https://anisearch.com/anime/6455",
+        "https://anisearch.com/anime/6494",
+        "https://myanimelist.net/anime/22623"
+      ],
       "tags": [
         "fantasy",
         "kids"
@@ -623,15 +647,19 @@
         "Pikachu és Pichu",
         "Pokemon: Movie 3 Short",
         "Pokemon: Pikachu and Pichu",
+        "Pokémon: Movie 3 Short",
         "Pokémon: Pikachu & Pichu",
         "Pokémon: Pikachu and Pichu",
-        "ピチューとピカチュウ"
+        "pm (2000)",
+        "ピチューとピカチュウ",
+        "皮丘与皮卡丘"
       ],
       "relations": [
         "https://anidb.net/anime/992",
         "https://anilist.co/anime/1118",
         "https://anime-planet.com/anime/pokemon-movie-3-spell-of-the-unown",
         "https://anisearch.com/anime/10757",
+        "https://anisearch.com/anime/1476",
         "https://kitsu.io/anime/1002",
         "https://kitsu.io/anime/486",
         "https://myanimelist.net/anime/1118",
@@ -750,6 +778,27 @@
     },
     {
       "sources": [
+        "https://myanimelist.net/anime/54524"
+      ],
+      "title": "Sandwich feat. Choi Jung-in",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": null
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1453/133449.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1453/133449t.jpg",
+      "synonyms": [],
+      "relations": [],
+      "tags": [
+        "music"
+      ],
+      "id": "https://myanimelist.net/anime/54524"
+    },
+    {
+      "sources": [
         "https://anime-planet.com/anime/sasakure-uk-tiger-rampage",
         "https://kitsu.io/anime/13440",
         "https://notify.moe/anime/mn87hKiig"
@@ -762,8 +811,8 @@
         "season": "SPRING",
         "year": 2012
       },
-      "picture": "https://anime-planet.com/images/anime/covers/6306.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/6306.jpg",
+      "picture": "https://cdn.anime-planet.com/anime/primary/sasakure-uk-tiger-rampage-1.jpg?t=1625896849",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/sasakure-uk-tiger-rampage-1-190x265.jpg?t=1625896849",
       "synonyms": [
         "Tiger Rampage",
         "タイガーランペイジ"
@@ -774,30 +823,6 @@
         "vocaloid"
       ],
       "id": "https://anime-planet.com/anime/sasakure-uk-tiger-rampage"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/shounen-sunday-cm-ja-ja-uma-grooming-up"
-      ],
-      "title": "Shounen Sunday CM: Ja Ja Uma Grooming UP!",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "UPCOMING",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://anime-planet.com/images/anime/covers/17639.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/17639.jpg",
-      "synonyms": [],
-      "relations": [],
-      "tags": [
-        "based on a manga",
-        "commercials",
-        "promotional",
-        "shounen"
-      ],
-      "id": "https://anime-planet.com/anime/shounen-sunday-cm-ja-ja-uma-grooming-up"
     },
     {
       "sources": [
@@ -830,8 +855,9 @@
         "https://anime-planet.com/anime/blessing-of-the-campanella",
         "https://anime-planet.com/anime/blessing-of-the-campanella-la-campanella-della-benedizione",
         "https://anisearch.com/anime/5954",
-        "https://anisearch.com/anime/6873",
         "https://kitsu.io/anime/4817",
+        "https://livechart.me/anime/4850",
+        "https://livechart.me/anime/6120",
         "https://myanimelist.net/anime/6979",
         "https://notify.moe/anime/ejHRpKimg"
       ],
@@ -880,6 +906,7 @@
         "https://anime-planet.com/anime/marriage",
         "https://anime-planet.com/anime/mvp-emu-music-video",
         "https://anime-planet.com/anime/sailor-victory",
+        "https://anisearch.com/anime/1337",
         "https://kitsu.io/anime/2475",
         "https://myanimelist.net/anime/2714",
         "https://notify.moe/anime/fyQy5FiiR"
@@ -931,6 +958,7 @@
       "tags": [
         "animal protagonists",
         "art",
+        "award winning",
         "birds",
         "boxing",
         "comedy",
@@ -945,26 +973,96 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/155252",
         "https://myanimelist.net/anime/47446"
       ],
-      "title": "Tiantian Chengzhang Ji season3",
+      "title": "Tiantian Chengzhang Ji 3rd Season",
       "type": "ONA",
       "episodes": 13,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2020
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1378/129342.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1378/129342t.jpg",
       "synonyms": [
-        "天天成长记第3季"
+        "Growing Up With Tiantian",
+        "Tiantian Chengzhang Ji 3",
+        "天天成长记 第三季"
       ],
-      "relations": [],
+      "relations": [
+        "https://anilist.co/anime/155249",
+        "https://anilist.co/anime/155253",
+        "https://myanimelist.net/anime/47445",
+        "https://myanimelist.net/anime/47447"
+      ],
       "tags": [
-        "kids"
+        "full cgi",
+        "kids",
+        "slice of life"
       ],
       "id": "https://myanimelist.net/anime/47446"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/titipo-titipo-3",
+        "https://anisearch.com/anime/17361",
+        "https://myanimelist.net/anime/51755"
+      ],
+      "title": "Titipo Titipo 3",
+      "type": "TV",
+      "episodes": 26,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2022
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1387/123607.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1387/123607t.jpg",
+      "synonyms": [
+        "Titipo Titipo Season 3",
+        "Ttittippo Ttittippo 3",
+        "띠띠뽀 띠띠뽀 3"
+      ],
+      "relations": [
+        "https://anime-planet.com/anime/titipo-titipo-2",
+        "https://anisearch.com/anime/17355",
+        "https://myanimelist.net/anime/51754"
+      ],
+      "tags": [
+        "cg animation",
+        "cg-anime",
+        "family friendly",
+        "kids",
+        "korean animation",
+        "non-human protagonists",
+        "racing",
+        "short episodes",
+        "trains"
+      ],
+      "id": "https://myanimelist.net/anime/51755"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/153769"
+      ],
+      "title": "Tokimeki ni Shinda Koibito yo",
+      "type": "TV",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2013
+      },
+      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b153769-Wjp3LltYNmu6.png",
+      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b153769-Wjp3LltYNmu6.png",
+      "synonyms": [
+        "ときめきに死んだ恋人よ"
+      ],
+      "relations": [],
+      "tags": [],
+      "id": "https://anilist.co/anime/153769"
     },
     {
       "sources": [
@@ -1000,7 +1098,8 @@
         "kids",
         "kodomo",
         "novel",
-        "sports"
+        "sports",
+        "team sports"
       ],
       "id": "https://myanimelist.net/anime/23537"
     },
@@ -1047,6 +1146,7 @@
         "https://anime-planet.com/anime/armored-trooper-votoms-the-brilliant-heretic",
         "https://anime-planet.com/anime/armored-trooper-votoms-the-last-red-shoulder",
         "https://anime-planet.com/anime/armored-tropper-votoms-phantom-arc",
+        "https://anisearch.com/anime/2498",
         "https://kitsu.io/anime/2347",
         "https://livechart.me/anime/10285",
         "https://livechart.me/anime/10798",
@@ -1080,6 +1180,33 @@
     },
     {
       "sources": [
+        "https://myanimelist.net/anime/52653"
+      ],
+      "title": "Xiao Mao Bake Li",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "FALL",
+        "year": 2017
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1802/126656.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1802/126656t.jpg",
+      "synonyms": [
+        "Barkley",
+        "Barkley The Cat",
+        "小猫巴克里"
+      ],
+      "relations": [],
+      "tags": [
+        "adventure",
+        "drama",
+        "pets"
+      ],
+      "id": "https://myanimelist.net/anime/52653"
+    },
+    {
+      "sources": [
         "https://anidb.net/anime/12077",
         "https://anilist.co/anime/21769",
         "https://anime-planet.com/anime/my-teen-romantic-comedy-snafu-too-ova",
@@ -1102,11 +1229,12 @@
       "synonyms": [
         "My Teen Romantic Comedy SNAFU OVA",
         "My Teen Romantic Comedy SNAFU TOO! OVA",
-        "My Teen Romantic Comedy SNAFU TOO!: Kitto, Onnanoko wa Osatou to Spice to Suteki na Nanika de Dekiteiru",
         "My Teen Romantic Comedy SNAFU TOO!: Undoubtedly, Girls Are Made of Sugar, Spice, and Everything Nice",
         "My Teen Romantic Comedy: SNAFU 2 OVA",
         "My Teen Romantic Comedy: SNAFU TOO! OVA",
         "My Teen Romantic Comedy: SNAFU Too! - Undoubtedly, Girls Are Made of Sugar, Spice, and Everything Nice",
+        "OG ova 2",
+        "OG s2 ova",
         "OG2 OVA",
         "Onnanoko wa Osatou to Spice to Suteki na Nanika de Dekiteiru",
         "Oregairu 2 OVA",
@@ -1123,6 +1251,7 @@
         "やはりゲームでも俺の青春ラブコメはまちがっている。続 きっと, 女の子はお砂糖とスパイスと素敵な何かでできている.",
         "やはり俺の青春ラブコメはまちがっている. 続 きっと, 女の子はお砂糖とスパイスと素敵な何かでできている.",
         "やはり俺の青春ラブコメはまちがっている. 続 きっと, 女の子はお砂糖とスパイスと素敵な何かでできている。",
+        "やはり俺の青春ラブコメはまちがっている。 続 OVA",
         "やはり俺の青春ラブコメはまちがっている。 続 「きっと、女の子はお砂糖とスパイスと素敵な何かでできている。」",
         "やはり俺の青春ラブコメはまちがっている。 続 きっと、 女の子はお砂糖とスパイスと素敵な何かでできている。",
         "역시 내 청춘 러브코메디는 잘못됐다. 속 OVA"
@@ -1135,10 +1264,6 @@
         "https://anime-planet.com/anime/my-teen-romantic-comedy-snafu-climax-ova",
         "https://anime-planet.com/anime/my-teen-romantic-comedy-snafu-ova",
         "https://anime-planet.com/anime/my-teen-romantic-comedy-snafu-too",
-        "https://anisearch.com/anime/14263",
-        "https://anisearch.com/anime/15934",
-        "https://anisearch.com/anime/7949",
-        "https://anisearch.com/anime/8724",
         "https://anisearch.com/anime/9606",
         "https://kitsu.io/anime/8478",
         "https://livechart.me/anime/10352",
@@ -1156,9 +1281,12 @@
         "delinquent",
         "drama",
         "earth",
+        "friendship",
         "genius",
+        "heterosexual",
         "high school",
         "japan",
+        "love polygon",
         "male protagonist",
         "novel",
         "present",
@@ -1255,6 +1383,7 @@
       ],
       "relations": [],
       "tags": [
+        "achromatic",
         "action",
         "adventure",
         "alien",
@@ -1315,11 +1444,13 @@
         "https://livechart.me/anime/10527",
         "https://livechart.me/anime/3347",
         "https://livechart.me/anime/9253",
-        "https://myanimelist.net/anime/38016"
+        "https://myanimelist.net/anime/38016",
+        "https://myanimelist.net/anime/52052"
       ],
       "tags": [
         "based on a picture book",
         "comedy",
+        "educational",
         "kids",
         "short episodes",
         "slice of life"

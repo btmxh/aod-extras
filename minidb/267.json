@@ -2,10 +2,32 @@
   "data": [
     {
       "sources": [
+        "https://anilist.co/anime/148434"
+      ],
+      "title": "Ai wo Kure",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2022
+      },
+      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx148434-UQ8ZrdvSjW6E.jpg",
+      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx148434-UQ8ZrdvSjW6E.jpg",
+      "synonyms": [
+        "Love Me Do",
+        "アイオクレ"
+      ],
+      "relations": [],
+      "tags": [],
+      "id": "https://anilist.co/anime/148434"
+    },
+    {
+      "sources": [
         "https://anisearch.com/anime/10518",
         "https://myanimelist.net/anime/31101"
       ],
-      "title": "Aniki no Yome-san nara, Ore ni Hamerarete Hiihii Itteru Tokoro Da yo",
+      "title": "Aniki no Yome-san nara, Ore ni Hamerarete Hiihii Itteru Tokoro da yo",
       "type": "OVA",
       "episodes": 1,
       "status": "FINISHED",
@@ -16,7 +38,6 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1354/103812.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1354/103812t.jpg",
       "synonyms": [
-        "Aniki no Yome-san nara, Ore ni Hamerarete Hiihii Itteru Tokoro da yo",
         "Aniki no Yome-san nara, Ore ni Hamerarete Hīhī Itteru Tokoro da yo",
         "兄貴の嫁さんなら、俺にハメられてヒイヒイ言ってるところだよ"
       ],
@@ -114,6 +135,7 @@
       "relations": [
         "https://anilist.co/anime/2402",
         "https://anime-planet.com/anime/ashita-no-joe",
+        "https://anisearch.com/anime/2580",
         "https://kitsu.io/anime/2178",
         "https://myanimelist.net/anime/2402",
         "https://notify.moe/anime/K3YEcKmiR"
@@ -123,6 +145,7 @@
         "action",
         "based on a manga",
         "boxing",
+        "combat sports",
         "crime",
         "delinquents",
         "drama",
@@ -175,7 +198,13 @@
         "https://anime-planet.com/anime/bakuman-3",
         "https://anime-planet.com/anime/bakuman-3-specials",
         "https://anime-planet.com/anime/bakuman-deraman",
+        "https://anisearch.com/anime/6834",
         "https://kitsu.io/anime/6001",
+        "https://livechart.me/anime/1165",
+        "https://livechart.me/anime/3298",
+        "https://livechart.me/anime/6215",
+        "https://livechart.me/anime/7712",
+        "https://livechart.me/anime/924",
         "https://myanimelist.net/anime/10030",
         "https://notify.moe/anime/E34npFmmR"
       ],
@@ -190,28 +219,6 @@
         "writers"
       ],
       "id": "https://myanimelist.net/anime/23369"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/dats-showtime"
-      ],
-      "title": "DATS: Showtime",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2020
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/dats-showtime-1.webp?t=1638158815",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/dats-showtime-1-285x399.webp?t=1638158815",
-      "synonyms": [],
-      "relations": [],
-      "tags": [
-        "demons",
-        "supernatural"
-      ],
-      "id": "https://anime-planet.com/anime/dats-showtime"
     },
     {
       "sources": [
@@ -236,6 +243,37 @@
         "science fiction"
       ],
       "id": "https://kitsu.io/anime/44922"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/genshin-impact-sumeru-pv"
+      ],
+      "title": "Genshin Impact: Sumeru PV",
+      "type": "ONA",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2022
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/genshin-impact-sumeru-pv-1.webp?t=1674392478",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/genshin-impact-sumeru-pv-1-285x400.webp?t=1674392478",
+      "synonyms": [
+        "Yuan Shen: Xumi CM Duanpian"
+      ],
+      "relations": [
+        "https://anime-planet.com/anime/genshin-impact",
+        "https://anime-planet.com/anime/genshin-impact-lantern-rite-pv-dream-upon-a-lantern",
+        "https://anime-planet.com/anime/genshin-impact-story-pv"
+      ],
+      "tags": [
+        "based on a video game",
+        "chinese animation",
+        "commercials",
+        "fantasy",
+        "promotional"
+      ],
+      "id": "https://anime-planet.com/anime/genshin-impact-sumeru-pv"
     },
     {
       "sources": [
@@ -271,6 +309,7 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/huazhi-de-gushi",
         "https://myanimelist.net/anime/44374"
       ],
       "title": "Huazhi De Gushi",
@@ -279,18 +318,50 @@
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2006
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1474/123088.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1474/123088t.jpg",
       "synonyms": [
+        "The Story of Huazhi",
         "花枝的故事"
       ],
       "relations": [],
       "tags": [
-        "kids"
+        "chinese animation",
+        "family friendly",
+        "kids",
+        "short episodes"
       ],
       "id": "https://myanimelist.net/anime/44374"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/122531",
+        "https://anime-planet.com/anime/hun-hou-richang",
+        "https://myanimelist.net/anime/51382"
+      ],
+      "title": "Hun Hou Richang",
+      "type": "ONA",
+      "episodes": 24,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SUMMER",
+        "year": 2022
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1377/126047.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1377/126047t.jpg",
+      "synonyms": [
+        "婚后日常"
+      ],
+      "relations": [],
+      "tags": [
+        "based on a novel",
+        "chinese animation",
+        "short episodes",
+        "slice of life"
+      ],
+      "id": "https://myanimelist.net/anime/51382"
     },
     {
       "sources": [
@@ -311,8 +382,8 @@
         "season": "FALL",
         "year": 2005
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/4/21027.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/4/21027t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1691/133569.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1691/133569t.jpg",
       "synonyms": [
         "يداتين جمب",
         "เจ้าหนูนักซิ่ง สิงห์ภูเขา",
@@ -345,6 +416,7 @@
         "school life",
         "shounen",
         "sports",
+        "strategy game",
         "super power",
         "supernatural",
         "tsundere"
@@ -356,15 +428,15 @@
         "https://myanimelist.net/anime/46429"
       ],
       "title": "Jia You Huobao",
-      "type": "TV",
+      "type": "ONA",
       "episodes": 84,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1171/130897.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1171/130897t.jpg",
       "synonyms": [
         "家有活宝"
       ],
@@ -426,6 +498,7 @@
         "Kindaichi Case Files R 2",
         "Kindaichi Case Files Returns",
         "Kindaichi Case Files Returns (2015)",
+        "Kindaichi S3",
         "Kindaichi Shounen no Jikenbo R 2",
         "Kindaichi Shounen no Jikenbo R 2nd Season",
         "Kindaichi Shounen no Jikenbo Returns (2015)",
@@ -461,6 +534,8 @@
         "https://anisearch.com/anime/9455",
         "https://kitsu.io/anime/11680",
         "https://kitsu.io/anime/8310",
+        "https://livechart.me/anime/440",
+        "https://livechart.me/anime/8151",
         "https://myanimelist.net/anime/22817",
         "https://myanimelist.net/anime/32376",
         "https://notify.moe/anime/NR4qtFimR",
@@ -483,7 +558,10 @@
     },
     {
       "sources": [
+        "https://anidb.net/anime/14500",
         "https://anilist.co/anime/143572",
+        "https://anime-planet.com/anime/kiskis-wode-nanyou-shi-bohe-tang",
+        "https://kitsu.io/anime/42544",
         "https://myanimelist.net/anime/38347"
       ],
       "title": "KisKis! Wo de Nanyou Shi Bohe Tang",
@@ -500,14 +578,23 @@
         "KisKis! My Boyfriends Are Mint Candies",
         "KisKis! My Boyfriends are Mint Candies",
         "KisKis! Wo De Nan You Shi Bo He Tang",
-        "KisKis！我的男友是薄荷糖"
+        "KisKis! Wode Nanyou Shi Bohe Tang",
+        "KisKis！我的男友是薄荷糖",
+        "Kiskis! My Boyfriends are Mint Candies",
+        "Kiskis! Wo de Nanyou shi Bohetang",
+        "Kiskis! 我的男友是薄荷糖"
       ],
       "relations": [],
       "tags": [
         "advertisement",
+        "chinese animation",
+        "comedy",
         "harem",
         "male harem",
+        "promotional",
+        "reverse harem",
         "romance",
+        "short episodes",
         "slice of life"
       ],
       "id": "https://myanimelist.net/anime/38347"
@@ -516,6 +603,7 @@
       "sources": [
         "https://anilist.co/anime/116714",
         "https://anime-planet.com/anime/kuroi-neko",
+        "https://anisearch.com/anime/13758",
         "https://kitsu.io/anime/43182",
         "https://myanimelist.net/anime/40811"
       ],
@@ -531,6 +619,7 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1115/104621t.jpg",
       "synonyms": [
         "A Black Cat",
+        "Kuro Neko",
         "黒い猫"
       ],
       "relations": [],
@@ -540,6 +629,7 @@
         "dementia",
         "music",
         "original work",
+        "pets",
         "psychological",
         "shorts"
       ],
@@ -547,6 +637,8 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/138728",
+        "https://anime-planet.com/anime/laoshan-daoshi",
         "https://myanimelist.net/anime/43501"
       ],
       "title": "Lao Shan Dao Shi",
@@ -560,17 +652,24 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1923/118250.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1923/118250t.jpg",
       "synonyms": [
+        "Lao Shan Daoshi",
+        "Laoshan Daoshi",
         "崂山道士"
       ],
       "relations": [],
       "tags": [
-        "kids"
+        "chinese animation",
+        "kids",
+        "shorts",
+        "stop motion",
+        "stop motion animation"
       ],
       "id": "https://myanimelist.net/anime/43501"
     },
     {
       "sources": [
         "https://anidb.net/anime/3592",
+        "https://anilist.co/anime/148475",
         "https://anime-planet.com/anime/manga-furusato-mukashibanashi",
         "https://anisearch.com/anime/1140",
         "https://myanimelist.net/anime/39119"
@@ -645,61 +744,56 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/104647"
+        "https://anilist.co/anime/140347",
+        "https://anime-planet.com/anime/mori-no-obake",
+        "https://kitsu.io/anime/45392"
       ],
-      "title": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta…",
-      "type": "TV",
-      "episodes": 12,
+      "title": "Mori no Obake",
+      "type": "MOVIE",
+      "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "SPRING",
+        "season": "WINTER",
         "year": 2020
       },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104647-dMGZSavRxHcM.jpg",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104647-dMGZSavRxHcM.jpg",
+      "picture": "https://cdn.anime-planet.com/anime/primary/mori-no-obake-1.webp?t=1656725337",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/mori-no-obake-1-285x400.webp?t=1656725337",
       "synonyms": [
-        "Bakarina",
-        "Hamefura",
-        "Hamehura",
-        "I Reincarnated into an Otome Game as a Villainess With Only Destruction Flags..",
-        "My Next Life as a Villainess: All Routes Lead to Doom!",
-        "เกิดใหม่เป็นนางร้ายจะเลือกทางไหนก็หายนะ",
-        "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…",
-        "转生成为了只有乙女游戏破灭Flag的邪恶大小姐…"
+        "Forest ghost",
+        "森のおばけ"
       ],
-      "relations": [
-        "https://anilist.co/anime/116922",
-        "https://anilist.co/anime/119960",
-        "https://anilist.co/anime/120209"
-      ],
+      "relations": [],
       "tags": [
-        "bisexual",
-        "bullying",
-        "comedy",
-        "ensemble cast",
-        "episodic",
         "fantasy",
-        "female harem",
-        "female protagonist",
-        "foreign",
-        "heterosexual",
-        "inseki",
-        "isekai",
-        "lgbtq+ themes",
-        "magic",
-        "male harem",
-        "ojou-sama",
-        "parody",
-        "reincarnation",
-        "romance",
-        "slice of life",
-        "time skip",
-        "tsundere",
-        "twins",
-        "video games",
-        "villainess"
+        "no dialogue",
+        "shorts",
+        "supernatural"
       ],
-      "id": "https://anilist.co/anime/104647"
+      "id": "https://anime-planet.com/anime/mori-no-obake"
+    },
+    {
+      "sources": [
+        "https://myanimelist.net/anime/52699"
+      ],
+      "title": "Qingxiu Shanzhuang",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 1997
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1592/126765.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1592/126765t.jpg",
+      "synonyms": [
+        "Annie's Magic Raccoon",
+        "清秀山莊"
+      ],
+      "relations": [],
+      "tags": [
+        "drama"
+      ],
+      "id": "https://myanimelist.net/anime/52699"
     },
     {
       "sources": [
@@ -728,23 +822,15 @@
         "Ranma 1/2: Nettou Uta Gassen",
         "Ranma 1/2: Nettou Utagassen",
         "Ranma 1/2: Nettō Utagassen",
+        "ranma ova 1",
         "らんま1/2 熱闘歌合戦",
         "らんま１／２　熱闘歌合戦"
       ],
       "relations": [
         "https://anidb.net/anime/193",
-        "https://anilist.co/anime/210",
+        "https://anilist.co/anime/149939",
         "https://anime-planet.com/anime/ranma-12",
-        "https://anisearch.com/anime/1057",
-        "https://anisearch.com/anime/1098",
-        "https://anisearch.com/anime/11814",
-        "https://anisearch.com/anime/1567",
         "https://anisearch.com/anime/282",
-        "https://anisearch.com/anime/357",
-        "https://anisearch.com/anime/385",
-        "https://anisearch.com/anime/5196",
-        "https://anisearch.com/anime/8737",
-        "https://anisearch.com/anime/988",
         "https://kitsu.io/anime/186",
         "https://livechart.me/anime/4003",
         "https://livechart.me/anime/5337",
@@ -763,6 +849,7 @@
         "https://notify.moe/anime/w1khcFmig"
       ],
       "tags": [
+        "combat sport",
         "comedy",
         "martial arts",
         "music",
@@ -776,6 +863,8 @@
     {
       "sources": [
         "https://anilist.co/anime/102077",
+        "https://anime-planet.com/anime/the-rolling-girls-specials",
+        "https://anisearch.com/anime/10457",
         "https://kitsu.io/anime/10863",
         "https://livechart.me/anime/5289",
         "https://myanimelist.net/anime/30499",
@@ -792,16 +881,30 @@
       "picture": "https://cdn.myanimelist.net/images/anime/8/73386.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/8/73386t.jpg",
       "synonyms": [
-        "TVアニメ｢ちび☆ローリング☆ガールズ｣コロコロ劇場"
+        "TVアニメ｢ちび☆ローリング☆ガールズ｣コロコロ劇場",
+        "The Rolling Girls Specials",
+        "The Rolling Girls: Chibi - Kino auf Rädern",
+        "The Rolling Girls: Chibi RG Corocoro Gekijou",
+        "The Rolling Girls: Chibi RG Corocoro Gekijō",
+        "The Rolling Girls: Chibi Rolling Girls Corocoro Gekijou",
+        "The Rolling Girls: Chibi Rolling Girls Korokoro Gekijou",
+        "The Rolling Girls: Chibi Rolling Girls Specials",
+        "ローリングガールズ ちび☆R☆G コロコロ劇場"
       ],
       "relations": [
         "https://anilist.co/anime/20815",
+        "https://anime-planet.com/anime/the-rolling-girls",
+        "https://anisearch.com/anime/9763",
         "https://kitsu.io/anime/8667",
+        "https://livechart.me/anime/770",
         "https://myanimelist.net/anime/25867",
         "https://notify.moe/anime/g0tJtFmmR"
       ],
       "tags": [
+        "chibi",
+        "comedy",
         "female protagonist",
+        "original work",
         "primarily female cast",
         "slice of life"
       ],
@@ -915,7 +1018,7 @@
         "https://notify.moe/anime/v1IDpFiiR"
       ],
       "title": "Shiranpuri (Movie)",
-      "type": "MOVIE",
+      "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
@@ -946,6 +1049,9 @@
         "https://anilist.co/anime/13169",
         "https://anilist.co/anime/13171",
         "https://anilist.co/anime/13173",
+        "https://anisearch.com/anime/7137",
+        "https://anisearch.com/anime/7139",
+        "https://anisearch.com/anime/7153",
         "https://kitsu.io/anime/6900",
         "https://kitsu.io/anime/6901",
         "https://kitsu.io/anime/6902",
@@ -959,6 +1065,7 @@
       "tags": [
         "anime tamago",
         "bullying",
+        "child protagonists",
         "drama",
         "elementary school",
         "japan",
@@ -972,33 +1079,6 @@
         "wakate animator ikusei project"
       ],
       "id": "https://myanimelist.net/anime/13175"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/shounen-sunday-cm-major"
-      ],
-      "title": "Shounen Sunday CM: Major",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "UPCOMING",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://anime-planet.com/images/anime/covers/17610.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/17610.jpg",
-      "synonyms": [],
-      "relations": [
-        "https://anime-planet.com/anime/major-season-1"
-      ],
-      "tags": [
-        "baseball",
-        "based on a manga",
-        "commercials",
-        "promotional",
-        "sports"
-      ],
-      "id": "https://anime-planet.com/anime/shounen-sunday-cm-major"
     },
     {
       "sources": [
@@ -1030,6 +1110,7 @@
         "S・A ~スペシャル・エー~",
         "S・A 特优生",
         "S・A ～スペシャル・エー～",
+        "Спецкласс А",
         "スペシャル・エー"
       ],
       "relations": [],
@@ -1048,6 +1129,7 @@
         "ensemble cast",
         "female protagonist",
         "foreign",
+        "heterosexual",
         "high school",
         "incest",
         "japan",
@@ -1155,6 +1237,9 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/130354",
+        "https://anime-planet.com/anime/wo-shi-da-shenxian-2nd-season",
+        "https://kitsu.io/anime/44569",
         "https://myanimelist.net/anime/48369",
         "https://notify.moe/anime/Vsa9c06Gg"
       ],
@@ -1170,18 +1255,41 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1016/112909t.jpg",
       "synonyms": [
         "Da Shen Xian",
+        "Da Shen Xian Season 2",
+        "I Am A Great God 2",
         "I Am A Great God 2nd Season",
-        "我是大神仙 第二季"
+        "I Am A Great God Second Season",
+        "The Immortal In Me 2nd Season",
+        "Wo Shi Da Shenxian 2",
+        "Wo Shi Da Shenxian Second Season",
+        "我是大神仙 第二季",
+        "我是大神仙2"
       ],
       "relations": [
+        "https://anilist.co/anime/120203",
+        "https://anilist.co/anime/153497",
+        "https://anime-planet.com/anime/wo-shi-da-shenxian",
+        "https://anime-planet.com/anime/wo-shi-da-shenxian-3rd-season",
+        "https://kitsu.io/anime/43784",
         "https://myanimelist.net/anime/44513",
         "https://notify.moe/anime/A1ffc0eMg"
       ],
       "tags": [
         "action",
+        "based on a manga",
+        "blackmail",
+        "cg animation",
+        "chinese animation",
+        "cultivation",
         "fantasy",
+        "fantasy world",
+        "female harem",
+        "full cgi",
+        "isekai",
+        "male protagonist",
         "martial arts",
-        "shounen"
+        "shounen",
+        "super power"
       ],
       "id": "https://myanimelist.net/anime/48369"
     },
@@ -1197,8 +1305,8 @@
         "season": "UNDEFINED",
         "year": 2015
       },
-      "picture": "https://anime-planet.com/images/anime/covers/18939.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/18939.jpg",
+      "picture": "https://cdn.anime-planet.com/anime/primary/yakousei-no-ikimono-1.webp?t=1639900084",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/yakousei-no-ikimono-1-285x399.webp?t=1639900084",
       "synonyms": [],
       "relations": [],
       "tags": [
@@ -1206,6 +1314,60 @@
         "shorts"
       ],
       "id": "https://anime-planet.com/anime/yakousei-no-ikimono"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/159581",
+        "https://anime-planet.com/anime/yaoshenji-6th-season",
+        "https://kitsu.io/anime/47013",
+        "https://myanimelist.net/anime/54285",
+        "https://notify.moe/anime/CLRr0Oo4R"
+      ],
+      "title": "Yao Shen Ji 6th Season",
+      "type": "ONA",
+      "episodes": 52,
+      "status": "ONGOING",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2023
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1257/132857.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1257/132857t.jpg",
+      "synonyms": [
+        "Tales of Demons and Gods 6",
+        "Tales of Demons and Gods 6th Season",
+        "Tales of Demons and Gods Season 6",
+        "Yao Shen Ji 6",
+        "Yaoshenji 6th Season",
+        "妖神记 第6季",
+        "妖神记 第六季"
+      ],
+      "relations": [
+        "https://anilist.co/anime/139986",
+        "https://anilist.co/anime/159582",
+        "https://anime-planet.com/anime/yaoshenji-5th-season",
+        "https://anime-planet.com/anime/yaoshenji-7th-season",
+        "https://kitsu.io/anime/45518",
+        "https://myanimelist.net/anime/50274",
+        "https://notify.moe/anime/rllxAdTVR"
+      ],
+      "tags": [
+        "action",
+        "adventure",
+        "based on a web novel",
+        "cg animation",
+        "chinese animation",
+        "cultivation",
+        "demons",
+        "fantasy",
+        "full cgi",
+        "martial arts",
+        "mythology",
+        "romance",
+        "short episodes",
+        "xianxia"
+      ],
+      "id": "https://myanimelist.net/anime/54285"
     }
   ]
 }

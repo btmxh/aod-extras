@@ -2,6 +2,42 @@
   "data": [
     {
       "sources": [
+        "https://anime-planet.com/anime/19-days",
+        "https://myanimelist.net/anime/51915"
+      ],
+      "title": "19 Tian",
+      "type": "ONA",
+      "episodes": 60,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2019
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1610/124061.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1610/124061t.jpg",
+      "synonyms": [
+        "19 Days",
+        "19天 漫动画",
+        "One Day"
+      ],
+      "relations": [],
+      "tags": [
+        "based on a manga",
+        "bl",
+        "boys love",
+        "childhood friends",
+        "chinese animation",
+        "comedy",
+        "drama",
+        "romance",
+        "school life",
+        "short episodes",
+        "shounen-ai"
+      ],
+      "id": "https://myanimelist.net/anime/51915"
+    },
+    {
+      "sources": [
         "https://anilist.co/anime/109004",
         "https://kitsu.io/anime/11671",
         "https://livechart.me/anime/7697",
@@ -54,32 +90,6 @@
     },
     {
       "sources": [
-        "https://anidb.net/anime/14868",
-        "https://anime-planet.com/anime/du-dang-man"
-      ],
-      "title": "Du Dang Man",
-      "type": "ONA",
-      "episodes": 50,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 2019
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/du-dang-man-1.jpg?t=1625907520",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/du-dang-man-1-190x285.jpg?t=1625907520",
-      "synonyms": [
-        "嘟当曼"
-      ],
-      "relations": [],
-      "tags": [
-        "anthropomorphic",
-        "chinese animation",
-        "family friendly"
-      ],
-      "id": "https://anime-planet.com/anime/du-dang-man"
-    },
-    {
-      "sources": [
         "https://anidb.net/anime/8854",
         "https://anilist.co/anime/12471",
         "https://anime-planet.com/anime/eureka-seven-ao",
@@ -100,12 +110,13 @@
       "picture": "https://cdn.myanimelist.net/images/anime/11/36313.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/11/36313t.jpg",
       "synonyms": [
+        "E7 AO",
         "Eureka 7 AO",
         "Eureka 7 Ao",
-        "Eureka Seven Ao",
         "Eureka Seven Astral Ocean",
         "Eureka Seven: Astral Ocean",
         "e7 ao",
+        "e7 s2",
         "e7ao",
         "えうれかせぶんえいおー",
         "エウレカセブンAO",
@@ -132,11 +143,9 @@
         "https://anime-planet.com/anime/koukyoushihen-eureka-seven-hi-evolution-2",
         "https://anime-planet.com/anime/koukyoushihen-eureka-seven-hi-evolution-3",
         "https://anisearch.com/anime/12308",
-        "https://anisearch.com/anime/12312",
-        "https://anisearch.com/anime/14303",
         "https://anisearch.com/anime/3475",
-        "https://anisearch.com/anime/4866",
-        "https://anisearch.com/anime/7881",
+        "https://anisearch.com/anime/7767",
+        "https://anisearch.com/anime/8196",
         "https://kitsu.io/anime/212",
         "https://kitsu.io/anime/7178",
         "https://kitsu.io/anime/7352",
@@ -145,6 +154,7 @@
         "https://livechart.me/anime/2588",
         "https://livechart.me/anime/2589",
         "https://livechart.me/anime/3424",
+        "https://livechart.me/anime/5015",
         "https://livechart.me/anime/985",
         "https://myanimelist.net/anime/14875",
         "https://myanimelist.net/anime/15979",
@@ -243,6 +253,32 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/140620",
+        "https://anime-planet.com/anime/hoshiboshi"
+      ],
+      "title": "Hoshiboshi",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2017
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/hoshiboshi-1.webp?t=1656730948",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/hoshiboshi-1-285x399.webp?t=1656730948",
+      "synonyms": [
+        "Twinkle twinkle",
+        "星々"
+      ],
+      "relations": [],
+      "tags": [
+        "shorts",
+        "stop motion animation"
+      ],
+      "id": "https://anime-planet.com/anime/hoshiboshi"
+    },
+    {
+      "sources": [
         "https://anidb.net/anime/13347",
         "https://anime-planet.com/anime/knights-of-the-zodiac-saint-seiya",
         "https://anisearch.com/anime/12698",
@@ -273,6 +309,7 @@
         "SAINT SEIYA: Rycerze Zodiaku",
         "SAINT SEIYA: Rytíři zvěrokruhu",
         "Saint Seiya (2019)",
+        "Saint Seiya : Les Chevaliers du Zodiaque",
         "Saint Seiya: Die Krieger des Zodiac",
         "Saint Seiya: I Cavalieri dello Zodiaco",
         "Saint Seiya: Knights of the Zodiac",
@@ -291,28 +328,18 @@
         "세인트 세이야: 12궁의 기사단"
       ],
       "relations": [
+        "https://anidb.net/anime/17484",
         "https://anidb.net/anime/826",
+        "https://anime-planet.com/anime/knights-of-the-zodiac-saint-seiya-battle-for-sanctuary",
         "https://anime-planet.com/anime/saint-seiya-knights-of-the-zodiac",
-        "https://anisearch.com/anime/10149",
-        "https://anisearch.com/anime/10186",
-        "https://anisearch.com/anime/10239",
-        "https://anisearch.com/anime/12143",
-        "https://anisearch.com/anime/1454",
-        "https://anisearch.com/anime/1487",
-        "https://anisearch.com/anime/1923",
-        "https://anisearch.com/anime/2041",
-        "https://anisearch.com/anime/2108",
-        "https://anisearch.com/anime/2657",
-        "https://anisearch.com/anime/3026",
+        "https://anisearch.com/anime/17500",
         "https://anisearch.com/anime/318",
-        "https://anisearch.com/anime/4632",
-        "https://anisearch.com/anime/5190",
-        "https://anisearch.com/anime/6673",
-        "https://anisearch.com/anime/6906",
-        "https://anisearch.com/anime/7598",
         "https://kitsu.io/anime/1129",
+        "https://kitsu.io/anime/46220",
         "https://myanimelist.net/anime/1254",
-        "https://notify.moe/anime/HSJb5Fimg"
+        "https://myanimelist.net/anime/52273",
+        "https://notify.moe/anime/HSJb5Fimg",
+        "https://notify.moe/anime/cEyRcdeng"
       ],
       "tags": [
         "action",
@@ -339,6 +366,7 @@
     {
       "sources": [
         "https://anilist.co/anime/140687",
+        "https://anime-planet.com/anime/yuu-miyashita-koufukuron",
         "https://myanimelist.net/anime/50964"
       ],
       "title": "Koufukuron",
@@ -352,43 +380,22 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1642/120817.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1642/120817t.jpg",
       "synonyms": [
+        "Yuu Miyashita: Koufukuron",
         "降伏論"
       ],
       "relations": [
         "https://anilist.co/anime/127401",
+        "https://anime-planet.com/anime/platinum-end",
         "https://myanimelist.net/anime/44961"
       ],
       "tags": [
         "animals",
+        "black and white",
         "drugs",
         "female protagonist",
         "psychological"
       ],
       "id": "https://myanimelist.net/anime/50964"
-    },
-    {
-      "sources": [
-        "https://anilist.co/anime/118109"
-      ],
-      "title": "Kumo no Hito Ame no Hito",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2006
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118109-Z1qxUOl0gZ1g.png",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118109-Z1qxUOl0gZ1g.png",
-      "synonyms": [
-        "雲の人 雨の人"
-      ],
-      "relations": [],
-      "tags": [
-        "fantasy",
-        "psychological"
-      ],
-      "id": "https://anilist.co/anime/118109"
     },
     {
       "sources": [
@@ -422,6 +429,7 @@
         "https://anidb.net/anime/1391",
         "https://anilist.co/anime/2278",
         "https://anime-planet.com/anime/3d-magical-play",
+        "https://anisearch.com/anime/2456",
         "https://kitsu.io/anime/2063",
         "https://myanimelist.net/anime/2278",
         "https://notify.moe/anime/pbKE5KimR"
@@ -432,13 +440,14 @@
         "comedy",
         "fantasy",
         "fantasy world",
-        "henshin heroes",
         "magic",
         "magical girl",
         "new",
         "original work",
         "parody",
-        "short episodes"
+        "short episodes",
+        "surreal comedy",
+        "villainess"
       ],
       "id": "https://myanimelist.net/anime/2277"
     },
@@ -514,30 +523,8 @@
     },
     {
       "sources": [
-        "https://myanimelist.net/anime/47738"
-      ],
-      "title": "Meng Bao Ai Jianggu Zhi Liwan Gushi",
-      "type": "TV",
-      "episodes": 16,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "萌宝爱讲古之荔湾故事"
-      ],
-      "relations": [],
-      "tags": [
-        "kids"
-      ],
-      "id": "https://myanimelist.net/anime/47738"
-    },
-    {
-      "sources": [
         "https://anilist.co/anime/140362",
+        "https://anime-planet.com/anime/fake-type-mister-jewel-box",
         "https://kitsu.io/anime/45330",
         "https://myanimelist.net/anime/49528"
       ],
@@ -552,65 +539,19 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1505/116850.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1505/116850t.jpg",
       "synonyms": [
+        "FAKE TYPE: Mister Jewel Box",
         "トップハムハット狂"
       ],
-      "relations": [],
+      "relations": [
+        "https://anilist.co/anime/140391",
+        "https://anilist.co/anime/146119"
+      ],
       "tags": [
+        "crossdressing",
         "drama",
         "music"
       ],
       "id": "https://myanimelist.net/anime/49528"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/monster-strike-2nd-season",
-        "https://livechart.me/anime/2499"
-      ],
-      "title": "Monster Strike 2nd Season",
-      "type": "ONA",
-      "episodes": 23,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2017
-      },
-      "picture": "https://anime-planet.com/images/anime/covers/8349.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/8349.jpg",
-      "synonyms": [
-        "MonSuto",
-        "モンスターストライク セカンドシーズン"
-      ],
-      "relations": [
-        "https://anime-planet.com/anime/monster-strike",
-        "https://anime-planet.com/anime/monster-strike-a-rhapsody-called-lucy-the-very-first-song",
-        "https://anime-planet.com/anime/monster-strike-an-encore-and-continuance-pandoras-box",
-        "https://anime-planet.com/anime/monster-strike-mermaid-rhapsody",
-        "https://anime-planet.com/anime/monster-strike-rain-of-memories",
-        "https://anime-planet.com/anime/monster-strike-the-animation",
-        "https://anime-planet.com/anime/monster-strike-the-animation-trouble-in-monster-strike",
-        "https://anime-planet.com/anime/monster-strike-the-fading-cosmos",
-        "https://anime-planet.com/anime/monster-strike-the-long-awaited-utopia",
-        "https://anime-planet.com/anime/monster-strike-the-movie",
-        "https://anime-planet.com/anime/monster-strike-the-movie-3-lucifer-dawn-of-despair",
-        "https://anime-planet.com/anime/msonic-dartagnyans-rise-to-fame",
-        "https://livechart.me/anime/10164",
-        "https://livechart.me/anime/1594",
-        "https://livechart.me/anime/2261",
-        "https://livechart.me/anime/2695",
-        "https://livechart.me/anime/2709",
-        "https://livechart.me/anime/2900",
-        "https://livechart.me/anime/3312",
-        "https://livechart.me/anime/3358",
-        "https://livechart.me/anime/9859"
-      ],
-      "tags": [
-        "action",
-        "based on a mobile game",
-        "fantasy",
-        "game",
-        "monsters"
-      ],
-      "id": "https://anime-planet.com/anime/monster-strike-2nd-season"
     },
     {
       "sources": [
@@ -705,6 +646,54 @@
     },
     {
       "sources": [
+        "https://myanimelist.net/anime/54389"
+      ],
+      "title": "Short Pants",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SPRING",
+        "year": 2013
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1975/133176.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1975/133176t.jpg",
+      "synonyms": [
+        "SHORT PANTS"
+      ],
+      "relations": [],
+      "tags": [
+        "music"
+      ],
+      "id": "https://myanimelist.net/anime/54389"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/148395",
+        "https://anime-planet.com/anime/sou-tomadoi-rhythm"
+      ],
+      "title": "Sou: Tomadoi Rhythm",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2022
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/sou-tomadoi-rhythm-1.webp?t=1663106249",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/sou-tomadoi-rhythm-1-285x399.webp?t=1663106249",
+      "synonyms": [
+        "Tomadoi Rythem",
+        "トマドイリズム"
+      ],
+      "relations": [],
+      "tags": [
+        "abstract"
+      ],
+      "id": "https://anime-planet.com/anime/sou-tomadoi-rhythm"
+    },
+    {
+      "sources": [
         "https://anilist.co/anime/13073",
         "https://anime-planet.com/anime/the-prince-of-tennis-another-story-ii-ano-toki-no-bokura-specials",
         "https://kitsu.io/anime/6876",
@@ -755,69 +744,10 @@
         "based on a manga",
         "chibi",
         "shounen",
-        "sports"
+        "sports",
+        "tennis"
       ],
       "id": "https://myanimelist.net/anime/13073"
-    },
-    {
-      "sources": [
-        "https://kitsu.io/anime/8127",
-        "https://notify.moe/anime/xqqhpKmig"
-      ],
-      "title": "Time Jam: Valerian and Laureline",
-      "type": "TV",
-      "episodes": 40,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 2007
-      },
-      "picture": "https://media.kitsu.io/anime/poster_images/8127/small.jpg",
-      "thumbnail": "https://media.kitsu.io/anime/poster_images/8127/tiny.jpg",
-      "synonyms": [
-        "Time Jam: Valerian & Laureline"
-      ],
-      "relations": [],
-      "tags": [
-        "alien",
-        "fantasy",
-        "future",
-        "humanoid alien",
-        "sci-fi",
-        "science fiction",
-        "space",
-        "space travel",
-        "time travel"
-      ],
-      "id": "https://kitsu.io/anime/8127"
-    },
-    {
-      "sources": [
-        "https://kitsu.io/anime/43347"
-      ],
-      "title": "Violet Evergarden CM",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2016
-      },
-      "picture": "https://media.kitsu.io/anime/poster_images/43347/small.jpg",
-      "thumbnail": "https://media.kitsu.io/anime/poster_images/43347/tiny.jpg",
-      "synonyms": [
-        "「ヴァイオレット・エヴァーガーデン」"
-      ],
-      "relations": [
-        "https://kitsu.io/anime/12230"
-      ],
-      "tags": [
-        "drama",
-        "fantasy",
-        "slice of life",
-        "working life"
-      ],
-      "id": "https://kitsu.io/anime/43347"
     },
     {
       "sources": [
@@ -911,7 +841,6 @@
       "tags": [
         "action",
         "afterlife",
-        "asia",
         "based on a manga",
         "bionic powers",
         "bishounen",

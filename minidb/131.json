@@ -3,6 +3,7 @@
     {
       "sources": [
         "https://anidb.net/anime/7188",
+        "https://anilist.co/anime/154976",
         "https://anime-planet.com/anime/apo-apo-world-giant-baba-90-bun-ippon-shoubu",
         "https://anisearch.com/anime/5908",
         "https://kitsu.io/anime/8365",
@@ -21,18 +22,62 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/9/59583t.jpg",
       "synonyms": [
         "APO APOワールド ジャイアント馬場 90分1本勝負",
+        "APO APOワールド ジャイアント馬場90分一本勝負",
+        "Apo Apo",
         "Apo Apo World: Giant Baba 90-bun 1-hon Shōbu",
         "Apo Apo World: Giant Baba 90-bun Ippon Shoubu",
         "Apo Apo ワールド ジャイアント馬場 90分 1本勝負"
       ],
       "relations": [],
       "tags": [
+        "combat sports",
         "comedy",
         "hand to hand combat",
         "sports",
         "wrestling"
       ],
       "id": "https://myanimelist.net/anime/22851"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/145925",
+        "https://anime-planet.com/anime/honkai-impact-3rd-winter-memories",
+        "https://kitsu.io/anime/45900",
+        "https://myanimelist.net/anime/52771"
+      ],
+      "title": "Benghuai 3rd: Dong Zhi Jiyi",
+      "type": "ONA",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2022
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1852/127055.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1852/127055t.jpg",
+      "synonyms": [
+        "Benghuai 3: Dong Zhi Jiyi",
+        "Dong Zhi Jiyi",
+        "Honkai Impact 3rd - Winter Memories",
+        "Honkai Impact 3rd: Winter Memories",
+        "Winter Memories",
+        "Winter Memories: Honkai Impact 3rd Concept Animation",
+        "《崩坏3》概念动画短片「冬之记忆」",
+        "冬の思い出",
+        "崩坏3 冬之记忆",
+        "崩壊3rd 冬の思い出"
+      ],
+      "relations": [
+        "https://myanimelist.net/anime/40100"
+      ],
+      "tags": [
+        "based on a video game",
+        "ice skating",
+        "performing arts",
+        "promotional",
+        "sports"
+      ],
+      "id": "https://myanimelist.net/anime/52771"
     },
     {
       "sources": [
@@ -68,77 +113,77 @@
     },
     {
       "sources": [
-        "https://myanimelist.net/anime/47220",
-        "https://myanimelist.net/anime/47222"
+        "https://kitsu.io/anime/47101"
       ],
-      "title": "Caihong Baobao",
-      "type": "TV",
-      "episodes": 26,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "彩虹宝宝",
-        "彩虹宝宝 第3季"
-      ],
-      "relations": [],
-      "tags": [
-        "josei",
-        "kids"
-      ],
-      "id": "https://myanimelist.net/anime/47222"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/deco-27-hitojichi-koukan"
-      ],
-      "title": "Deco*27: Hitojichi Koukan",
-      "type": "SPECIAL",
+      "title": "Conscience",
+      "type": "OVA",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2019
+        "season": "SUMMER",
+        "year": 1993
       },
-      "picture": "https://anime-planet.com/images/anime/covers/14703.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/14703.jpg",
-      "synonyms": [
-        "Deco*27: We The Hostages"
-      ],
+      "picture": "https://media.kitsu.io/anime/47101/poster_image/small-c0271915c89cab5b8140149d6129055b.jpeg",
+      "thumbnail": "https://media.kitsu.io/anime/47101/poster_image/tiny-1fc61b32659e727c3b2fc044040458f6.jpeg",
+      "synonyms": [],
       "relations": [],
       "tags": [
-        "skeletons",
-        "stop motion animation",
-        "vocaloid"
+        "adventure",
+        "anime influenced"
       ],
-      "id": "https://anime-planet.com/anime/deco-27-hitojichi-koukan"
+      "id": "https://kitsu.io/anime/47101"
     },
     {
       "sources": [
         "https://myanimelist.net/anime/47149"
       ],
       "title": "Diannao Zongdongyuan",
-      "type": "TV",
+      "type": "ONA",
       "episodes": 55,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1923/130761.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1923/130761t.jpg",
       "synonyms": [
         "电脑总动员"
       ],
       "relations": [],
       "tags": [
-        "adventure"
+        "kids"
       ],
       "id": "https://myanimelist.net/anime/47149"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/163821"
+      ],
+      "title": "Douluo Dalu: Haishen Chuancheng",
+      "type": "ONA",
+      "episodes": 3,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2023
+      },
+      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163821-ooX3EjxoXrhN.png",
+      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163821-ooX3EjxoXrhN.png",
+      "synonyms": [
+        "Douluo Dalu Part 26",
+        "Soul Land Part 26",
+        "斗罗大陆 海神传承"
+      ],
+      "relations": [
+        "https://anilist.co/anime/163818",
+        "https://anilist.co/anime/163823"
+      ],
+      "tags": [
+        "action",
+        "fantasy"
+      ],
+      "id": "https://anilist.co/anime/163821"
     },
     {
       "sources": [
@@ -152,7 +197,7 @@
         "season": "UNDEFINED",
         "year": 2016
       },
-      "picture": "https://cdn.anime-planet.com/anime/primary/egoist-kabaneri-of-the-iron-fortress-1.webp?t=1642712413",
+      "picture": "https://cdn.anime-planet.com/anime/primary/egoist-kabaneri-of-the-iron-fortress-1.webp?t=1642712414",
       "thumbnail": "https://cdn.anime-planet.com/anime/primary/egoist-kabaneri-of-the-iron-fortress-1-285x399.webp?t=1642712414",
       "synonyms": [],
       "relations": [
@@ -211,12 +256,17 @@
       ],
       "tags": [
         "adventure",
+        "child protagonists",
+        "detective",
         "drama",
         "earth",
+        "ensemble cast",
         "fantasy",
         "foreign",
         "future",
+        "historical",
         "lost civilization",
+        "love triangle",
         "male protagonist",
         "mystery",
         "new",
@@ -232,7 +282,8 @@
         "seinen",
         "supernatural drama",
         "suspense",
-        "thriller"
+        "thriller",
+        "tragedy"
       ],
       "id": "https://myanimelist.net/anime/455"
     },
@@ -289,33 +340,10 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/heavenly-bodies-score"
-      ],
-      "title": "Heavenly Bodies' Score",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 1987
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/heavenly-bodies-score-1.webp?t=1638250446",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/heavenly-bodies-score-1-285x400.webp?t=1638250446",
-      "synonyms": [
-        "Tentai Fu"
-      ],
-      "relations": [],
-      "tags": [
-        "abstract",
-        "black and white",
-        "no dialogue",
-        "shorts"
-      ],
-      "id": "https://anime-planet.com/anime/heavenly-bodies-score"
-    },
-    {
-      "sources": [
+        "https://anidb.net/anime/14246",
         "https://anilist.co/anime/103873",
+        "https://anime-planet.com/anime/holiday-love-fuufukan-renai",
+        "https://anisearch.com/anime/13788",
         "https://kitsu.io/anime/44837",
         "https://livechart.me/anime/3447",
         "https://myanimelist.net/anime/38100"
@@ -332,14 +360,24 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1664/93326t.jpg",
       "synonyms": [
         "Holiday Love",
+        "Holiday Love: Fuufukan Ren'ai",
+        "Holiday Love: Fuufukan Ren`ai",
+        "Holiday Love: Fūfukan Ren'ai",
         "ホリデイラブ ~夫婦間恋愛~",
-        "ホリデイラブ 〜夫婦間恋愛〜"
+        "ホリデイラブ 〜夫婦間恋愛〜",
+        "ホリデイラブ ～夫婦間恋愛～"
       ],
       "relations": [],
       "tags": [
+        "based on a manga",
         "drama",
+        "josei",
+        "present",
         "primarily adult cast",
-        "romance"
+        "romance",
+        "romantic drama",
+        "short episodes",
+        "vertical anime"
       ],
       "id": "https://myanimelist.net/anime/38100"
     },
@@ -368,6 +406,7 @@
         "BBB",
         "Blood Blockade Battlefront",
         "Bloodline Battlefront",
+        "Keksen",
         "Вартові кривавого бар’єру",
         "けっかいせんせん",
         "血界战线",
@@ -383,6 +422,7 @@
         "https://anime-planet.com/anime/blood-blockade-battlefront-even-these-are-the-worst-and-best-days-ever",
         "https://anime-planet.com/anime/blood-blockade-battlefront-ova",
         "https://anisearch.com/anime/10468",
+        "https://anisearch.com/anime/11199",
         "https://anisearch.com/anime/12073",
         "https://kitsu.io/anime/11030",
         "https://kitsu.io/anime/11772",
@@ -411,7 +451,6 @@
         "cosmic horror",
         "dark fantasy",
         "demons",
-        "disaster",
         "earth",
         "ensemble cast",
         "episodic",
@@ -427,6 +466,8 @@
         "new york",
         "parallel universe",
         "parallel world",
+        "philosophy",
+        "post-apocalyptic",
         "present",
         "primarily adult cast",
         "psi-powers",
@@ -458,8 +499,8 @@
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "WINTER",
-        "year": 2015
+        "season": "UNDEFINED",
+        "year": null
       },
       "picture": "https://u.livechart.me/anime/722/poster_image/0176e5f73de07ff3eb622e86e487e0fa.png?style=large&format=jpg",
       "thumbnail": "https://u.livechart.me/anime/722/poster_image/0176e5f73de07ff3eb622e86e487e0fa.png?style=small&format=jpg",
@@ -491,6 +532,7 @@
         "https://anime-planet.com/anime/mahou-tsukai-sally",
         "https://anisearch.com/anime/812",
         "https://kitsu.io/anime/2953",
+        "https://livechart.me/anime/11697",
         "https://myanimelist.net/anime/3356",
         "https://notify.moe/anime/s90QcKmig"
       ],
@@ -514,13 +556,13 @@
         "Sally la maga",
         "Sally the Witch",
         "Sally, malá čarodějnice",
+        "sally",
         "魔法使いサリー",
         "요술공주 세리"
       ],
       "relations": [
         "https://anidb.net/anime/1891",
         "https://anidb.net/anime/2049",
-        "https://anilist.co/anime/17719",
         "https://anilist.co/anime/3875",
         "https://anime-planet.com/anime/mahou-tsukai-sally-2",
         "https://anime-planet.com/anime/mahou-tsukai-sally-2-special",
@@ -528,6 +570,9 @@
         "https://anisearch.com/anime/1635",
         "https://anisearch.com/anime/186",
         "https://kitsu.io/anime/3315",
+        "https://livechart.me/anime/11702",
+        "https://livechart.me/anime/11703",
+        "https://livechart.me/anime/11704",
         "https://myanimelist.net/anime/3875",
         "https://notify.moe/anime/a2Ul5FmmR"
       ],
@@ -538,7 +583,7 @@
         "family friendly",
         "fantasy",
         "female protagonist",
-        "henshin heroes",
+        "isekai",
         "japan",
         "kids",
         "magic",
@@ -588,11 +633,14 @@
         "Mary y la Flor de la Bruja",
         "Mary y la flor de la bruja",
         "Mary y la flor de la hechicera",
+        "Maya og Hekseblomsten",
         "Maya og hekseblomsten",
         "The Little Broomstick",
+        "mmh",
         "Мэри и ведьмин цветок",
         "ماري وزهرة الساحرة",
-        "メアリと魔女の花"
+        "メアリと魔女の花",
+        "玛丽与魔女之花"
       ],
       "relations": [
         "https://kitsu.io/anime/41161",
@@ -602,6 +650,7 @@
         "adventure",
         "animals",
         "based on a novel",
+        "child protagonists",
         "coming of age",
         "contemporary fantasy",
         "england",
@@ -630,6 +679,7 @@
       "sources": [
         "https://anidb.net/anime/11025",
         "https://anilist.co/anime/105182",
+        "https://anime-planet.com/anime/mugen-senshi-valis-pv",
         "https://anisearch.com/anime/10232",
         "https://kitsu.io/anime/8911",
         "https://myanimelist.net/anime/22943",
@@ -646,9 +696,11 @@
       "picture": "https://cdn.myanimelist.net/images/anime/4/59529.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/4/59529t.jpg",
       "synonyms": [
+        "Mugen Senshi Valis PV",
         "Mugen Senshi Varisu",
         "Valis: Legend of a Fantasm Soldier",
         "Valis: The Fantasm Soldier",
+        "Valis: The Fantasm Soldier PV",
         "夢幻戦士ヴァリス"
       ],
       "relations": [],
@@ -657,6 +709,7 @@
         "action game",
         "adventure",
         "advertisement",
+        "based on a video game",
         "demons",
         "ecchi",
         "fantasy",
@@ -668,6 +721,7 @@
         "parallel universe",
         "parallel world",
         "present",
+        "promotional",
         "swordplay",
         "swords & co"
       ],
@@ -675,11 +729,15 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/113187",
         "https://anime-planet.com/anime/null-and-peta-special",
+        "https://anisearch.com/anime/15082",
+        "https://kitsu.io/anime/42702",
+        "https://livechart.me/anime/9656",
         "https://myanimelist.net/anime/40932",
         "https://notify.moe/anime/yFfnFN8ZR"
       ],
-      "title": "Null Peta Special",
+      "title": "Null Peta: Doki♥ Nurunuru Petapeta! Mizugi-darake no Oneechan Taikai!",
       "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
@@ -690,21 +748,47 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1366/105028.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1366/105028t.jpg",
       "synonyms": [
+        "Null & Peta OVA",
         "Null & Peta Special",
-        "ぬるぺた"
+        "Null & Peta: Slippery and Sticky! Big Sister Bikini Battle!",
+        "Null Peta OVA",
+        "Null Peta Special",
+        "Null Peta: Doki! Nurunuru Petapeta! Mizugi Darake no Onee-chan Taikai!",
+        "Null Peta: Doki! Nurunuru Petapeta! Mizugi Darake no Onē-chan Taikai!",
+        "Null Peta: Doki♥ Nullnull Petapeta! Mizugi Darake no Onee-chan Taikai!",
+        "Null Peta: Slippery and Sticky! Big Sister Bikini Battle!",
+        "ぬるぺた",
+        "ぬるぺた ドキッ♥ ぬるぬるぺたぺた! 水着だらけのお姉ちゃん大会!",
+        "ぬるぺた ドキッ♥ ぬるぬるぺたぺた！ 水着だらけのお姉ちゃん大会！",
+        "ぬるぺたOVA",
+        "ドキッ ぬるぬるぺたぺた！ 水着だらけのお姉ちゃん大会！"
       ],
       "relations": [
+        "https://anilist.co/anime/110789",
         "https://anime-planet.com/anime/null-and-peta",
+        "https://anisearch.com/anime/14531",
+        "https://kitsu.io/anime/42469",
+        "https://livechart.me/anime/9544",
         "https://myanimelist.net/anime/40178",
         "https://notify.moe/anime/Chr7bDKWg"
       ],
       "tags": [
+        "artificial intelligence",
         "comedy",
+        "ecchi",
+        "educational",
+        "female protagonist",
+        "foreign",
         "hand to hand combat",
+        "loli",
         "non-human protagonists",
+        "parody",
+        "robot helper",
         "robots",
         "sci fi",
         "sci-fi",
+        "science fiction",
+        "twins",
         "wrestling"
       ],
       "id": "https://myanimelist.net/anime/40932"
@@ -734,9 +818,11 @@
         "ONE PIECE エピソードオブ東の海〜ルフィと4人の仲間の大冒険!!〜",
         "ONE PIECE: Episode of East Blue - Luffy to 4-nin no Nakama no Daibouken",
         "One Piece 20th Anniversary Special",
+        "One Piece : Épisode d’East Blue",
         "One Piece Episode of East Blue",
         "One Piece Episode of East Blue: Luffy to 4-nin no Nakama no Daibouken",
         "One Piece: Episode of East Blue",
+        "One Piece: Episode of East Blue - Luffy and His Four Crewmates' Great Adventure",
         "One Piece: Episode of East Blue - Luffy to 4-nin no Nakama no Daibōken",
         "One Piece: Episode of East Blue - Ruffy and His 4 Crewmates‘ Big Adventure",
         "ワンピース エピソードオブ東の海[イーストブルー] ~ルフィと4人の仲間の大冒険~"
@@ -744,50 +830,7 @@
       "relations": [
         "https://anilist.co/anime/21",
         "https://anime-planet.com/anime/one-piece",
-        "https://anisearch.com/anime/10689",
-        "https://anisearch.com/anime/10975",
-        "https://anisearch.com/anime/11009",
-        "https://anisearch.com/anime/11484",
-        "https://anisearch.com/anime/11565",
-        "https://anisearch.com/anime/12168",
-        "https://anisearch.com/anime/13630",
-        "https://anisearch.com/anime/1369",
-        "https://anisearch.com/anime/13833",
-        "https://anisearch.com/anime/14420",
-        "https://anisearch.com/anime/14746",
-        "https://anisearch.com/anime/15205",
-        "https://anisearch.com/anime/15379",
-        "https://anisearch.com/anime/15494",
-        "https://anisearch.com/anime/15495",
-        "https://anisearch.com/anime/15516",
-        "https://anisearch.com/anime/16819",
-        "https://anisearch.com/anime/1815",
-        "https://anisearch.com/anime/1854",
         "https://anisearch.com/anime/2227",
-        "https://anisearch.com/anime/2376",
-        "https://anisearch.com/anime/2553",
-        "https://anisearch.com/anime/302",
-        "https://anisearch.com/anime/3260",
-        "https://anisearch.com/anime/3359",
-        "https://anisearch.com/anime/3804",
-        "https://anisearch.com/anime/3823",
-        "https://anisearch.com/anime/3836",
-        "https://anisearch.com/anime/3941",
-        "https://anisearch.com/anime/3965",
-        "https://anisearch.com/anime/4495",
-        "https://anisearch.com/anime/5131",
-        "https://anisearch.com/anime/5400",
-        "https://anisearch.com/anime/6498",
-        "https://anisearch.com/anime/6545",
-        "https://anisearch.com/anime/7388",
-        "https://anisearch.com/anime/7573",
-        "https://anisearch.com/anime/8028",
-        "https://anisearch.com/anime/8211",
-        "https://anisearch.com/anime/8279",
-        "https://anisearch.com/anime/8738",
-        "https://anisearch.com/anime/8884",
-        "https://anisearch.com/anime/9785",
-        "https://anisearch.com/anime/9793",
         "https://kitsu.io/anime/12",
         "https://livechart.me/anime/321",
         "https://livechart.me/anime/4028",
@@ -846,8 +889,35 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/persona-4-op"
+      ],
+      "title": "Persona 4 OP",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2008
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/persona-4-op-1.webp?t=1654274998",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/persona-4-op-1-285x399.webp?t=1654274998",
+      "synonyms": [],
+      "relations": [
+        "https://anime-planet.com/anime/persona-4-the-animation"
+      ],
+      "tags": [
+        "based on a video game",
+        "opening animation",
+        "promotional"
+      ],
+      "id": "https://anime-planet.com/anime/persona-4-op"
+    },
+    {
+      "sources": [
         "https://anisearch.com/anime/13001",
-        "https://myanimelist.net/anime/35684"
+        "https://kitsu.io/anime/13543",
+        "https://myanimelist.net/anime/35684",
+        "https://notify.moe/anime/sWI4hFmmR"
       ],
       "title": "Project Tokyo Dolls: Episode 0",
       "type": "ONA",
@@ -861,6 +931,8 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1670/93693t.jpg",
       "synonyms": [
         "Project Tokyo Dolls Animation PV: Episode 0",
+        "Tokyo Dolls Episode 0",
+        "プロジェクト東京ドールズ",
         "プロジェクト東京ドールズ エピソード0"
       ],
       "relations": [],
@@ -906,11 +978,16 @@
         "Saiki Kusuo no Psi Nan",
         "Saiki Kusuo no Psi Nan (2016)",
         "Saiki Kusuo no Psi-nan (2016)",
+        "Saiki Kusuo no Sainan",
         "Saiki Kusuo no Sainan (2016)",
         "Saiki Kusuo no Ψ Nan",
         "Saiki Kusuo no Ψ-nan (TV)",
         "The Disastrous Life of Saiki K.",
         "Viața dezastruoasă a lui Saiki K.",
+        "saiki",
+        "saikik",
+        "saikikusuo",
+        "Η Καταστροφική Ζωή του Σάικι Κ",
         "Η Καταστροφική Ζωή του Σάικι Κ.",
         "Ох уж этот экстрасенс Сайки Кусуо!",
         "חייו הרי-האסון של סאיקי ק",
@@ -929,14 +1006,15 @@
         "https://anidb.net/anime/14797",
         "https://anidb.net/anime/9974",
         "https://anilist.co/anime/19469",
+        "https://anilist.co/anime/21170",
         "https://anilist.co/anime/98034",
         "https://anime-planet.com/anime/the-disastrous-life-of-saiki-k-2013",
         "https://anime-planet.com/anime/the-disastrous-life-of-saiki-k-2nd-season",
         "https://anime-planet.com/anime/the-disastrous-life-of-saiki-k-3",
+        "https://anime-planet.com/anime/the-disastrous-life-of-saiki-k-manner-movie",
         "https://anime-planet.com/anime/the-disastrous-life-of-saiki-k-reawakened",
         "https://anisearch.com/anime/12617",
-        "https://anisearch.com/anime/14001",
-        "https://anisearch.com/anime/14701",
+        "https://anisearch.com/anime/8882",
         "https://kitsu.io/anime/13477",
         "https://kitsu.io/anime/8806",
         "https://livechart.me/anime/2491",
@@ -945,11 +1023,13 @@
         "https://livechart.me/anime/9391",
         "https://myanimelist.net/anime/19469",
         "https://myanimelist.net/anime/34612",
+        "https://myanimelist.net/anime/53712",
         "https://notify.moe/anime/H_zxpFmig",
         "https://notify.moe/anime/oRC72FmmR"
       ],
       "tags": [
         "absurdist humour",
+        "asexual",
         "based on a manga",
         "breaking the fourth wall",
         "chuunibyou",
@@ -957,14 +1037,19 @@
         "ensemble cast",
         "episodic",
         "gag",
+        "gag humor",
+        "gangs",
         "ghost",
+        "gyaru",
+        "heterosexual",
         "high school",
+        "incest",
         "kuudere",
-        "lgbtq+ themes",
         "male protagonist",
         "manga",
         "memory manipulation",
         "meta",
+        "overpowered main characters",
         "parody",
         "present",
         "primarily teen cast",
@@ -977,6 +1062,7 @@
         "short episodes",
         "shounen",
         "slice of life",
+        "slice of life comedy",
         "super power",
         "supernatural",
         "superpowers",
@@ -1010,9 +1096,12 @@
       "synonyms": [
         "Comic Book Blues!",
         "SR",
+        "SR s1",
         "SR1",
         "School Rumble 1",
         "School Rumble TV",
+        "Sukuran",
+        "schoolrumble",
         "sukuran",
         "Школьный переполох",
         "سكول رمبل",
@@ -1032,7 +1121,6 @@
         "https://anime-planet.com/anime/school-rumble-extra-class",
         "https://anime-planet.com/anime/school-rumble-san-gakki",
         "https://anisearch.com/anime/3065",
-        "https://anisearch.com/anime/4757",
         "https://anisearch.com/anime/791",
         "https://kitsu.io/anime/476",
         "https://kitsu.io/anime/750",
@@ -1056,7 +1144,9 @@
         "ensemble cast",
         "episodic",
         "gag",
+        "gag humor",
         "hero of strong character",
+        "heterosexual",
         "high school",
         "japan",
         "kuudere",
@@ -1064,7 +1154,6 @@
         "love triangle",
         "manga",
         "manga & doujinshi",
-        "otaku culture",
         "parody",
         "present",
         "primarily teen cast",
@@ -1076,6 +1165,7 @@
         "slapstick",
         "slice of life",
         "stoic hero",
+        "super power",
         "tomboy",
         "tsundere",
         "unrequited love",
@@ -1241,10 +1331,7 @@
         "https://anidb.net/anime/8142",
         "https://anilist.co/anime/10033",
         "https://anime-planet.com/anime/toriko",
-        "https://anisearch.com/anime/5855",
-        "https://anisearch.com/anime/6546",
         "https://anisearch.com/anime/6684",
-        "https://anisearch.com/anime/8345",
         "https://kitsu.io/anime/6002",
         "https://livechart.me/anime/320",
         "https://livechart.me/anime/44",
@@ -1318,23 +1405,24 @@
         "https://anidb.net/anime/14485",
         "https://anilist.co/anime/105244",
         "https://anime-planet.com/anime/tsukipro-the-animation",
+        "https://anime-planet.com/anime/tsukiuta-rabbits-kingdom-the-movie",
         "https://anime-planet.com/anime/tsukiuta-the-animation-2",
         "https://anime-planet.com/anime/vazzrock-the-animation",
         "https://anisearch.com/anime/12332",
-        "https://anisearch.com/anime/13208",
         "https://anisearch.com/anime/14095",
+        "https://anisearch.com/anime/17340",
         "https://kitsu.io/anime/43558",
-        "https://livechart.me/anime/10212",
-        "https://livechart.me/anime/2441",
-        "https://livechart.me/anime/3028",
+        "https://livechart.me/anime/11172",
         "https://livechart.me/anime/9207",
         "https://myanimelist.net/anime/34474",
         "https://myanimelist.net/anime/37008",
         "https://myanimelist.net/anime/38669",
         "https://myanimelist.net/anime/43771",
+        "https://myanimelist.net/anime/51539",
         "https://notify.moe/anime/4RJR80TMg",
         "https://notify.moe/anime/DUeV2KiiR",
         "https://notify.moe/anime/IPfKaDrZg",
+        "https://notify.moe/anime/qsUiizwng",
         "https://notify.moe/anime/twVTtx8Zg"
       ],
       "tags": [
@@ -1350,6 +1438,7 @@
         "fantasy",
         "idol",
         "idols",
+        "idols (male)",
         "music",
         "primarily male cast",
         "showbiz",
@@ -1363,6 +1452,7 @@
       "sources": [
         "https://anime-planet.com/anime/warau-salesman-episode-0",
         "https://kitsu.io/anime/40694",
+        "https://livechart.me/anime/11261",
         "https://myanimelist.net/anime/35115",
         "https://notify.moe/anime/z3sD2FmmR"
       ],
@@ -1377,6 +1467,7 @@
       "picture": "https://cdn.myanimelist.net/images/anime/7/84708.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/7/84708t.jpg",
       "synonyms": [
+        "Laughing Salesman Episode 0",
         "The Laughing Salesman Episode 0",
         "Warau Salesman Prologue",
         "笑ゥせぇるすまん 第0話 プロローグ"
@@ -1384,9 +1475,14 @@
       "relations": [
         "https://anime-planet.com/anime/warau-salesman",
         "https://anime-planet.com/anime/warau-salesman-new",
+        "https://livechart.me/anime/11262",
+        "https://livechart.me/anime/11263",
+        "https://livechart.me/anime/2471",
+        "https://livechart.me/anime/7495",
         "https://myanimelist.net/anime/3077"
       ],
       "tags": [
+        "adult cast",
         "based on a manga",
         "comedy",
         "mysterious shop",
@@ -1427,6 +1523,7 @@
         "hardcore",
         "hentai",
         "horror",
+        "mythology",
         "tentacle"
       ],
       "id": "https://myanimelist.net/anime/2338"

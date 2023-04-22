@@ -2,51 +2,6 @@
   "data": [
     {
       "sources": [
-        "https://anime-planet.com/anime/afterglow-tsunagu-soramoyou"
-      ],
-      "title": "Afterglow: Tsunagu, Soramoyou",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2018
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/afterglow-tsunagu-soramoyou-1.jpg?t=1625898960",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/afterglow-tsunagu-soramoyou-1-190x266.jpg?t=1625898960",
-      "synonyms": [],
-      "relations": [
-        "https://anime-planet.com/anime/afterglow-that-is-how-i-roll",
-        "https://anime-planet.com/anime/bang-dream"
-      ],
-      "tags": [],
-      "id": "https://anime-planet.com/anime/afterglow-tsunagu-soramoyou"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/48274"
-      ],
-      "title": "Agijongbeolle Popo",
-      "type": "TV",
-      "episodes": 52,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "아기종벌레 포포"
-      ],
-      "relations": [],
-      "tags": [
-        "kids"
-      ],
-      "id": "https://myanimelist.net/anime/48274"
-    },
-    {
-      "sources": [
         "https://anisearch.com/anime/16874"
       ],
       "title": "AIUEO Anime: Sekai no Douwa – Aesop Monogatari Anime Series",
@@ -57,15 +12,17 @@
         "season": "SPRING",
         "year": 1989
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/16/16874.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/16/16874.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/16/16874_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/16/16874.webp",
       "synonyms": [
         "ABC-Anime: The World’s Children’s Stories: Aesop’s Fables Anime Series",
         "AIUEO Anime: Sekai no Dōwa – Aesop Monogatari Anime Series",
         "Aesop Monogatari (イソップ物語)",
         "あいうえおアニメ世界の童話 イソップ物語アニメシリーズ"
       ],
-      "relations": [],
+      "relations": [
+        "https://anisearch.com/anime/16873"
+      ],
       "tags": [],
       "id": "https://anisearch.com/anime/16874"
     },
@@ -91,6 +48,35 @@
         "music"
       ],
       "id": "https://kitsu.io/anime/43891"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/hanamina-blueprint",
+        "https://myanimelist.net/anime/52539"
+      ],
+      "title": "Blueprint",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "FALL",
+        "year": 2021
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1979/126083.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1979/126083t.jpg",
+      "synonyms": [
+        "HaNaMiNa",
+        "HaNaMiNa: Blueprint",
+        "Irodorimidori"
+      ],
+      "relations": [
+        "https://myanimelist.net/anime/52538",
+        "https://myanimelist.net/anime/52540"
+      ],
+      "tags": [
+        "music"
+      ],
+      "id": "https://myanimelist.net/anime/52539"
     },
     {
       "sources": [
@@ -123,18 +109,25 @@
         "adventure",
         "based on a manga",
         "comedy",
+        "elf",
         "fantasy",
         "fantasy world",
         "female protagonist",
+        "fitness",
+        "food",
         "gag",
+        "henshin",
         "magic",
         "manga",
         "medieval",
         "non-human protagonists",
+        "ojou-sama",
         "parody",
         "past",
         "royalty",
-        "slapstick"
+        "slapstick",
+        "tanned skin",
+        "travel"
       ],
       "id": "https://myanimelist.net/anime/2693"
     },
@@ -142,6 +135,7 @@
       "sources": [
         "https://anilist.co/anime/139109",
         "https://anime-planet.com/anime/echo-kodama-suru-uta",
+        "https://anisearch.com/anime/13402",
         "https://kitsu.io/anime/41061",
         "https://myanimelist.net/anime/37465",
         "https://notify.moe/anime/qg7F2FmmR"
@@ -157,6 +151,7 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1002/91007.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1002/91007t.jpg",
       "synonyms": [
+        "Echo: Kodamasuru Uta",
         "Minna no Uta",
         "Minna no Uta: Echo: Kodama Suru Uta",
         "エコー ～こだまする歌～"
@@ -173,6 +168,7 @@
     {
       "sources": [
         "https://anilist.co/anime/139120",
+        "https://anime-planet.com/anime/hiiragi-kirai-eureka",
         "https://kitsu.io/anime/44697",
         "https://myanimelist.net/anime/49054"
       ],
@@ -187,18 +183,22 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1940/115161.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1940/115161t.jpg",
       "synonyms": [
+        "Hiiragi Kirai: Eureka",
         "エウレカ"
       ],
       "relations": [],
       "tags": [
-        "baseball",
+        "abstract",
+        "drawing",
         "music",
-        "psychological"
+        "psychological",
+        "vocaloid"
       ],
       "id": "https://myanimelist.net/anime/49054"
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/rm-forever-rain",
         "https://anisearch.com/anime/13954",
         "https://myanimelist.net/anime/50482"
       ],
@@ -213,63 +213,43 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1917/119808.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1917/119808t.jpg",
       "synonyms": [
-        "RM - forever rain"
+        "RM - forever rain",
+        "RM: Forever Rain"
       ],
       "relations": [],
       "tags": [
         "avant garde",
+        "black and white",
         "drama",
-        "indefinite"
+        "indefinite",
+        "korean animation",
+        "music"
       ],
       "id": "https://myanimelist.net/anime/50482"
     },
     {
       "sources": [
-        "https://myanimelist.net/anime/44359"
-      ],
-      "title": "Hong Mao Lan Tu Konglong Shijie",
-      "type": "TV",
-      "episodes": 90,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "虹猫蓝兔恐龙世界"
-      ],
-      "relations": [
-        "https://myanimelist.net/anime/39121"
-      ],
-      "tags": [
-        "adventure",
-        "fantasy",
-        "kids"
-      ],
-      "id": "https://myanimelist.net/anime/44359"
-    },
-    {
-      "sources": [
         "https://myanimelist.net/anime/47297"
       ],
-      "title": "Jiayou Ba! San Er Ban season2",
+      "title": "Jiayou Ba! San Er Ban 2nd Season",
       "type": "TV",
       "episodes": 20,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2016
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1438/129231.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1438/129231t.jpg",
       "synonyms": [
         "加油吧！三二班 第二季"
       ],
-      "relations": [],
+      "relations": [
+        "https://myanimelist.net/anime/47296"
+      ],
       "tags": [
-        "kids"
+        "kids",
+        "school"
       ],
       "id": "https://myanimelist.net/anime/47297"
     },
@@ -277,7 +257,7 @@
       "sources": [
         "https://myanimelist.net/anime/46553"
       ],
-      "title": "Jiqiren Dou Dou Zhi Dou Dou Tongnian Zhi",
+      "title": "Jiqiren Dou Dou: Dou Dou Tongnian Zhi",
       "type": "TV",
       "episodes": 54,
       "status": "FINISHED",
@@ -285,16 +265,58 @@
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1880/131024.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1880/131024t.jpg",
       "synonyms": [
         "机器人逗逗之逗逗童年志"
       ],
       "relations": [],
       "tags": [
-        "fantasy"
+        "kids"
       ],
       "id": "https://myanimelist.net/anime/46553"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/145760",
+        "https://livechart.me/anime/11479"
+      ],
+      "title": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Vacance wa Hageshii no ga Osuki!?",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 1998
+      },
+      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145760-ND54Db85bFp7.png",
+      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145760-ND54Db85bFp7.png",
+      "synonyms": [
+        "Kochikame Special 2",
+        "こちら葛飾区亀有公園前派出所スペシャル バカンスは激しいのがお好き!?"
+      ],
+      "relations": [
+        "https://anilist.co/anime/3545",
+        "https://livechart.me/anime/11478",
+        "https://livechart.me/anime/11480",
+        "https://livechart.me/anime/11481",
+        "https://livechart.me/anime/11482",
+        "https://livechart.me/anime/11483",
+        "https://livechart.me/anime/11484",
+        "https://livechart.me/anime/11485",
+        "https://livechart.me/anime/11486",
+        "https://livechart.me/anime/11487",
+        "https://livechart.me/anime/11488",
+        "https://livechart.me/anime/11489",
+        "https://livechart.me/anime/11490",
+        "https://livechart.me/anime/11504",
+        "https://livechart.me/anime/11505",
+        "https://livechart.me/anime/6699"
+      ],
+      "tags": [
+        "comedy"
+      ],
+      "id": "https://anilist.co/anime/145760"
     },
     {
       "sources": [
@@ -336,6 +358,7 @@
         "Эврика 7: Псалмы Планет [ТВ]",
         "ยูเรก้า เซเว่น",
         "こうきょうしへんえうれかせぶん",
+        "交响诗篇",
         "交響詩篇エウレカセブン",
         "교향시편 유레카 세븐"
       ],
@@ -345,7 +368,7 @@
         "https://anidb.net/anime/8854",
         "https://anilist.co/anime/12471",
         "https://anilist.co/anime/13731",
-        "https://anilist.co/anime/1631",
+        "https://anilist.co/anime/158925",
         "https://anilist.co/anime/4246",
         "https://anilist.co/anime/98469",
         "https://anime-planet.com/anime/eureka-seven-ao",
@@ -358,7 +381,6 @@
         "https://anime-planet.com/anime/koukyoushihen-eureka-seven-hi-evolution-1",
         "https://anime-planet.com/anime/koukyoushihen-eureka-seven-hi-evolution-2",
         "https://anime-planet.com/anime/koukyoushihen-eureka-seven-hi-evolution-3",
-        "https://anisearch.com/anime/12308",
         "https://anisearch.com/anime/12312",
         "https://anisearch.com/anime/14303",
         "https://anisearch.com/anime/4866",
@@ -376,6 +398,7 @@
         "https://livechart.me/anime/2587",
         "https://livechart.me/anime/2588",
         "https://livechart.me/anime/2589",
+        "https://livechart.me/anime/5015",
         "https://livechart.me/anime/985",
         "https://myanimelist.net/anime/12471",
         "https://myanimelist.net/anime/13731",
@@ -404,6 +427,7 @@
         "anti-hero",
         "aviation",
         "bullying",
+        "clone",
         "comedy",
         "coming of age",
         "drama",
@@ -411,6 +435,9 @@
         "ensemble cast",
         "environmental",
         "football",
+        "future",
+        "guns",
+        "heterosexual",
         "kuudere",
         "mecha",
         "military",
@@ -418,7 +445,7 @@
         "original work",
         "philosophy",
         "piloted robot",
-        "post apocalypse",
+        "plot continuity",
         "post-apocalyptic",
         "psychological drama",
         "romance",
@@ -431,7 +458,6 @@
         "super robot",
         "surfing",
         "terrorism",
-        "tone changes",
         "violence",
         "war"
       ],
@@ -439,6 +465,37 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/the-present",
+        "https://myanimelist.net/anime/53046"
+      ],
+      "title": "Liwu",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2012
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1673/128019.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1673/128019t.jpg",
+      "synonyms": [
+        "The Present",
+        "禮物"
+      ],
+      "relations": [],
+      "tags": [
+        "chinese animation",
+        "drama",
+        "horror",
+        "revenge",
+        "shorts",
+        "suspense"
+      ],
+      "id": "https://myanimelist.net/anime/53046"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/lu-shidai-xinnian-fanwai-pian",
         "https://myanimelist.net/anime/44565"
       ],
       "title": "Lu Shidai Xinnian Fanwai Pian",
@@ -446,20 +503,23 @@
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "WINTER",
         "year": 2014
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1350/122945.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1350/122945t.jpg",
       "synonyms": [
+        "Lu Shidai New Year's Extra",
+        "Lu Shidai: Xinnian Fanwai Pian",
         "撸时代 新年番外篇"
       ],
       "relations": [
+        "https://anime-planet.com/anime/lu-shidai",
         "https://myanimelist.net/anime/31233"
       ],
       "tags": [
-        "comedy",
-        "game"
+        "chinese animation",
+        "comedy"
       ],
       "id": "https://myanimelist.net/anime/44565"
     },
@@ -476,13 +536,15 @@
         "season": "SPRING",
         "year": 1938
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/0.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/0.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/0_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/0.webp",
       "synonyms": [
         "Mābō no Tairiku Hikyō Tanken",
         "マー坊の大陸秘境探険"
       ],
-      "relations": [],
+      "relations": [
+        "https://anisearch.com/anime/5666"
+      ],
       "tags": [],
       "id": "https://anisearch.com/anime/7019"
     },
@@ -529,6 +591,30 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/matsubara-senshi-nanba-negiman"
+      ],
+      "title": "Matsubara Senshi Nanba Negiman",
+      "type": "ONA",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2018
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/matsubara-senshi-nanba-negiman-1.webp?t=1670910230",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/matsubara-senshi-nanba-negiman-1-285x399.webp?t=1670910230",
+      "synonyms": [],
+      "relations": [],
+      "tags": [
+        "banter",
+        "educational",
+        "food and beverage",
+        "promotional"
+      ],
+      "id": "https://anime-planet.com/anime/matsubara-senshi-nanba-negiman"
+    },
+    {
+      "sources": [
         "https://myanimelist.net/anime/42699"
       ],
       "title": "Microphone Soul Spinners: Kotodama Shoujo - Furikaeri Douga",
@@ -554,58 +640,6 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/minimoni-minihams-no-ai-no-uta"
-      ],
-      "title": "Minimoni: Minihams no Ai no Uta",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2002
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/minimoni-minihams-no-ai-no-uta-1.jpg?t=1625898519",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/minimoni-minihams-no-ai-no-uta-1-190x246.jpg?t=1625898519",
-      "synonyms": [],
-      "relations": [
-        "https://anime-planet.com/anime/hamtaro-movie-1-ham-ham-land-no-daibouken",
-        "https://anime-planet.com/anime/minimoni-minihams-no-kekkon-song"
-      ],
-      "tags": [
-        "animal protagonists",
-        "family friendly",
-        "music",
-        "non-human protagonists"
-      ],
-      "id": "https://anime-planet.com/anime/minimoni-minihams-no-ai-no-uta"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/nipple",
-        "https://kitsu.io/anime/45643"
-      ],
-      "title": "Nipple!!",
-      "type": "ONA",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SUMMER",
-        "year": 2009
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/nipple-1.jpg?t=1625908907",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/nipple-1-190x266.jpg?t=1625908907",
-      "synonyms": [],
-      "relations": [],
-      "tags": [
-        "abstract",
-        "crude",
-        "no dialogue",
-        "shorts"
-      ],
-      "id": "https://anime-planet.com/anime/nipple"
-    },
-    {
-      "sources": [
         "https://anidb.net/anime/11099",
         "https://anilist.co/anime/21065",
         "https://anime-planet.com/anime/nyuru-nyuru-kakusen-kun-2nd-season",
@@ -626,6 +660,7 @@
       "picture": "https://cdn.myanimelist.net/images/anime/10/72532.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/10/72532t.jpg",
       "synonyms": [
+        "Nyuru Nyuru!! KAKUSEN-kun 2",
         "Nyuru Nyuru!! Kakusen-kun 2",
         "Nyuru Nyuru!! Kakusen-kun 2-ki",
         "にゅるにゅる!!KAKUSENくん2期",
@@ -633,7 +668,6 @@
         "にゅるにゅる！！Kakusenくん2期"
       ],
       "relations": [
-        "https://anidb.net/anime/5494",
         "https://anidb.net/anime/9943",
         "https://anilist.co/anime/19305",
         "https://anime-planet.com/anime/nyuru-nyuru-kakusen-kun",
@@ -652,9 +686,47 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/planetarium-hana-kappa-hanasake-pakkaan-uchuu-ryokou",
+        "https://myanimelist.net/anime/53979"
+      ],
+      "title": "Planetarium Hanakappa: Hanasake! Pakkaan Uchuu Ryokou",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SUMMER",
+        "year": 2018
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1082/132071.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1082/132071t.jpg",
+      "synonyms": [
+        "Planetarium Hana Kappa: Hanasake! Pakkaan Uchuu Ryokou",
+        "プラネタリウム はなかっぱ　花さけ！パッカ～ん 宇宙旅行"
+      ],
+      "relations": [
+        "https://anime-planet.com/anime/hana-kappa",
+        "https://myanimelist.net/anime/8336"
+      ],
+      "tags": [
+        "comedy",
+        "family friendly",
+        "japanese mythology",
+        "kids",
+        "outer space",
+        "sci-fi",
+        "space",
+        "youkai"
+      ],
+      "id": "https://myanimelist.net/anime/53979"
+    },
+    {
+      "sources": [
+        "https://anidb.net/anime/13977",
         "https://anilist.co/anime/104200",
         "https://anime-planet.com/anime/pop-team-epic-2019",
+        "https://anisearch.com/anime/14316",
         "https://kitsu.io/anime/41257",
+        "https://livechart.me/anime/3520",
         "https://myanimelist.net/anime/37596",
         "https://notify.moe/anime/2ukZAQHiR"
       ],
@@ -671,18 +743,32 @@
       "synonyms": [
         "POP TEAM EPIC TV SPECIAL",
         "Pop Team Epic (2019)",
+        "Pop Team Epic 2",
         "Pop Team Epic TV Special",
+        "Pop and pipi beautiful daily TV special",
+        "Poputepipikku (2019)",
         "Poputepipikku 2",
         "Poputepipikku Special",
+        "pop子和pipi美的日常 TV特番",
+        "pte special",
         "ポプテピピック (2019)",
+        "ポプテピピック 新作TVスペシャル",
+        "ポプテピピック （2019）",
         "ポプテピピックTVスペシャル",
-        "ポプテピピック　ＴＶスペシャル"
+        "ポプテピピック　ＴＶスペシャル",
+        "星色ガールドロップ 2"
       ],
       "relations": [
+        "https://anidb.net/anime/13067",
+        "https://anidb.net/anime/17079",
         "https://anilist.co/anime/98549",
         "https://anime-planet.com/anime/pop-team-epic",
         "https://anime-planet.com/anime/pop-team-epic-2nd-season",
+        "https://anisearch.com/anime/12461",
+        "https://anisearch.com/anime/16962",
         "https://kitsu.io/anime/13319",
+        "https://livechart.me/anime/10970",
+        "https://livechart.me/anime/2656",
         "https://myanimelist.net/anime/35330",
         "https://notify.moe/anime/JyDn2Fmig"
       ],
@@ -697,8 +783,10 @@
         "gag",
         "meta",
         "musical",
+        "nonsense-comedy",
         "parody",
         "satire",
+        "school",
         "seinen",
         "slapstick",
         "super deformed",
@@ -730,11 +818,13 @@
         "Bbororo Hanguk-e Wass-eoyo",
         "Pororo Goes to Korea",
         "Pororo Hangug-e Wass-eoyo",
+        "Ppololoui Hangugdaemoheom",
         "뽀로로 한국에 왔어요",
         "뽀로로가 한국에 왔어요"
       ],
       "relations": [
         "https://anilist.co/anime/102374",
+        "https://anisearch.com/anime/11364",
         "https://kitsu.io/anime/9544",
         "https://myanimelist.net/anime/27451",
         "https://notify.moe/anime/86jftFmiR"
@@ -754,60 +844,7 @@
     },
     {
       "sources": [
-        "https://myanimelist.net/anime/47346"
-      ],
-      "title": "Rexin Qi Qi",
-      "type": "ONA",
-      "episodes": 23,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "热心奇奇"
-      ],
-      "relations": [],
-      "tags": [
-        "kids"
-      ],
-      "id": "https://myanimelist.net/anime/47346"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/rin-ne-cm"
-      ],
-      "title": "RIN-NE CM",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2009
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/rin-ne-cm-1.jpg?t=1625780866",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/rin-ne-cm-1-190x266.jpg?t=1625897583",
-      "synonyms": [
-        "Kyoukai no Rinne CM"
-      ],
-      "relations": [
-        "https://anime-planet.com/anime/rin-ne"
-      ],
-      "tags": [
-        "based on a manga",
-        "japanese mythology",
-        "promotional",
-        "reincarnation",
-        "shinigami",
-        "shounen",
-        "supernatural"
-      ],
-      "id": "https://anime-planet.com/anime/rin-ne-cm"
-    },
-    {
-      "sources": [
+        "https://anime-planet.com/anime/shenqi-le-lutu",
         "https://myanimelist.net/anime/47580"
       ],
       "title": "Shenqi Le Lutu",
@@ -816,16 +853,24 @@
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2019
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1377/123202.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1377/123202t.jpg",
       "synonyms": [
         "神奇的旅途"
       ],
       "relations": [],
       "tags": [
-        "adventure"
+        "adventure",
+        "anthropomorphic",
+        "chinese animation",
+        "family friendly",
+        "fantasy",
+        "food protagonists",
+        "kids",
+        "non-human protagonists",
+        "short episodes"
       ],
       "id": "https://myanimelist.net/anime/47580"
     },
@@ -855,12 +900,14 @@
         "big boobs",
         "comedy",
         "defloration",
+        "episodic",
         "flat chested",
-        "hardcore",
         "hentai",
+        "housewife",
         "incest",
         "oral",
         "present",
+        "softcore",
         "urinating"
       ],
       "id": "https://myanimelist.net/anime/32518"
@@ -889,7 +936,8 @@
         "Shōri Tōshu",
         "Victory Pitcher",
         "Winning Pitcher",
-        "勝利投手"
+        "勝利投手",
+        "胜利投手"
       ],
       "relations": [],
       "tags": [
@@ -898,6 +946,7 @@
         "based on a novel",
         "original work",
         "sports",
+        "team sports",
         "tournaments"
       ],
       "id": "https://myanimelist.net/anime/19887"
@@ -928,42 +977,24 @@
     },
     {
       "sources": [
-        "https://livechart.me/anime/2925"
+        "https://anime-planet.com/anime/take-it-easy"
       ],
-      "title": "The iDOLM@STER Side M Special",
-      "type": "SPECIAL",
+      "title": "take it easy",
+      "type": "MOVIE",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "SUMMER",
-        "year": 2018
+        "season": "UNDEFINED",
+        "year": 2013
       },
-      "picture": "https://u.livechart.me/anime/2925/poster_image/afed12bf1eac360c0291f77e90da9b2d.jpg?style=large&format=jpg",
-      "thumbnail": "https://u.livechart.me/anime/2925/poster_image/afed12bf1eac360c0291f77e90da9b2d.jpg?style=small&format=jpg",
-      "synonyms": [
-        "THE iDOLM@STER SideM 315バラエティパック！ Made In Passion！"
-      ],
-      "relations": [
-        "https://livechart.me/anime/1016",
-        "https://livechart.me/anime/1229",
-        "https://livechart.me/anime/1443",
-        "https://livechart.me/anime/170",
-        "https://livechart.me/anime/1935",
-        "https://livechart.me/anime/2373",
-        "https://livechart.me/anime/2673",
-        "https://livechart.me/anime/2786",
-        "https://livechart.me/anime/2836",
-        "https://livechart.me/anime/4369",
-        "https://livechart.me/anime/4914",
-        "https://livechart.me/anime/517",
-        "https://livechart.me/anime/5519",
-        "https://livechart.me/anime/6518",
-        "https://livechart.me/anime/7910"
-      ],
+      "picture": "https://cdn.anime-planet.com/anime/primary/take-it-easy-1.webp?t=1654662517",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/take-it-easy-1-285x399.webp?t=1654662517",
+      "synonyms": [],
+      "relations": [],
       "tags": [
-        "music"
+        "shorts"
       ],
-      "id": "https://livechart.me/anime/2925"
+      "id": "https://anime-planet.com/anime/take-it-easy"
     },
     {
       "sources": [
@@ -1030,22 +1061,34 @@
       ],
       "relations": [
         "https://anidb.net/anime/13034",
+        "https://anilist.co/anime/154386",
         "https://anilist.co/anime/98514",
         "https://anime-planet.com/anime/uma-musume-pretty-derby",
+        "https://anime-planet.com/anime/umayon-shinsaku-short-anime",
+        "https://anisearch.com/anime/12470",
+        "https://anisearch.com/anime/16948",
+        "https://anisearch.com/anime/17388",
         "https://kitsu.io/anime/13485",
         "https://livechart.me/anime/10163",
+        "https://livechart.me/anime/11205",
+        "https://livechart.me/anime/11206",
+        "https://livechart.me/anime/11598",
         "https://livechart.me/anime/2630",
         "https://livechart.me/anime/3272",
         "https://myanimelist.net/anime/35249",
+        "https://myanimelist.net/anime/52751",
         "https://notify.moe/anime/PKq72KmmR"
       ],
       "tags": [
         "animal characteristics",
         "anthropomorphic",
+        "athletics",
         "based on a 4-koma manga",
         "based on a manga",
         "chibi",
         "comedy",
+        "cute girls doing cute things",
+        "detective",
         "ensemble cast",
         "episodic",
         "female protagonist",
@@ -1062,6 +1105,36 @@
         "sports"
       ],
       "id": "https://myanimelist.net/anime/38835"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/wo-cong-zhu-tian-wan-jie-guilai-2nd-season"
+      ],
+      "title": "Wo Cong Zhu Tian Wan Jie Guilai 2nd Season",
+      "type": "ONA",
+      "episodes": 5,
+      "status": "UNKNOWN",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": null
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/wo-cong-zhu-tian-wan-jie-guilai-2nd-season-1.webp?t=1678986209",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/wo-cong-zhu-tian-wan-jie-guilai-2nd-season-1-285x399.webp?t=1678986209",
+      "synonyms": [
+        "I Return from the Heaven and Worlds 2nd Season"
+      ],
+      "relations": [
+        "https://anime-planet.com/anime/wo-cong-zhu-tian-wan-jie-guilai"
+      ],
+      "tags": [
+        "action",
+        "based on a webtoon",
+        "cg animation",
+        "chinese animation",
+        "fantasy",
+        "short episodes"
+      ],
+      "id": "https://anime-planet.com/anime/wo-cong-zhu-tian-wan-jie-guilai-2nd-season"
     },
     {
       "sources": [
@@ -1125,9 +1198,35 @@
     },
     {
       "sources": [
+        "https://myanimelist.net/anime/52849"
+      ],
+      "title": "Yong Chun GalS Pilot",
+      "type": "ONA",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2019
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1711/127229.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1711/127229t.jpg",
+      "synonyms": [
+        "《咏春GalS》先导试映版"
+      ],
+      "relations": [
+        "https://myanimelist.net/anime/47940"
+      ],
+      "tags": [
+        "idols (female)",
+        "music"
+      ],
+      "id": "https://myanimelist.net/anime/52849"
+    },
+    {
+      "sources": [
         "https://myanimelist.net/anime/45098"
       ],
-      "title": "Zhu Dike Zhi Guguai Dao Da Maoxian I",
+      "title": "Zhu Dike: Guguai Dao Da Maoxian I",
       "type": "TV",
       "episodes": 26,
       "status": "FINISHED",
@@ -1135,8 +1234,8 @@
         "season": "UNDEFINED",
         "year": 2016
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1882/128358.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1882/128358t.jpg",
       "synonyms": [
         "猪迪克之古怪岛大冒险I"
       ],
@@ -1146,44 +1245,11 @@
       ],
       "tags": [
         "adventure",
+        "anthropomorphic",
         "fantasy",
         "kids"
       ],
       "id": "https://myanimelist.net/anime/45098"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/13391"
-      ],
-      "title": "Zhu Zhu Xia: Yong Chuang Ju Ren Dao",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2014
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/13/13391.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/13/13391.webp",
-      "synonyms": [
-        "GG Bond 2",
-        "GG Bond and the Beanstalk",
-        "猪猪侠 勇闯巨人岛",
-        "猪猪侠之勇闯巨人岛"
-      ],
-      "relations": [],
-      "tags": [
-        "action",
-        "action comedy",
-        "adventure",
-        "beastmen",
-        "cg-anime",
-        "comedy",
-        "fantasy",
-        "martial arts",
-        "science-fiction"
-      ],
-      "id": "https://anisearch.com/anime/13391"
     }
   ]
 }

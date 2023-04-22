@@ -2,6 +2,36 @@
   "data": [
     {
       "sources": [
+        "https://kitsu.io/anime/46239",
+        "https://myanimelist.net/anime/52067"
+      ],
+      "title": "Aihen Jihen",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SPRING",
+        "year": 2022
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1250/124428.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1250/124428t.jpg",
+      "synonyms": [
+        "合縁事変"
+      ],
+      "relations": [
+        "https://kitsu.io/anime/43740",
+        "https://myanimelist.net/anime/44042"
+      ],
+      "tags": [
+        "idol",
+        "idols (female)",
+        "music",
+        "science fiction"
+      ],
+      "id": "https://myanimelist.net/anime/52067"
+    },
+    {
+      "sources": [
         "https://anidb.net/anime/9259",
         "https://anilist.co/anime/14373",
         "https://anime-planet.com/anime/arata-naru-sekai",
@@ -33,7 +63,8 @@
         "World's End",
         "アラタなるセカイ WORLD'S/START/LOAD/END",
         "アラタなるセカイ WORLD`S/START/LOAD/END",
-        "アラタなるセカイ 未来編"
+        "アラタなるセカイ 未来編",
+        "新世界 未来篇"
       ],
       "relations": [],
       "tags": [
@@ -70,26 +101,31 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/baozou-kongbu-gushi-6th-season",
         "https://myanimelist.net/anime/44556"
       ],
-      "title": "Baozou Kongbu Gushi season6",
+      "title": "Baozou Kongbu Gushi 6th Season",
       "type": "ONA",
       "episodes": 10,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "FALL",
         "year": 2017
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1857/123995.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1857/123995t.jpg",
       "synonyms": [
         "暴走恐怖故事 第六季"
       ],
       "relations": [
+        "https://anime-planet.com/anime/baozou-kongbu-gushi-5th-season",
         "https://myanimelist.net/anime/44555"
       ],
       "tags": [
-        "horror"
+        "chinese animation",
+        "horror",
+        "short episodes",
+        "suspense"
       ],
       "id": "https://myanimelist.net/anime/44556"
     },
@@ -132,6 +168,7 @@
         "https://anilist.co/anime/2824",
         "https://anime-planet.com/anime/barbapapa-1977",
         "https://anime-planet.com/anime/barbapapa-sekai-wo-mawaru",
+        "https://anisearch.com/anime/762",
         "https://anisearch.com/anime/8166",
         "https://kitsu.io/anime/2578",
         "https://kitsu.io/anime/8963",
@@ -150,6 +187,7 @@
         "kodomo",
         "monster",
         "present",
+        "shapeshifting",
         "short episodes",
         "slice of life"
       ],
@@ -157,29 +195,7 @@
     },
     {
       "sources": [
-        "https://myanimelist.net/anime/48214"
-      ],
-      "title": "Beogseubos Igeunisyeon",
-      "type": "TV",
-      "episodes": 52,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "벅스봇 이그니션"
-      ],
-      "relations": [],
-      "tags": [
-        "adventure"
-      ],
-      "id": "https://myanimelist.net/anime/48214"
-    },
-    {
-      "sources": [
+        "https://anilist.co/anime/114755",
         "https://anime-planet.com/anime/boundary-line"
       ],
       "title": "Boundary line",
@@ -193,12 +209,15 @@
       "picture": "https://cdn.anime-planet.com/anime/primary/boundary-line-1.jpg?t=1628017168",
       "thumbnail": "https://cdn.anime-planet.com/anime/primary/boundary-line-1-285x400.jpg?t=1628017168",
       "synonyms": [
-        "Kyoukai-sen"
+        "Kyokai sen",
+        "Kyoukai-sen",
+        "境界線"
       ],
       "relations": [],
       "tags": [
         "abstract",
         "no dialogue",
+        "psychological",
         "shorts"
       ],
       "id": "https://anime-planet.com/anime/boundary-line"
@@ -227,8 +246,37 @@
     },
     {
       "sources": [
+        "https://anisearch.com/anime/15469",
+        "https://myanimelist.net/anime/48214"
+      ],
+      "title": "Bugsbot Ignition",
+      "type": "TV",
+      "episodes": 26,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SUMMER",
+        "year": 2019
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1784/126939.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1784/126939t.jpg",
+      "synonyms": [
+        "Beogseubos Igeunisyeon",
+        "벅스봇 이그니션"
+      ],
+      "relations": [],
+      "tags": [
+        "action",
+        "adventure",
+        "kids",
+        "sci-fi"
+      ],
+      "id": "https://myanimelist.net/anime/48214"
+    },
+    {
+      "sources": [
         "https://anidb.net/anime/5095",
         "https://anilist.co/anime/8501",
+        "https://anime-planet.com/anime/chibikko-kaijuu-yadamon",
         "https://anisearch.com/anime/4192",
         "https://kitsu.io/anime/5363",
         "https://myanimelist.net/anime/8501",
@@ -251,7 +299,6 @@
         "ちびっこ怪獣ヤダモン"
       ],
       "relations": [
-        "https://anidb.net/anime/3337",
         "https://anilist.co/anime/2806",
         "https://kitsu.io/anime/2562",
         "https://myanimelist.net/anime/2806",
@@ -260,8 +307,10 @@
       "tags": [
         "achromatic",
         "adventure",
+        "black and white",
         "comedy",
         "episodic",
+        "family friendly",
         "fantasy",
         "kids",
         "slice of life",
@@ -295,6 +344,7 @@
         "Chōjikū Seiki Orguss",
         "Orguss",
         "Orguss TV",
+        "Statek Kosmiczny Orguss",
         "Super Dimension Century Orguss",
         "Super Dimensional Century Orguss",
         "The Super Dimension Century Orguss",
@@ -307,10 +357,12 @@
         "https://anilist.co/anime/124473",
         "https://anilist.co/anime/2090",
         "https://anime-planet.com/anime/orguss-02",
+        "https://anime-planet.com/anime/super-dimension-century-orguss-memorial-file",
         "https://anisearch.com/anime/2891",
         "https://anisearch.com/anime/9223",
         "https://kitsu.io/anime/11916",
         "https://kitsu.io/anime/1889",
+        "https://livechart.me/anime/7464",
         "https://myanimelist.net/anime/2090",
         "https://myanimelist.net/anime/32218",
         "https://notify.moe/anime/U34epKmiR",
@@ -345,6 +397,7 @@
     {
       "sources": [
         "https://anilist.co/anime/125783",
+        "https://anime-planet.com/anime/code-geass-lelouch-of-the-rebellion-picture-drama-kamen-kokuhaku-taikai",
         "https://myanimelist.net/anime/40836"
       ],
       "title": "Code Geass: Hangyaku no Lelouch Picture Drama - Kamen Kokuhaku Taikai",
@@ -358,17 +411,19 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1041/109950.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1041/109950t.jpg",
       "synonyms": [
-        "Code Geass Hangyaku no Lelouch Picture Drama - Kamen Kokuhaku Taikai",
         "Code Geass: Lelouch of the Rebellion - Masked Confession Competition",
+        "Code Geass: Lelouch of the Rebellion Picture Drama - Kamen Kokuhaku Taikai",
         "コードギアス 反逆のルルーシュ 仮面告白大会 第1週来場者特典 ピクチャードラマ"
       ],
       "relations": [
         "https://anilist.co/anime/101811",
+        "https://anime-planet.com/anime/code-geass-lelouch-of-the-rebellion-i-initiation",
         "https://myanimelist.net/anime/34438"
       ],
       "tags": [
         "comedy",
         "kuudere",
+        "picture drama",
         "school"
       ],
       "id": "https://myanimelist.net/anime/40836"
@@ -385,8 +440,8 @@
         "season": "UNDEFINED",
         "year": 2019
       },
-      "picture": "https://anime-planet.com/images/anime/covers/14481.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/14481.jpg",
+      "picture": "https://cdn.anime-planet.com/anime/primary/daihakken-the-extremist-1.jpg?t=1625908109",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/daihakken-the-extremist-1-190x266.jpg?t=1625908109",
       "synonyms": [],
       "relations": [],
       "tags": [
@@ -396,27 +451,27 @@
     },
     {
       "sources": [
-        "https://anisearch.com/anime/14744"
+        "https://myanimelist.net/anime/52633"
       ],
-      "title": "Donbei × Kemurikusa: Tskumi Soba",
-      "type": "SPECIAL",
+      "title": "Dang Yigeren",
+      "type": "MOVIE",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "WINTER",
-        "year": 2019
+        "season": "FALL",
+        "year": 2018
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/14/14744.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/14/14744.webp",
+      "picture": "https://cdn.myanimelist.net/images/anime/1207/126623.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1207/126623t.jpg",
       "synonyms": [
-        "Donbei x Kemurikusa: Tskumi Soba",
-        "どん兵衛 × ケムリクサ「月見そば」"
+        "Where Am I Going?",
+        "當 一個人"
       ],
       "relations": [],
       "tags": [
-        "cg-anime"
+        "drama"
       ],
-      "id": "https://anisearch.com/anime/14744"
+      "id": "https://myanimelist.net/anime/52633"
     },
     {
       "sources": [
@@ -444,7 +499,8 @@
       "relations": [
         "https://anilist.co/anime/103723",
         "https://anime-planet.com/anime/the-configurators-2",
-        "https://anisearch.com/anime/12060"
+        "https://anisearch.com/anime/12060",
+        "https://myanimelist.net/anime/33792"
       ],
       "tags": [
         "action",
@@ -529,35 +585,7 @@
     },
     {
       "sources": [
-        "https://kitsu.io/anime/12826",
-        "https://notify.moe/anime/-oVW2Kmmg"
-      ],
-      "title": "Kosys! Lite: Tsuyoku Suishou Bansaku no Sunglasses - Password Tsukai-mawashi no Jutsu",
-      "type": "ONA",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SUMMER",
-        "year": 2015
-      },
-      "picture": "https://media.kitsu.io/anime/poster_images/12826/small.jpg",
-      "thumbnail": "https://media.kitsu.io/anime/poster_images/12826/tiny.jpg",
-      "synonyms": [
-        "Koushisu! Lite",
-        "コウシス! LITE 「強く推奨バンサクのサングラス　～パスワード使い回しの術～」"
-      ],
-      "relations": [
-        "https://kitsu.io/anime/8798",
-        "https://notify.moe/anime/7egbtKmmR"
-      ],
-      "tags": [
-        "comedy",
-        "slice of life"
-      ],
-      "id": "https://kitsu.io/anime/12826"
-    },
-    {
-      "sources": [
+        "https://anime-planet.com/anime/koutsuu-anzen-de-gozaru-ninja-hattori-kun",
         "https://myanimelist.net/anime/39370"
       ],
       "title": "Koutsuu Anzen de Gozaru Ninja Hattori-kun",
@@ -575,9 +603,12 @@
         "交通安全でござる忍者ハットリくん"
       ],
       "relations": [
+        "https://anime-planet.com/anime/ninja-hattori-kun",
         "https://myanimelist.net/anime/4936"
       ],
       "tags": [
+        "educational",
+        "family friendly",
         "kids",
         "martial arts"
       ],
@@ -587,7 +618,7 @@
       "sources": [
         "https://myanimelist.net/anime/47692"
       ],
-      "title": "Ku Jie De Kexue Zhi Lu Senlin Tanxian",
+      "title": "Ku Jie de Kexue Zhi Lu: Senlin Tanxian",
       "type": "TV",
       "episodes": 16,
       "status": "FINISHED",
@@ -595,14 +626,14 @@
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1610/130679.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1610/130679t.jpg",
       "synonyms": [
-        "酷杰的科学之旅森林探险"
+        "酷杰的科学之旅-森林探险"
       ],
       "relations": [],
       "tags": [
-        "adventure"
+        "kids"
       ],
       "id": "https://myanimelist.net/anime/47692"
     },
@@ -674,8 +705,35 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/lucidalabrador-softly"
+      ],
+      "title": "Lucidalabrador: Softly",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2013
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/lucidalabrador-softly-1.webp?t=1652848663",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/lucidalabrador-softly-1-285x399.webp?t=1652848663",
+      "synonyms": [],
+      "relations": [],
+      "tags": [
+        "abstract",
+        "black and white"
+      ],
+      "id": "https://anime-planet.com/anime/lucidalabrador-softly"
+    },
+    {
+      "sources": [
+        "https://anidb.net/anime/2137",
         "https://anilist.co/anime/1423",
-        "https://myanimelist.net/anime/1423"
+        "https://anime-planet.com/anime/lupin-the-3rd-special-3-napoleons-dictionary",
+        "https://anisearch.com/anime/811",
+        "https://kitsu.io/anime/1276",
+        "https://myanimelist.net/anime/1423",
+        "https://notify.moe/anime/f8ma5FiiR"
       ],
       "title": "Lupin III: Napoleon no Jisho wo Ubae",
       "type": "SPECIAL",
@@ -689,27 +747,110 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/13/61695t.jpg",
       "synonyms": [
         "Edgar de la Cambriole : Le Dictionnaire de Napoléon",
+        "Edgar de la cambriole - Le dictionnaire de Napoléon",
+        "L`impero dei Lupine",
+        "Lupin III - Il tesoro degli avi",
+        "Lupin III - Le dictionnaire de Napoléon",
+        "Lupin III - Ruba il dizionario di Napoleone!",
+        "Lupin III Special 3: Napoleon no Jisho wo Ubae",
+        "Lupin III Special 3: Napoleon's Dictionary",
         "Lupin III: Le Dictionnaire de Napoléon",
+        "Lupin III: Napoleon",
         "Lupin III: Napoleon's Dictionary",
+        "Lupin III: Napoleon`s Dictionary",
+        "Lupin III: Napoleon’s Dictionary",
+        "Lupin III: Ruba il dizionario di Napoleone!",
         "Lupin III: Steal Napoleon's Dictionary",
+        "Lupin Sansei Special 03",
+        "Lupin Sansei: Napoleon no Jisho o Ubae",
+        "Lupin Sansei: Napoleon no Jisho wo Ubae",
         "Lupin the 3rd: Napoleon's Dictionary",
+        "Lupin the 3rd: Napoleon’s Dictionary",
+        "Lupin the Third: Napoleon",
         "Rupan Sansei: Napoleon no Jisho wo Ubae",
-        "ルパン三世『ナポレオンの辞書を奪え』"
+        "ルパン三世 ナポレオンの辞書を奪え",
+        "ルパン三世『ナポレオンの辞書を奪え』",
+        "鲁邦三世：拿破仑词典争夺战"
       ],
       "relations": [
+        "https://anidb.net/anime/1485",
         "https://anilist.co/anime/1412",
-        "https://myanimelist.net/anime/1412"
+        "https://anime-planet.com/anime/lupin-iii-special-19-the-elusiveness-of-the-fog",
+        "https://anime-planet.com/anime/lupin-the-3rd",
+        "https://anime-planet.com/anime/lupin-the-3rd-dead-or-alive",
+        "https://anime-planet.com/anime/lupin-the-3rd-dragon-of-doom",
+        "https://anime-planet.com/anime/lupin-the-3rd-farewall-to-nostradamus",
+        "https://anime-planet.com/anime/lupin-the-3rd-goemons-blood-spray",
+        "https://anime-planet.com/anime/lupin-the-3rd-green-vs-red",
+        "https://anime-planet.com/anime/lupin-the-3rd-jigens-gravestone",
+        "https://anime-planet.com/anime/lupin-the-3rd-legend-of-the-gold-of-babylon",
+        "https://anime-planet.com/anime/lupin-the-3rd-lupin-family-all-stars",
+        "https://anime-planet.com/anime/lupin-the-3rd-part-2",
+        "https://anime-planet.com/anime/lupin-the-3rd-part-3",
+        "https://anime-planet.com/anime/lupin-the-3rd-part-4",
+        "https://anime-planet.com/anime/lupin-the-3rd-pilot-film",
+        "https://anime-planet.com/anime/lupin-the-3rd-return-of-pycal",
+        "https://anime-planet.com/anime/lupin-the-3rd-secret-files",
+        "https://anime-planet.com/anime/lupin-the-3rd-special-1-bye-bye-lady-liberty",
+        "https://anime-planet.com/anime/lupin-the-3rd-special-11-the-columbus-files",
+        "https://anime-planet.com/anime/lupin-the-3rd-special-12-missed-by-a-dollar",
+        "https://anime-planet.com/anime/lupin-the-3rd-special-13-alcatraz-connection",
+        "https://anime-planet.com/anime/lupin-the-3rd-special-14-episode-0-first-contact",
+        "https://anime-planet.com/anime/lupin-the-3rd-special-15-operation-return-the-treasures",
+        "https://anime-planet.com/anime/lupin-the-3rd-special-16-stolen-lupin",
+        "https://anime-planet.com/anime/lupin-the-3rd-special-17-angel-tactics",
+        "https://anime-planet.com/anime/lupin-the-3rd-special-18-seven-days-rhapsody",
+        "https://anime-planet.com/anime/lupin-the-3rd-special-2-the-hemingway-papers",
+        "https://anime-planet.com/anime/lupin-the-3rd-special-20-sweet-lost-night",
+        "https://anime-planet.com/anime/lupin-the-3rd-special-21-lupin-the-third-vs-detective-conan",
+        "https://anime-planet.com/anime/lupin-the-3rd-special-22-the-last-job",
+        "https://anime-planet.com/anime/lupin-the-3rd-special-23-blood-seal-of-the-eternal-mermaid",
+        "https://anime-planet.com/anime/lupin-the-3rd-special-24-touhou-kenbunroku-another-page",
+        "https://anime-planet.com/anime/lupin-the-3rd-special-25-princess-of-the-breeze-kakusareta-kuuchuu-toshi",
+        "https://anime-planet.com/anime/lupin-the-3rd-special-26-italian-game",
+        "https://anime-planet.com/anime/lupin-the-3rd-special-27-goodbye-partner",
+        "https://anime-planet.com/anime/lupin-the-3rd-special-4-from-siberia-with-love",
+        "https://anime-planet.com/anime/lupin-the-3rd-special-5-voyage-to-danger",
+        "https://anime-planet.com/anime/lupin-the-3rd-special-8-secret-of-the-twilight-gemini",
+        "https://anime-planet.com/anime/lupin-the-3rd-special-9-island-of-assassins",
+        "https://anime-planet.com/anime/lupin-the-3rd-speical-10-crisis-in-tokyo",
+        "https://anime-planet.com/anime/lupin-the-3rd-the-castle-of-cagliostro",
+        "https://anime-planet.com/anime/lupin-the-3rd-the-first",
+        "https://anime-planet.com/anime/lupin-the-3rd-the-fuma-conspiracy",
+        "https://anime-planet.com/anime/lupin-the-3rd-the-mystery-of-mamo",
+        "https://anime-planet.com/anime/lupin-the-3rd-the-woman-called-fujiko-mine",
+        "https://anime-planet.com/anime/lupin-the-pursuit-of-harimaos-treasure",
+        "https://anime-planet.com/anime/lupin-viii-arsene-and-cie",
+        "https://anime-planet.com/anime/monkey-majik-lupin-the-third",
+        "https://anisearch.com/anime/1138",
+        "https://kitsu.io/anime/1265",
+        "https://myanimelist.net/anime/1412",
+        "https://notify.moe/anime/Dnk-5Fmmg"
       ],
       "tags": [
         "action",
+        "adult cast",
         "adventure",
+        "anti-hero",
+        "based on a manga",
         "comedy",
+        "crime",
+        "criminals",
+        "detective",
+        "foreign",
         "fugitive",
+        "guns",
         "male protagonist",
+        "manga",
         "mystery",
+        "present",
         "primarily adult cast",
+        "samurai",
         "seinen",
-        "shounen"
+        "shounen",
+        "supernatural drama",
+        "thievery",
+        "thieves"
       ],
       "id": "https://myanimelist.net/anime/1423"
     },
@@ -742,6 +883,7 @@
         "https://anidb.net/anime/9925",
         "https://anilist.co/anime/20447",
         "https://anime-planet.com/anime/noragami",
+        "https://anisearch.com/anime/9049",
         "https://myanimelist.net/anime/20507"
       ],
       "tags": [
@@ -778,8 +920,8 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/11/60167t.jpg",
       "synonyms": [
         "Osaru no Tairyō",
-        "The Monkey's Big Catch",
         "The Monkey`s Big Catch",
+        "The Monkey’s Big Catch",
         "お猿の大漁"
       ],
       "relations": [
@@ -787,12 +929,18 @@
       ],
       "tags": [
         "achromatic",
+        "action",
+        "action comedy",
         "animal protagonists",
         "animals",
+        "beastmen",
+        "black and white",
+        "comedy",
         "family friendly",
         "no dialogue",
         "non-human protagonists",
         "shorts",
+        "slapstick",
         "slice of life"
       ],
       "id": "https://myanimelist.net/anime/23267"
@@ -826,7 +974,6 @@
         "https://anime-planet.com/anime/pittanko-nekozakana-2",
         "https://anime-planet.com/anime/pittanko-taiyou-sensei-to-pittanko",
         "https://anisearch.com/anime/12961",
-        "https://anisearch.com/anime/15419",
         "https://myanimelist.net/anime/40089"
       ],
       "tags": [
@@ -842,24 +989,38 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/pocari-sweat-sweat-for-dream"
+        "https://anilist.co/anime/139182",
+        "https://anime-planet.com/anime/pocari-sweat-sweat-for-dream",
+        "https://anisearch.com/anime/14709",
+        "https://kitsu.io/anime/43591",
+        "https://kitsu.io/anime/46968"
       ],
       "title": "Pocari Sweat: SWEAT FOR DREAM!",
       "type": "ONA",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "FALL",
         "year": 2020
       },
       "picture": "https://cdn.anime-planet.com/anime/primary/pocari-sweat-sweat-for-dream-1.webp?t=1642642836",
       "thumbnail": "https://cdn.anime-planet.com/anime/primary/pocari-sweat-sweat-for-dream-1-285x399.webp?t=1642642836",
-      "synonyms": [],
+      "synonyms": [
+        "Bintang SMA 2020",
+        "POCARI SWEAT CM: SWEAT FOR DREAM!",
+        "Pocari Sweat: Bintang SMA",
+        "アニメーションCM SWEAT FOR DREAM!"
+      ],
       "relations": [],
       "tags": [
+        "advertisement",
+        "anime influenced",
         "commercials",
         "music",
+        "present",
         "promotional",
+        "romance",
+        "slice of life",
         "sports"
       ],
       "id": "https://anime-planet.com/anime/pocari-sweat-sweat-for-dream"
@@ -874,18 +1035,54 @@
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2012
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1064/130267.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1064/130267t.jpg",
       "synonyms": [
         "少年华佗"
       ],
       "relations": [],
       "tags": [
-        "historical"
+        "kids"
       ],
       "id": "https://myanimelist.net/anime/46528"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/140955",
+        "https://anime-planet.com/anime/shi-wangzhe-a",
+        "https://anisearch.com/anime/17225",
+        "https://myanimelist.net/anime/51405"
+      ],
+      "title": "Shi Wangzhe A?",
+      "type": "ONA",
+      "episodes": 14,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2022
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1426/121835.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1426/121835t.jpg",
+      "synonyms": [
+        "Shi Wang Zhe A?",
+        "Wang Zhe Rongyao Richang Pan",
+        "是王者啊?",
+        "是王者啊？",
+        "王者荣耀日常番"
+      ],
+      "relations": [
+        "https://anilist.co/anime/122519",
+        "https://anilist.co/anime/156623"
+      ],
+      "tags": [
+        "chinese animation",
+        "comedy",
+        "fantasy",
+        "short episodes"
+      ],
+      "id": "https://myanimelist.net/anime/51405"
     },
     {
       "sources": [
@@ -899,12 +1096,14 @@
         "season": "SUMMER",
         "year": 2015
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/10/10930.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/10/10930.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/10/10930_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/10/10930.webp",
       "synonyms": [
         "Comet Lucifer Music Video: Story of Lucifer"
       ],
-      "relations": [],
+      "relations": [
+        "https://anisearch.com/anime/10594"
+      ],
       "tags": [
         "alternative world",
         "fantasy",
@@ -914,10 +1113,37 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/typhoon-no-14",
+        "https://myanimelist.net/anime/54108"
+      ],
+      "title": "Taifuu 14-gou",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2018
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1912/132429.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1912/132429t.jpg",
+      "synonyms": [
+        "Typhoon No. 14",
+        "たいふう14号"
+      ],
+      "relations": [],
+      "tags": [
+        "shorts",
+        "slice of life"
+      ],
+      "id": "https://myanimelist.net/anime/54108"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/139106",
         "https://anime-planet.com/anime/the-irregular-at-magic-high-school-10th-anniversary-pv"
       ],
       "title": "The Irregular at Magic High School 10th Anniversary PV",
-      "type": "SPECIAL",
+      "type": "ONA",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
@@ -927,7 +1153,9 @@
       "picture": "https://cdn.anime-planet.com/anime/primary/the-irregular-at-magic-high-school-10th-anniversary-pv-1.webp?t=1634573733",
       "thumbnail": "https://cdn.anime-planet.com/anime/primary/the-irregular-at-magic-high-school-10th-anniversary-pv-1-285x399.webp?t=1634573733",
       "synonyms": [
-        "Mahouka Koukou no Rettousei 10th Anniversary PV"
+        "Mahouka Koukou no Rettousei 10th Anniversary PV",
+        "Mahouka Koukou no Rettousei: 10th Shuunen Kinen PV",
+        "魔法科高校の劣等生 10周年記念 PV"
       ],
       "relations": [
         "https://anime-planet.com/anime/the-irregular-at-magic-high-school",
@@ -937,12 +1165,16 @@
       ],
       "tags": [
         "action",
+        "advertisement",
         "based on a light novel",
         "brother complex",
         "magic",
         "magic school",
         "promotional",
+        "romance",
+        "school",
         "sci fi",
+        "sci-fi",
         "siblings"
       ],
       "id": "https://anime-planet.com/anime/the-irregular-at-magic-high-school-10th-anniversary-pv"
@@ -960,7 +1192,7 @@
       ],
       "title": "Uchuu Nanchara Kotetsu-kun",
       "type": "TV",
-      "episodes": 30,
+      "episodes": 64,
       "status": "ONGOING",
       "animeSeason": {
         "season": "SPRING",
@@ -974,13 +1206,18 @@
         "宇宙なんちゃら こてつくん",
         "宇宙なんちゃらこてつくん"
       ],
-      "relations": [],
+      "relations": [
+        "https://anime-planet.com/anime/uchuu-nanchara-kotetsu-kun-planetarium",
+        "https://myanimelist.net/anime/54091"
+      ],
       "tags": [
         "animal protagonists",
+        "animals",
         "astronauts",
         "based on a manga",
         "comedy",
         "non-human protagonists",
+        "sci-fi",
         "short episodes",
         "space"
       ],
@@ -988,36 +1225,9 @@
     },
     {
       "sources": [
-        "https://anisearch.com/anime/3852"
-      ],
-      "title": "Uda Uda Yatteru Hima wa Nee!",
-      "type": "OVA",
-      "episodes": 2,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 1995
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/3/3852.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/3/3852.webp",
-      "synonyms": [
-        "Uda Uda Yatteru Hima wa Nē!",
-        "ウダウダやってるヒマはねェ！"
-      ],
-      "relations": [],
-      "tags": [
-        "action",
-        "action comedy",
-        "comedy",
-        "drama",
-        "present",
-        "school"
-      ],
-      "id": "https://anisearch.com/anime/3852"
-    },
-    {
-      "sources": [
         "https://anidb.net/anime/9364",
+        "https://anime-planet.com/anime/watashi-tachi-no-kurashi-to-doboku-series",
+        "https://anisearch.com/anime/8244",
         "https://kitsu.io/anime/9693",
         "https://myanimelist.net/anime/22279",
         "https://notify.moe/anime/GS0LtFimR"
@@ -1035,40 +1245,20 @@
       "synonyms": [
         "Civil Engineering and Our Lives",
         "Watashi-tachi no Kurashi to Doboku Series",
+        "Watashitachi no Kurashi to Doboku Series",
         "私たちの暮らしと土木",
         "私たちの暮らしと土木シリーズ"
       ],
       "relations": [],
       "tags": [
+        "educational",
+        "family friendly",
         "historical",
         "japan",
         "kids",
         "samurai"
       ],
       "id": "https://myanimelist.net/anime/22279"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/yuren-mai-xie"
-      ],
-      "title": "Yuren Mai Xie",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 1979
-      },
-      "picture": "https://anime-planet.com/images/anime/covers/18132.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/18132.jpg",
-      "synonyms": [],
-      "relations": [],
-      "tags": [
-        "chinese animation",
-        "shorts",
-        "stop motion animation"
-      ],
-      "id": "https://anime-planet.com/anime/yuren-mai-xie"
     }
   ]
 }

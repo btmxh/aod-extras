@@ -25,29 +25,28 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/107178",
-        "https://anime-planet.com/anime/al-dente-tango",
-        "https://kitsu.io/anime/45123"
+        "https://anime-planet.com/anime/alchemy-stars-1st-anniversary-pv"
       ],
-      "title": "Al Dente Tango",
-      "type": "MOVIE",
+      "title": "Alchemy Stars 1st Anniversary PV",
+      "type": "ONA",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "WINTER",
-        "year": 2011
+        "season": "UNDEFINED",
+        "year": 2022
       },
-      "picture": "https://anime-planet.com/images/anime/covers/16859.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/16859.jpg",
+      "picture": "https://cdn.anime-planet.com/anime/primary/alchemy-stars-1st-anniversary-pv-1.webp?t=1663211081",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/alchemy-stars-1st-anniversary-pv-1-285x399.webp?t=1663211081",
       "synonyms": [],
-      "relations": [],
-      "tags": [
-        "abstract",
-        "comedy",
-        "music",
-        "shorts"
+      "relations": [
+        "https://anime-planet.com/anime/alchemy-stars-op",
+        "https://anime-planet.com/anime/alchemy-stars-special-1-5-year-anniversary-animation-pv"
       ],
-      "id": "https://anime-planet.com/anime/al-dente-tango"
+      "tags": [
+        "based on a mobile game",
+        "promotional"
+      ],
+      "id": "https://anime-planet.com/anime/alchemy-stars-1st-anniversary-pv"
     },
     {
       "sources": [
@@ -111,11 +110,12 @@
         "female harem",
         "guns",
         "harem",
+        "heterosexual",
         "humanoid alien",
         "japan",
         "juujin",
         "kemonomimi",
-        "large breasts - deprecated",
+        "large breasts",
         "nekomimi",
         "non-human protagonists",
         "novel",
@@ -169,6 +169,7 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/boku-no-lyric-no-bouyomi-botsuraku",
         "https://myanimelist.net/anime/38812"
       ],
       "title": "Botsuraku",
@@ -183,6 +184,7 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1301/106687t.jpg",
       "synonyms": [
         "Boku no Lyric no Bouyomi",
+        "Boku no Lyric no Bouyomi: Botsuraku",
         "Boku no Lyric no Boyomi",
         "没落"
       ],
@@ -191,12 +193,35 @@
         "https://myanimelist.net/anime/38997"
       ],
       "tags": [
+        "monsters",
         "music"
       ],
       "id": "https://myanimelist.net/anime/38812"
     },
     {
       "sources": [
+        "https://myanimelist.net/anime/53523"
+      ],
+      "title": "Brand New Day",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2001
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1725/130482.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1725/130482t.jpg",
+      "synonyms": [],
+      "relations": [],
+      "tags": [
+        "music"
+      ],
+      "id": "https://myanimelist.net/anime/53523"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/condom-battler-goro-revive",
         "https://kitsu.io/anime/45721",
         "https://myanimelist.net/anime/50503"
       ],
@@ -211,15 +236,22 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1020/119842.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1020/119842t.jpg",
       "synonyms": [
+        "Condom Battler Goro: Revive",
         "コンドームバトラー ゴロー Revive"
       ],
       "relations": [
+        "https://anime-planet.com/anime/condom-battler-goro",
         "https://kitsu.io/anime/43337",
         "https://myanimelist.net/anime/42220"
       ],
       "tags": [
         "action",
-        "parody"
+        "comedy",
+        "crude",
+        "original work",
+        "parody",
+        "promotional",
+        "short episodes"
       ],
       "id": "https://myanimelist.net/anime/50503"
     },
@@ -247,28 +279,33 @@
     {
       "sources": [
         "https://anilist.co/anime/101184",
+        "https://anisearch.com/anime/13748",
         "https://kitsu.io/anime/13874",
         "https://myanimelist.net/anime/36064",
         "https://notify.moe/anime/bZBIhKmmg"
       ],
       "title": "Fate/Grand Order",
       "type": "SPECIAL",
-      "episodes": 0,
+      "episodes": 65,
       "status": "ONGOING",
       "animeSeason": {
         "season": "FALL",
         "year": 2014
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/1405/107244.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1405/107244t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1554/110198.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1554/110198t.jpg",
       "synonyms": [
-        "Fate/Grand Order CMs"
+        "Fate/Grand Order CMs",
+        "Fate/Grand Order TV Commercials",
+        "Fate/Grand Order TV-CM"
       ],
       "relations": [
         "https://anilist.co/anime/127149",
         "https://anilist.co/anime/131867",
         "https://anilist.co/anime/132424",
         "https://anilist.co/anime/97815",
+        "https://anisearch.com/anime/11903",
+        "https://anisearch.com/anime/14075",
         "https://kitsu.io/anime/44280",
         "https://myanimelist.net/anime/34321",
         "https://myanimelist.net/anime/38084",
@@ -277,7 +314,7 @@
       ],
       "tags": [
         "action",
-        "advertisement",
+        "aliens",
         "alternate universe",
         "artificial intelligence",
         "assassins",
@@ -287,12 +324,15 @@
         "ensemble cast",
         "fantasy",
         "female protagonist",
+        "foreign",
         "gods",
         "idol",
+        "magic",
         "male protagonist",
         "pirates",
         "samurai",
         "swordplay",
+        "swords & co",
         "time manipulation",
         "virtual world"
       ],
@@ -315,8 +355,8 @@
         "season": "SUMMER",
         "year": 2006
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/6/8415.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/6/8415t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1766/126460.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1766/126460t.jpg",
       "synonyms": [
         "Boy's Love Scramble Specials",
         "Gakuen Heaven: Ham Ham Heaven",
@@ -375,54 +415,6 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/hachioji-p-desktop-cinderella"
-      ],
-      "title": "Hachioji-P: Desktop Cinderella",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2015
-      },
-      "picture": "https://www.anime-planet.com/images/anime/screenshots/hachioji-p-desktop-cinderella-14307-1.jpg",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/hachioji-p-desktop-cinderella-1-190x266.jpg?t=1625908021",
-      "synonyms": [],
-      "relations": [],
-      "tags": [
-        "cg animation",
-        "vocaloid"
-      ],
-      "id": "https://anime-planet.com/anime/hachioji-p-desktop-cinderella"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/harumaki-gohan-himitsu"
-      ],
-      "title": "Harumaki Gohan: Himitsu",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2020
-      },
-      "picture": "https://anime-planet.com/images/anime/covers/15073.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/15073.jpg",
-      "synonyms": [
-        "Harumaki Gohan: Secret"
-      ],
-      "relations": [
-        "https://anime-planet.com/anime/harumaki-gohan-himitsu-vocal-ver"
-      ],
-      "tags": [
-        "fantasy",
-        "vocaloid"
-      ],
-      "id": "https://anime-planet.com/anime/harumaki-gohan-himitsu"
-    },
-    {
-      "sources": [
         "https://anilist.co/anime/15895",
         "https://anime-planet.com/anime/hiyokoi-2012",
         "https://anisearch.com/anime/8598",
@@ -432,7 +424,7 @@
         "https://notify.moe/anime/LrSFpKmmR"
       ],
       "title": "Hiyokoi (2012)",
-      "type": "ONA",
+      "type": "SPECIAL",
       "episodes": 3,
       "status": "FINISHED",
       "animeSeason": {
@@ -452,6 +444,7 @@
       "relations": [
         "https://anilist.co/anime/8768",
         "https://anime-planet.com/anime/hiyokoi",
+        "https://anisearch.com/anime/6542",
         "https://kitsu.io/anime/5486",
         "https://myanimelist.net/anime/8768",
         "https://notify.moe/anime/T3gWpKimg"
@@ -459,8 +452,11 @@
       "tags": [
         "based on a manga",
         "comedy",
+        "female protagonist",
         "heroine of weak character",
+        "heterosexual",
         "present",
+        "primarily teen cast",
         "romance",
         "romantic comedy",
         "school",
@@ -504,6 +500,7 @@
         "https://anidb.net/anime/7313",
         "https://anilist.co/anime/3973",
         "https://anime-planet.com/anime/ikuze-gen-san",
+        "https://anisearch.com/anime/4734",
         "https://kitsu.io/anime/3388",
         "https://myanimelist.net/anime/3973",
         "https://notify.moe/anime/ZQ3lcKiiR"
@@ -533,6 +530,35 @@
         "slapstick"
       ],
       "id": "https://myanimelist.net/anime/3973"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/143386",
+        "https://anisearch.com/anime/12982",
+        "https://kitsu.io/anime/45726"
+      ],
+      "title": "INORI",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2014
+      },
+      "picture": "https://media.kitsu.io/anime/45726/poster_image/small-5449124ed61cb33043aa8a4e2a4541d9.jpeg",
+      "thumbnail": "https://media.kitsu.io/anime/45726/poster_image/tiny-4e3164c5671b552389376e44ff321ec8.jpeg",
+      "synonyms": [
+        "Inori",
+        "祈り",
+        "祈り-INORI-"
+      ],
+      "relations": [],
+      "tags": [
+        "comedy",
+        "music",
+        "slice of life"
+      ],
+      "id": "https://kitsu.io/anime/45726"
     },
     {
       "sources": [
@@ -728,6 +754,7 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1633/111518.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1633/111518t.jpg",
       "synonyms": [
+        "Machima",
         "Street Corner Demon",
         "The Demon Girl Next Door",
         "まちカドまぞく",
@@ -740,10 +767,13 @@
         "https://anilist.co/anime/123330",
         "https://anime-planet.com/anime/the-demon-girl-next-door-2",
         "https://anime-planet.com/anime/the-demon-girl-next-door-mini",
+        "https://anisearch.com/anime/15477",
         "https://anisearch.com/anime/15499",
         "https://kitsu.io/anime/43547",
         "https://kitsu.io/anime/44331",
         "https://livechart.me/anime/10127",
+        "https://livechart.me/anime/11146",
+        "https://livechart.me/anime/11147",
         "https://myanimelist.net/anime/40755",
         "https://myanimelist.net/anime/40756",
         "https://myanimelist.net/anime/42745",
@@ -754,6 +784,7 @@
         "4-koma manga",
         "based on a 4-koma manga",
         "based on a manga",
+        "cgdct",
         "comedy",
         "coming of age",
         "contemporary fantasy",
@@ -761,57 +792,36 @@
         "daily life",
         "demon",
         "demons",
+        "family life",
         "fantasy",
         "female protagonist",
         "food",
         "henshin",
-        "henshin heroes",
+        "kuudere",
         "magic",
         "magical girl",
         "mahou shoujo",
         "manga",
         "meta",
         "moe",
+        "monster girl",
         "parody",
         "present",
         "primarily female cast",
+        "primarily teen cast",
         "school",
         "school life",
         "seinen",
         "slapstick",
         "slice of life",
         "super power",
+        "surreal comedy",
+        "tsundere",
         "urban",
         "urban fantasy",
         "verbal comedy"
       ],
       "id": "https://myanimelist.net/anime/39071"
-    },
-    {
-      "sources": [
-        "https://anilist.co/anime/139106"
-      ],
-      "title": "Mahouka Koukou no Rettousei: 10th Shuunen Kinen PV",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2021
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139106-aCQ7hCKRP8UB.png",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139106-aCQ7hCKRP8UB.png",
-      "synonyms": [
-        "The Irregular at Magic High School 10th Anniversary PV",
-        "魔法科高校の劣等生 10周年記念 PV"
-      ],
-      "relations": [],
-      "tags": [
-        "action",
-        "romance",
-        "sci-fi"
-      ],
-      "id": "https://anilist.co/anime/139106"
     },
     {
       "sources": [
@@ -826,7 +836,7 @@
         "season": "SPRING",
         "year": 2013
       },
-      "picture": "https://cdn.anime-planet.com/anime/primary/may-1.jpg?t=1625783251",
+      "picture": "https://cdn.anime-planet.com/anime/primary/may-1.jpg?t=1625898199",
       "thumbnail": "https://cdn.anime-planet.com/anime/primary/may-1-190x266.jpg?t=1625898199",
       "synonyms": [],
       "relations": [],
@@ -888,6 +898,38 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/minna-no-douyou-shabondama-oyako-de-utau-uta",
+        "https://myanimelist.net/anime/51158"
+      ],
+      "title": "Minna no Douyou: Shabondama - Oyako de Utau Uta",
+      "type": "SPECIAL",
+      "episodes": 15,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SUMMER",
+        "year": 2015
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1867/121213.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1867/121213t.jpg",
+      "synonyms": [
+        "みんなのどうよう しゃぼん玉 〜親子でうたううた〜"
+      ],
+      "relations": [
+        "https://anime-planet.com/anime/minna-no-douyou-warera-wa-umi-no-ko-minna-de-utau-uta",
+        "https://anime-planet.com/anime/minna-no-douyou-yuuyake-koyake-utaitsugitai-uta",
+        "https://myanimelist.net/anime/51159",
+        "https://myanimelist.net/anime/51160"
+      ],
+      "tags": [
+        "family friendly",
+        "kids",
+        "music",
+        "short episodes"
+      ],
+      "id": "https://myanimelist.net/anime/51158"
+    },
+    {
+      "sources": [
         "https://anime-planet.com/anime/mole-zhuang-yuan-2nd-season",
         "https://myanimelist.net/anime/44163"
       ],
@@ -930,8 +972,8 @@
         "season": "UNDEFINED",
         "year": 2001
       },
-      "picture": "https://anime-planet.com/images/anime/covers/16235.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/16235.jpg",
+      "picture": "https://cdn.anime-planet.com/anime/primary/monarch-1.jpg?t=1625908771",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/monarch-1-190x266.jpg?t=1625908771",
       "synonyms": [],
       "relations": [],
       "tags": [
@@ -971,31 +1013,6 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/121881"
-      ],
-      "title": "Ningen no Uta Part 2",
-      "type": "OVA",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 1990
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121881-taMf0iO7BSE1.jpg",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121881-taMf0iO7BSE1.jpg",
-      "synonyms": [
-        "きずな　～にんげんの詩パート２～"
-      ],
-      "relations": [
-        "https://anilist.co/anime/121880"
-      ],
-      "tags": [
-        "drama"
-      ],
-      "id": "https://anilist.co/anime/121881"
-    },
-    {
-      "sources": [
         "https://anisearch.com/anime/15149"
       ],
       "title": "One Piece: Mugiwara no Ichimi – Minna e “Tearai, Suimin o!” Kodomo-tachi Ouen SP",
@@ -1006,8 +1023,8 @@
         "season": "WINTER",
         "year": 2020
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/15/15149.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/15/15149.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/15/15149_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/15/15149.webp",
       "synonyms": [
         "ONE PIECE 麦わらの一味　みんなへ「手洗い・睡眠を!」子どもたち応援SP",
         "One Piece - The Strawhats for Everyone \"Wash your Hands\" Child Support Special",
@@ -1015,7 +1032,9 @@
         "One Piece PSA",
         "One Piece: Mugiwara no Ichimi – Minna e “Tearai, Suimin o!” Kodomo-tachi Ōen SP"
       ],
-      "relations": [],
+      "relations": [
+        "https://anisearch.com/anime/2227"
+      ],
       "tags": [
         "indefinite"
       ],
@@ -1076,15 +1095,16 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/12/87759t.jpg",
       "synonyms": [
         "Gekijouban Overlord",
-        "Over Lord",
         "Overlord Movie",
+        "Overlord Movie 1",
         "Overlord: Fushisha no Ou",
         "Overlord: The Undead King",
+        "โอเวอร์ ลอร์ด จอมมารพิชิตโลก เดอะ มูฟวี่ The Undead King",
         "【前編】劇場版総集編 オーバーロード 不死者の王",
         "劇場版総集編 オーバーロード 不死者の王"
       ],
       "relations": [
-        "https://anilist.co/anime/107350",
+        "https://anilist.co/anime/101098",
         "https://anilist.co/anime/20832",
         "https://anilist.co/anime/98874",
         "https://anime-planet.com/anime/overlord",
@@ -1098,6 +1118,7 @@
         "https://kitsu.io/anime/9965",
         "https://livechart.me/anime/10571",
         "https://livechart.me/anime/10572",
+        "https://livechart.me/anime/11290",
         "https://livechart.me/anime/1685",
         "https://livechart.me/anime/2202",
         "https://livechart.me/anime/2425",
@@ -1139,6 +1160,7 @@
         "succubus",
         "supernatural",
         "trapped in a video game",
+        "video game",
         "violence",
         "virtual reality",
         "virtual world"
@@ -1147,74 +1169,152 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/saboten-takamizu-haruna-curry-to-ieba"
+        "https://myanimelist.net/anime/53220"
       ],
-      "title": "SABOTEN takamizu haruna: Curry to Ieba",
-      "type": "SPECIAL",
-      "episodes": 1,
+      "title": "Penpe to Pinpi",
+      "type": "ONA",
+      "episodes": 12,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2020
+        "season": "FALL",
+        "year": 2022
       },
-      "picture": "https://cdn.anime-planet.com/anime/primary/saboten-takamizu-haruna-curry-to-ieba-1.webp?t=1629783292",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/saboten-takamizu-haruna-curry-to-ieba-1-285x399.webp?t=1629783292",
-      "synonyms": [],
+      "picture": "https://cdn.myanimelist.net/images/anime/1141/130418.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1141/130418t.jpg",
+      "synonyms": [
+        "ペンぺとピンピ"
+      ],
       "relations": [],
       "tags": [
-        "abstract"
+        "slice of life"
       ],
-      "id": "https://anime-planet.com/anime/saboten-takamizu-haruna-curry-to-ieba"
+      "id": "https://myanimelist.net/anime/53220"
+    },
+    {
+      "sources": [
+        "https://anidb.net/anime/17890",
+        "https://anilist.co/anime/159429",
+        "https://anime-planet.com/anime/precure-all-stars-movie-f",
+        "https://anisearch.com/anime/18342",
+        "https://livechart.me/anime/11830",
+        "https://myanimelist.net/anime/54650"
+      ],
+      "title": "Precure All Stars Movie F",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "UPCOMING",
+      "animeSeason": {
+        "season": "SUMMER",
+        "year": 2023
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1107/133954.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1107/133954t.jpg",
+      "synonyms": [
+        "Eiga Precure All Stars F",
+        "Eiga Precure All Stars: F",
+        "Precure 20th Anniversary Commemoration Movie",
+        "Precure All Stars F",
+        "Pretty Cure All Stars Movie F",
+        "映画プリキュアオールスターズF",
+        "映画プリキュアオールスターズＦ",
+        "映画プリキュアオールスターズＦ(エフ)"
+      ],
+      "relations": [
+        "https://anilist.co/anime/100661",
+        "https://anilist.co/anime/105857",
+        "https://anilist.co/anime/112748",
+        "https://anilist.co/anime/12191",
+        "https://anilist.co/anime/126905",
+        "https://anilist.co/anime/142080",
+        "https://anilist.co/anime/1534",
+        "https://anilist.co/anime/157883",
+        "https://anilist.co/anime/16419",
+        "https://anilist.co/anime/1929",
+        "https://anilist.co/anime/1932",
+        "https://anilist.co/anime/20577",
+        "https://anilist.co/anime/21001",
+        "https://anilist.co/anime/21506",
+        "https://anilist.co/anime/3692",
+        "https://anilist.co/anime/5684",
+        "https://anilist.co/anime/603",
+        "https://anilist.co/anime/7645",
+        "https://anilist.co/anime/98059",
+        "https://anilist.co/anime/9893",
+        "https://anime-planet.com/anime/pretty-cure",
+        "https://anime-planet.com/anime/pretty-cure-miracle-leap-movie-minna-to-fushigi-na-1-nichi",
+        "https://livechart.me/anime/5176",
+        "https://livechart.me/anime/5317",
+        "https://livechart.me/anime/5318",
+        "https://livechart.me/anime/5363",
+        "https://livechart.me/anime/5446",
+        "https://livechart.me/anime/5476",
+        "https://livechart.me/anime/5599",
+        "https://livechart.me/anime/5668",
+        "https://livechart.me/anime/5706",
+        "https://livechart.me/anime/5787",
+        "https://livechart.me/anime/5818",
+        "https://livechart.me/anime/5851",
+        "https://livechart.me/anime/6039",
+        "https://livechart.me/anime/6275",
+        "https://livechart.me/anime/6550",
+        "https://myanimelist.net/anime/12191",
+        "https://myanimelist.net/anime/1534",
+        "https://myanimelist.net/anime/16419",
+        "https://myanimelist.net/anime/1929",
+        "https://myanimelist.net/anime/1932",
+        "https://myanimelist.net/anime/21407",
+        "https://myanimelist.net/anime/28669",
+        "https://myanimelist.net/anime/31884",
+        "https://myanimelist.net/anime/34290",
+        "https://myanimelist.net/anime/3692",
+        "https://myanimelist.net/anime/37501",
+        "https://myanimelist.net/anime/38578",
+        "https://myanimelist.net/anime/44191",
+        "https://myanimelist.net/anime/50281",
+        "https://myanimelist.net/anime/53716",
+        "https://myanimelist.net/anime/5684",
+        "https://myanimelist.net/anime/603",
+        "https://myanimelist.net/anime/7645",
+        "https://myanimelist.net/anime/9893"
+      ],
+      "tags": [
+        "action",
+        "crossover",
+        "fantasy",
+        "henshin",
+        "mahou shoujo",
+        "primarily female cast",
+        "shoujo"
+      ],
+      "id": "https://myanimelist.net/anime/54650"
     },
     {
       "sources": [
         "https://myanimelist.net/anime/45845"
       ],
-      "title": "Shanmao He Ji Mi Zhi Pintu Mima",
+      "title": "Shanmao He Jimi: Pintu Mima",
       "type": "TV",
       "episodes": 52,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2013
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1503/130927.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1503/130927t.jpg",
       "synonyms": [
+        "Puzzle Code of Shanmao and Jimi",
         "山猫和吉咪之拼图密码"
       ],
       "relations": [
         "https://myanimelist.net/anime/45835"
       ],
       "tags": [
+        "anthropomorphic",
+        "fantasy",
         "kids"
       ],
       "id": "https://myanimelist.net/anime/45845"
-    },
-    {
-      "sources": [
-        "https://anilist.co/anime/130941"
-      ],
-      "title": "Shao Shuai Mei Tian Dou Zai Chicu",
-      "type": "ONA",
-      "episodes": 30,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2021
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130941-iH78FnXaa8n2.png",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130941-iH78FnXaa8n2.png",
-      "synonyms": [
-        "少帅每天都在吃醋"
-      ],
-      "relations": [],
-      "tags": [
-        "historical",
-        "reincarnation",
-        "romance"
-      ],
-      "id": "https://anilist.co/anime/130941"
     },
     {
       "sources": [
@@ -1238,6 +1338,7 @@
         "そらのいろ、みずのいろ"
       ],
       "relations": [
+        "https://anisearch.com/anime/4424",
         "https://myanimelist.net/anime/5644"
       ],
       "tags": [
@@ -1306,6 +1407,7 @@
       "tags": [
         "anti war",
         "asia",
+        "child protagonists",
         "coming of age",
         "drama",
         "historical",
@@ -1385,10 +1487,7 @@
         "夜勤病棟 Ｋｒａｎｋｅ"
       ],
       "relations": [
-        "https://anisearch.com/anime/11539",
-        "https://anisearch.com/anime/2214",
         "https://anisearch.com/anime/2673",
-        "https://anisearch.com/anime/3151",
         "https://myanimelist.net/anime/1387"
       ],
       "tags": [
@@ -1413,20 +1512,30 @@
     },
     {
       "sources": [
+        "https://anidb.net/anime/16148",
+        "https://anilist.co/anime/119992",
         "https://anime-planet.com/anime/zutomayo-nouriue-no-cracker"
       ],
-      "title": "Zutomayo: Nouriue no Cracker",
+      "title": "ZUTOMAYO: Nouriue no Cracker",
       "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "FALL",
         "year": 2018
       },
-      "picture": "https://anime-planet.com/images/anime/covers/16548.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/16548.jpg",
-      "synonyms": [],
-      "relations": [],
+      "picture": "https://cdn.anime-planet.com/anime/primary/zutomayo-nouriue-no-cracker-1.jpg?t=1625908872",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/zutomayo-nouriue-no-cracker-1-190x266.jpg?t=1625908872",
+      "synonyms": [
+        "Nouri Ue no Cracker",
+        "The Cracker on the Back of My Mind",
+        "Zutto Mayonaka de Iinoni.: Nouriue no Cracker",
+        "ずっと真夜中でいいのに。『脳裏上のクラッカー』",
+        "脳裏上のクラッカー"
+      ],
+      "relations": [
+        "https://anilist.co/anime/131755"
+      ],
       "tags": [],
       "id": "https://anime-planet.com/anime/zutomayo-nouriue-no-cracker"
     }

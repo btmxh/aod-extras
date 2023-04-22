@@ -118,6 +118,7 @@
         "https://anidb.net/anime/14065",
         "https://anilist.co/anime/108990",
         "https://anime-planet.com/anime/valley-of-white-birds",
+        "https://anisearch.com/anime/13194",
         "https://kitsu.io/anime/13862",
         "https://myanimelist.net/anime/39760",
         "https://notify.moe/anime/haxI2FiiR"
@@ -133,6 +134,7 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1588/102442.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1588/102442t.jpg",
       "synonyms": [
+        "Bai Diao Gu",
         "Valley of White Birds",
         "白鸟谷"
       ],
@@ -156,6 +158,7 @@
         "https://anidb.net/anime/6640",
         "https://anilist.co/anime/6687",
         "https://anime-planet.com/anime/chinyuuki-tarou-to-yukai-na-nakama-tachi",
+        "https://anisearch.com/anime/5467",
         "https://kitsu.io/anime/4666",
         "https://myanimelist.net/anime/6687",
         "https://notify.moe/anime/9I-e5KimR"
@@ -172,10 +175,15 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/8/15372t.jpg",
       "synonyms": [
         "Chin`yuuki: Tarou to Yukai na Nakama-tachi",
+        "Chinyuuki: Tarou to Yukaina Nakama-tachi",
+        "Chinyūki: Tarō to Yukaina Nakama-tachi",
         "珍遊記 ~太郎とゆかいな仲間たち~",
+        "珍遊記 ～太郎とゆかいな仲間たち～",
         "珍遊記　～太郎とゆかいな仲間たち～"
       ],
-      "relations": [],
+      "relations": [
+        "https://anisearch.com/anime/11555"
+      ],
       "tags": [
         "action",
         "adventure",
@@ -226,6 +234,7 @@
         "cops",
         "crime",
         "cyberpunk",
+        "detective",
         "drama",
         "episodic",
         "future",
@@ -297,6 +306,7 @@
         "manga",
         "martial arts",
         "monster",
+        "mythology",
         "nudity",
         "present",
         "psi-powers",
@@ -328,10 +338,11 @@
         "season": "WINTER",
         "year": 2018
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/1959/91379.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1959/91379t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1046/122722.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1046/122722t.jpg",
       "synonyms": [
         "Devilman: Crybaby - Digest Eizō",
+        "Devilman: Crybaby - Digest Video",
         "Devilman: Crybaby Promo Video",
         "Devilman: Crybaby Recap",
         "「DEVILMAN crybaby」ダイジェスト映像"
@@ -339,15 +350,7 @@
       "relations": [
         "https://anime-planet.com/anime/devilman",
         "https://anime-planet.com/anime/devilman-crybaby",
-        "https://anisearch.com/anime/1208",
         "https://anisearch.com/anime/12366",
-        "https://anisearch.com/anime/1379",
-        "https://anisearch.com/anime/15406",
-        "https://anisearch.com/anime/184",
-        "https://anisearch.com/anime/188",
-        "https://anisearch.com/anime/3255",
-        "https://anisearch.com/anime/820",
-        "https://anisearch.com/anime/941",
         "https://kitsu.io/anime/13230",
         "https://myanimelist.net/anime/35120",
         "https://notify.moe/anime/UGlM2Kiig"
@@ -363,6 +366,7 @@
         "hero of strong character",
         "horror",
         "lifestyle change",
+        "mythology",
         "present",
         "psi-powers",
         "psychological drama",
@@ -376,47 +380,24 @@
     },
     {
       "sources": [
-        "https://myanimelist.net/anime/47316"
-      ],
-      "title": "Gu De Bai Zhi Meng You Jiadao",
-      "type": "TV",
-      "episodes": 80,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "顾得白之萌友驾到"
-      ],
-      "relations": [],
-      "tags": [
-        "kids"
-      ],
-      "id": "https://myanimelist.net/anime/47316"
-    },
-    {
-      "sources": [
         "https://myanimelist.net/anime/47538"
       ],
-      "title": "Haishang Si Lu Zhi Nan Zhubao Bao",
+      "title": "Haishang Si Lu: Nan Zhubao Bao",
       "type": "TV",
-      "episodes": 39,
+      "episodes": 26,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
+        "season": "SPRING",
+        "year": 2017
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1907/129661.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1907/129661t.jpg",
       "synonyms": [
         "海上丝路之南珠宝宝"
       ],
       "relations": [],
       "tags": [
-        "adventure"
+        "kids"
       ],
       "id": "https://myanimelist.net/anime/47538"
     },
@@ -454,31 +435,6 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/huoyan-shan"
-      ],
-      "title": "Huoyan Shan",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 1958
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/huoyan-shan-1.jpg?t=1636479593",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/huoyan-shan-1-285x400.jpg?t=1636479593",
-      "synonyms": [],
-      "relations": [],
-      "tags": [
-        "chinese animation",
-        "fantasy",
-        "journey to the west",
-        "shorts",
-        "stop motion animation"
-      ],
-      "id": "https://anime-planet.com/anime/huoyan-shan"
-    },
-    {
-      "sources": [
         "https://anilist.co/anime/16692",
         "https://anime-planet.com/anime/jigoku-youchien",
         "https://anisearch.com/anime/8210",
@@ -513,6 +469,7 @@
         "kids",
         "kindergarten",
         "moe",
+        "mythology",
         "school",
         "school life",
         "short episodes",
@@ -523,6 +480,32 @@
         "youkai"
       ],
       "id": "https://myanimelist.net/anime/16692"
+    },
+    {
+      "sources": [
+        "https://myanimelist.net/anime/54193"
+      ],
+      "title": "Joseito (Movie)",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SUMMER",
+        "year": 2014
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1399/132643.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1399/132643t.jpg",
+      "synonyms": [
+        "School Girl (Movie)",
+        "女生徒"
+      ],
+      "relations": [
+        "https://myanimelist.net/anime/6266"
+      ],
+      "tags": [
+        "drama"
+      ],
+      "id": "https://myanimelist.net/anime/54193"
     },
     {
       "sources": [
@@ -556,7 +539,6 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/98142",
         "https://anime-planet.com/anime/the-garden-of-sinners-recalled-out-summer-manner-movie",
         "https://anisearch.com/anime/16388",
         "https://kitsu.io/anime/8361",
@@ -577,18 +559,16 @@
       "synonyms": [
         "Gekijouban Kara no Kyoukai: Mirai Fukuin Gekijouyou Manner CM",
         "Gekijōban Kara no Kyōkai: Mirai Fukuin Gekijōyō Manner CM",
-        "Kara no Kyoukai: Mirai Fukuin - Gekijouyou Manners",
         "Kara no Kyoukai: Mirai Fukuin - Manner Movie",
+        "The Garden of Sinners: Future Gospel - Manner Movie",
         "The Garden of Sinners: Recalled Out Summer - Manner Movie",
         "The Garden of Sinners: Recalled Out Summer - Pre-Show Reminder Video",
         "the Garden of sinners -recalled out summer- Pre-show Reminder",
         "劇場版 空の境界 未来福音 劇場用マナーCM"
       ],
       "relations": [
-        "https://anilist.co/anime/104411",
-        "https://anilist.co/anime/14807",
-        "https://anilist.co/anime/20697",
         "https://anime-planet.com/anime/the-garden-of-sinners-recalled-out-summer",
+        "https://anisearch.com/anime/7948",
         "https://kitsu.io/anime/7167",
         "https://myanimelist.net/anime/14807",
         "https://notify.moe/anime/Ng2dtKmig"
@@ -660,8 +640,13 @@
       ],
       "relations": [
         "https://anidb.net/anime/421",
+        "https://anilist.co/anime/101497",
+        "https://anilist.co/anime/13247",
+        "https://anilist.co/anime/1412",
+        "https://anilist.co/anime/156905",
         "https://anime-planet.com/anime/lupin-shanshei-pilot",
         "https://anime-planet.com/anime/lupin-the-3rd",
+        "https://anisearch.com/anime/3500",
         "https://kitsu.io/anime/12153",
         "https://kitsu.io/anime/1265",
         "https://myanimelist.net/anime/1412",
@@ -670,6 +655,7 @@
         "https://notify.moe/anime/Dnk-5Fmmg"
       ],
       "tags": [
+        "adult cast",
         "comedy",
         "crime",
         "flash animation",
@@ -685,6 +671,7 @@
       "sources": [
         "https://anilist.co/anime/6299",
         "https://anime-planet.com/anime/maria-watches-over-us-season-4-specials",
+        "https://anisearch.com/anime/9378",
         "https://kitsu.io/anime/2674",
         "https://livechart.me/anime/8282",
         "https://myanimelist.net/anime/6299",
@@ -702,10 +689,17 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/12/14166t.jpg",
       "synonyms": [
         "Don't tell the Virgin Mary",
+        "Don't tell the Virgin Mary 4th Season",
+        "Keep it Secret from the Virgin Mary 4th Season",
         "Keep it a Secret from Maria-sama",
         "Maria Watches Over Us Season 4 Specials",
+        "Maria-sama ga Miteru 4th Season Omake",
+        "Maria-sama ga Miteru 4th Season Specials",
         "Maria-sama ni wa Naisho",
-        "マリア様にはないしょ。"
+        "Maria-sama ni wa Naisho 4th Season",
+        "Maria-sama ni wa Naisho. (2009)",
+        "マリア様にはないしょ。",
+        "マリア様にはないしょ。（2009）"
       ],
       "relations": [
         "https://anilist.co/anime/3750",
@@ -716,16 +710,32 @@
         "https://anime-planet.com/anime/maria-watches-over-us-season-3-specials",
         "https://anime-planet.com/anime/maria-watches-over-us-season-4",
         "https://anime-planet.com/anime/maria-watches-over-us-specials",
+        "https://anisearch.com/anime/4723",
         "https://kitsu.io/anime/3228",
+        "https://livechart.me/anime/4056",
+        "https://livechart.me/anime/5794",
+        "https://livechart.me/anime/6792",
+        "https://livechart.me/anime/7084",
+        "https://livechart.me/anime/7120",
+        "https://livechart.me/anime/7292",
+        "https://livechart.me/anime/8276",
         "https://myanimelist.net/anime/3750",
         "https://notify.moe/anime/avt_5Fmig"
       ],
       "tags": [
+        "catholic school",
         "chibi",
         "comedy",
+        "drama",
+        "girls love",
         "gl",
+        "high school",
+        "parody",
+        "present",
+        "romance",
         "school",
         "shoujo-ai",
+        "slice of life",
         "yuri"
       ],
       "id": "https://myanimelist.net/anime/6299"
@@ -760,6 +770,64 @@
         "promotional"
       ],
       "id": "https://anime-planet.com/anime/mushoku-tensei-jobless-reincarnation-pv"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/dareharu-flowering",
+        "https://myanimelist.net/anime/54036"
+      ],
+      "title": "Neoropieoora",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SPRING",
+        "year": 2020
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1747/132189.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1747/132189t.jpg",
+      "synonyms": [
+        "Dareharu: Flowering",
+        "Dareharu: Neoropieoora",
+        "Flowering",
+        "Noropioora",
+        "너로피어오라"
+      ],
+      "relations": [],
+      "tags": [
+        "korean animation",
+        "music"
+      ],
+      "id": "https://myanimelist.net/anime/54036"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/150506"
+      ],
+      "title": "Ni Tian Jian Shen 5",
+      "type": "ONA",
+      "episodes": 26,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2022
+      },
+      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150506-iF2QirE6xmsf.png",
+      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150506-iF2QirE6xmsf.png",
+      "synonyms": [
+        "The Fabulous Sword God 5",
+        "逆天剑神 第五季",
+        "逆天邪神 第5季"
+      ],
+      "relations": [
+        "https://anilist.co/anime/150505"
+      ],
+      "tags": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "id": "https://anilist.co/anime/150506"
     },
     {
       "sources": [
@@ -811,8 +879,8 @@
         "season": "WINTER",
         "year": 2020
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/1822/112652.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1822/112652t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1592/128270.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1592/128270t.jpg",
       "synonyms": [
         "ON-GAKU: OUR SOUND",
         "ON-GAKU: Our Sound",
@@ -825,6 +893,7 @@
         "https://anilist.co/anime/140874"
       ],
       "tags": [
+        "award winning",
         "band",
         "based on a manga",
         "comedy",
@@ -857,8 +926,8 @@
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "WINTER",
-        "year": 2022
+        "season": "UNDEFINED",
+        "year": null
       },
       "picture": "https://u.livechart.me/anime/10975/poster_image/c4f480864307351440ecac63e85619bd.png?style=large&format=jpg",
       "thumbnail": "https://u.livechart.me/anime/10975/poster_image/c4f480864307351440ecac63e85619bd.png?style=small&format=jpg",
@@ -882,34 +951,9 @@
     },
     {
       "sources": [
-        "https://anidb.net/anime/8342"
-      ],
-      "title": "Scryed Alteration",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 2011
-      },
-      "picture": "https://cdn.anidb.net/images/main/57665.jpg",
-      "thumbnail": "https://cdn.anidb.net/images/main/57665.jpg-thumb.jpg",
-      "synonyms": [
-        "スクライドオルタレイション"
-      ],
-      "relations": [
-        "https://anidb.net/anime/47"
-      ],
-      "tags": [
-        "new",
-        "shounen"
-      ],
-      "id": "https://anidb.net/anime/8342"
-    },
-    {
-      "sources": [
         "https://anilist.co/anime/3221",
         "https://anime-planet.com/anime/shakugan-no-shana-movie-special",
+        "https://anisearch.com/anime/12197",
         "https://kitsu.io/anime/2865",
         "https://livechart.me/anime/4571",
         "https://myanimelist.net/anime/3221",
@@ -926,11 +970,17 @@
       "picture": "https://cdn.myanimelist.net/images/anime/11/17218.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/11/17218t.jpg",
       "synonyms": [
+        "Gekijouban Shakugan no Shana-tan",
         "Gekijouban Shakugan no Shanatan",
+        "Gekijōban Shakugan no Shana-tan",
         "Shakugan no Shana Movie Special",
         "Shakugan no Shana-tan Gekijouban",
+        "Shakugan no Shana-tan Movie / Shakugan no Shanatan Movie",
+        "Shakugan no Shana-tan Theatrical Version",
+        "Shakugan no Shanatan Gekijouban Version / Shakugan no Shana-tan Gekijouban Version",
         "Shakugan no Shanatan Movie",
         "劇場版 灼眼のシャナたん",
+        "劇場版灼眼のシャナたん",
         "灼眼のシャナたん＠劇場版Ver"
       ],
       "relations": [
@@ -942,7 +992,22 @@
         "https://anime-planet.com/anime/shakugan-no-shana-s",
         "https://anime-planet.com/anime/shakugan-no-shana-s-specials",
         "https://anime-planet.com/anime/shakugan-no-shana-specials",
+        "https://anisearch.com/anime/3609",
         "https://kitsu.io/anime/1632",
+        "https://livechart.me/anime/1202",
+        "https://livechart.me/anime/3286",
+        "https://livechart.me/anime/3430",
+        "https://livechart.me/anime/3431",
+        "https://livechart.me/anime/3432",
+        "https://livechart.me/anime/4290",
+        "https://livechart.me/anime/4317",
+        "https://livechart.me/anime/4540",
+        "https://livechart.me/anime/4564",
+        "https://livechart.me/anime/4767",
+        "https://livechart.me/anime/5697",
+        "https://livechart.me/anime/5831",
+        "https://livechart.me/anime/5939",
+        "https://livechart.me/anime/6547",
         "https://myanimelist.net/anime/1815",
         "https://notify.moe/anime/4ubBcKimg"
       ],
@@ -953,6 +1018,7 @@
         "fantasy",
         "kuudere",
         "parody",
+        "super deformed",
         "tsundere"
       ],
       "id": "https://myanimelist.net/anime/3221"
@@ -993,6 +1059,7 @@
       "relations": [
         "https://anidb.net/anime/8834",
         "https://anime-planet.com/anime/shining-hearts",
+        "https://anisearch.com/anime/7460",
         "https://kitsu.io/anime/6715",
         "https://myanimelist.net/anime/12367",
         "https://notify.moe/anime/ZUpNpKmmg"
@@ -1018,6 +1085,7 @@
         "person in a strange world",
         "present",
         "rpg",
+        "school",
         "shounen",
         "youkai"
       ],
@@ -1046,6 +1114,7 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/11/84022t.jpg",
       "synonyms": [
         "Skip Beat",
+        "Skip Beat !",
         "Не сдавайся!",
         "Тільки вперед!",
         "すきっぷびーと",
@@ -1063,11 +1132,13 @@
         "coming of age",
         "drama",
         "earth",
+        "fashion",
         "female protagonist",
         "ganbatte",
         "heterosexual",
         "idols",
         "japan",
+        "love polygon",
         "manga",
         "performance",
         "plot continuity",
@@ -1090,15 +1161,15 @@
         "https://myanimelist.net/anime/47746"
       ],
       "title": "Song Song Xiao Zhen",
-      "type": "TV",
+      "type": "ONA",
       "episodes": 25,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2018
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1963/130571.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1963/130571t.jpg",
       "synonyms": [
         "松松小镇"
       ],
@@ -1167,10 +1238,10 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1264/112847t.jpg",
       "synonyms": [
         "BUDDHA 2",
+        "BUDDHA 2: Tezuka Osamu no Buddha ~Owarinaki Tabi~",
         "BUDDHA2 手塚治虫のブッダ－終わりなき旅－",
         "Buda 2: Camino a la Iluminación",
         "Buddha 2",
-        "Buddha 2: Tezuka Osamu no Buddha ~Owarinaki Tabi~",
         "Buddha 2: Tezuka Osamu no Buddha: Owarinaki Tabi",
         "Buddha 2: The Endless Journey",
         "Osamu Tezuka's Buddha Movie 2: Endless Trip",
@@ -1316,9 +1387,46 @@
         "super power",
         "supernatural",
         "superpower",
-        "superpowers"
+        "superpowers",
+        "tokusatsu"
       ],
       "id": "https://myanimelist.net/anime/10714"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/156079",
+        "https://anime-planet.com/anime/yi-shi-xie-jun"
+      ],
+      "title": "Yi Shi Xie Jun",
+      "type": "ONA",
+      "episodes": 0,
+      "status": "UPCOMING",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2023
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/yi-shi-xie-jun-1.webp?t=1671821431",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/yi-shi-xie-jun-1-285x399.webp?t=1671821431",
+      "synonyms": [
+        "Otherworldly Evil Monarch",
+        "The Legendary Jun Moxie",
+        "Yiren Jun Moxie",
+        "异世邪君",
+        "异人君莫邪"
+      ],
+      "relations": [],
+      "tags": [
+        "action",
+        "adventure",
+        "based on a web novel",
+        "chinese animation",
+        "comedy",
+        "fantasy",
+        "full cgi",
+        "harem",
+        "martial arts"
+      ],
+      "id": "https://anime-planet.com/anime/yi-shi-xie-jun"
     }
   ]
 }

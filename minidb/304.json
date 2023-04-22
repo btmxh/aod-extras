@@ -56,6 +56,7 @@
       "synonyms": [
         "Hikaru Utada: Beautiful World",
         "Utada Hikaru - Beautiful World",
+        "eva (2014)",
         "عالم جميل",
         "ビューティフル・ワールド"
       ],
@@ -65,6 +66,7 @@
         "https://anilist.co/anime/3784",
         "https://anilist.co/anime/3785",
         "https://anime-planet.com/anime/evangelion-1-0-you-are-not-alone",
+        "https://anisearch.com/anime/3879",
         "https://kitsu.io/anime/2519",
         "https://myanimelist.net/anime/2759",
         "https://notify.moe/anime/s5eycFmig"
@@ -141,12 +143,10 @@
         "https://anime-planet.com/anime/berserk-golden-age-arc-ii-the-battle-for-doldrey",
         "https://anime-planet.com/anime/berserk-golden-age-arc-iii-the-advent",
         "https://anisearch.com/anime/11039",
-        "https://anisearch.com/anime/12249",
         "https://anisearch.com/anime/12514",
-        "https://anisearch.com/anime/6574",
-        "https://anisearch.com/anime/927",
         "https://kitsu.io/anime/11655",
         "https://kitsu.io/anime/13540",
+        "https://livechart.me/anime/11363",
         "https://livechart.me/anime/1975",
         "https://livechart.me/anime/3627",
         "https://livechart.me/anime/3769",
@@ -181,9 +181,11 @@
         "magic",
         "male protagonist",
         "manga",
+        "medicine",
         "medieval",
         "mercenaries",
         "military",
+        "mythology",
         "rape",
         "revenge",
         "romance",
@@ -197,6 +199,30 @@
         "witch"
       ],
       "id": "https://myanimelist.net/anime/34055"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/brawl-stars-year-of-the-tiger-season-pv"
+      ],
+      "title": "Brawl Stars: Year of the Tiger Season PV",
+      "type": "ONA",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2022
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/brawl-stars-year-of-the-tiger-season-pv-1.webp?t=1656192186",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/brawl-stars-year-of-the-tiger-season-pv-1-285x399.webp?t=1656192186",
+      "synonyms": [],
+      "relations": [],
+      "tags": [
+        "based on a mobile game",
+        "korean animation",
+        "promotional",
+        "shorts"
+      ],
+      "id": "https://anime-planet.com/anime/brawl-stars-year-of-the-tiger-season-pv"
     },
     {
       "sources": [
@@ -258,6 +284,7 @@
         "love polygon",
         "magic",
         "mystery",
+        "mythology",
         "new",
         "original work",
         "politics",
@@ -271,6 +298,7 @@
         "supernatural",
         "superpower",
         "superpowers",
+        "tokusatsu",
         "twisted story",
         "urban fantasy",
         "youkai"
@@ -279,53 +307,29 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/124339"
-      ],
-      "title": "Fatchi Baike",
-      "type": "ONA",
-      "episodes": 12,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2020
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124339-mOVTMv49ORBy.png",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124339-mOVTMv49ORBy.png",
-      "synonyms": [
-        "肥志百科",
-        "肥志百科 原来你是这样的植物",
-        "肥志百科 植物篇"
-      ],
-      "relations": [
-        "https://anilist.co/anime/131648"
-      ],
-      "tags": [
-        "chibi",
-        "comedy",
-        "educational"
-      ],
-      "id": "https://anilist.co/anime/124339"
-    },
-    {
-      "sources": [
         "https://myanimelist.net/anime/46810"
       ],
       "title": "Fou Fou Zheng Nengliang",
-      "type": "TV",
+      "type": "ONA",
       "episodes": 10,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "FALL",
         "year": 2013
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1105/130817.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1105/130817t.jpg",
       "synonyms": [
-        "否否正能量"
+        "FOF and His Story",
+        "否否正能量",
+        "禽兽超人前传之否否正能量"
       ],
-      "relations": [],
+      "relations": [
+        "https://myanimelist.net/anime/46811"
+      ],
       "tags": [
-        "comedy"
+        "comedy",
+        "kids"
       ],
       "id": "https://myanimelist.net/anime/46810"
     },
@@ -348,8 +352,8 @@
         "season": "SPRING",
         "year": 2019
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/1148/116868.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1148/116868t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1781/124589.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1781/124589t.jpg",
       "synonyms": [
         "Frame Arms Girl: Kyakkya Ufufu na Wonderland",
         "Frame Arms Girl: Kyakkyau Fufu na Wonderland",
@@ -403,17 +407,18 @@
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2005
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1101/131218.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1101/131218t.jpg",
       "synonyms": [
         "哈哈西游行"
       ],
       "relations": [],
       "tags": [
         "adventure",
-        "fantasy"
+        "fantasy",
+        "kids"
       ],
       "id": "https://myanimelist.net/anime/45242"
     },
@@ -442,7 +447,9 @@
       "sources": [
         "https://anilist.co/anime/20603",
         "https://anime-planet.com/anime/kurokos-basketball-lets-do-that-again",
+        "https://anisearch.com/anime/9477",
         "https://kitsu.io/anime/8261",
+        "https://livechart.me/anime/408",
         "https://myanimelist.net/anime/22125",
         "https://notify.moe/anime/ZGxTpKimg"
       ],
@@ -457,12 +464,24 @@
       "picture": "https://cdn.myanimelist.net/images/anime/12/68055.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/12/68055t.jpg",
       "synonyms": [
+        "Kuroko no Baske (2013) Special",
+        "Kuroko no Baske: 41.5Q",
+        "Kuroko no Baske: Mou Ikkai Yarimasen ka",
+        "Kuroko no Baske: Mō Ikkai Yarimasen ka",
         "Kuroko no Basket Special",
         "Kuroko no Basket: 41.5Q",
+        "Kuroko no Basket: 41.5Q - Mou Ikkai Yarimasen ka",
+        "Kuroko no Basuke: Haz eso de nuevo",
         "Kuroko's Basketball: Can we do that one more time",
         "Kuroko's Basketball: Let's Do That Again",
         "Kuroko's Basketball: Would You Mind Doing That Once More",
+        "Kuroko’s Basket : On remet ça ?",
         "Kuroko’s Basketball 2: Let’s Do That Again",
+        "Kuroko’s Basketball: 2nd Season Bonus-OVA",
+        "Kuroko’s Basketball: Kannst du das gleich nochmal machen?",
+        "Kuroko’s Basketball: Let’s Do That Again",
+        "Kuroko’s Basketball: Staffel 2 OVA",
+        "Kuroko’s Basketball: Would You Mind Doing That Once More",
         "黒子のバスケ 「もう一回やりませんか」"
       ],
       "relations": [
@@ -481,7 +500,23 @@
         "https://anime-planet.com/anime/kurokos-basketball-ova",
         "https://anime-planet.com/anime/kurokos-basketball-the-greatest-present",
         "https://anime-planet.com/anime/kurokos-basketball-tip-off",
+        "https://anisearch.com/anime/8267",
         "https://kitsu.io/anime/7545",
+        "https://livechart.me/anime/1118",
+        "https://livechart.me/anime/1669",
+        "https://livechart.me/anime/169",
+        "https://livechart.me/anime/2057",
+        "https://livechart.me/anime/2063",
+        "https://livechart.me/anime/2064",
+        "https://livechart.me/anime/4427",
+        "https://livechart.me/anime/4780",
+        "https://livechart.me/anime/4808",
+        "https://livechart.me/anime/5468",
+        "https://livechart.me/anime/5596",
+        "https://livechart.me/anime/5761",
+        "https://livechart.me/anime/597",
+        "https://livechart.me/anime/62",
+        "https://livechart.me/anime/918",
         "https://myanimelist.net/anime/16894",
         "https://notify.moe/anime/zjS5tKimg"
       ],
@@ -489,81 +524,45 @@
         "baseball",
         "based on a manga",
         "basketball",
+        "club",
         "comedy",
+        "ganbatte",
+        "high school",
+        "present",
         "school",
         "school life",
         "shounen",
-        "sports"
+        "slapstick",
+        "sports",
+        "team sports"
       ],
       "id": "https://myanimelist.net/anime/22125"
     },
     {
       "sources": [
-        "https://anisearch.com/anime/15196"
+        "https://anime-planet.com/anime/nippon-rettou-dokkoisho-47-todoufuken-mei-utai-komi",
+        "https://myanimelist.net/anime/52407"
       ],
-      "title": "Marybell no Koutsuu Anzen",
-      "type": "OVA",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 1993
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/15/15196.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/15/15196.webp",
-      "synonyms": [
-        "Mary Bell's Traffic Safety",
-        "Marybell no Kōtsū Anzen",
-        "マリーベルの交通安全"
-      ],
-      "relations": [],
-      "tags": [],
-      "id": "https://anisearch.com/anime/15196"
-    },
-    {
-      "sources": [
-        "https://anilist.co/anime/21774",
-        "https://anisearch.com/anime/11406"
-      ],
-      "title": "Ojisan to Marshmallow: Hige-san to Yume Marshmallow",
+      "title": "Nippon-rettou Dokkoisho: 47 Todoufuken-mei Utai Komi",
       "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "SPRING",
-        "year": 2016
+        "season": "WINTER",
+        "year": 2012
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/11/11406.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/11/11406.webp",
+      "picture": "https://cdn.myanimelist.net/images/anime/1598/125413.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1598/125413t.jpg",
       "synonyms": [
-        "Ojimasu: Hige-san to Yume Marshmallow",
-        "Ojisan and Marshmallow Episode 13",
-        "Ojisan and Marshmallow: Hige-san and Marshmallow",
-        "Ojisan and Marshmallow: Hige-san e marshmallow da sogno",
-        "Ojisan and Marshmallow: Hige-san und der Traum-Marshmallow",
-        "Ojisan and Marshmallow: Hige-san y los malvaviscos del sueño",
-        "Ojisan to Marshmallow: Hige-san and Marshmallow",
-        "Ojisan to Marshmallow: M. Hige et les marshmallows de rêve",
-        "おじさんとマシュマロ 日下さんと夢マシュマロ"
+        "日本列島どっこいしょ 〜47都道府県名うたい込み〜"
       ],
-      "relations": [
-        "https://anilist.co/anime/21239"
-      ],
+      "relations": [],
       "tags": [
-        "age gap",
-        "age regression",
-        "comedy",
-        "ecchi",
-        "older man, younger woman",
-        "present",
-        "primarily adult cast",
-        "romance",
-        "seinen",
-        "slapstick",
-        "slice of life",
-        "verbal comedy"
+        "educational",
+        "kids",
+        "music"
       ],
-      "id": "https://anisearch.com/anime/11406"
+      "id": "https://myanimelist.net/anime/52407"
     },
     {
       "sources": [
@@ -576,7 +575,7 @@
         "https://myanimelist.net/anime/2547",
         "https://notify.moe/anime/mlWycKimg"
       ],
-      "title": "Shoukoujo Sara",
+      "title": "Princess Sara",
       "type": "TV",
       "episodes": 46,
       "status": "FINISHED",
@@ -596,11 +595,11 @@
         "Lovely Sara",
         "Mała księżniczka",
         "Mała księżniczka Sara",
-        "Princess Sara",
         "Princess Sarah",
         "Princesse Sarah",
         "Sara",
         "Sekai Meisaku Gekijou",
+        "Shoukoujo Sara",
         "Shōkōjo Sara",
         "WMT",
         "World Masterpiece Theater",
@@ -612,9 +611,12 @@
       ],
       "relations": [
         "https://anidb.net/anime/7148",
+        "https://anime-planet.com/anime/a-little-princess-sara-specials",
         "https://anime-planet.com/anime/shiawase-pasta-story",
+        "https://anisearch.com/anime/12799",
         "https://anisearch.com/anime/6129",
-        "https://myanimelist.net/anime/37423"
+        "https://myanimelist.net/anime/37423",
+        "https://myanimelist.net/anime/53159"
       ],
       "tags": [
         "19th century",
@@ -624,6 +626,7 @@
         "based on a novel",
         "boarding school",
         "bullying",
+        "child protagonists",
         "classic literature",
         "comedy",
         "coming of age",
@@ -656,9 +659,70 @@
         "tragedy",
         "united kingdom",
         "urban",
+        "victorian era",
+        "war",
         "world masterpiece theater"
       ],
       "id": "https://myanimelist.net/anime/2547"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/155313"
+      ],
+      "title": "Shenzu",
+      "type": "ONA",
+      "episodes": 0,
+      "status": "UPCOMING",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": null
+      },
+      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155313-tkGhXoqcnb8V.png",
+      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155313-tkGhXoqcnb8V.png",
+      "synonyms": [
+        "Sacred Ancestor",
+        "圣祖"
+      ],
+      "relations": [],
+      "tags": [
+        "action",
+        "adventure",
+        "fantasy",
+        "full cgi"
+      ],
+      "id": "https://anilist.co/anime/155313"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/two-legged-tank",
+        "https://kitsu.io/anime/47003",
+        "https://myanimelist.net/anime/54169"
+      ],
+      "title": "Sou Ashi Sensha no Yuuutsu",
+      "type": "ONA",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2004
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1818/132605.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1818/132605t.jpg",
+      "synonyms": [
+        "The Melancholy of the Legged Tank",
+        "Two Legged Tank",
+        "Two legged tank",
+        "装脚戦車の憂鬱"
+      ],
+      "relations": [],
+      "tags": [
+        "action",
+        "flash animation",
+        "mecha",
+        "military",
+        "shorts"
+      ],
+      "id": "https://myanimelist.net/anime/54169"
     },
     {
       "sources": [
@@ -683,9 +747,12 @@
       "relations": [],
       "tags": [
         "big boobs",
+        "defloration",
+        "episodic",
         "hentai",
         "oral",
         "outdoors",
+        "present",
         "romance",
         "school girl",
         "softcore",
@@ -713,8 +780,8 @@
         "season": "SPRING",
         "year": 1983
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/5/72083.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/5/72083t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1312/105893.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1312/105893t.jpg",
       "synonyms": [
         "Стоп!! Хибари-кун!",
         "ストップ!! ひばりくん!",
@@ -729,8 +796,11 @@
         "boxing",
         "comedy",
         "cross dressing",
+        "crossdressing",
         "episodic",
         "family life",
+        "female protagonist",
+        "gag humor",
         "gender bender",
         "gender bending",
         "hand to hand combat",
@@ -750,6 +820,7 @@
         "school life",
         "shounen",
         "slapstick",
+        "surreal comedy",
         "transgender",
         "trap",
         "yakuza"
@@ -758,6 +829,7 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/sunoko-tan-promotion-anime",
         "https://myanimelist.net/anime/41655"
       ],
       "title": "Sunoko-tan. Promotion Anime",
@@ -774,11 +846,13 @@
         "すのこタン。プロモーションアニメ"
       ],
       "relations": [
+        "https://anime-planet.com/anime/pure-aluminum-sunoko-tan",
         "https://myanimelist.net/anime/35502"
       ],
       "tags": [
         "comedy",
-        "music"
+        "music",
+        "promotional"
       ],
       "id": "https://myanimelist.net/anime/41655"
     },
@@ -796,7 +870,7 @@
       "title": "Tokyo Gambo",
       "type": "TV",
       "episodes": 5,
-      "status": "ONGOING",
+      "status": "FINISHED",
       "animeSeason": {
         "season": "FALL",
         "year": 2020
@@ -814,9 +888,11 @@
       "tags": [
         "cute girls doing cute things",
         "fashion",
+        "female protagonist",
         "original work",
         "post apocalypse",
         "post-apocalyptic",
+        "primarily female cast",
         "promotional",
         "sci-fi",
         "short episodes",
@@ -827,19 +903,24 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/video-ehon"
+        "https://anidb.net/anime/9872",
+        "https://anime-planet.com/anime/video-ehon",
+        "https://anisearch.com/anime/8802"
       ],
       "title": "Video Ehon",
       "type": "SPECIAL",
       "episodes": 50,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
+        "season": "FALL",
+        "year": 1988
       },
-      "picture": "https://anime-planet.com/images/anime/covers/10043.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/10043.jpg",
-      "synonyms": [],
+      "picture": "https://cdn.anime-planet.com/anime/primary/video-ehon-1.jpg?t=1625898156",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/video-ehon-1-190x266.jpg?t=1625898156",
+      "synonyms": [
+        "Video Anime Ehon",
+        "ビデオ絵本"
+      ],
       "relations": [],
       "tags": [
         "based on a fairy tale",
@@ -850,59 +931,76 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/104163",
-        "https://anisearch.com/anime/14079",
-        "https://kitsu.io/anime/44685"
+        "https://anidb.net/anime/17852",
+        "https://anilist.co/anime/159490",
+        "https://anime-planet.com/anime/scissor-seven-4th-season",
+        "https://anisearch.com/anime/18043",
+        "https://kitsu.io/anime/46919",
+        "https://livechart.me/anime/11944",
+        "https://myanimelist.net/anime/54029",
+        "https://notify.moe/anime/AKcw37o4R"
       ],
-      "title": "Warriors",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2014
-      },
-      "picture": "https://media.kitsu.io/anime/poster_images/44685/small.jpg",
-      "thumbnail": "https://media.kitsu.io/anime/poster_images/44685/tiny.jpg",
-      "synonyms": [],
-      "relations": [],
-      "tags": [
-        "football",
-        "no dialogue",
-        "rugby",
-        "sports"
-      ],
-      "id": "https://kitsu.io/anime/44685"
-    },
-    {
-      "sources": [
-        "https://anilist.co/anime/101789"
-      ],
-      "title": "Wo Shi Jiang Xiaobai: You Hua Dui Ni Shuo",
+      "title": "Wu Liuqi: Anying Suming",
       "type": "ONA",
-      "episodes": 12,
+      "episodes": 10,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2018
+        "season": "WINTER",
+        "year": 2023
       },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101789-lJKWws55ao1X.jpg",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101789-lJKWws55ao1X.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1088/132178.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1088/132178t.jpg",
       "synonyms": [
-        "I'm Joybo: Words From My Heart",
-        "Wo Shi Jiang Xiaobai 2",
-        "我是江小白 第二季",
-        "我是江小白：有话对你说"
+        "Cike Wu Liuqi 4th Season",
+        "Cike Wuliuqi 4",
+        "Cike Wuliuqi 4th Season, Ci Ke Wu Liu Qi 4th Season, Assassin Seven 4th Season, Killer Seven 4th Season",
+        "Killer Seven 4",
+        "Killer Seven 4th Season",
+        "Scissor Seven 4",
+        "Scissor Seven 4th Season",
+        "Scissor Seven Season 4",
+        "Scissor Seven: Shadow Fate",
+        "Wu Liuqi 4th Season",
+        "Wu Liuqi: An Ying Su Ming",
+        "伍六七 第四季",
+        "伍六七之暗影宿命"
       ],
       "relations": [
-        "https://anilist.co/anime/101550"
+        "https://anidb.net/anime/15961",
+        "https://anilist.co/anime/127595",
+        "https://anime-planet.com/anime/scissor-seven-3rd-season",
+        "https://anisearch.com/anime/15956",
+        "https://kitsu.io/anime/43905",
+        "https://livechart.me/anime/10083",
+        "https://livechart.me/anime/10299",
+        "https://livechart.me/anime/9787",
+        "https://myanimelist.net/anime/45556",
+        "https://notify.moe/anime/OUyP2abGg"
       ],
       "tags": [
+        "action",
+        "adventure",
+        "amnesia",
+        "assassins",
+        "chinese animation",
+        "comedy",
+        "cyborg",
         "drama",
+        "half-length episodes",
+        "male protagonist",
+        "martial arts",
+        "mystery",
+        "ninja",
+        "nonsense-comedy",
+        "original work",
         "romance",
-        "slice of life"
+        "slapstick",
+        "super power",
+        "superpower",
+        "swordplay",
+        "violence"
       ],
-      "id": "https://anilist.co/anime/101789"
+      "id": "https://myanimelist.net/anime/54029"
     },
     {
       "sources": [
@@ -952,14 +1050,10 @@
         "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-5-the-mythical-ark-adventures-in-love-happiness",
         "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-6-meet-the-pegasus",
         "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-7-amazing-pleasant-goat",
-        "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-8",
+        "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-8-dunk-for-future",
         "https://anisearch.com/anime/11144",
-        "https://anisearch.com/anime/12934",
-        "https://anisearch.com/anime/12998",
-        "https://anisearch.com/anime/7116",
         "https://anisearch.com/anime/7117",
         "https://anisearch.com/anime/8009",
-        "https://anisearch.com/anime/9543",
         "https://kitsu.io/anime/5974",
         "https://kitsu.io/anime/9061",
         "https://myanimelist.net/anime/18491",
@@ -982,38 +1076,6 @@
         "romance"
       ],
       "id": "https://myanimelist.net/anime/18489"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/the-legend-of-lucky-pie",
-        "https://myanimelist.net/anime/47129"
-      ],
-      "title": "Xingyun Pai Chuanshuo",
-      "type": "ONA",
-      "episodes": 5,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "The Legend Of Lucky Pie",
-        "幸运派传说"
-      ],
-      "relations": [],
-      "tags": [
-        "adventure",
-        "animal protagonists",
-        "anthropomorphic",
-        "birds",
-        "chinese animation",
-        "fantasy",
-        "non-human protagonists",
-        "short episodes"
-      ],
-      "id": "https://myanimelist.net/anime/47129"
     },
     {
       "sources": [
@@ -1073,30 +1135,6 @@
         "urinating"
       ],
       "id": "https://myanimelist.net/anime/2982"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/50541"
-      ],
-      "title": "Zhing Qi 2069",
-      "type": "ONA",
-      "episodes": 0,
-      "status": "UPCOMING",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2022
-      },
-      "picture": "https://cdn.myanimelist.net/images/anime/1022/119944.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1022/119944t.jpg",
-      "synonyms": [
-        "ZHONGQI",
-        "重器2069"
-      ],
-      "relations": [],
-      "tags": [
-        "action"
-      ],
-      "id": "https://myanimelist.net/anime/50541"
     }
   ]
 }

@@ -2,6 +2,64 @@
   "data": [
     {
       "sources": [
+        "https://anime-planet.com/anime/rif-aimai-na-mama",
+        "https://myanimelist.net/anime/53843"
+      ],
+      "title": "Aimai na Mama",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2015
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1867/131837.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1867/131837t.jpg",
+      "synonyms": [
+        "RIF: Aimai na Mama",
+        "あいまいなまま"
+      ],
+      "relations": [],
+      "tags": [
+        "drama",
+        "music",
+        "robots",
+        "sci fi",
+        "stop motion animation"
+      ],
+      "id": "https://myanimelist.net/anime/53843"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/ame-koujou",
+        "https://myanimelist.net/anime/53119"
+      ],
+      "title": "Ame Koujou",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2003
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1035/128276.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1035/128276t.jpg",
+      "synonyms": [
+        "Candy Factory",
+        "The Candy Factory",
+        "飴工場"
+      ],
+      "relations": [],
+      "tags": [
+        "ghosts",
+        "shorts",
+        "supernatural",
+        "workplace"
+      ],
+      "id": "https://myanimelist.net/anime/53119"
+    },
+    {
+      "sources": [
         "https://anidb.net/anime/2759",
         "https://anilist.co/anime/1667",
         "https://anime-planet.com/anime/barom-one",
@@ -39,6 +97,7 @@
         "gore",
         "henshin",
         "horror",
+        "love triangle",
         "magic",
         "manga",
         "psi-powers",
@@ -47,7 +106,8 @@
         "science-fiction",
         "shounen",
         "superhero",
-        "supernatural"
+        "supernatural",
+        "tokusatsu"
       ],
       "id": "https://myanimelist.net/anime/1667"
     },
@@ -63,8 +123,8 @@
         "season": "WINTER",
         "year": 2019
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/15/15325.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/15/15325.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/15/15325_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/15/15325.webp",
       "synonyms": [
         "Bread Barbershop",
         "BreadBarbershop",
@@ -80,30 +140,6 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/129246"
-      ],
-      "title": "Bu Mie Shen Wang",
-      "type": "ONA",
-      "episodes": 0,
-      "status": "UPCOMING",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2021
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129246-UEYbeJOIksXM.jpg",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129246-UEYbeJOIksXM.jpg",
-      "synonyms": [
-        "不灭神王"
-      ],
-      "relations": [],
-      "tags": [
-        "fantasy",
-        "full cgi"
-      ],
-      "id": "https://anilist.co/anime/129246"
-    },
-    {
-      "sources": [
         "https://anime-planet.com/anime/buildings"
       ],
       "title": "Buildings",
@@ -114,8 +150,8 @@
         "season": "UNDEFINED",
         "year": 2008
       },
-      "picture": "https://anime-planet.com/images/anime/covers/14936.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/14936.jpg",
+      "picture": "https://cdn.anime-planet.com/anime/primary/buildings-1.jpg?t=1625908293",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/buildings-1-190x266.jpg?t=1625908293",
       "synonyms": [],
       "relations": [],
       "tags": [
@@ -125,33 +161,6 @@
         "shorts"
       ],
       "id": "https://anime-planet.com/anime/buildings"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/45322"
-      ],
-      "title": "Chaoji Fei Xia season6",
-      "type": "TV",
-      "episodes": 20,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2019
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "超级飞侠 第六季"
-      ],
-      "relations": [
-        "https://myanimelist.net/anime/45321",
-        "https://myanimelist.net/anime/45323"
-      ],
-      "tags": [
-        "adventure",
-        "fantasy"
-      ],
-      "id": "https://myanimelist.net/anime/45322"
     },
     {
       "sources": [
@@ -192,7 +201,6 @@
         "https://anime-planet.com/anime/ai-mai-mii-mousou-catastrophe",
         "https://anime-planet.com/anime/ai-mai-mii-mousou-catastrophe-special",
         "https://anime-planet.com/anime/ai-mai-mii-surgical-friends",
-        "https://anisearch.com/anime/12030",
         "https://anisearch.com/anime/9579",
         "https://kitsu.io/anime/8498",
         "https://livechart.me/anime/2393",
@@ -220,6 +228,7 @@
         "nonsense-comedy",
         "otaku culture",
         "present",
+        "primarily female cast",
         "school",
         "school club",
         "school life",
@@ -270,7 +279,7 @@
         "https://myanimelist.net/anime/2803",
         "https://notify.moe/anime/UPMUcKimR"
       ],
-      "title": "Densetsu no Yuusha Da Garn",
+      "title": "Densetsu no Yuusha da Garn",
       "type": "TV",
       "episodes": 46,
       "status": "FINISHED",
@@ -282,15 +291,19 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1206/105983t.jpg",
       "synonyms": [
         "Brave Fighter of Legend Da-Garn",
+        "Brave Fighter of Legend da-Garn",
         "Da Gaan",
         "Da Garn",
         "Dagaan",
         "Dagarn",
+        "Densetsu no Yuusha Da Garn",
         "Densetsu no Yūsha Da Garn",
         "Legend of The Brave Da Garn",
         "Legendary Brave Da Garn",
+        "Legendary Brave da Garn",
         "Yuusha/Brave Series 3",
-        "伝説の勇者ダ・ガーン"
+        "伝説の勇者ダ・ガーン",
+        "勇者传说"
       ],
       "relations": [
         "https://anidb.net/anime/1548",
@@ -302,6 +315,7 @@
         "https://anime-planet.com/anime/the-brave-command-dagwon-the-boy-with-crystal-eyes",
         "https://anime-planet.com/anime/the-brave-of-gold-goldran",
         "https://anime-planet.com/anime/yuusha-exkaiser",
+        "https://anisearch.com/anime/1872",
         "https://kitsu.io/anime/2937",
         "https://kitsu.io/anime/3046",
         "https://kitsu.io/anime/3057",
@@ -327,10 +341,12 @@
       "tags": [
         "action",
         "adventure",
+        "aliens",
         "combining mecha",
         "earth",
         "mecha",
         "plot continuity",
+        "primarily child cast",
         "robot helper",
         "sci fi",
         "sci-fi",
@@ -423,40 +439,6 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/fairy-tail-2-ova"
-      ],
-      "title": "Fairy Tail 2 OVA",
-      "type": "OVA",
-      "episodes": 3,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2016
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/fairy-tail-2-ova-1.jpg?t=1625779997",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/fairy-tail-2-ova-1-190x271.jpg?t=1625897409",
-      "synonyms": [],
-      "relations": [
-        "https://anime-planet.com/anime/fairy-tail",
-        "https://anime-planet.com/anime/fairy-tail-2",
-        "https://anime-planet.com/anime/fairy-tail-final-season",
-        "https://anime-planet.com/anime/fairy-tail-movie-1-phoenix-priestess",
-        "https://anime-planet.com/anime/fairy-tail-movie-1-phoenix-priestess-the-first-morning",
-        "https://anime-planet.com/anime/fairy-tail-movie-2-dragon-cry",
-        "https://anime-planet.com/anime/fairy-tail-ova"
-      ],
-      "tags": [
-        "based on a manga",
-        "comedy",
-        "ecchi",
-        "fantasy",
-        "magic",
-        "shounen"
-      ],
-      "id": "https://anime-planet.com/anime/fairy-tail-2-ova"
-    },
-    {
-      "sources": [
         "https://myanimelist.net/anime/46991"
       ],
       "title": "Fu Guo Xi Mei Kexue Shijie Tanxian Ji",
@@ -467,13 +449,14 @@
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1620/130484.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1620/130484t.jpg",
       "synonyms": [
         "福锅囍眉科学世界探险记"
       ],
       "relations": [],
       "tags": [
+        "adventure",
         "kids"
       ],
       "id": "https://myanimelist.net/anime/46991"
@@ -490,8 +473,8 @@
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1655/128864.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1655/128864t.jpg",
       "synonyms": [
         "乖虎早教乐园 数学"
       ],
@@ -499,32 +482,10 @@
         "https://myanimelist.net/anime/46120"
       ],
       "tags": [
+        "educational",
         "kids"
       ],
       "id": "https://myanimelist.net/anime/46121"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/47244"
-      ],
-      "title": "Ha Lou! Pu Xingren Zhi Ji Xun Tegong",
-      "type": "TV",
-      "episodes": 26,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "哈喽！葡星人之极训特工"
-      ],
-      "relations": [],
-      "tags": [
-        "fantasy"
-      ],
-      "id": "https://myanimelist.net/anime/47244"
     },
     {
       "sources": [
@@ -546,10 +507,12 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1980/93259t.jpg",
       "synonyms": [
         "Harukana Receive next episode previews",
+        "Harukana Receive: Web Previews",
         "『はるかなレシーブ』予告"
       ],
       "relations": [
         "https://anilist.co/anime/99586",
+        "https://anisearch.com/anime/12647",
         "https://myanimelist.net/anime/35983",
         "https://notify.moe/anime/14sVhKiiR"
       ],
@@ -561,6 +524,58 @@
         "sports"
       ],
       "id": "https://myanimelist.net/anime/38067"
+    },
+    {
+      "sources": [
+        "https://myanimelist.net/anime/47244"
+      ],
+      "title": "Hello! Pu Xingren: Ji Xun Tegong",
+      "type": "TV",
+      "episodes": 26,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2018
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1403/129244.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1403/129244t.jpg",
+      "synonyms": [
+        "Ha Lou! Pu Xingren Zhi Ji Xun Tegong",
+        "哈喽！葡星人之极训特工"
+      ],
+      "relations": [
+        "https://myanimelist.net/anime/47243"
+      ],
+      "tags": [
+        "comedy",
+        "kids"
+      ],
+      "id": "https://myanimelist.net/anime/47244"
+    },
+    {
+      "sources": [
+        "https://kitsu.io/anime/46980",
+        "https://myanimelist.net/anime/54191"
+      ],
+      "title": "Hono to Mori no Carnival",
+      "type": "ONA",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SPRING",
+        "year": 2013
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1509/132645.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1509/132645t.jpg",
+      "synonyms": [
+        "Sekai no Owari: Hono to Mori no Carnival PV",
+        "炎と森のカーニバル"
+      ],
+      "relations": [],
+      "tags": [
+        "music"
+      ],
+      "id": "https://myanimelist.net/anime/54191"
     },
     {
       "sources": [
@@ -643,6 +658,7 @@
         "Inuyasha The Movie 2: Il Castello al di là dello specchio",
         "Inuyasha: Dream Castle Inside the Mirror",
         "Inuyasha: El Castillo de Sueños en el Interior del Espejo",
+        "Inuyasha: Kagami no Naka no Mugenjo",
         "Inuyasha: Kagami no Naka no Mugenjou",
         "Inuyasha: Kagami no Naka no Mugenjō",
         "Инуяша - Мечтаният замък в огледалото",
@@ -660,13 +676,7 @@
         "https://anime-planet.com/anime/inuyasha-the-movie-1-affections-touching-across-time",
         "https://anime-planet.com/anime/inuyasha-the-movie-3-swords-of-an-honorable-ruler",
         "https://anime-planet.com/anime/inuyasha-the-movie-4-fire-on-the-mystic-island",
-        "https://anisearch.com/anime/1455",
-        "https://anisearch.com/anime/15241",
-        "https://anisearch.com/anime/16074",
-        "https://anisearch.com/anime/1902",
-        "https://anisearch.com/anime/1930",
         "https://anisearch.com/anime/2581",
-        "https://anisearch.com/anime/5486",
         "https://kitsu.io/anime/224",
         "https://livechart.me/anime/10475",
         "https://livechart.me/anime/3684",
@@ -702,6 +712,7 @@
         "kuudere",
         "magic",
         "manga",
+        "mythology",
         "non-human protagonists",
         "old asia",
         "parallel universe",
@@ -711,7 +722,9 @@
         "shapeshifting",
         "shounen",
         "supernatural",
+        "swordplay",
         "swords & co",
+        "time travel",
         "tsundere",
         "youkai"
       ],
@@ -774,70 +787,6 @@
     },
     {
       "sources": [
-        "https://livechart.me/anime/2342"
-      ],
-      "title": "Kyoukai no Rinne 3rd Season",
-      "type": "TV",
-      "episodes": 25,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2017
-      },
-      "picture": "https://u.livechart.me/anime/2342/poster_image/9394a0a59d3a33e558fc43c53346340b.jpg?style=large&format=jpg",
-      "thumbnail": "https://u.livechart.me/anime/2342/poster_image/9394a0a59d3a33e558fc43c53346340b.jpg?style=small&format=jpg",
-      "synonyms": [
-        "Rinne of the Boundary 3rd Season",
-        "境界のRINNE 第３シリーズ"
-      ],
-      "relations": [
-        "https://livechart.me/anime/1295",
-        "https://livechart.me/anime/1821"
-      ],
-      "tags": [
-        "comedy",
-        "romance",
-        "school",
-        "shounen",
-        "supernatural"
-      ],
-      "id": "https://livechart.me/anime/2342"
-    },
-    {
-      "sources": [
-        "https://anilist.co/anime/1421"
-      ],
-      "title": "Lupin III: Hemmingway Paper no Nazo",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SUMMER",
-        "year": 1990
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1421.jpg",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1421.jpg",
-      "synonyms": [
-        "Lupin III: Mystery of the Hemingway Papers",
-        "Lupin the 3rd: The Hemingway Papers",
-        "Rupan Sansei: Hemmingway Paper no Nazo",
-        "ルパン三世『ヘミングウェイペーパーの謎"
-      ],
-      "relations": [
-        "https://anilist.co/anime/1412"
-      ],
-      "tags": [
-        "adventure",
-        "comedy",
-        "foreign",
-        "fugitive",
-        "primarily adult cast",
-        "shounen"
-      ],
-      "id": "https://anilist.co/anime/1421"
-    },
-    {
-      "sources": [
         "https://anime-planet.com/anime/mitchie-m-news-39"
       ],
       "title": "Mitchie M: News 39",
@@ -848,41 +797,14 @@
         "season": "UNDEFINED",
         "year": 2015
       },
-      "picture": "https://anime-planet.com/images/anime/covers/12808.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/12808.jpg",
+      "picture": "https://cdn.anime-planet.com/anime/primary/mitchie-m-news-39-1.jpg?t=1625899073",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/mitchie-m-news-39-1-190x266.jpg?t=1625899073",
       "synonyms": [],
       "relations": [],
       "tags": [
         "vocaloid"
       ],
       "id": "https://anime-planet.com/anime/mitchie-m-news-39"
-    },
-    {
-      "sources": [
-        "https://anidb.net/anime/15490",
-        "https://myanimelist.net/anime/44488",
-        "https://myanimelist.net/anime/46656"
-      ],
-      "title": "Mo Dan Wang",
-      "type": "TV",
-      "episodes": 52,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 2013
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "魔弹王",
-        "魔彈王"
-      ],
-      "relations": [],
-      "tags": [
-        "adventure",
-        "kids"
-      ],
-      "id": "https://myanimelist.net/anime/46656"
     },
     {
       "sources": [
@@ -914,12 +836,16 @@
       "relations": [],
       "tags": [
         "animal protagonists",
+        "animals",
         "anthropomorphic",
+        "anthropomorphism",
+        "band",
         "comedy",
         "music",
         "non-human protagonists",
         "original work",
-        "short episodes"
+        "short episodes",
+        "surreal comedy"
       ],
       "id": "https://myanimelist.net/anime/31369"
     },
@@ -952,6 +878,7 @@
       ],
       "relations": [
         "https://anidb.net/anime/6577",
+        "https://anisearch.com/anime/7066",
         "https://myanimelist.net/anime/4397"
       ],
       "tags": [
@@ -1016,70 +943,120 @@
     },
     {
       "sources": [
-        "https://anisearch.com/anime/12500"
+        "https://anime-planet.com/anime/shiina-natsukawa-fanza",
+        "https://kitsu.io/anime/44471"
       ],
-      "title": "Seikai Suru Kado: Ekuwari",
-      "type": "TV",
+      "title": "Shiina Natsukawa: Fanza",
+      "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "SPRING",
-        "year": 2017
+        "season": "SUMMER",
+        "year": 2019
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/12/12500.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/12/12500.webp",
+      "picture": "https://cdn.anime-planet.com/anime/primary/shiina-natsukawa-fanza-1.jpg?t=1625908056",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/shiina-natsukawa-fanza-1-190x266.jpg?t=1625908056",
       "synonyms": [
-        "Kado: The Right Answer - Ekwari",
-        "Kado: The Right Answer 6.5",
-        "Kado: The Right Answer Recap",
-        "正解するカド エクワリ"
+        "Fansa",
+        "Fanservice",
+        "Fanza",
+        "ファンサ"
       ],
       "relations": [
-        "https://anisearch.com/anime/10914",
-        "https://anisearch.com/anime/12395",
-        "https://anisearch.com/anime/13639"
+        "https://kitsu.io/anime/44477"
       ],
       "tags": [
-        "cg-anime",
-        "drama",
-        "genius",
-        "present",
-        "psychological drama",
-        "science-fiction",
-        "stoic hero"
+        "idol",
+        "idols",
+        "music"
       ],
-      "id": "https://anisearch.com/anime/12500"
+      "id": "https://anime-planet.com/anime/shiina-natsukawa-fanza"
     },
     {
       "sources": [
+        "https://anidb.net/anime/17321",
         "https://anilist.co/anime/126367",
-        "https://anime-planet.com/anime/shikong-zhi-xi",
+        "https://anime-planet.com/anime/rift",
         "https://anisearch.com/anime/17132",
         "https://kitsu.io/anime/44602",
         "https://myanimelist.net/anime/50443"
       ],
       "title": "Shikong Zhi Xi",
       "type": "ONA",
-      "episodes": 0,
-      "status": "UPCOMING",
+      "episodes": 13,
+      "status": "FINISHED",
       "animeSeason": {
-        "season": "WINTER",
-        "year": 2021
+        "season": "SPRING",
+        "year": 2022
       },
       "picture": "https://cdn.myanimelist.net/images/anime/1258/119634.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1258/119634t.jpg",
       "synonyms": [
+        "Rift",
         "Shi Kong Zhi Xi",
+        "Space Time Rift",
         "Time and Space",
         "时空之隙"
       ],
-      "relations": [],
+      "relations": [
+        "https://anilist.co/anime/103473"
+      ],
       "tags": [
         "action",
         "chinese animation",
-        "fantasy"
+        "fantasy",
+        "male protagonist",
+        "slice of life",
+        "swordplay"
       ],
       "id": "https://myanimelist.net/anime/50443"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/153959",
+        "https://anime-planet.com/anime/ado-new-genesis",
+        "https://anisearch.com/anime/17470",
+        "https://kitsu.io/anime/46384",
+        "https://myanimelist.net/anime/52832"
+      ],
+      "title": "Shin Jidai",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SPRING",
+        "year": 2022
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1183/129386.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1183/129386t.jpg",
+      "synonyms": [
+        "Ado - New Genesis",
+        "Ado: NEW GENESIS",
+        "Ado: Shinjidai",
+        "New Genesis",
+        "Shinjidai",
+        "UTA'S SONGS ONE PIECE FILM RED",
+        "Uta / Ado - Shin Jidai",
+        "ウタ / Ado - 新時代",
+        "新時代"
+      ],
+      "relations": [
+        "https://anilist.co/anime/141902",
+        "https://anilist.co/anime/153964",
+        "https://anime-planet.com/anime/one-piece-film-red",
+        "https://anisearch.com/anime/16819",
+        "https://kitsu.io/anime/45513",
+        "https://kitsu.io/anime/46385",
+        "https://myanimelist.net/anime/50410",
+        "https://myanimelist.net/anime/52846",
+        "https://myanimelist.net/anime/52847"
+      ],
+      "tags": [
+        "independent anime",
+        "music",
+        "musical"
+      ],
+      "id": "https://myanimelist.net/anime/52832"
     },
     {
       "sources": [
@@ -1088,6 +1065,7 @@
         "https://anime-planet.com/anime/shin-minashigo-hutch",
         "https://anisearch.com/anime/3478",
         "https://kitsu.io/anime/5209",
+        "https://livechart.me/anime/11706",
         "https://myanimelist.net/anime/8139",
         "https://notify.moe/anime/oo9ktKmmR"
       ],
@@ -1106,6 +1084,7 @@
         "Le nuove avventure dell'Ape Magà",
         "Noile aventuri ale albinuţei Hutch",
         "The New Adventures of Hutch the Honeybee",
+        "hutch s2",
         "新みなしごハッチ",
         "昆虫物語　新みなしごハッチ"
       ],
@@ -1115,10 +1094,13 @@
         "https://anime-planet.com/anime/konchuu-monogatari-minashigo-hutch",
         "https://anime-planet.com/anime/konchuu-monogatari-minashigo-hutch-1989",
         "https://anime-planet.com/anime/konchuu-monogatari-mitsubachi-hutch-yuuki-no-melody",
-        "https://anisearch.com/anime/1615",
         "https://anisearch.com/anime/3210",
-        "https://anisearch.com/anime/5941",
         "https://kitsu.io/anime/3304",
+        "https://livechart.me/anime/11705",
+        "https://livechart.me/anime/11707",
+        "https://livechart.me/anime/11708",
+        "https://livechart.me/anime/11709",
+        "https://livechart.me/anime/11710",
         "https://myanimelist.net/anime/3858",
         "https://notify.moe/anime/teE_cKimR"
       ],
@@ -1184,85 +1166,109 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/103237"
+        "https://myanimelist.net/anime/52025"
       ],
-      "title": "Uma Musume: BNW no Chikai",
-      "type": "OVA",
-      "episodes": 3,
+      "title": "Tsubuyaki-tai × Otona no I",
+      "type": "ONA",
+      "episodes": 6,
       "status": "FINISHED",
       "animeSeason": {
         "season": "FALL",
-        "year": 2018
+        "year": 2014
       },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103237-EFvIy9iLXfYV.jpg",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103237-EFvIy9iLXfYV.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1719/124310.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1719/124310t.jpg",
       "synonyms": [
-        "ウマ娘「BNWの誓い」"
+        "つぶやき隊×大人の胃"
       ],
       "relations": [
-        "https://anilist.co/anime/98514"
+        "https://myanimelist.net/anime/34163"
       ],
       "tags": [
-        "athletics",
-        "female protagonist",
-        "food",
-        "idol",
-        "kemonomimi",
-        "primarily female cast",
-        "school",
-        "slice of life",
-        "sports"
+        "comedy"
       ],
-      "id": "https://anilist.co/anime/103237"
+      "id": "https://myanimelist.net/anime/52025"
+    },
+    {
+      "sources": [
+        "https://anidb.net/anime/17670",
+        "https://anilist.co/anime/155730",
+        "https://anime-planet.com/anime/uchi-no-kaisha-no-chiisai-senpai-no-hanashi",
+        "https://anisearch.com/anime/17783",
+        "https://kitsu.io/anime/46647",
+        "https://livechart.me/anime/11561",
+        "https://myanimelist.net/anime/53379",
+        "https://notify.moe/anime/tTNNdwH4R"
+      ],
+      "title": "Uchi no Kaisha no Chiisai Senpai no Hanashi",
+      "type": "TV",
+      "episodes": 12,
+      "status": "UPCOMING",
+      "animeSeason": {
+        "season": "SUMMER",
+        "year": 2023
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1425/134285.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1425/134285t.jpg",
+      "synonyms": [
+        "My Company's Small Senpai",
+        "My Company's Small Senpai, Story of a Small Senior in My Company",
+        "My Company’s Small Senpai",
+        "My Tiny Senpai",
+        "My Tiny Senpai From Work",
+        "Story of a Small Senior in My Company",
+        "Story of a small senior in my company",
+        "Uchi no Kaisha no Chīsai Senpai no Hanashi",
+        "うちの会社の小さい先輩の話"
+      ],
+      "relations": [],
+      "tags": [
+        "adult cast",
+        "adult couples",
+        "based on a doujinshi",
+        "based on a manga",
+        "comedy",
+        "coworkers",
+        "ecchi",
+        "heterosexual",
+        "manga",
+        "mature romance",
+        "office lady",
+        "office worker",
+        "present",
+        "primarily adult cast",
+        "romance",
+        "romantic comedy",
+        "slice of life",
+        "work",
+        "working life",
+        "workplace"
+      ],
+      "id": "https://myanimelist.net/anime/53379"
     },
     {
       "sources": [
         "https://myanimelist.net/anime/46933"
       ],
       "title": "Xiao Ban Long Haiyang Baike",
-      "type": "TV",
-      "episodes": 7,
+      "type": "ONA",
+      "episodes": 9,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2019
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1014/129403.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1014/129403t.jpg",
       "synonyms": [
         "小伴龙海洋百科"
       ],
       "relations": [],
       "tags": [
+        "fantasy",
         "kids"
       ],
       "id": "https://myanimelist.net/anime/46933"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/45419"
-      ],
-      "title": "Xiao Ji Caihong 2",
-      "type": "TV",
-      "episodes": 13,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "小鸡彩虹2"
-      ],
-      "relations": [
-        "https://myanimelist.net/anime/45418",
-        "https://myanimelist.net/anime/45420"
-      ],
-      "tags": [
-        "fantasy"
-      ],
-      "id": "https://myanimelist.net/anime/45419"
     },
     {
       "sources": [
@@ -1296,12 +1302,14 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/20359",
+        "https://anime-planet.com/anime/yamada-kun-and-the-seven-witches-pv",
         "https://anisearch.com/anime/8938",
         "https://kitsu.io/anime/8062",
         "https://myanimelist.net/anime/20359",
         "https://notify.moe/anime/mVshtFmmR"
       ],
-      "title": "Yamada-kun to 7-nin no Majo",
+      "title": "Yamada-kun to 7-nin no Majo PV",
       "type": "ONA",
       "episodes": 1,
       "status": "FINISHED",
@@ -1312,13 +1320,23 @@
       "picture": "https://cdn.myanimelist.net/images/anime/8/58865.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/8/58865t.jpg",
       "synonyms": [
+        "Yamada and the Seven Witches",
         "Yamada-kun and the 7 Witches",
         "Yamada-kun and the Seven Witches",
+        "Yamada-kun and the Seven Witches PV",
+        "Yamada-kun to 7-nin no Majo",
+        "Yamada-kun to 7-nin no Majo (ONA)",
         "Yamada-kun to Nananin no Majo",
+        "Yamajo",
         "やまだくんとななにんのまじょ",
         "山田くんと7人の魔女"
       ],
       "relations": [
+        "https://anilist.co/anime/20740",
+        "https://anilist.co/anime/20966",
+        "https://anime-planet.com/anime/yamada-kun-and-the-seven-witches",
+        "https://anime-planet.com/anime/yamada-kun-and-the-seven-witches-ova",
+        "https://anisearch.com/anime/9741",
         "https://kitsu.io/anime/10042",
         "https://kitsu.io/anime/8494",
         "https://myanimelist.net/anime/24627",
@@ -1327,19 +1345,53 @@
         "https://notify.moe/anime/m_jPpKmig"
       ],
       "tags": [
+        "based on a manga",
+        "body swapping",
         "comedy",
         "ecchi",
         "gender bender",
+        "male protagonist",
         "present",
+        "promotional",
         "romance",
         "school",
         "school clubs",
         "school life",
+        "shorts",
         "shounen",
         "slapstick",
-        "supernatural"
+        "supernatural",
+        "witches"
       ],
       "id": "https://myanimelist.net/anime/20359"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/162146",
+        "https://myanimelist.net/anime/54621"
+      ],
+      "title": "Zaiyuki",
+      "type": "UNKNOWN",
+      "episodes": 0,
+      "status": "UPCOMING",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": null
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1854/133774.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1854/133774t.jpg",
+      "synonyms": [
+        "ZAIYUKI",
+        "在勇気"
+      ],
+      "relations": [],
+      "tags": [
+        "adventure",
+        "fantasy",
+        "kemonomimi",
+        "youkai"
+      ],
+      "id": "https://myanimelist.net/anime/54621"
     }
   ]
 }

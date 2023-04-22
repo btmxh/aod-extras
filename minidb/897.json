@@ -2,50 +2,27 @@
   "data": [
     {
       "sources": [
-        "https://myanimelist.net/anime/44726"
+        "https://anilist.co/anime/140871",
+        "https://anime-planet.com/anime/a-pawn",
+        "https://kitsu.io/anime/45567"
       ],
-      "title": "A Li·Meng Zhi Chengbao",
+      "title": "A Pawn",
       "type": "MOVIE",
       "episodes": 1,
-      "status": "UPCOMING",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "阿狸·梦之城堡"
-      ],
-      "relations": [],
-      "tags": [
-        "fantasy",
-        "kids"
-      ],
-      "id": "https://myanimelist.net/anime/44726"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/47039"
-      ],
-      "title": "Bang Bang Long Chudong season5 (edited)",
-      "type": "TV",
-      "episodes": 52,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
+        "season": "WINTER",
+        "year": 2019
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "帮帮龙出动第5季"
-      ],
+      "picture": "https://cdn.anime-planet.com/anime/primary/a-pawn-1.webp?t=1656473276",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/a-pawn-1-285x399.webp?t=1656473276",
+      "synonyms": [],
       "relations": [],
       "tags": [
-        "kids"
+        "shorts",
+        "stop motion animation"
       ],
-      "id": "https://myanimelist.net/anime/47039"
+      "id": "https://anime-planet.com/anime/a-pawn"
     },
     {
       "sources": [
@@ -69,18 +46,23 @@
       "picture": "https://cdn.myanimelist.net/images/anime/5/3368.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/5/3368t.jpg",
       "synonyms": [
+        "Mahoutsukai on the Rock",
         "SOTR",
+        "Sheevas 1-2-3 Il Dio Perduto di Ikaros",
         "Sheevas 1-2-3: Il Dio Perduto di Ikaros",
+        "Shibas 1-2-3",
         "Sorcerer On The Rocks",
         "Sorcerer on the Rocks",
         "シーバス 1-2-3",
-        "シーバス１-２-３"
+        "シーバス１-２-３",
+        "妖術者 オンザロック"
       ],
       "relations": [
         "https://anidb.net/anime/701",
         "https://anidb.net/anime/939",
         "https://anime-planet.com/anime/sorcerer-hunters",
         "https://anime-planet.com/anime/sorcerer-hunters-ova",
+        "https://anisearch.com/anime/1939",
         "https://kitsu.io/anime/7786",
         "https://myanimelist.net/anime/495",
         "https://notify.moe/anime/KzhtpKiig"
@@ -96,8 +78,10 @@
         "ecchi",
         "fantasy",
         "fantasy world",
-        "large breasts - deprecated",
+        "female protagonist",
+        "large breasts",
         "magic",
+        "male protagonist",
         "manga",
         "monsters",
         "past",
@@ -107,58 +91,6 @@
         "supernatural"
       ],
       "id": "https://myanimelist.net/anime/1228"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/chou-futsuu-ken-chiba-densetsu"
-      ],
-      "title": "Chou Futsuu Ken Chiba Densetsu",
-      "type": "SPECIAL",
-      "episodes": 0,
-      "status": "UPCOMING",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://anime-planet.com/inc/img/blank_main.jpg",
-      "thumbnail": "https://anime-planet.com/inc/img/blank_main.jpg",
-      "synonyms": [
-        "The Legend of Super Normal Pref. Chiba"
-      ],
-      "relations": [
-        "https://anime-planet.com/anime/chou-futsuu-toshi-kashiwa-densetsu",
-        "https://anime-planet.com/anime/chou-futsuu-toshi-kashiwa-densetsu-r",
-        "https://anime-planet.com/anime/chou-futsuu-toshi-kashiwa-densetsu-z"
-      ],
-      "tags": [
-        "comedy",
-        "fantasy",
-        "gag"
-      ],
-      "id": "https://anime-planet.com/anime/chou-futsuu-ken-chiba-densetsu"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/47176"
-      ],
-      "title": "Dali Jingang season2",
-      "type": "ONA",
-      "episodes": 199,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "大力金刚 第二季"
-      ],
-      "relations": [],
-      "tags": [
-        "comedy"
-      ],
-      "id": "https://myanimelist.net/anime/47176"
     },
     {
       "sources": [
@@ -192,6 +124,7 @@
         "Danganronpa 3: The End of Hope’s Peak Academy - Despair Arc",
         "Danganronpa 3: The End of Hope’s Peak Academy - Despair Volume",
         "Danganronpa 3: The End of Hope’s Peak High School",
+        "Danganronpa 3: The End of Hope’s Peak High School - Arco de la desesperación",
         "Danganronpa 3: The End of Hope’s Peak High School - Despair Arc",
         "Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou Hen",
         "Danganronpa 3: The End of Kibougamine Gakuen: Zetsubou-hen",
@@ -199,6 +132,7 @@
         "ダンガンロンパ3 -The End of 希望ヶ峰学園- 絶望編",
         "ダンガンロンパ3 -The End of 希望ヶ峰学園-　絶望編",
         "弹丸论破3 -The End of 希望之峰学园- 绝望篇",
+        "槍彈辯駁3 -The End of 希望峰學園- 絕望篇",
         "단간론파 3 -The End of 키보가미네 학원 - 절망편"
       ],
       "relations": [
@@ -209,9 +143,6 @@
         "https://anime-planet.com/anime/danganronpa-3-the-end-of-hopes-peak-academy-hope-arc",
         "https://anime-planet.com/anime/danganronpa-the-animation",
         "https://anime-planet.com/anime/super-danganronpa-2-5-komaeda-nagito-to-sekai-no-hakaisha",
-        "https://anisearch.com/anime/11046",
-        "https://anisearch.com/anime/11793",
-        "https://anisearch.com/anime/12189",
         "https://anisearch.com/anime/8222",
         "https://kitsu.io/anime/11579",
         "https://kitsu.io/anime/12554",
@@ -231,8 +162,10 @@
         "action",
         "anti-hero",
         "based on a video game",
+        "bisexual",
         "chuunibyou",
         "crime",
+        "dissociative identities",
         "drama",
         "dystopian",
         "ensemble cast",
@@ -240,8 +173,11 @@
         "game",
         "gore",
         "high school",
+        "high stakes game",
         "high stakes games",
         "horror",
+        "lgbtq+ themes",
+        "male protagonist",
         "meta",
         "mystery",
         "otaku culture",
@@ -255,35 +191,13 @@
         "school life",
         "suicide",
         "supernatural drama",
+        "survival",
         "teacher",
         "tragedy",
         "visual novel",
         "yandere"
       ],
       "id": "https://myanimelist.net/anime/33028"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/47192"
-      ],
-      "title": "Ershisi Jieqi De Gushi",
-      "type": "TV",
-      "episodes": 24,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "二十四节气的故事"
-      ],
-      "relations": [],
-      "tags": [
-        "kids"
-      ],
-      "id": "https://myanimelist.net/anime/47192"
     },
     {
       "sources": [
@@ -310,12 +224,14 @@
         "GabDro",
         "Gabdrop",
         "Gabriel Dropout",
+        "gabdro",
         "Отступница Габриэль",
         "Пропащая Габриэль",
         "がぶりーるどろっぷあうと",
         "ガヴドロ",
         "ガヴリール ドロップアウト",
         "ガヴリールドロップアウト",
+        "廢天使加百列",
         "珈百璃的堕落",
         "가브릴 드롭아웃"
       ],
@@ -333,6 +249,7 @@
         "angels",
         "based on a manga",
         "celestial beings",
+        "cgdct",
         "chuunibyou",
         "comedy",
         "cute girls doing cute things",
@@ -351,6 +268,7 @@
         "magic",
         "manga",
         "moe",
+        "mythology",
         "non-human protagonists",
         "parody",
         "present",
@@ -401,6 +319,7 @@
         "https://anidb.net/anime/3976",
         "https://anilist.co/anime/2749",
         "https://anime-planet.com/anime/heisei-inu-monogatari-bow",
+        "https://anisearch.com/anime/135",
         "https://kitsu.io/anime/2509",
         "https://myanimelist.net/anime/2749",
         "https://notify.moe/anime/T7qs5Kmmg"
@@ -431,8 +350,8 @@
         "season": "SPRING",
         "year": 1988
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/5/53245.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/5/53245t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1239/133762.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1239/133762t.jpg",
       "synonyms": [
         "Dagon",
         "Dagon In The Lands Of Weeds",
@@ -449,105 +368,29 @@
     },
     {
       "sources": [
-        "https://myanimelist.net/anime/44112",
-        "https://myanimelist.net/anime/44113"
+        "https://anisearch.com/anime/18184",
+        "https://myanimelist.net/anime/54353"
       ],
-      "title": "Kaixin Baobei Zhi Qihuan Zhi Lu",
-      "type": "TV",
-      "episodes": 40,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2014
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "开心宝贝之奇幻之旅"
-      ],
-      "relations": [
-        "https://myanimelist.net/anime/44114"
-      ],
-      "tags": [
-        "adventure",
-        "kids"
-      ],
-      "id": "https://myanimelist.net/anime/44113"
-    },
-    {
-      "sources": [
-        "https://anilist.co/anime/2306"
-      ],
-      "title": "Kidou Senshi SD Gundam no Gyakushuu",
+      "title": "Kokuhaku……",
       "type": "OVA",
-      "episodes": 2,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SUMMER",
-        "year": 1989
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2306.jpg",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2306.jpg",
-      "synonyms": [
-        "Mobile Suit SD Gundam's Counterattack",
-        "機動戦士ＳＤガンダムの逆襲"
-      ],
-      "relations": [
-        "https://anilist.co/anime/2302"
-      ],
-      "tags": [
-        "comedy",
-        "mecha",
-        "parody"
-      ],
-      "id": "https://anilist.co/anime/2306"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/kindaichi-shounen-no-jikenbo-returns-akechi--keibu-no-jikenbo",
-        "https://anisearch.com/anime/11117"
-      ],
-      "title": "Kindaichi Shounen no Jikenbo Returns: Akechi Keibu no Jikenbo",
-      "type": "SPECIAL",
       "episodes": 1,
-      "status": "FINISHED",
+      "status": "UPCOMING",
       "animeSeason": {
-        "season": "FALL",
-        "year": 2015
+        "season": "SPRING",
+        "year": 2023
       },
-      "picture": "https://cdn.anime-planet.com/anime/primary/kindaichi-shounen-no-jikenbo-returns-akechi--keibu-no-jikenbo-1.jpg?t=1625897310",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/kindaichi-shounen-no-jikenbo-returns-akechi--keibu-no-jikenbo-1-190x268.jpg?t=1625897310",
+      "picture": "https://cdn.myanimelist.net/images/anime/1833/133135.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1833/133135t.jpg",
       "synonyms": [
-        "Kindaichi Shounen no Jikenbo Returns Especial: Los casos de Akechi",
-        "Kindaichi Shounen no Jikenbo Returns: Akechi-keibu no Jikenbo",
-        "Kindaichi Shōnen no Jikenbo Returns: Akechi-keibu no Jikenbo",
-        "The File of Young Kindaichi Returns Special: The File of Inspector Akechi",
-        "The File of Young Kindaichi Returns: The File of Inspector Akechi",
-        "金田一少年の事件簿R[リターンズ] 明智警部の事件簿"
+        "Kokuhaku...",
+        "告白......",
+        "告白……"
       ],
-      "relations": [
-        "https://anime-planet.com/anime/kindaichi-shounen-no-jikenbo",
-        "https://anime-planet.com/anime/kindaichi-shounen-no-jikenbo-2007",
-        "https://anime-planet.com/anime/kindaichi-shounen-no-jikenbo-kuromajutsu-satsujin-jiken-hen",
-        "https://anime-planet.com/anime/kindaichi-shounen-no-jikenbo-movie-1-operazakan-aratanaru-satsujin",
-        "https://anime-planet.com/anime/kindaichi-shounen-no-jikenbo-movie-2-satsuriku-no-deep-blue",
-        "https://anime-planet.com/anime/kindaichi-shounen-no-jikenbo-returns",
-        "https://anime-planet.com/anime/kindaichi-shounen-no-jikenbo-returns-2015",
-        "https://anisearch.com/anime/10661",
-        "https://anisearch.com/anime/9455"
-      ],
+      "relations": [],
       "tags": [
-        "based on a manga",
-        "crime fiction",
-        "delinquent",
-        "drama",
-        "martial arts",
-        "mystery",
-        "policeman",
-        "present",
-        "shounen"
+        "hentai"
       ],
-      "id": "https://anime-planet.com/anime/kindaichi-shounen-no-jikenbo-returns-akechi--keibu-no-jikenbo"
+      "id": "https://myanimelist.net/anime/54353"
     },
     {
       "sources": [
@@ -576,6 +419,7 @@
         "Sekka ni Nayandemasu.",
         "This Boy Suffers From Crystallization",
         "This Boy Suffers from Crystallization",
+        "konodan s3",
         "このだんしせきかになやんでます",
         "この男子, 石化に悩んでます.",
         "この男子、石化に悩んでます。"
@@ -590,6 +434,8 @@
         "https://anime-planet.com/anime/this-boy-can-fight-aliens",
         "https://anime-planet.com/anime/this-boy-caught-a-merman",
         "https://anime-planet.com/anime/this-boy-is-a-professional-wizard",
+        "https://anisearch.com/anime/10965",
+        "https://anisearch.com/anime/8081",
         "https://kitsu.io/anime/11599",
         "https://kitsu.io/anime/6498",
         "https://kitsu.io/anime/7257",
@@ -607,6 +453,7 @@
         "boys' love",
         "coming of age",
         "contemporary fantasy",
+        "disability",
         "drama",
         "fantasy",
         "hero of strong character",
@@ -660,6 +507,7 @@
         "https://anilist.co/anime/6229",
         "https://anime-planet.com/anime/konpeki-no-kantai",
         "https://anisearch.com/anime/3548",
+        "https://anisearch.com/anime/3549",
         "https://kitsu.io/anime/4485",
         "https://myanimelist.net/anime/6229",
         "https://notify.moe/anime/WrQq5Fmig"
@@ -695,94 +543,34 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1159/119017.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1159/119017t.jpg",
       "synonyms": [
+        "Busty Elf Mother and Daughter Hypnosis “Yes… Let Us Mother and Daughter Suck Your Highly Esteemed Human Cock…”",
         "Kyonyū Elf Oyako Saimin",
         "巨乳エルフ母娘催眠"
       ],
-      "relations": [],
+      "relations": [
+        "https://anisearch.com/anime/14812"
+      ],
       "tags": [
         "alternative world",
+        "anal",
         "big boobs",
+        "boobjob",
+        "dark skinned girl",
+        "defloration",
         "elves",
         "fantasy",
-        "hentai"
+        "hentai",
+        "oral",
+        "outdoors",
+        "threesome",
+        "urinating"
       ],
       "id": "https://myanimelist.net/anime/50237"
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/lupin-the-3rd-special-18-seven-days-rhapsody"
-      ],
-      "title": "Lupin III Special 18: Seven Days Rhapsody",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2006
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/lupin-the-3rd-special-18-seven-days-rhapsody-1.jpg?t=1638150398",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/lupin-the-3rd-special-18-seven-days-rhapsody-1-190x265.jpg?t=1638150398",
-      "synonyms": [],
-      "relations": [
-        "https://anime-planet.com/anime/lupin-iii-special-19-the-elusiveness-of-the-fog",
-        "https://anime-planet.com/anime/lupin-the-3rd",
-        "https://anime-planet.com/anime/lupin-the-3rd-dead-or-alive",
-        "https://anime-planet.com/anime/lupin-the-3rd-dragon-of-doom",
-        "https://anime-planet.com/anime/lupin-the-3rd-farewall-to-nostradamus",
-        "https://anime-planet.com/anime/lupin-the-3rd-goemons-blood-spray",
-        "https://anime-planet.com/anime/lupin-the-3rd-green-vs-red",
-        "https://anime-planet.com/anime/lupin-the-3rd-jigens-gravestone",
-        "https://anime-planet.com/anime/lupin-the-3rd-legend-of-the-gold-of-babylon",
-        "https://anime-planet.com/anime/lupin-the-3rd-lupin-family-all-stars",
-        "https://anime-planet.com/anime/lupin-the-3rd-part-2",
-        "https://anime-planet.com/anime/lupin-the-3rd-part-3",
-        "https://anime-planet.com/anime/lupin-the-3rd-part-4",
-        "https://anime-planet.com/anime/lupin-the-3rd-pilot-film",
-        "https://anime-planet.com/anime/lupin-the-3rd-return-of-pycal",
-        "https://anime-planet.com/anime/lupin-the-3rd-secret-files",
-        "https://anime-planet.com/anime/lupin-the-3rd-special-1-bye-bye-lady-liberty",
-        "https://anime-planet.com/anime/lupin-the-3rd-special-11-the-columbus-files",
-        "https://anime-planet.com/anime/lupin-the-3rd-special-12-missed-by-a-dollar",
-        "https://anime-planet.com/anime/lupin-the-3rd-special-13-alcatraz-connection",
-        "https://anime-planet.com/anime/lupin-the-3rd-special-14-episode-0-first-contact",
-        "https://anime-planet.com/anime/lupin-the-3rd-special-15-operation-return-the-treasures",
-        "https://anime-planet.com/anime/lupin-the-3rd-special-16-stolen-lupin",
-        "https://anime-planet.com/anime/lupin-the-3rd-special-17-angel-tactics",
-        "https://anime-planet.com/anime/lupin-the-3rd-special-2-the-hemingway-papers",
-        "https://anime-planet.com/anime/lupin-the-3rd-special-20-sweet-lost-night",
-        "https://anime-planet.com/anime/lupin-the-3rd-special-21-lupin-the-third-vs-detective-conan",
-        "https://anime-planet.com/anime/lupin-the-3rd-special-22-the-last-job",
-        "https://anime-planet.com/anime/lupin-the-3rd-special-23-blood-seal-of-the-eternal-mermaid",
-        "https://anime-planet.com/anime/lupin-the-3rd-special-24-touhou-kenbunroku-another-page",
-        "https://anime-planet.com/anime/lupin-the-3rd-special-25-princess-of-the-breeze-kakusareta-kuuchuu-toshi",
-        "https://anime-planet.com/anime/lupin-the-3rd-special-26-italian-game",
-        "https://anime-planet.com/anime/lupin-the-3rd-special-27-goodbye-partner",
-        "https://anime-planet.com/anime/lupin-the-3rd-special-3-napoleons-dictionary",
-        "https://anime-planet.com/anime/lupin-the-3rd-special-4-from-siberia-with-love",
-        "https://anime-planet.com/anime/lupin-the-3rd-special-5-voyage-to-danger",
-        "https://anime-planet.com/anime/lupin-the-3rd-special-8-secret-of-the-twilight-gemini",
-        "https://anime-planet.com/anime/lupin-the-3rd-special-9-island-of-assassins",
-        "https://anime-planet.com/anime/lupin-the-3rd-speical-10-crisis-in-tokyo",
-        "https://anime-planet.com/anime/lupin-the-3rd-the-castle-of-cagliostro",
-        "https://anime-planet.com/anime/lupin-the-3rd-the-first",
-        "https://anime-planet.com/anime/lupin-the-3rd-the-fuma-conspiracy",
-        "https://anime-planet.com/anime/lupin-the-3rd-the-mystery-of-mamo",
-        "https://anime-planet.com/anime/lupin-the-3rd-the-woman-called-fujiko-mine",
-        "https://anime-planet.com/anime/lupin-the-pursuit-of-harimaos-treasure",
-        "https://anime-planet.com/anime/lupin-viii-arsene-and-cie",
-        "https://anime-planet.com/anime/monkey-majik-lupin-the-third"
-      ],
-      "tags": [
-        "action",
-        "based on a manga",
-        "comedy",
-        "thieves"
-      ],
-      "id": "https://anime-planet.com/anime/lupin-the-3rd-special-18-seven-days-rhapsody"
-    },
-    {
-      "sources": [
         "https://anidb.net/anime/4586",
+        "https://anisearch.com/anime/3722",
         "https://kitsu.io/anime/9435",
         "https://myanimelist.net/anime/24683",
         "https://notify.moe/anime/TKAftKmmg"
@@ -798,6 +586,8 @@
       "picture": "https://cdn.myanimelist.net/images/anime/11/63535.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/11/63535t.jpg",
       "synonyms": [
+        "Manzai Taikou-ki",
+        "Manzai Taikō-ki",
         "マンザイ太閤記"
       ],
       "relations": [],
@@ -818,7 +608,7 @@
         "https://myanimelist.net/anime/2017",
         "https://notify.moe/anime/T2cYcFmiR"
       ],
-      "title": "Mermaid's Scar",
+      "title": "Ningyo no Kizu",
       "type": "OVA",
       "episodes": 1,
       "status": "FINISHED",
@@ -826,18 +616,19 @@
         "season": "SUMMER",
         "year": 1993
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/1/2144.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1/2144t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1738/129753.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1738/129753t.jpg",
       "synonyms": [
         "El Mundo de Rumiko: La Cicatriz de la Sirena",
         "Il Segno della Sirena",
         "La cicatrice de la sirène",
+        "Mermaid's Scar",
         "Mermaid's Scar: La Cicatrice de la Sirène",
         "Mermaid`s Scar",
-        "Ningyo no Kizu",
         "Rumic World 5",
         "Шрам русалки",
-        "人魚の傷"
+        "人魚の傷",
+        "人鱼之伤"
       ],
       "relations": [
         "https://anidb.net/anime/1100",
@@ -846,7 +637,6 @@
         "https://anilist.co/anime/620",
         "https://anime-planet.com/anime/mermaid-forest",
         "https://anime-planet.com/anime/mermaid-forest-tv",
-        "https://anisearch.com/anime/129",
         "https://anisearch.com/anime/2785",
         "https://anisearch.com/anime/9647",
         "https://kitsu.io/anime/1815",
@@ -890,65 +680,6 @@
     },
     {
       "sources": [
-        "https://kitsu.io/anime/13155"
-      ],
-      "title": "Miraijin Go Home",
-      "type": "ONA",
-      "episodes": 4,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 2016
-      },
-      "picture": "https://media.kitsu.io/anime/poster_images/13155/small.jpg",
-      "thumbnail": "https://media.kitsu.io/anime/poster_images/13155/tiny.jpg",
-      "synonyms": [
-        "Future People Go Home",
-        "未来人ゴーホーム"
-      ],
-      "relations": [],
-      "tags": [
-        "science fiction"
-      ],
-      "id": "https://kitsu.io/anime/13155"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/nanbaka-2nd-season",
-        "https://livechart.me/anime/2422"
-      ],
-      "title": "Nanbaka 2nd Season",
-      "type": "ONA",
-      "episodes": 12,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 2017
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/nanbaka-2nd-season-1.jpg?t=1625780532",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/nanbaka-2nd-season-1-190x285.jpg?t=1625897522",
-      "synonyms": [
-        "The Numbers 2nd Season",
-        "ナンバカ 第2期"
-      ],
-      "relations": [
-        "https://anime-planet.com/anime/nanbaka",
-        "https://anime-planet.com/anime/nanbaka-idiots-with-student-numbers",
-        "https://livechart.me/anime/1403",
-        "https://livechart.me/anime/2459"
-      ],
-      "tags": [
-        "action",
-        "based on a webtoon",
-        "comedy",
-        "drama",
-        "island",
-        "prison"
-      ],
-      "id": "https://anime-planet.com/anime/nanbaka-2nd-season"
-    },
-    {
-      "sources": [
         "https://anidb.net/anime/4816",
         "https://anilist.co/anime/8842",
         "https://anime-planet.com/anime/oishinbo-nichibei-kome-sensou",
@@ -981,9 +712,11 @@
         "https://anilist.co/anime/8848",
         "https://anime-planet.com/anime/oishinbo",
         "https://anime-planet.com/anime/oishinbo-kyuukyoku-tai-shikou-chouju-ryouri-taiketsu",
-        "https://anisearch.com/anime/114",
         "https://anisearch.com/anime/4939",
         "https://kitsu.io/anime/5509",
+        "https://livechart.me/anime/11250",
+        "https://livechart.me/anime/6835",
+        "https://livechart.me/anime/7705",
         "https://myanimelist.net/anime/8848",
         "https://notify.moe/anime/NPMWpKiig"
       ],
@@ -1081,6 +814,7 @@
         "https://anidb.net/anime/4200",
         "https://anilist.co/anime/3201",
         "https://anime-planet.com/anime/serendipity-the-pink-dragon",
+        "https://anisearch.com/anime/552",
         "https://kitsu.io/anime/2853",
         "https://myanimelist.net/anime/3201",
         "https://notify.moe/anime/ki7w5Fimg"
@@ -1096,11 +830,16 @@
       "picture": "https://cdn.myanimelist.net/images/anime/12/47013.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/12/47013t.jpg",
       "synonyms": [
+        "Biniky le Dragon Rose",
         "Biniky le dragon rose",
         "Henry und der rosarote Drache",
+        "Rosaura",
         "Różowy smok Serendipity",
         "Serendipity Monogatari",
+        "Serendipity Monogatari: Pyua-tou no Nakama-tachi",
+        "Serendipity Monogatari: Pyua-tō no Nakama-tachi",
         "Serendipity Monogatari: Pyuatou no Nakamatachi",
+        "Serendipity Stories: Friends of Pure Island",
         "Serendipity the Pink Dragon",
         "ורדית הדרקונית",
         "ميمونة ومسعود",
@@ -1167,6 +906,7 @@
         "action comedy",
         "airsoft",
         "based on a manga",
+        "cgdct",
         "club",
         "comedy",
         "cute girls doing cute things",
@@ -1230,6 +970,7 @@
         "adventure",
         "afterlife",
         "alternative world",
+        "apocalypse",
         "based on a video game",
         "bullying",
         "coming of age",
@@ -1245,6 +986,7 @@
         "magic",
         "memory manipulation",
         "parallel world",
+        "person in a strange world",
         "rpg",
         "sci fi",
         "war"
@@ -1254,6 +996,7 @@
     {
       "sources": [
         "https://anilist.co/anime/128859",
+        "https://anime-planet.com/anime/yoasobi-tabun",
         "https://kitsu.io/anime/44004",
         "https://myanimelist.net/anime/50039"
       ],
@@ -1268,7 +1011,10 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1580/118597.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1580/118597t.jpg",
       "synonyms": [
+        "Haven't",
         "Probably",
+        "YOASOBI: Probably",
+        "YOASOBI: Tabun",
         "たぶん"
       ],
       "relations": [],
@@ -1321,7 +1067,6 @@
         "https://anime-planet.com/anime/tales-of-zestiria-the-x-age-of-chaos",
         "https://anisearch.com/anime/10469",
         "https://anisearch.com/anime/11570",
-        "https://anisearch.com/anime/11770",
         "https://kitsu.io/anime/11023",
         "https://livechart.me/anime/1645",
         "https://livechart.me/anime/2236",
@@ -1411,6 +1156,7 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1795/95088t.jpg",
       "synonyms": [
         "Búp bê ký ức",
+        "violet",
         "Βάιολετ Εβεργκάρντεν",
         "Вайолет Эвергарден",
         "ויולט אברגרדן",
@@ -1425,21 +1171,26 @@
         "https://anidb.net/anime/14013",
         "https://anidb.net/anime/14840",
         "https://anilist.co/anime/101432",
-        "https://anilist.co/anime/103047",
         "https://anilist.co/anime/109190",
+        "https://anilist.co/anime/154164",
         "https://anime-planet.com/anime/5-fun-de-wakaru-violet-evergarden",
         "https://anime-planet.com/anime/violet-evergarden-eternity-and-the-auto-memory-doll",
         "https://anime-planet.com/anime/violet-evergarden-movie",
         "https://anime-planet.com/anime/violet-evergarden-pv",
+        "https://anime-planet.com/anime/violet-evergarden-recollections",
         "https://anime-planet.com/anime/violet-evergarden-special",
         "https://anisearch.com/anime/13534",
         "https://anisearch.com/anime/13540",
         "https://anisearch.com/anime/14357",
+        "https://anisearch.com/anime/17792",
+        "https://anisearch.com/anime/17913",
         "https://kitsu.io/anime/41155",
         "https://kitsu.io/anime/41450",
         "https://kitsu.io/anime/42340",
         "https://kitsu.io/anime/43347",
         "https://kitsu.io/anime/45331",
+        "https://kitsu.io/anime/46780",
+        "https://livechart.me/anime/11685",
         "https://livechart.me/anime/3199",
         "https://livechart.me/anime/3371",
         "https://livechart.me/anime/9419",
@@ -1447,14 +1198,16 @@
         "https://myanimelist.net/anime/37987",
         "https://myanimelist.net/anime/39741",
         "https://myanimelist.net/anime/42166",
-        "https://myanimelist.net/anime/49145",
+        "https://myanimelist.net/anime/53672",
         "https://notify.moe/anime/1G8lcKFnR",
         "https://notify.moe/anime/44uev6Dig",
+        "https://notify.moe/anime/8BJiUJF4R",
         "https://notify.moe/anime/TH1_L67WR",
         "https://notify.moe/anime/UcwT4xmiR"
       ],
       "tags": [
         "adventure",
+        "age gap",
         "android",
         "based on a light novel",
         "coming of age",
@@ -1483,7 +1236,7 @@
         "steampunk",
         "stoic heroine",
         "tragedy",
-        "trains",
+        "travel",
         "war",
         "work",
         "world wars",
@@ -1601,6 +1354,7 @@
       ],
       "tags": [
         "action",
+        "adult cast",
         "air force",
         "asia",
         "aviation",
@@ -1623,7 +1377,8 @@
         "slice of life drama",
         "tragedy",
         "work",
-        "work life"
+        "work life",
+        "workplace"
       ],
       "id": "https://myanimelist.net/anime/798"
     }

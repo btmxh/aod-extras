@@ -2,32 +2,6 @@
   "data": [
     {
       "sources": [
-        "https://anilist.co/anime/140027",
-        "https://kitsu.io/anime/45833"
-      ],
-      "title": "About you",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2021
-      },
-      "picture": "https://media.kitsu.io/anime/45833/poster_image/small-10da3f155f0275b6bd3111470678ac77.jpeg",
-      "thumbnail": "https://media.kitsu.io/anime/45833/poster_image/tiny-f02743c5eebb9b16f7e1e6d88fc71c32.jpeg",
-      "synonyms": [
-        "チェ ソヨン"
-      ],
-      "relations": [],
-      "tags": [
-        "no dialogue",
-        "psychological",
-        "swimming"
-      ],
-      "id": "https://kitsu.io/anime/45833"
-    },
-    {
-      "sources": [
         "https://anidb.net/anime/10058",
         "https://anilist.co/anime/108748",
         "https://anime-planet.com/anime/anisava",
@@ -50,7 +24,9 @@
         "ANISAVA",
         "アニサバ"
       ],
-      "relations": [],
+      "relations": [
+        "https://anisearch.com/anime/10099"
+      ],
       "tags": [
         "animal protagonists",
         "animals",
@@ -71,30 +47,115 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/126169",
+        "https://anime-planet.com/anime/code-geass-lelouch-of-the-rebellion-dvd-magazine-picture-drama",
         "https://myanimelist.net/anime/41075"
       ],
       "title": "Code Geass: Hangyaku no Lelouch DVD Magazine Picture Drama",
       "type": "SPECIAL",
-      "episodes": 4,
+      "episodes": 8,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "FALL",
         "year": 2007
       },
       "picture": "https://cdn.myanimelist.net/images/anime/1566/105441.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1566/105441t.jpg",
       "synonyms": [
+        "BABA Gekijou",
+        "BABA劇場",
+        "Code Geass Best Phrase Award",
+        "Code Geass Secret Note",
+        "Code Geass: Hangyaku no Lelouch DVD Magazine",
+        "Code Geass: Lelouch of the Rebellion DVD Magazine Picture Drama",
         "Lelouch's Britannia History Course",
+        "Lelouch-sensei no Britannia-shi Kouza",
+        "Sayoko no Nikkichou",
         "Sayoko's Diary",
-        "コードギアス 反逆のルルーシュ DVDマガジン"
+        "コードギアス Best Phrase Award",
+        "コードギアス シークレットノート",
+        "コードギアス 反逆のルルーシュ DVDマガジン",
+        "ルルーシュ先生のブリタニア史講座",
+        "咲世子の日記帳"
       ],
       "relations": [
+        "https://anilist.co/anime/1575",
+        "https://anime-planet.com/anime/code-geass-lelouch-of-the-rebellion",
         "https://myanimelist.net/anime/1575"
       ],
       "tags": [
-        "comedy"
+        "comedy",
+        "kuudere",
+        "picture drama"
       ],
       "id": "https://myanimelist.net/anime/41075"
+    },
+    {
+      "sources": [
+        "https://anidb.net/anime/17330",
+        "https://anilist.co/anime/147885",
+        "https://anime-planet.com/anime/play-it-cool-guys",
+        "https://anisearch.com/anime/17316",
+        "https://kitsu.io/anime/46078",
+        "https://livechart.me/anime/11191",
+        "https://myanimelist.net/anime/51680",
+        "https://notify.moe/anime/7_eI9-Qng"
+      ],
+      "title": "Cool Doji Danshi",
+      "type": "TV",
+      "episodes": 24,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "FALL",
+        "year": 2022
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1123/134677.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1123/134677t.jpg",
+      "synonyms": [
+        "Play It Cool, Guys",
+        "Play it Cool, Guys",
+        "クールドジ男子",
+        "呆萌酷男孩"
+      ],
+      "relations": [
+        "https://anilist.co/anime/156759",
+        "https://anilist.co/anime/162716",
+        "https://anime-planet.com/anime/mafumafu-seishun-kippu",
+        "https://anime-planet.com/anime/petit-cool-doji-danshi-no-hito-koma",
+        "https://anisearch.com/anime/18285",
+        "https://kitsu.io/anime/47203",
+        "https://livechart.me/anime/11858",
+        "https://myanimelist.net/anime/53560",
+        "https://myanimelist.net/anime/54718",
+        "https://notify.moe/anime/l62zPya4g"
+      ],
+      "tags": [
+        "based on a manga",
+        "chibi",
+        "college",
+        "comedy",
+        "cute boys doing cute things",
+        "episodic",
+        "fashion",
+        "half-length episodes",
+        "handball",
+        "iyashikei",
+        "kuudere",
+        "male protagonist",
+        "manga",
+        "present",
+        "primarily adult cast",
+        "primarily male cast",
+        "school",
+        "shoujo",
+        "slapstick",
+        "slice of life",
+        "tsundere",
+        "urban",
+        "work",
+        "writing"
+      ],
+      "id": "https://myanimelist.net/anime/51680"
     },
     {
       "sources": [
@@ -102,22 +163,114 @@
       ],
       "title": "Daming Wangchao",
       "type": "TV",
-      "episodes": 608,
+      "episodes": 200,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2009
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1177/129557.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1177/129557t.jpg",
       "synonyms": [
         "大明王朝"
       ],
       "relations": [],
       "tags": [
-        "historical"
+        "historical",
+        "kids"
       ],
       "id": "https://myanimelist.net/anime/46205"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/dig-rock-throne-mini-album-rubia-leopard-throne-cm"
+      ],
+      "title": "DIG-ROCK THRONE Mini Album: RUBIA Leopard - THRONE CM",
+      "type": "ONA",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2022
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/dig-rock-throne-mini-album-rubia-leopard-throne-cm-1.webp?t=1679636410",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/dig-rock-throne-mini-album-rubia-leopard-throne-cm-1-285x399.webp?t=1679636410",
+      "synonyms": [],
+      "relations": [
+        "https://anime-planet.com/anime/dig-rock-break-time-in-ny-type-rl-rubia-leopard-home-cm",
+        "https://anime-planet.com/anime/dig-rock-break-time-type-rl-rubia-leopard-higher-ground-cm",
+        "https://anime-planet.com/anime/dig-rock-dice-type-rl-rubia-leopard-no-limit-cm",
+        "https://anime-planet.com/anime/dig-rock-dice-type-rl-x-hr-rubia-leopard-lover-cm",
+        "https://anime-planet.com/anime/dig-rock-duel-fes-vol-3-rubia-leopard-identity-cm",
+        "https://anime-planet.com/anime/dig-rock-red-type-rl-rubia-leopard-destination-cm",
+        "https://anime-planet.com/anime/dig-rock-rubia-leopard-vol-1-rubia-leopard-answer-cm",
+        "https://anime-planet.com/anime/dig-rock-rubia-leopard-vol-2-rubia-leopard-chained-to-you-cm",
+        "https://anime-planet.com/anime/dig-rock-rubia-leopard-vol-3-rubia-leopard-never-end-cm",
+        "https://anime-planet.com/anime/dig-rock-trigger-mini-album-rubia-leopard-exister-cm"
+      ],
+      "tags": [
+        "commercials",
+        "promotional"
+      ],
+      "id": "https://anime-planet.com/anime/dig-rock-throne-mini-album-rubia-leopard-throne-cm"
+    },
+    {
+      "sources": [
+        "https://anidb.net/anime/16205",
+        "https://anilist.co/anime/129351",
+        "https://kitsu.io/anime/44617",
+        "https://notify.moe/anime/LrMYQ7CMg"
+      ],
+      "title": "Douluo Dalu: Hanhai Qian Kun",
+      "type": "ONA",
+      "episodes": 13,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "FALL",
+        "year": 2020
+      },
+      "picture": "https://media.kitsu.io/anime/poster_images/44617/small.jpg",
+      "thumbnail": "https://media.kitsu.io/anime/poster_images/44617/tiny.jpg",
+      "synonyms": [
+        "Douluo Dalu 7th Season",
+        "Douluo Dalu 7th season",
+        "Douluo Dalu Di Qi Ji",
+        "Douluo Dalu Part 7",
+        "Douluo Dalu Zhi Hanhai Qiankun Pian",
+        "Douluo Dalu: Hanhai Qiankun",
+        "Douluo Dalu: Hanhai Qiankun Pian",
+        "Soul Land 7th Season",
+        "Soul Land Part 7",
+        "Soul Land Season 7",
+        "斗罗大陆 瀚海乾坤",
+        "斗罗大陆 瀚海乾坤篇",
+        "斗罗大陆 第七季",
+        "斗罗大陆 第七部分",
+        "斗罗大陆之瀚海乾坤篇"
+      ],
+      "relations": [
+        "https://anidb.net/anime/16204",
+        "https://anidb.net/anime/16206",
+        "https://anilist.co/anime/129350",
+        "https://anilist.co/anime/129946",
+        "https://kitsu.io/anime/44616",
+        "https://kitsu.io/anime/44624",
+        "https://notify.moe/anime/oui5w7CMR",
+        "https://notify.moe/anime/p0rXQ7CGR"
+      ],
+      "tags": [
+        "action",
+        "adventure",
+        "cultivation",
+        "fantasy",
+        "full cgi",
+        "historical",
+        "martial arts",
+        "novel",
+        "romance",
+        "supernatural"
+      ],
+      "id": "https://kitsu.io/anime/44617"
     },
     {
       "sources": [
@@ -142,12 +295,13 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/8/35005t.jpg",
       "synonyms": [
         "DRAGON BALL EPISODE of BARDOCK",
+        "Dragon Ball : Épisode de Bardock",
         "Dragon Ball Z for Kinect OVA",
         "Dragon Ball: Episodio de Bardock",
+        "db special 3",
         "ドラゴンボール エピソード オブ バーダック"
       ],
       "relations": [
-        "https://anidb.net/anime/1530",
         "https://anidb.net/anime/2336",
         "https://anilist.co/anime/813",
         "https://anime-planet.com/anime/dragon-ball-plan-to-destroy-the-saiyajin",
@@ -175,6 +329,7 @@
         "https://anime-planet.com/anime/dragon-ball-z-plan-to-destroy-the-saiyajin",
         "https://anime-planet.com/anime/dragon-ball-z-special-1-bardock-the-father-of-goku",
         "https://anime-planet.com/anime/dragon-ball-z-special-2-the-history-of-trunks",
+        "https://anisearch.com/anime/2938",
         "https://kitsu.io/anime/720",
         "https://kitsu.io/anime/876",
         "https://livechart.me/anime/3632",
@@ -229,6 +384,8 @@
     {
       "sources": [
         "https://anilist.co/anime/136118",
+        "https://anime-planet.com/anime/olivia-rodrigo-drivers-license",
+        "https://anisearch.com/anime/16356",
         "https://myanimelist.net/anime/50071"
       ],
       "title": "Drivers License",
@@ -242,14 +399,21 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1346/118701.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1346/118701t.jpg",
       "synonyms": [
+        "Driver’s License",
+        "Olivia Rodrigo - Driver’s License",
+        "Olivia Rodrigo: drivers license",
         "drivers license",
+        "オリヴィア・ロドリゴ - ドライバーズ・ライセンス",
         "ドライバーズ・ライセンス"
       ],
       "relations": [],
       "tags": [
         "cars",
         "ghost",
-        "music"
+        "independent anime",
+        "music",
+        "present",
+        "romance"
       ],
       "id": "https://myanimelist.net/anime/50071"
     },
@@ -280,7 +444,6 @@
         "https://anime-planet.com/anime/green-green",
         "https://anime-planet.com/anime/green-green-character-dvd",
         "https://anime-planet.com/anime/green-green-ova",
-        "https://anisearch.com/anime/692",
         "https://anisearch.com/anime/809",
         "https://myanimelist.net/anime/133"
       ],
@@ -327,9 +490,12 @@
         "Hagure Yuusha no Estetica",
         "Hagure Yuusha no Kichiku Bigaku",
         "Hagure Yūsha no Aesthetica",
+        "hagureyuusha",
+        "hyna",
         "Естетика героя-вигнанця",
         "Потерявшийся герой забрал девицу домой",
         "مبادئ البطل المارق",
+        "ชีวิตอันแสนรื่นรมย์ของผู้กล้านอกระบบ",
         "はぐれ勇者の鬼畜美学",
         "はぐれ勇者の鬼畜美学 (エステティカ)",
         "はぐれ勇者の鬼畜美学[エステティカ]",
@@ -341,6 +507,8 @@
         "https://anilist.co/anime/15729",
         "https://anime-planet.com/anime/aesthetica-of-a-rogue-hero-specials",
         "https://anime-planet.com/anime/queens-blade-rebellion-vs-hagure-yuusha-no-aesthetica",
+        "https://anisearch.com/anime/7739",
+        "https://anisearch.com/anime/8294",
         "https://kitsu.io/anime/7298",
         "https://livechart.me/anime/991",
         "https://myanimelist.net/anime/14663",
@@ -361,7 +529,7 @@
         "harem",
         "hero of strong character",
         "isekai",
-        "large breasts - deprecated",
+        "large breasts",
         "magic",
         "magic school",
         "male protagonist",
@@ -437,7 +605,9 @@
         "drama",
         "earth",
         "hero of weak character",
+        "heterosexual",
         "horror",
+        "incest",
         "japan",
         "manga",
         "melancholy",
@@ -456,29 +626,98 @@
       "sources": [
         "https://myanimelist.net/anime/46658"
       ],
-      "title": "Ji Jia Xuanfeng Zhi Xingji Haidao",
+      "title": "Ji Jia Xuanfeng: Xingji Haidao",
       "type": "ONA",
       "episodes": 5,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2014
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1974/129175.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1974/129175t.jpg",
       "synonyms": [
         "机甲旋风之星际海盗"
       ],
       "relations": [
-        "https://myanimelist.net/anime/46657"
+        "https://myanimelist.net/anime/46657",
+        "https://myanimelist.net/anime/47063"
       ],
       "tags": [
+        "action",
+        "kids",
         "mecha"
       ],
       "id": "https://myanimelist.net/anime/46658"
     },
     {
       "sources": [
+        "https://anidb.net/anime/17664",
+        "https://anime-planet.com/anime/jojos-bizarre-adventure-stone-ocean-part-iii",
+        "https://anisearch.com/anime/17775",
+        "https://kitsu.io/anime/46598",
+        "https://myanimelist.net/anime/53273",
+        "https://notify.moe/anime/paL48pHVR"
+      ],
+      "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 3",
+      "type": "ONA",
+      "episodes": 14,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "FALL",
+        "year": 2022
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1233/128920.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1233/128920t.jpg",
+      "synonyms": [
+        "JOJO的奇妙冒险 石之海 Part.3",
+        "JoJo no Kimyou na Bouken: Stone Ocean (Part 3)",
+        "JoJo no Kimyou na Bouken: Stone Ocean Part 3",
+        "JoJo no Kimyō na Bōken: Stone Ocean (Part 3)",
+        "JoJo's Bizarre Adventure: Stone Ocean - Part III",
+        "JoJo's Bizarre Adventure: Stone Ocean Part 3",
+        "JoJo`s Bizarre Adventure: Stone Ocean (Part 3)",
+        "JoJo’s Bizarre Adventure : Stone Ocean (Partie 3)",
+        "JoJo’s Bizarre Adventure: Stone Ocean (Part 3)",
+        "JoJo’s Bizarre Adventure: Stone Ocean (Parte 2)",
+        "JoJo’s Bizarre Adventure: Stone Ocean (Teil 3)",
+        "Jojo no Kimyou na Bouken: Stone Ocean - Part III",
+        "Le bizzarre avventure di JoJo: Stone Ocean (Parte 3)",
+        "jojo s6.3",
+        "ジョジョの奇妙な冒険 ストーンオーシャン",
+        "ジョジョの奇妙な冒険 ストーンオーシャン (パート3)",
+        "ジョジョの奇妙な冒険 ストーンオーシャン 3クール",
+        "ジョジョの奇妙な冒険 ストーンオーシャン （パート3）"
+      ],
+      "relations": [
+        "https://anidb.net/anime/17286",
+        "https://anime-planet.com/anime/jojos-bizarre-adventure-stone-ocean-part-ii",
+        "https://anisearch.com/anime/17246",
+        "https://kitsu.io/anime/46010",
+        "https://myanimelist.net/anime/51367",
+        "https://notify.moe/anime/10s3Ktsng"
+      ],
+      "tags": [
+        "action",
+        "adventure",
+        "america",
+        "contemporary fantasy",
+        "drama",
+        "fighting-shounen",
+        "manga",
+        "prison",
+        "prisoner",
+        "proxy battles",
+        "shounen",
+        "super power",
+        "supernatural",
+        "united states"
+      ],
+      "id": "https://myanimelist.net/anime/53273"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/yoasobi-kaibutsu",
         "https://anisearch.com/anime/15903",
         "https://kitsu.io/anime/45709",
         "https://myanimelist.net/anime/47351"
@@ -491,20 +730,26 @@
         "season": "WINTER",
         "year": 2021
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1959/128937.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1959/128937t.jpg",
       "synonyms": [
         "Monster",
+        "Monster (Music)",
+        "YOASOBI: Kaibutsu",
+        "YOASOBI: Monster",
         "Yoasobi - Kaibutsu",
         "Yoasobi - Monster",
         "Yoasobi - 怪物",
         "怪物"
       ],
       "relations": [
+        "https://anime-planet.com/anime/beastars-2",
+        "https://anisearch.com/anime/14841",
         "https://kitsu.io/anime/42904",
         "https://myanimelist.net/anime/40935"
       ],
       "tags": [
+        "cg animation",
         "fantasy",
         "horror",
         "music",
@@ -512,54 +757,6 @@
         "romance"
       ],
       "id": "https://myanimelist.net/anime/47351"
-    },
-    {
-      "sources": [
-        "https://livechart.me/anime/707"
-      ],
-      "title": "Kana Kana Kazoku",
-      "type": "ONA",
-      "episodes": 0,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SUMMER",
-        "year": 2014
-      },
-      "picture": "https://u.livechart.me/anime/707/poster_image/a9bc7a429a43210862a10c5de17dcb5b.png?style=large&format=jpg",
-      "thumbnail": "https://u.livechart.me/anime/707/poster_image/a9bc7a429a43210862a10c5de17dcb5b.png?style=small&format=jpg",
-      "synonyms": [
-        "かなかなかぞく"
-      ],
-      "relations": [],
-      "tags": [
-        "comedy"
-      ],
-      "id": "https://livechart.me/anime/707"
-    },
-    {
-      "sources": [
-        "https://kitsu.io/anime/40819",
-        "https://notify.moe/anime/JMSd2KiiR"
-      ],
-      "title": "Keito no Yousei: Knit to Wool",
-      "type": "TV",
-      "episodes": 4,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SUMMER",
-        "year": 2015
-      },
-      "picture": "https://media.kitsu.io/anime/poster_images/40819/small.jpg",
-      "thumbnail": "https://media.kitsu.io/anime/poster_images/40819/tiny.jpg",
-      "synonyms": [
-        "けいとのようせいニットとウール"
-      ],
-      "relations": [],
-      "tags": [
-        "fantasy",
-        "kids"
-      ],
-      "id": "https://kitsu.io/anime/40819"
     },
     {
       "sources": [
@@ -681,7 +878,9 @@
       "relations": [
         "https://anilist.co/anime/16636",
         "https://anime-planet.com/anime/kotoura-san-haruka-no-heya",
+        "https://anisearch.com/anime/8313",
         "https://kitsu.io/anime/7477",
+        "https://livechart.me/anime/4481",
         "https://myanimelist.net/anime/16636",
         "https://notify.moe/anime/bAjFtFmmg"
       ],
@@ -697,10 +896,11 @@
         "drama",
         "earth",
         "female protagonist",
+        "friendship",
+        "heterosexual",
         "japan",
         "love triangle",
         "manga",
-        "parental abandonment",
         "present",
         "psi-powers",
         "psychic powers",
@@ -726,6 +926,7 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/148608",
         "https://anime-planet.com/anime/kuma-no-nuigurumi",
         "https://anisearch.com/anime/13447",
         "https://kitsu.io/anime/40902",
@@ -762,36 +963,6 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/lagrange-the-flower-of-rin-ne-season-2-picture-drama"
-      ],
-      "title": "Lagrange: The Flower of Rin-ne - Season 2 Picture Drama",
-      "type": "SPECIAL",
-      "episodes": 6,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://anime-planet.com/images/anime/covers/7474.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/7474.jpg",
-      "synonyms": [
-        "Rinne no Lagrange: Flower Declaration of Your Heart - Season 2 Picture Drama"
-      ],
-      "relations": [
-        "https://anime-planet.com/anime/lagrange-the-flower-of-rin-ne",
-        "https://anime-planet.com/anime/lagrange-the-flower-of-rin-ne-kamogawa-days",
-        "https://anime-planet.com/anime/lagrange-the-flower-of-rin-ne-kamogawa-memoria",
-        "https://anime-planet.com/anime/lagrange-the-flower-of-rin-ne-picture-drama",
-        "https://anime-planet.com/anime/lagrange-the-flower-of-rin-ne-season-2"
-      ],
-      "tags": [
-        "comedy",
-        "picture drama"
-      ],
-      "id": "https://anime-planet.com/anime/lagrange-the-flower-of-rin-ne-season-2-picture-drama"
-    },
-    {
-      "sources": [
         "https://myanimelist.net/anime/46702"
       ],
       "title": "Liyuanba Biezhuan",
@@ -802,14 +973,14 @@
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1125/131121.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1125/131121t.jpg",
       "synonyms": [
         "李元霸别传"
       ],
       "relations": [],
       "tags": [
-        "historical"
+        "kids"
       ],
       "id": "https://myanimelist.net/anime/46702"
     },
@@ -847,24 +1018,70 @@
     },
     {
       "sources": [
+        "https://kitsu.io/anime/47206",
+        "https://myanimelist.net/anime/54526"
+      ],
+      "title": "One Piece Water Spectacle",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "FALL",
+        "year": 2016
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1285/133461.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1285/133461t.jpg",
+      "synonyms": [
+        "ワンピース ウォータースペクタクル"
+      ],
+      "relations": [
+        "https://kitsu.io/anime/12",
+        "https://kitsu.io/anime/47207",
+        "https://myanimelist.net/anime/21"
+      ],
+      "tags": [
+        "action",
+        "adventure",
+        "fantasy",
+        "fantasy world",
+        "pirate",
+        "shounen",
+        "super power"
+      ],
+      "id": "https://myanimelist.net/anime/54526"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/138769",
+        "https://anime-planet.com/anime/ping-pong-xuanfeng",
         "https://myanimelist.net/anime/46228"
       ],
-      "title": "Pingpang Xuanfeng",
+      "title": "Ping-pong Xuanfeng",
       "type": "TV",
       "episodes": 26,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2007
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1128/128078.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1128/128078t.jpg",
       "synonyms": [
+        "Ping Pong Storm",
+        "Ping Pong Tornade",
+        "Ping Pong Whirlwind",
+        "Ping Pong Xuanfeng",
+        "Ping-pong Storm",
+        "Pingpang Xuanfeng",
+        "ping-pong storm",
         "乒乓旋风"
       ],
       "relations": [],
       "tags": [
-        "sports"
+        "chinese animation",
+        "ping pong",
+        "sports",
+        "table tennis"
       ],
       "id": "https://myanimelist.net/anime/46228"
     },
@@ -915,12 +1132,14 @@
         "Puni Puni Poemy",
         "ppp",
         "ぷにぷに☆ぽえみぃ",
+        "新世纪魔法少女",
         "뿌니뿌니 포에미"
       ],
       "relations": [
         "https://anidb.net/anime/25",
         "https://anilist.co/anime/379",
         "https://anime-planet.com/anime/excel-saga",
+        "https://anisearch.com/anime/329",
         "https://kitsu.io/anime/346",
         "https://myanimelist.net/anime/379",
         "https://notify.moe/anime/EBl2cFimR"
@@ -928,18 +1147,19 @@
       "tags": [
         "alien",
         "aliens",
-        "asia",
+        "alternative present",
         "bionic powers",
         "breaking the fourth wall",
+        "child protagonists",
         "comedy",
         "dark comedy",
         "earth",
         "ecchi",
         "fantasy",
+        "female protagonist",
+        "gag humor",
         "girls love",
-        "gl",
         "henshin",
-        "henshin heroes",
         "japan",
         "magic",
         "magical girl",
@@ -948,13 +1168,13 @@
         "moe",
         "nonsense-comedy",
         "parody",
+        "plot continuity",
         "present",
         "primarily female cast",
         "psi-powers",
         "sci fi",
         "sci-fi",
         "seinen",
-        "shoujo-ai",
         "shounen",
         "slapstick",
         "super power",
@@ -965,7 +1185,9 @@
     },
     {
       "sources": [
-        "https://kitsu.io/anime/3744"
+        "https://anilist.co/anime/4695",
+        "https://kitsu.io/anime/3744",
+        "https://notify.moe/anime/FTn95KmmR"
       ],
       "title": "Saikano Special",
       "type": "SPECIAL",
@@ -977,34 +1199,89 @@
       },
       "picture": "https://media.kitsu.io/anime/poster_images/3744/small.jpg",
       "thumbnail": "https://media.kitsu.io/anime/poster_images/3744/tiny.jpg",
-      "synonyms": [],
-      "relations": [],
+      "synonyms": [
+        "Saishuu Heiki Kanojo Special",
+        "Saishuuheiki Kanojo Special",
+        "She, the Ultimate Weapon Special",
+        "最終兵器彼女"
+      ],
+      "relations": [
+        "https://anilist.co/anime/529",
+        "https://notify.moe/anime/eU1o5Fiig"
+      ],
       "tags": [
         "drama",
         "romance",
+        "school",
         "school life",
+        "sci-fi",
         "science fiction"
       ],
       "id": "https://kitsu.io/anime/3744"
     },
     {
       "sources": [
-        "https://myanimelist.net/anime/41237"
+        "https://anilist.co/anime/163203",
+        "https://anisearch.com/anime/18318",
+        "https://myanimelist.net/anime/54884",
+        "https://myanimelist.net/anime/54911"
       ],
-      "title": "SNOBBISM",
+      "title": "Seventeen",
       "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "WINTER",
+        "year": 2023
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1890/134920.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1890/134920t.jpg",
+      "synonyms": [
+        "17",
+        "SEVENTEEN",
+        "Yoasobi - Seventeen",
+        "Yoasobi - セブンティーン",
+        "セブンティーン",
+        "セブンティーン, Sebuntīn"
+      ],
+      "relations": [],
+      "tags": [
+        "alternate universe",
+        "cgi",
+        "cyberpunk",
+        "female protagonist",
+        "music",
+        "supernatural",
+        "time manipulation",
+        "time skip",
+        "urban",
+        "urban fantasy"
+      ],
+      "id": "https://myanimelist.net/anime/54911"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/neru-snobbism",
+        "https://myanimelist.net/anime/41237"
+      ],
+      "title": "Snobbism",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "WINTER",
         "year": 2018
       },
       "picture": "https://cdn.myanimelist.net/images/anime/1755/105843.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1755/105843t.jpg",
-      "synonyms": [],
+      "synonyms": [
+        "Neru: Snobbism",
+        "SNOBBISM"
+      ],
       "relations": [],
       "tags": [
-        "music"
+        "music",
+        "vocaloid"
       ],
       "id": "https://myanimelist.net/anime/41237"
     },
@@ -1045,7 +1322,6 @@
         "https://anime-planet.com/anime/utsunomiko",
         "https://anime-planet.com/anime/utsunomiko-heaven-chapter",
         "https://anisearch.com/anime/4787",
-        "https://anisearch.com/anime/730",
         "https://kitsu.io/anime/4338",
         "https://kitsu.io/anime/4340",
         "https://myanimelist.net/anime/5921",
@@ -1058,60 +1334,10 @@
         "based on a light novel",
         "demon",
         "demons",
-        "fantasy"
+        "fantasy",
+        "mythology"
       ],
       "id": "https://myanimelist.net/anime/5922"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/50178"
-      ],
-      "title": "Tokurei Sochi Dantai Stella Jogakuin Koutouka C³-bu",
-      "type": "UNKNOWN",
-      "episodes": 13,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2013
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "Stella Jogakuin Koutou-ka C³-bu",
-        "Stella Women's Academy, High School Division Class C³"
-      ],
-      "relations": [],
-      "tags": [
-        "action",
-        "comedy",
-        "school",
-        "seinen",
-        "slice of life",
-        "sports"
-      ],
-      "id": "https://myanimelist.net/anime/50178"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/11833"
-      ],
-      "title": "Xi Bai Po",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2011
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/11/11833.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/11/11833.webp",
-      "synonyms": [
-        "Xibaipo",
-        "西柏坡"
-      ],
-      "relations": [],
-      "tags": [],
-      "id": "https://anisearch.com/anime/11833"
     },
     {
       "sources": [
@@ -1123,45 +1349,19 @@
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2013
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1362/130080.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1362/130080t.jpg",
       "synonyms": [
         "越笑越开心"
       ],
       "relations": [],
       "tags": [
-        "comedy"
+        "comedy",
+        "kids"
       ],
       "id": "https://myanimelist.net/anime/47927"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/12330"
-      ],
-      "title": "Zhan Dou Wang: Ju Feng Zhan Hun 2",
-      "type": "TV",
-      "episodes": 40,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 2013
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/12/12330.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/12/12330.webp",
-      "synonyms": [
-        "Infinity Nado 2",
-        "战斗王之飓风战魂2"
-      ],
-      "relations": [
-        "https://anisearch.com/anime/12329",
-        "https://anisearch.com/anime/12331"
-      ],
-      "tags": [
-        "ganbatte"
-      ],
-      "id": "https://anisearch.com/anime/12330"
     },
     {
       "sources": [

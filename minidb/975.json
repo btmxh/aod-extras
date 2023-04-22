@@ -50,23 +50,26 @@
         "https://anilist.co/anime/142962",
         "https://anilist.co/anime/142964",
         "https://anilist.co/anime/143759",
+        "https://anilist.co/anime/146131",
+        "https://anilist.co/anime/146497",
+        "https://anilist.co/anime/158542",
         "https://anilist.co/anime/87435",
         "https://anime-planet.com/anime/bang-dream",
         "https://anime-planet.com/anime/bang-dream-3rd-season",
         "https://anime-planet.com/anime/bang-dream-film-live",
         "https://anime-planet.com/anime/bang-dream-film-live-2nd-stage",
         "https://anisearch.com/anime/11563",
-        "https://anisearch.com/anime/12208",
         "https://anisearch.com/anime/13611",
+        "https://anisearch.com/anime/14573",
         "https://kitsu.io/anime/12330",
         "https://kitsu.io/anime/41290",
         "https://kitsu.io/anime/43370",
         "https://kitsu.io/anime/43974",
         "https://kitsu.io/anime/43976",
         "https://kitsu.io/anime/45421",
-        "https://livechart.me/anime/10322",
         "https://livechart.me/anime/10567",
         "https://livechart.me/anime/10631",
+        "https://livechart.me/anime/11126",
         "https://livechart.me/anime/2247",
         "https://livechart.me/anime/2537",
         "https://livechart.me/anime/3225",
@@ -82,6 +85,10 @@
         "https://myanimelist.net/anime/33573",
         "https://myanimelist.net/anime/37870",
         "https://myanimelist.net/anime/39619",
+        "https://myanimelist.net/anime/51087",
+        "https://myanimelist.net/anime/51478",
+        "https://myanimelist.net/anime/54262",
+        "https://myanimelist.net/anime/54274",
         "https://notify.moe/anime/_vFKgzVmg",
         "https://notify.moe/anime/mkajsDYMg",
         "https://notify.moe/anime/pfzkhKmmg"
@@ -108,6 +115,7 @@
         "plot continuity",
         "present",
         "primarily female cast",
+        "primarily teen cast",
         "school",
         "school clubs",
         "school life",
@@ -144,6 +152,7 @@
         "Battle Athletes Daiundōkai",
         "Battle Athletes OVA",
         "ba ova",
+        "bathlete ova",
         "ばとるあすりーてすだいうんどうかい",
         "バトルアスリーテス大運動会"
       ],
@@ -217,7 +226,11 @@
       "relations": [
         "https://anidb.net/anime/2534",
         "https://anidb.net/anime/2733",
-        "https://anidb.net/anime/4514"
+        "https://anidb.net/anime/4514",
+        "https://anilist.co/anime/2768",
+        "https://anisearch.com/anime/3067",
+        "https://anisearch.com/anime/4529",
+        "https://anisearch.com/anime/652"
       ],
       "tags": [
         "action",
@@ -242,6 +255,7 @@
     {
       "sources": [
         "https://anilist.co/anime/125274",
+        "https://anime-planet.com/anime/idolish7-discover-the-future",
         "https://anisearch.com/anime/15654",
         "https://myanimelist.net/anime/43601"
       ],
@@ -259,47 +273,24 @@
         "Discover the Future",
         "IDOLiSH7 - DiSCOVER THE FUTURE",
         "IDOLiSH7 - Discover the Future",
-        "IDOLiSH7『DiSCOVER THE FUTURE』MV FULL",
-        "アイドリッシュセブン『DiSCOVER THE FUTURE』MV FULL",
-        "ドリッシュセブン 『DiSCOVER THE FUTURE』"
+        "IDOLiSH7: DiSCOVER THE FUTURE"
       ],
       "relations": [
         "https://anilist.co/anime/103110",
-        "https://myanimelist.net/anime/33899"
+        "https://anime-planet.com/anime/idolish7",
+        "https://anisearch.com/anime/12167",
+        "https://myanimelist.net/anime/37962"
       ],
       "tags": [
+        "cute boys doing cute things",
         "dancing",
         "idol",
+        "idols",
+        "idols (male)",
         "music",
         "primarily male cast"
       ],
       "id": "https://myanimelist.net/anime/43601"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/16356"
-      ],
-      "title": "Driver’s License",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2021
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/16/16356.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/16/16356.webp",
-      "synonyms": [
-        "Olivia Rodrigo - Driver’s License",
-        "オリヴィア・ロドリゴ - ドライバーズ・ライセンス",
-        "ドライバーズ・ライセンス"
-      ],
-      "relations": [],
-      "tags": [
-        "independent anime",
-        "present"
-      ],
-      "id": "https://anisearch.com/anime/16356"
     },
     {
       "sources": [
@@ -327,8 +318,10 @@
         "Gaikotsu Shotenin Honda san",
         "Gaikotsu Shoten’in Honda-san",
         "Gaikotsu Syotenin Honda san",
+        "Honda-san",
         "Skeleton Bookstore Employee Honda",
         "Skull-face Bookseller Honda-san",
+        "honda",
         "Скелет-книжник Хонда",
         "ガイコツ書店員本田さん",
         "骸骨书店员本田君",
@@ -347,6 +340,7 @@
         "https://notify.moe/anime/a_oG7wsmg"
       ],
       "tags": [
+        "adult cast",
         "autobiographical",
         "based on a manga",
         "bookstore",
@@ -355,6 +349,7 @@
         "coworkers",
         "daily life",
         "educational",
+        "episodic",
         "half-length episodes",
         "language barrier",
         "male protagonist",
@@ -372,73 +367,13 @@
         "slice of life",
         "supernatural",
         "surreal comedy",
+        "urban",
         "work",
         "work life",
-        "working life"
+        "working life",
+        "workplace"
       ],
       "id": "https://myanimelist.net/anime/36317"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/12362"
-      ],
-      "title": "Gakushuu Animation Nihonkoku Kenpou",
-      "type": "UNKNOWN",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 1989
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/0.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/0.webp",
-      "synonyms": [
-        "Gakushū Animation Nihonkoku Kenpō",
-        "学習アニメーション日本国憲法"
-      ],
-      "relations": [],
-      "tags": [
-        "historical"
-      ],
-      "id": "https://anisearch.com/anime/12362"
-    },
-    {
-      "sources": [
-        "https://livechart.me/anime/1377"
-      ],
-      "title": "HAIKYU!! Movie 1: Owari to Hajimari",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SUMMER",
-        "year": 2015
-      },
-      "picture": "https://u.livechart.me/anime/1377/poster_image/89b0b70fbec6aa3a89f0cbb3adc400fb.jpg?style=large&format=jpg",
-      "thumbnail": "https://u.livechart.me/anime/1377/poster_image/89b0b70fbec6aa3a89f0cbb3adc400fb.jpg?style=small&format=jpg",
-      "synonyms": [
-        "HAIKYU!! Movie 1: Ending and Beginning",
-        "ハイキュー!! 終わりと始まり"
-      ],
-      "relations": [
-        "https://livechart.me/anime/1330",
-        "https://livechart.me/anime/1452",
-        "https://livechart.me/anime/2076",
-        "https://livechart.me/anime/251",
-        "https://livechart.me/anime/2581",
-        "https://livechart.me/anime/2582",
-        "https://livechart.me/anime/699",
-        "https://livechart.me/anime/8682",
-        "https://livechart.me/anime/9564",
-        "https://livechart.me/anime/9589",
-        "https://livechart.me/anime/9693"
-      ],
-      "tags": [
-        "school",
-        "shounen",
-        "sports"
-      ],
-      "id": "https://livechart.me/anime/1377"
     },
     {
       "sources": [
@@ -452,8 +387,8 @@
         "season": "UNDEFINED",
         "year": 2020
       },
-      "picture": "https://anime-planet.com/images/anime/covers/16846.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/16846.jpg",
+      "picture": "https://cdn.anime-planet.com/anime/primary/harumaki-gohan-suisei-ni-nareta-nara-vocal-ver-1.jpg?t=1625908952",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/harumaki-gohan-suisei-ni-nareta-nara-vocal-ver-1-190x267.jpg?t=1625908952",
       "synonyms": [
         "Harumaki Gohan: If I Could be a Comet (vocal ver.)"
       ],
@@ -461,7 +396,9 @@
         "https://anime-planet.com/anime/harumaki-gohan-suisei-ni-nareta-nara",
         "https://anime-planet.com/anime/harumaki-gohan-suisei-ni-nareta-nara-acoustic-nightwalker-arrange"
       ],
-      "tags": [],
+      "tags": [
+        "ocean"
+      ],
       "id": "https://anime-planet.com/anime/harumaki-gohan-suisei-ni-nareta-nara-vocal-ver"
     },
     {
@@ -492,16 +429,20 @@
         "ヒーローカンパニー （2015）",
         "英雄公司"
       ],
-      "relations": [],
+      "relations": [
+        "https://anisearch.com/anime/9203"
+      ],
       "tags": [
         "action",
         "action comedy",
         "based on a manga",
         "comedy",
+        "henshin",
         "manga",
         "parody",
         "seinen",
         "super power",
+        "superhero",
         "tokusatsu"
       ],
       "id": "https://myanimelist.net/anime/30512"
@@ -539,6 +480,76 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/103391",
+        "https://anime-planet.com/anime/mtv-horny-id",
+        "https://kitsu.io/anime/14247",
+        "https://myanimelist.net/anime/36750",
+        "https://notify.moe/anime/4IGvhFimg"
+      ],
+      "title": "Horny",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "FALL",
+        "year": 2017
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/12/89822.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/12/89822t.jpg",
+      "synonyms": [
+        "HORNY",
+        "MTV Ident",
+        "MTV Ident \"HORNY\"",
+        "MTV Ident: HORNY",
+        "MTV Ident: Horny",
+        "MTV: Horny ID"
+      ],
+      "relations": [],
+      "tags": [
+        "abstract",
+        "avant garde",
+        "dementia",
+        "ecchi",
+        "nudity",
+        "promotional",
+        "station identifications"
+      ],
+      "id": "https://myanimelist.net/anime/36750"
+    },
+    {
+      "sources": [
+        "https://anidb.net/anime/16737",
+        "https://anilist.co/anime/131991",
+        "https://anime-planet.com/anime/huaguo-shan-zhuan",
+        "https://myanimelist.net/anime/51964"
+      ],
+      "title": "Hua Guo Shan Chuan",
+      "type": "ONA",
+      "episodes": 2,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2021
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1255/124145.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1255/124145t.jpg",
+      "synonyms": [
+        "Huaguo Shan Zhuan",
+        "Huaguoshan Zhuan",
+        "The Legend of Huaguoshan",
+        "花果山传"
+      ],
+      "relations": [],
+      "tags": [
+        "action",
+        "chinese animation",
+        "fantasy",
+        "short episodes"
+      ],
+      "id": "https://myanimelist.net/anime/51964"
+    },
+    {
+      "sources": [
         "https://anidb.net/anime/2457",
         "https://anilist.co/anime/1833",
         "https://anime-planet.com/anime/garaga",
@@ -559,6 +570,7 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/9/28323t.jpg",
       "synonyms": [
         "Garaga",
+        "HYPER-PSYCHIC-GEO GARAGA",
         "Hyper Psychic Geo Garaga",
         "Hyper-Psichic Geo Garaga",
         "ギャラガ HYPER-PSYCHIC-GEO GARAGA",
@@ -647,6 +659,7 @@
         "Kujibiki Unbalance (TV)",
         "Kujibiki♥Unbalance (2006)",
         "Kujibiki♥Unbalance (TV)",
+        "genshiken: kujian2",
         "kujian2",
         "Неравный жребий (2006)",
         "くじびき♥アンバランス",
@@ -666,6 +679,7 @@
         "https://anime-planet.com/anime/kujibiki-unbalance-ova",
         "https://anisearch.com/anime/173",
         "https://kitsu.io/anime/613",
+        "https://livechart.me/anime/6775",
         "https://myanimelist.net/anime/669",
         "https://notify.moe/anime/fXMAcKmmR"
       ],
@@ -694,29 +708,6 @@
     },
     {
       "sources": [
-        "https://kitsu.io/anime/41795"
-      ],
-      "title": "Kyokuguro no Tsubasa Valkisas Pilot Film",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 1998
-      },
-      "picture": "https://media.kitsu.io/anime/poster_images/41795/small.jpg",
-      "thumbnail": "https://media.kitsu.io/anime/poster_images/41795/tiny.jpg",
-      "synonyms": [
-        "Legend of Lemnear Pilot",
-        "Valkisas - The Wings of Ultimate Darkness Pilot Film",
-        "極黒の翼 バルキサス　パイロット・フィルム"
-      ],
-      "relations": [],
-      "tags": [],
-      "id": "https://kitsu.io/anime/41795"
-    },
-    {
-      "sources": [
         "https://myanimelist.net/anime/45176"
       ],
       "title": "Long Dou Taiqiu",
@@ -727,8 +718,8 @@
         "season": "UNDEFINED",
         "year": 2011
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1393/128528.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1393/128528t.jpg",
       "synonyms": [
         "龙斗台球"
       ],
@@ -775,14 +766,16 @@
         "season": "SPRING",
         "year": 2018
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/15/15769.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/15/15769.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/15/15769_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/15/15769.webp",
       "synonyms": [
         "Lords of Sacred Sake Animation PV",
         "ミキノミコト アニメーションPV",
         "神酒ノ尊 アニメーションPV"
       ],
-      "relations": [],
+      "relations": [
+        "https://anisearch.com/anime/15079"
+      ],
       "tags": [],
       "id": "https://anisearch.com/anime/15769"
     },
@@ -790,7 +783,8 @@
       "sources": [
         "https://anime-planet.com/anime/momotarou-no-koutsuu-anzen-kyoushitsu",
         "https://kitsu.io/anime/40711",
-        "https://myanimelist.net/anime/35153"
+        "https://myanimelist.net/anime/35153",
+        "https://notify.moe/anime/U3wDhFiig"
       ],
       "title": "Momotarou no Koutsuu Anzen Kyoushitsu",
       "type": "OVA",
@@ -803,6 +797,7 @@
       "picture": "https://cdn.myanimelist.net/images/anime/7/84762.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/7/84762t.jpg",
       "synonyms": [
+        "Momotarou no Kotsuu Anzen Kyoushitsu",
         "桃太郎の交通安全教室"
       ],
       "relations": [],
@@ -816,126 +811,37 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/103391",
-        "https://anime-planet.com/anime/mtv-horny-id",
-        "https://kitsu.io/anime/14247",
-        "https://myanimelist.net/anime/36750",
-        "https://notify.moe/anime/4IGvhFimg"
+        "https://anime-planet.com/anime/muumindani-no-aurora",
+        "https://myanimelist.net/anime/53963"
       ],
-      "title": "MTV Ident: Horny",
-      "type": "SPECIAL",
+      "title": "Muumindani no Aurora",
+      "type": "MOVIE",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "FALL",
-        "year": 2017
+        "season": "SUMMER",
+        "year": 2000
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/12/89822.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/12/89822t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1711/132047.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1711/132047t.jpg",
       "synonyms": [
-        "MTV Ident",
-        "MTV Ident \"HORNY\"",
-        "MTV: Horny ID"
-      ],
-      "relations": [],
-      "tags": [
-        "abstract",
-        "avant garde",
-        "dementia",
-        "ecchi",
-        "nudity",
-        "promotional",
-        "station identifications"
-      ],
-      "id": "https://myanimelist.net/anime/36750"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/4096"
-      ],
-      "title": "Naruto: Takigakure no Shitou Ore ga Hero datte ba yo!",
-      "type": "UNKNOWN",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 2003
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/4/4096.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/4/4096.webp",
-      "synonyms": [
-        "L'acqua dell'eroe: Battaglia al Villaggio della Cascata",
-        "Naruto OVA 2",
-        "Naruto Special: Battle at Hidden Falls. I am the Hero!",
-        "Naruto: Die Geheimmission - Rettet das Dorf Takigakure",
-        "Naruto: Jump Festa 2004 Special",
-        "Naruto: Jump Festa Anime Tour 2004 (ナルト ジャンプフェスタ・アニメツアー2004)",
-        "Naruto: La Batalla de la Villa Oculta de la Cascada",
-        "Naruto: Takigakure no Shitō Ore ga Hero datte ba yo!",
-        "Naruto: The Lost Story - Mission: Protect the Waterfall Village!",
-        "ナルト 滝隠れの死闘 オレが英雄だってばよ！"
+        "Moominvalley no Aurora",
+        "ムーミン谷のオーロラ"
       ],
       "relations": [
-        "https://anisearch.com/anime/10223",
-        "https://anisearch.com/anime/12103",
-        "https://anisearch.com/anime/12678",
-        "https://anisearch.com/anime/2788",
-        "https://anisearch.com/anime/2988",
-        "https://anisearch.com/anime/3574",
-        "https://anisearch.com/anime/3647",
-        "https://anisearch.com/anime/3972",
-        "https://anisearch.com/anime/4097",
-        "https://anisearch.com/anime/4098",
-        "https://anisearch.com/anime/4272",
-        "https://anisearch.com/anime/4816",
-        "https://anisearch.com/anime/5279",
-        "https://anisearch.com/anime/5853",
-        "https://anisearch.com/anime/604",
-        "https://anisearch.com/anime/6206",
-        "https://anisearch.com/anime/6730",
-        "https://anisearch.com/anime/7002",
-        "https://anisearch.com/anime/7479",
-        "https://anisearch.com/anime/7646",
-        "https://anisearch.com/anime/9794"
+        "https://anime-planet.com/anime/muumindani-no-aurora-2018",
+        "https://myanimelist.net/anime/53964",
+        "https://myanimelist.net/anime/5712"
       ],
       "tags": [
-        "action",
         "adventure",
-        "bionic powers",
-        "comedy",
-        "drama",
-        "excessive violence",
+        "family friendly",
         "fantasy",
-        "fighting-shounen",
-        "magic",
-        "martial arts",
-        "ninja",
-        "psi-powers"
+        "kids",
+        "non-human protagonists",
+        "sci-fi"
       ],
-      "id": "https://anisearch.com/anime/4096"
-    },
-    {
-      "sources": [
-        "https://anilist.co/anime/105930"
-      ],
-      "title": "Nebula ft. Hatsune Miku",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2009
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105930-SKm1TuQ61RLe.png",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105930-SKm1TuQ61RLe.png",
-      "synonyms": [
-        "Nebula featt. Hatsune Miku"
-      ],
-      "relations": [],
-      "tags": [
-        "full cgi"
-      ],
-      "id": "https://anilist.co/anime/105930"
+      "id": "https://myanimelist.net/anime/53963"
     },
     {
       "sources": [
@@ -1007,24 +913,29 @@
         "comedy",
         "ecchi",
         "fantasy",
+        "female protagonist",
         "henshin",
-        "henshin heroes",
         "magic",
         "magical girl",
         "mahou shoujo",
+        "maids",
         "monster-of-the-week",
         "nudity",
         "original work",
+        "otaku culture",
         "panty shots",
         "parody",
         "present",
         "primarily female cast",
+        "sci-fi",
+        "twins",
         "work"
       ],
       "id": "https://myanimelist.net/anime/3112"
     },
     {
       "sources": [
+        "https://anilist.co/anime/127042",
         "https://anime-planet.com/anime/persona-4-the-animation-mr-experiment-shorts",
         "https://kitsu.io/anime/8785",
         "https://livechart.me/anime/6050",
@@ -1042,10 +953,12 @@
       "picture": "https://cdn.myanimelist.net/images/anime/7/64957.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/7/64957t.jpg",
       "synonyms": [
+        "Mister jikken",
         "Persona 4's Mr. Experiment Shorts",
         "ミスターじっけん"
       ],
       "relations": [
+        "https://anilist.co/anime/10588",
         "https://anime-planet.com/anime/persona-4-the-animation",
         "https://kitsu.io/anime/6255",
         "https://myanimelist.net/anime/10588",
@@ -1059,6 +972,7 @@
     {
       "sources": [
         "https://anime-planet.com/anime/power-battle-watch-car-return-of-the-watch-mask",
+        "https://anisearch.com/anime/12568",
         "https://myanimelist.net/anime/38614"
       ],
       "title": "Power Battle Watch Car: Watch Gamyeon-ui Yeogseub",
@@ -1073,22 +987,30 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1669/95956t.jpg",
       "synonyms": [
         "Power Battle Watch Car: Return of the Watch Mask",
+        "Power Battle Watch Car: The Counterattack of Watch Mask",
         "Power Battle Watchcar: The Counterattack of Watch Mask",
+        "Power Battle Watchcar: Wachigamyeonui Yeokseup",
+        "파워배틀 와치카 와치가면의 역습",
         "파워배틀 와치카: 와치가면의 역습"
       ],
       "relations": [
         "https://anime-planet.com/anime/power-battle-watch-car",
         "https://anime-planet.com/anime/power-battle-watch-car-blazing-race",
+        "https://anisearch.com/anime/12567",
         "https://myanimelist.net/anime/38612"
       ],
       "tags": [
         "action",
         "cars",
         "cg animation",
+        "cg-anime",
+        "comedy",
         "family friendly",
+        "ganbatte",
         "kids",
         "korean animation",
         "proxy battles",
+        "racing",
         "sci fi"
       ],
       "id": "https://myanimelist.net/anime/38614"
@@ -1137,6 +1059,29 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/qinggan-dongwuyuan"
+      ],
+      "title": "Qinggan Dongwuyuan",
+      "type": "ONA",
+      "episodes": 5,
+      "status": "UPCOMING",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": null
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/qinggan-dongwuyuan-1.webp?t=1652850228",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/qinggan-dongwuyuan-1-285x399.webp?t=1652850228",
+      "synonyms": [],
+      "relations": [],
+      "tags": [
+        "anthropomorphic",
+        "chinese animation",
+        "short episodes"
+      ],
+      "id": "https://anime-planet.com/anime/qinggan-dongwuyuan"
+    },
+    {
+      "sources": [
         "https://myanimelist.net/anime/47012"
       ],
       "title": "Renge Jiaoyu Donghua",
@@ -1147,8 +1092,8 @@
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1850/130498.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1850/130498t.jpg",
       "synonyms": [
         "人格教育动画"
       ],
@@ -1170,8 +1115,8 @@
         "season": "UNDEFINED",
         "year": 2017
       },
-      "picture": "https://anime-planet.com/images/anime/covers/12868.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/12868.jpg",
+      "picture": "https://cdn.anime-planet.com/anime/primary/rerulili-byoushin-zenkai-girl-1.jpg?t=1625899089",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/rerulili-byoushin-zenkai-girl-1-190x266.jpg?t=1625899089",
       "synonyms": [
         "rerulili: Tacks heart Break all Girl"
       ],
@@ -1198,6 +1143,7 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/7/87146t.jpg",
       "synonyms": [
         "SWAMP STAMP Anime Edition",
+        "Tramp Stamp Anime Edition",
         "Tramp Stamp: Anime Edition"
       ],
       "relations": [],
@@ -1216,6 +1162,7 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/super-buffalo",
         "https://myanimelist.net/anime/45378"
       ],
       "title": "Tian Yanshen Niu",
@@ -1226,17 +1173,23 @@
         "season": "UNDEFINED",
         "year": 2009
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1738/122372.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1738/122372t.jpg",
       "synonyms": [
+        "Super Buffalo",
         "天眼神牛"
       ],
       "relations": [
-        "https://myanimelist.net/anime/45377",
+        "https://anime-planet.com/anime/super-rabbit",
+        "https://myanimelist.net/anime/45376",
         "https://myanimelist.net/anime/45379"
       ],
       "tags": [
-        "fantasy"
+        "anthropomorphic",
+        "chinese animation",
+        "family friendly",
+        "fantasy",
+        "kids"
       ],
       "id": "https://myanimelist.net/anime/45378"
     },
@@ -1295,6 +1248,7 @@
         "age gap",
         "based on a novel",
         "boss-employee relationship",
+        "child protagonists",
         "childcare",
         "classic literature",
         "coming of age",
@@ -1363,7 +1317,6 @@
         "https://anime-planet.com/anime/tsukigakirei",
         "https://anime-planet.com/anime/tsukigakirei-special",
         "https://anisearch.com/anime/12204",
-        "https://anisearch.com/anime/12907",
         "https://kitsu.io/anime/13234",
         "https://myanimelist.net/anime/34822",
         "https://notify.moe/anime/sXlGhKimg"
@@ -1414,7 +1367,8 @@
         "urumani",
         "うるとらまにあっく",
         "ウルトラマニアック",
-        "ウルマニ"
+        "ウルマニ",
+        "恋爱小魔女"
       ],
       "relations": [
         "https://anidb.net/anime/503",
@@ -1422,6 +1376,7 @@
         "https://anime-planet.com/anime/ultra-maniac-ova",
         "https://anisearch.com/anime/3058",
         "https://kitsu.io/anime/156",
+        "https://livechart.me/anime/5572",
         "https://myanimelist.net/anime/179",
         "https://notify.moe/anime/iL9tcKmiR"
       ],
@@ -1431,7 +1386,7 @@
         "comedy",
         "contemporary fantasy",
         "fantasy",
-        "henshin heroes",
+        "female protagonist",
         "heterosexual",
         "japan",
         "kuudere",
@@ -1446,32 +1401,10 @@
         "school life",
         "shoujo",
         "slapstick",
-        "stereotypes"
+        "stereotypes",
+        "supernatural"
       ],
       "id": "https://myanimelist.net/anime/178"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/47733"
-      ],
-      "title": "Xiao Yang Ke Lu Ke",
-      "type": "TV",
-      "episodes": 71,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "小羊克鲁克"
-      ],
-      "relations": [],
-      "tags": [
-        "kids"
-      ],
-      "id": "https://myanimelist.net/anime/47733"
     },
     {
       "sources": [
@@ -1510,7 +1443,6 @@
         "https://anime-planet.com/anime/yatogame-chan-kansatsu-nikki",
         "https://anime-planet.com/anime/yatogame-chan-kansatsu-nikki-2",
         "https://anime-planet.com/anime/yatogame-chan-kansatsu-nikki-4",
-        "https://anisearch.com/anime/13642",
         "https://anisearch.com/anime/14445",
         "https://anisearch.com/anime/16816",
         "https://kitsu.io/anime/42398",
@@ -1519,29 +1451,44 @@
         "https://livechart.me/anime/3308",
         "https://livechart.me/anime/9472",
         "https://myanimelist.net/anime/39960",
+        "https://myanimelist.net/anime/50438",
         "https://notify.moe/anime/NTpbZTtnR",
         "https://notify.moe/anime/jKvC0UYWg"
       ],
       "tags": [
+        "4-koma manga",
         "based on a 4-koma manga",
         "based on a manga",
+        "butler",
         "comedy",
+        "cute girls doing cute things",
         "educational",
         "episodic",
         "language barrier",
+        "male protagonist",
+        "manga",
+        "meta",
+        "nekomimi",
+        "parody",
         "present",
+        "primarily child cast",
+        "primarily female cast",
+        "primarily teen cast",
+        "satire",
         "school",
         "school club",
         "school life",
         "short episodes",
         "shounen",
         "slice of life",
+        "teacher",
         "tourism"
       ],
       "id": "https://myanimelist.net/anime/42959"
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/yundong-xiao-fuxing",
         "https://myanimelist.net/anime/45984"
       ],
       "title": "Yundong Xiao Fuxing",
@@ -1550,16 +1497,21 @@
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2005
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1300/123490.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1300/123490t.jpg",
       "synonyms": [
         "运动小福星"
       ],
       "relations": [],
       "tags": [
-        "kids"
+        "chinese animation",
+        "family friendly",
+        "kids",
+        "short episodes",
+        "sports",
+        "team sports"
       ],
       "id": "https://myanimelist.net/anime/45984"
     },
@@ -1569,7 +1521,7 @@
         "https://livechart.me/anime/9971"
       ],
       "title": "Zhe Shijie You Shou",
-      "type": "TV",
+      "type": "ONA",
       "episodes": 18,
       "status": "UPCOMING",
       "animeSeason": {
@@ -1580,7 +1532,6 @@
       "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112295-99c4nhRzCjSe.jpg",
       "synonyms": [
         "Beast Haunting",
-        "Beast Hunting",
         "Zhe Shi Jie You Shou",
         "这世界有兽"
       ],

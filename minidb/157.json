@@ -22,7 +22,9 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/10/72286t.jpg",
       "synonyms": [
         "A Small Experiment",
-        "A smart experiment"
+        "A smart experiment",
+        "Shutto Shita Jikken",
+        "シュッとした実験"
       ],
       "relations": [],
       "tags": [
@@ -34,27 +36,6 @@
         "shorts"
       ],
       "id": "https://myanimelist.net/anime/30214"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/ado-hanabi"
-      ],
-      "title": "Ado: Hanabi",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "UNKNOWN",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2022
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/ado-hanabi-1.webp?t=1643680032",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/ado-hanabi-1-285x400.webp?t=1643680032",
-      "synonyms": [],
-      "relations": [],
-      "tags": [
-        "drama"
-      ],
-      "id": "https://anime-planet.com/anime/ado-hanabi"
     },
     {
       "sources": [
@@ -92,6 +73,41 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/149074",
+        "https://kitsu.io/anime/45308",
+        "https://myanimelist.net/anime/52610"
+      ],
+      "title": "Asi Yu Xiao Liangdang",
+      "type": "ONA",
+      "episodes": 0,
+      "status": "ONGOING",
+      "animeSeason": {
+        "season": "SUMMER",
+        "year": 2020
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1386/126571.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1386/126571t.jpg",
+      "synonyms": [
+        "Little Bell and Ami's Love Story",
+        "Little Bell and Ami’s Love Story",
+        "阿巳与小铃铛"
+      ],
+      "relations": [
+        "https://anilist.co/anime/150580",
+        "https://anilist.co/anime/151634",
+        "https://myanimelist.net/anime/45677",
+        "https://myanimelist.net/anime/52597"
+      ],
+      "tags": [
+        "comedy",
+        "fantasy",
+        "full cgi",
+        "romance"
+      ],
+      "id": "https://myanimelist.net/anime/52610"
+    },
+    {
+      "sources": [
         "https://anilist.co/anime/132459",
         "https://anime-planet.com/anime/auspicious-emperor"
       ],
@@ -116,6 +132,7 @@
         "chibi",
         "chinese animation",
         "comedy",
+        "eunuchs",
         "historical",
         "royalty",
         "short episodes"
@@ -157,6 +174,7 @@
         "https://anidb.net/anime/3648",
         "https://anilist.co/anime/1926",
         "https://anime-planet.com/anime/binchou-tan-movie",
+        "https://anisearch.com/anime/2589",
         "https://kitsu.io/anime/1736",
         "https://myanimelist.net/anime/1926",
         "https://notify.moe/anime/tvzL5Kmig"
@@ -167,6 +185,7 @@
         "asia",
         "based on a manga",
         "chibi",
+        "child protagonists",
         "comedy",
         "coming of age",
         "countryside",
@@ -215,6 +234,7 @@
       "picture": "https://cdn.myanimelist.net/images/anime/4/75102.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/4/75102t.jpg",
       "synonyms": [
+        "Dakara Boku wa, Ecchi ga Dekinai.",
         "Dakara Boku wa, H ga Dekinai",
         "Dakara Boku wa, H ga Dekinai: So, I Can't Play H!",
         "Dakara Boku-ha, H ga Dekinai",
@@ -237,6 +257,7 @@
         "https://anilist.co/anime/14893",
         "https://anime-planet.com/anime/so-i-cant-play-h-ova",
         "https://anime-planet.com/anime/so-i-cant-play-h-recap",
+        "https://anisearch.com/anime/7945",
         "https://anisearch.com/anime/8098",
         "https://kitsu.io/anime/6761",
         "https://kitsu.io/anime/7180",
@@ -256,19 +277,25 @@
         "ecchi",
         "fantasy",
         "female harem",
+        "gods",
         "harem",
         "henshin",
+        "heterosexual",
         "japan",
         "kamis",
         "love polygon",
         "magic",
+        "male protagonist",
         "novel",
         "nudity",
         "present",
+        "primarily teen cast",
         "romance",
         "romantic comedy",
+        "school",
         "seinen",
         "shinigami",
+        "slapstick",
         "super power",
         "supernatural"
       ],
@@ -332,6 +359,30 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/155010",
+        "https://kitsu.io/anime/46818"
+      ],
+      "title": "filz",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SUMMER",
+        "year": 2020
+      },
+      "picture": "https://media.kitsu.io/anime/46818/poster_image/small-c0eb1e0a0efea5bf771060130a75ecde.jpeg",
+      "thumbnail": "https://media.kitsu.io/anime/46818/poster_image/tiny-0d7d8025adb19c9c1ecc101589e197ae.jpeg",
+      "synonyms": [],
+      "relations": [],
+      "tags": [
+        "animals",
+        "music",
+        "slice of life"
+      ],
+      "id": "https://kitsu.io/anime/46818"
+    },
+    {
+      "sources": [
         "https://myanimelist.net/anime/44708"
       ],
       "title": "Hei Lian Da Baogong",
@@ -342,8 +393,8 @@
         "season": "UNDEFINED",
         "year": 2009
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1193/129848.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1193/129848t.jpg",
       "synonyms": [
         "黑脸大包公"
       ],
@@ -351,7 +402,6 @@
         "https://myanimelist.net/anime/44709"
       ],
       "tags": [
-        "historical",
         "kids"
       ],
       "id": "https://myanimelist.net/anime/44708"
@@ -387,6 +437,7 @@
         "19th century",
         "action",
         "asia",
+        "award winning",
         "bakumatsu - meiji period",
         "bakumatsu meiji period",
         "based on a manga",
@@ -400,13 +451,16 @@
         "japan",
         "male protagonist",
         "manga",
+        "medical",
         "medicine",
+        "nudity",
         "pandemic",
         "past",
         "primarily adult cast",
         "samurai",
         "seinen",
         "swordplay",
+        "time skip",
         "violence",
         "work"
       ],
@@ -414,49 +468,27 @@
     },
     {
       "sources": [
-        "https://anisearch.com/anime/13788"
-      ],
-      "title": "Holiday Love: Fuufukan Ren'ai",
-      "type": "ONA",
-      "episodes": 20,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SUMMER",
-        "year": 2018
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/13/13788.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/13/13788.webp",
-      "synonyms": [
-        "Holiday Love: Fūfukan Ren'ai",
-        "ホリデイラブ ～夫婦間恋愛～"
-      ],
-      "relations": [],
-      "tags": [
-        "drama",
-        "present",
-        "romance",
-        "romantic drama",
-        "vertical anime"
-      ],
-      "id": "https://anisearch.com/anime/13788"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/honeyworks-mister-darling"
+        "https://anime-planet.com/anime/honeyworks-mister-darling",
+        "https://kitsu.io/anime/43800"
       ],
       "title": "HoneyWorks: Mister Darling",
       "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "FALL",
         "year": 2018
       },
-      "picture": "https://cdn.anime-planet.com/anime/primary/honeyworks-mister-darling-1.jpg?t=1625786857",
+      "picture": "https://cdn.anime-planet.com/anime/primary/honeyworks-mister-darling-1.jpg?t=1625899064",
       "thumbnail": "https://cdn.anime-planet.com/anime/primary/honeyworks-mister-darling-1-190x266.jpg?t=1625899064",
-      "synonyms": [],
+      "synonyms": [
+        "Mister Darling",
+        "Misutaa Daarin",
+        "ミスター・ダーリン"
+      ],
       "relations": [],
       "tags": [
+        "music",
         "romance",
         "vocaloid"
       ],
@@ -488,14 +520,17 @@
         "Ikki Tousen - Dragon Destiny",
         "Ikki Tousen Dragon Destiny",
         "Ikki Tousen: Dragon Destiny",
+        "Ikki Tousen: Season 2",
         "Ikkitosen Dragon Destiny",
         "Ikkitosen Season 2",
         "Ikkitousen 2",
         "Ikkitousen: Season 2",
         "Ikkitōsen: Dragon Destiny",
+        "ikki s2",
         "ikki2",
         "いっきとうせんどらごんですてぃにー",
         "一騎当千 Dragon Destiny",
+        "一骑当千 Dragon Destiny",
         "一骑当千2",
         "일기당천 Dragon Destiny"
       ],
@@ -515,15 +550,9 @@
         "https://anime-planet.com/anime/ikkitousen-xtreme-xecutor",
         "https://anime-planet.com/anime/ikkitousen-xtreme-xecutor-specials",
         "https://anime-planet.com/anime/shin-ikkitousen",
-        "https://anisearch.com/anime/13916",
         "https://anisearch.com/anime/1865",
-        "https://anisearch.com/anime/2537",
         "https://anisearch.com/anime/3063",
         "https://anisearch.com/anime/4748",
-        "https://anisearch.com/anime/5064",
-        "https://anisearch.com/anime/7239",
-        "https://anisearch.com/anime/7297",
-        "https://anisearch.com/anime/9812",
         "https://kitsu.io/anime/232",
         "https://kitsu.io/anime/2635",
         "https://kitsu.io/anime/3516",
@@ -550,13 +579,14 @@
         "bionic powers",
         "comedy",
         "ecchi",
+        "female harem",
         "female protagonist",
         "hand to hand combat",
         "high school",
         "historical",
         "japan",
         "kuudere",
-        "large breasts - deprecated",
+        "large breasts",
         "magic",
         "manga",
         "martial arts",
@@ -564,6 +594,7 @@
         "pantsu",
         "panty shots",
         "present",
+        "primarily female cast",
         "psi-powers",
         "romance of the three kingdoms",
         "school",
@@ -607,6 +638,7 @@
         "achronological order",
         "based on a novel",
         "bionic powers",
+        "child protagonists",
         "contemporary fantasy",
         "demons",
         "episodic",
@@ -689,6 +721,7 @@
         "Guyver: The Bio-boosted Armor II",
         "Guyver: The Bioboosted Armor",
         "Kyoushoku Soukou Guyver",
+        "Kyoushoku Soukou Guyver ACT II",
         "Kyōshoku Sōkō Guyver II",
         "The Guyver",
         "The Guyver Act II",
@@ -696,6 +729,7 @@
         "The Guyver II: Bio-Booster Armor",
         "The Guyver: Bio-Booster Armor",
         "The Guyver: Bio-Booster Armor II",
+        "強殖装甲ガイバー ACT II",
         "強殖装甲ガイバー II"
       ],
       "relations": [
@@ -706,8 +740,6 @@
         "https://anime-planet.com/anime/guyver-the-bioboosted-armor-2005",
         "https://anime-planet.com/anime/the-guyver-bio-booster-armor",
         "https://anisearch.com/anime/2033",
-        "https://anisearch.com/anime/2899",
-        "https://anisearch.com/anime/3048",
         "https://kitsu.io/anime/1191",
         "https://myanimelist.net/anime/6016",
         "https://notify.moe/anime/THwxcKmmg"
@@ -768,38 +800,6 @@
     },
     {
       "sources": [
-        "https://anidb.net/anime/9333",
-        "https://anime-planet.com/anime/ninja-scroll-burst",
-        "https://anisearch.com/anime/8225"
-      ],
-      "title": "Ninja Scroll BURST",
-      "type": "ONA",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2012
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/ninja-scroll-burst-1.jpg?t=1625896915",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/ninja-scroll-burst-1-190x266.jpg?t=1625896915",
-      "synonyms": [
-        "Ninja Scroll Burst",
-        "Ninja Scroll Kocho"
-      ],
-      "relations": [
-        "https://anidb.net/anime/277",
-        "https://anime-planet.com/anime/ninja-scroll",
-        "https://anime-planet.com/anime/ninja-scroll-the-series"
-      ],
-      "tags": [
-        "action",
-        "ninja",
-        "promotional"
-      ],
-      "id": "https://anime-planet.com/anime/ninja-scroll-burst"
-    },
-    {
-      "sources": [
         "https://anime-planet.com/anime/pittarazu",
         "https://myanimelist.net/anime/42540"
       ],
@@ -841,8 +841,8 @@
         "season": "WINTER",
         "year": 2016
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/11/11823.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/11/11823.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/11/11823_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/11/11823.webp",
       "synonyms": [
         "Raise de Aō",
         "Sayuri - Raise de Aou",
@@ -854,6 +854,36 @@
       ],
       "tags": [],
       "id": "https://anisearch.com/anime/11823"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/sen-no-tobira-thousand-doors",
+        "https://myanimelist.net/anime/53799"
+      ],
+      "title": "Sen no Tobira: Thousand Doors",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "FALL",
+        "year": 2022
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1969/131707.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1969/131707t.jpg",
+      "synonyms": [
+        "Minna no Uta",
+        "Minna no Uta: Sen no Tobira - Thousand Doors",
+        "千の扉～Thousand Doors"
+      ],
+      "relations": [],
+      "tags": [
+        "abstract",
+        "family friendly",
+        "kids",
+        "minna no uta",
+        "music"
+      ],
+      "id": "https://myanimelist.net/anime/53799"
     },
     {
       "sources": [
@@ -879,6 +909,7 @@
       "synonyms": [
         "TMR3",
         "Tenchi Muyo! Ryo Ohki",
+        "Tenchi Muyo! Ryo-Ohki (2003)",
         "Tenchi Muyo! Ryo-Ohki 3",
         "Tenchi Muyo! Ryo-Ohki 3rd Season",
         "Tenchi Muyou! Ryo-Ohki 3",
@@ -886,6 +917,7 @@
         "Tenchi Muyou! Ryououki Dai 3-ki",
         "Tenchi Muyou! Ryououki Daisanki",
         "Tenchi Muyō! Ryōōki (2003)",
+        "tenchi ova 3",
         "tenchiova3",
         "tm3",
         "天地无用! 魉皇鬼 第3期",
@@ -903,29 +935,17 @@
         "https://anilist.co/anime/540",
         "https://anime-planet.com/anime/tenchi-muyo-ryo-ohki",
         "https://anime-planet.com/anime/tenchi-muyo-ryo-ohki-2",
+        "https://anime-planet.com/anime/tenchi-muyo-ryo-ohki-3-radio-specials",
         "https://anime-planet.com/anime/tenchi-muyo-ryo-ohki-4",
         "https://anime-planet.com/anime/tenchi-muyo-ryo-ohki-5",
         "https://anime-planet.com/anime/tenchi-muyo-ryo-ohki-final-confrontations",
         "https://anime-planet.com/anime/tenchi-muyo-the-night-before-the-carnival",
-        "https://anisearch.com/anime/1156",
         "https://anisearch.com/anime/11750",
-        "https://anisearch.com/anime/14681",
-        "https://anisearch.com/anime/1700",
+        "https://anisearch.com/anime/18031",
         "https://anisearch.com/anime/1994",
-        "https://anisearch.com/anime/2340",
-        "https://anisearch.com/anime/263",
-        "https://anisearch.com/anime/2715",
-        "https://anisearch.com/anime/2720",
-        "https://anisearch.com/anime/2842",
-        "https://anisearch.com/anime/2970",
-        "https://anisearch.com/anime/3117",
-        "https://anisearch.com/anime/3742",
-        "https://anisearch.com/anime/782",
-        "https://anisearch.com/anime/8787",
-        "https://anisearch.com/anime/990",
         "https://kitsu.io/anime/1028",
         "https://kitsu.io/anime/499",
-        "https://livechart.me/anime/1877",
+        "https://livechart.me/anime/3716",
         "https://livechart.me/anime/4231",
         "https://livechart.me/anime/4613",
         "https://livechart.me/anime/4911",
@@ -1007,6 +1027,7 @@
         "https://anime-planet.com/anime/tono-to-issho",
         "https://anime-planet.com/anime/tono-to-issho-15",
         "https://anime-planet.com/anime/tono-to-issho-2",
+        "https://anisearch.com/anime/6459",
         "https://kitsu.io/anime/5553",
         "https://kitsu.io/anime/5872",
         "https://kitsu.io/anime/6128",
@@ -1074,6 +1095,7 @@
         "Trinity Seven: Eternal Library & Alchemic Girl",
         "Trinity Seven: Eternity Library & Alchemic Girl",
         "Trinity Seven: Yuukyuu Toshokan to Rekinjutsu Shoujo",
+        "剧场版 七人魔法使 悠久图书馆与炼金术少女",
         "劇場版 トリニティセブン -悠久図書館と錬金術少女-",
         "劇場版 トリニティセブン －悠久図書館〈エターニティライブラリー〉と錬金術少女〈アルケミックガール〉－",
         "劇場版 トリニティセブン-悠久図書館と錬金術少女-",
@@ -1091,7 +1113,6 @@
         "https://anime-planet.com/anime/trinity-seven-ova",
         "https://anisearch.com/anime/10073",
         "https://anisearch.com/anime/13727",
-        "https://anisearch.com/anime/9453",
         "https://kitsu.io/anime/42057",
         "https://kitsu.io/anime/8607",
         "https://livechart.me/anime/1287",
@@ -1111,6 +1132,7 @@
         "ecchi",
         "fantasy",
         "female harem",
+        "female protagonist",
         "harem",
         "hero of strong character",
         "kuudere",
@@ -1135,6 +1157,8 @@
       "sources": [
         "https://anidb.net/anime/9297",
         "https://anilist.co/anime/112145",
+        "https://anime-planet.com/anime/usagi-no-mofy",
+        "https://anime-planet.com/anime/usagi-no-mofy-2012",
         "https://anisearch.com/anime/7943",
         "https://kitsu.io/anime/9950",
         "https://myanimelist.net/anime/21713",
@@ -1152,26 +1176,34 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/10/57215t.jpg",
       "synonyms": [
         "Mofy",
+        "Usagi no Mofy (2012)",
         "うさぎのモフィ"
       ],
       "relations": [
         "https://anidb.net/anime/15077",
-        "https://kitsu.io/anime/42698",
-        "https://myanimelist.net/anime/40670"
+        "https://anime-planet.com/anime/usagi-no-mofy-2014",
+        "https://kitsu.io/anime/42698"
       ],
       "tags": [
+        "animal protagonists",
         "animals",
+        "based on a picture book",
         "chibi",
         "environmental",
+        "family friendly",
         "fishing",
         "iyashikei",
         "kids",
         "kodomo",
         "no dialogue",
+        "non-human protagonists",
         "outdoor",
         "photography",
+        "rabbits",
         "rehabilitation",
-        "slice of life"
+        "short episodes",
+        "slice of life",
+        "stop motion animation"
       ],
       "id": "https://myanimelist.net/anime/21713"
     },
@@ -1235,7 +1267,7 @@
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "FALL",
+        "season": "UNDEFINED",
         "year": 2020
       },
       "picture": "https://cdn.anime-planet.com/anime/primary/wave-surfing-yappe-movie-2-1.jpg?t=1625908484",
@@ -1256,9 +1288,65 @@
       "tags": [
         "ocean",
         "slice of life",
-        "sports"
+        "sports",
+        "surfing"
       ],
       "id": "https://anime-planet.com/anime/wave-surfing-yappe-movie-2"
+    },
+    {
+      "sources": [
+        "https://anidb.net/anime/17970",
+        "https://anilist.co/anime/147511",
+        "https://anime-planet.com/anime/wu-geng-ji-4th-season-part-ii",
+        "https://kitsu.io/anime/47010",
+        "https://myanimelist.net/anime/52680",
+        "https://notify.moe/anime/kVf-g4oVg"
+      ],
+      "title": "Wu Geng Ji 4th Season Part 2",
+      "type": "ONA",
+      "episodes": 16,
+      "status": "ONGOING",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2023
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1057/126729.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1057/126729t.jpg",
+      "synonyms": [
+        "Chronicles of the God's Order",
+        "Feng Shen Ji",
+        "The Legend and The Hero 4th Season Part II",
+        "The Legend and the Hero",
+        "Wu Geng Ji (2023)",
+        "Wu Geng Ji 4 Part 2",
+        "Wu Geng Ji 4th Season Part II",
+        "武庚纪",
+        "武庚纪 (2023)",
+        "武庚纪 第四季 下",
+        "武庚纪之归墟秘境",
+        "武庚纪之绝境涅槃"
+      ],
+      "relations": [
+        "https://anidb.net/anime/16498",
+        "https://anilist.co/anime/136461",
+        "https://anime-planet.com/anime/wu-geng-ji-4th-season",
+        "https://kitsu.io/anime/47009",
+        "https://myanimelist.net/anime/49398",
+        "https://notify.moe/anime/zupwk-Gng"
+      ],
+      "tags": [
+        "action",
+        "ancient china",
+        "based on a manga",
+        "cg animation",
+        "chinese animation",
+        "fantasy",
+        "historical",
+        "manga",
+        "martial arts",
+        "supernatural"
+      ],
+      "id": "https://myanimelist.net/anime/52680"
     },
     {
       "sources": [
@@ -1340,6 +1428,7 @@
       "sources": [
         "https://anidb.net/anime/8077",
         "https://anilist.co/anime/3500",
+        "https://anime-planet.com/anime/yume-miru-anime-on-chan",
         "https://anisearch.com/anime/6563",
         "https://kitsu.io/anime/3054",
         "https://myanimelist.net/anime/3500",
@@ -1357,11 +1446,12 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/6/29989t.jpg",
       "synonyms": [
         "Dreaming Anime On-chan",
-        "On-chan",
         "Yume Miru Anime On-chan",
+        "Yume Miru, Anime on-chan",
         "Yume Miru, On-chan",
         "Yume-Miru Anime on-chan",
         "Yume-miru Anime On-chan",
+        "onちゃん",
         "ユメミル, アニメ onちゃん",
         "ユメミル、アニメ onちゃん",
         "ユメミル、アニメonちゃん",
@@ -1371,6 +1461,7 @@
         "https://anidb.net/anime/8078",
         "https://anidb.net/anime/999",
         "https://anilist.co/anime/8229",
+        "https://anime-planet.com/anime/on-chan-yume-power-daibouken",
         "https://anisearch.com/anime/6609",
         "https://kitsu.io/anime/5254",
         "https://myanimelist.net/anime/8229",
@@ -1378,6 +1469,7 @@
       ],
       "tags": [
         "comedy",
+        "family friendly",
         "short episodes"
       ],
       "id": "https://myanimelist.net/anime/3500"

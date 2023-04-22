@@ -40,8 +40,8 @@
         "season": "SUMMER",
         "year": 2006
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/0.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/0.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/0_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/0.webp",
       "synonyms": [
         "Ayu Mayu Gekijou Episode 0",
         "Ayu Mayu Gekijou: Special Episode (あゆまゆ劇場 ~スペシャルエピソード~)",
@@ -147,7 +147,7 @@
         "season": "UNDEFINED",
         "year": 2020
       },
-      "picture": "https://www.anime-planet.com/images/anime/screenshots/deco-27-and-kemu-sekai-15569-1.jpg",
+      "picture": "https://cdn.anime-planet.com/anime/primary/deco-27-and-kemu-sekai-1.jpg?t=1625908530",
       "thumbnail": "https://cdn.anime-planet.com/anime/primary/deco-27-and-kemu-sekai-1-190x267.jpg?t=1625908530",
       "synonyms": [],
       "relations": [],
@@ -156,6 +156,70 @@
         "vocaloid"
       ],
       "id": "https://anime-planet.com/anime/deco-27-and-kemu-sekai"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/163823"
+      ],
+      "title": "Douluo Dalu: Qi Qing Kaoyan",
+      "type": "ONA",
+      "episodes": 3,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2023
+      },
+      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163823-R6zJjg1qDTuy.png",
+      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163823-R6zJjg1qDTuy.png",
+      "synonyms": [
+        "Douluo Dalu Part 27",
+        "Soul Land Part 27",
+        "斗罗大陆 七情考验"
+      ],
+      "relations": [
+        "https://anilist.co/anime/163821",
+        "https://anilist.co/anime/163825"
+      ],
+      "tags": [
+        "action",
+        "fantasy"
+      ],
+      "id": "https://anilist.co/anime/163823"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/141913",
+        "https://anime-planet.com/anime/fanpai-chushihua"
+      ],
+      "title": "Fanpai Chushihua",
+      "type": "ONA",
+      "episodes": 0,
+      "status": "UPCOMING",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": null
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/fanpai-chushihua-1.webp?t=1672024562",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/fanpai-chushihua-1-285x400.webp?t=1672024562",
+      "synonyms": [
+        "The Reversal",
+        "Villain Initialization",
+        "反派初始化"
+      ],
+      "relations": [],
+      "tags": [
+        "action",
+        "adventure",
+        "age transformation",
+        "based on a webtoon",
+        "chinese animation",
+        "comedy",
+        "fantasy",
+        "full cgi",
+        "second chance",
+        "time travel"
+      ],
+      "id": "https://anime-planet.com/anime/fanpai-chushihua"
     },
     {
       "sources": [
@@ -195,10 +259,12 @@
         "הייטה גוטוקו!",
         "ฮายาเตะ พ่อบ้านประจัญบาน!",
         "はやてのごとく",
+        "ハヤテのごとく!",
         "ハヤテのごとく! Hayate the combat butler",
         "ハヤテのごとく！",
         "ハヤテのごとく！ Hayate the combat butler",
         "旋风管家",
+        "旋风管家！",
         "하야테처럼"
       ],
       "relations": [
@@ -206,6 +272,7 @@
         "https://anidb.net/anime/6389",
         "https://anidb.net/anime/9291",
         "https://anilist.co/anime/116267",
+        "https://anilist.co/anime/4038",
         "https://anilist.co/anime/5521",
         "https://anime-planet.com/anime/hayate-the-combat-butler-2",
         "https://anime-planet.com/anime/hayate-the-combat-butler-2014",
@@ -213,12 +280,11 @@
         "https://anime-planet.com/anime/hayate-the-combat-butler-cuties",
         "https://anime-planet.com/anime/hayate-the-combat-butler-heaven-is-a-place-on-earth",
         "https://anime-planet.com/anime/hayate-the-combat-butler-ova",
-        "https://anisearch.com/anime/4834",
+        "https://anisearch.com/anime/4701",
         "https://anisearch.com/anime/5189",
-        "https://anisearch.com/anime/6664",
         "https://anisearch.com/anime/7935",
-        "https://anisearch.com/anime/8269",
         "https://kitsu.io/anime/4133",
+        "https://kitsu.io/anime/46366",
         "https://livechart.me/anime/3877",
         "https://livechart.me/anime/4516",
         "https://livechart.me/anime/4605",
@@ -227,6 +293,7 @@
         "https://livechart.me/anime/551",
         "https://livechart.me/anime/816",
         "https://livechart.me/anime/940",
+        "https://myanimelist.net/anime/52687",
         "https://myanimelist.net/anime/5521",
         "https://notify.moe/anime/6_1j5Kimg"
       ],
@@ -258,6 +325,7 @@
         "meta",
         "moe",
         "nonsense-comedy",
+        "orphan",
         "otaku culture",
         "parody",
         "present",
@@ -302,31 +370,6 @@
     },
     {
       "sources": [
-        "https://anisearch.com/anime/16763"
-      ],
-      "title": "Junk Head (2021)",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 2021
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/16/16763.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/16/16763.webp",
-      "synonyms": [
-        "Junk Head: Complete Movie Version"
-      ],
-      "relations": [
-        "https://anisearch.com/anime/11924"
-      ],
-      "tags": [
-        "stop motion"
-      ],
-      "id": "https://anisearch.com/anime/16763"
-    },
-    {
-      "sources": [
         "https://anidb.net/anime/98",
         "https://anilist.co/anime/33",
         "https://anime-planet.com/anime/berserk",
@@ -350,6 +393,8 @@
         "Berserk",
         "Berserk (1997)",
         "Berserk TV",
+        "Berserk: SWORD-WIND ROMANCE",
+        "Berserk: Sword-Wind Tales",
         "Berserk: The Chronicles of Wind Blades",
         "Berserkas",
         "KDB",
@@ -361,7 +406,9 @@
         "неустрашим войн",
         "ברזרק",
         "آشفته",
+        "الهائج",
         "برسرک",
+        "بيرزيرك",
         "بيرسيرك",
         "นักรบวิปลาส",
         "เบอร์เซิร์ค",
@@ -374,6 +421,7 @@
         "https://anilist.co/anime/10218",
         "https://anilist.co/anime/12113",
         "https://anilist.co/anime/12115",
+        "https://anilist.co/anime/155011",
         "https://anime-planet.com/anime/berserk-2016",
         "https://anime-planet.com/anime/berserk-2016-recap",
         "https://anime-planet.com/anime/berserk-2017",
@@ -382,14 +430,12 @@
         "https://anime-planet.com/anime/berserk-golden-age-arc-ii-the-battle-for-doldrey",
         "https://anime-planet.com/anime/berserk-golden-age-arc-iii-the-advent",
         "https://anisearch.com/anime/11039",
-        "https://anisearch.com/anime/11759",
-        "https://anisearch.com/anime/12249",
-        "https://anisearch.com/anime/12514",
         "https://anisearch.com/anime/6574",
         "https://kitsu.io/anime/11655",
         "https://kitsu.io/anime/6084",
         "https://kitsu.io/anime/6664",
         "https://kitsu.io/anime/6665",
+        "https://livechart.me/anime/11363",
         "https://livechart.me/anime/1975",
         "https://livechart.me/anime/2330",
         "https://livechart.me/anime/3769",
@@ -399,6 +445,7 @@
         "https://myanimelist.net/anime/12113",
         "https://myanimelist.net/anime/12115",
         "https://myanimelist.net/anime/32379",
+        "https://myanimelist.net/anime/52976",
         "https://notify.moe/anime/RyiqpKmiR",
         "https://notify.moe/anime/WWVHtFimR",
         "https://notify.moe/anime/ZH4NpKmiR",
@@ -413,7 +460,6 @@
         "archery",
         "based on a manga",
         "bionic powers",
-        "bisexual",
         "coming of age",
         "contemporary fantasy",
         "cosmic horror",
@@ -426,6 +472,7 @@
         "fantasy",
         "fantasy world",
         "feudal warfare",
+        "found family",
         "fugitive",
         "gore",
         "heterosexual",
@@ -439,10 +486,14 @@
         "mercenaries",
         "middle ages",
         "military",
+        "mythology",
         "netorare",
         "nudity",
         "overpowered main characters",
+        "parkour",
+        "past",
         "philosophy",
+        "plot continuity",
         "politics",
         "primarily adult cast",
         "primarily male cast",
@@ -452,12 +503,14 @@
         "romance",
         "rotten world",
         "seinen",
+        "skeleton",
         "supernatural",
         "swordplay",
         "swords & co",
         "tanned skin",
         "tomboy",
         "tragedy",
+        "travel",
         "violence",
         "war"
       ],
@@ -475,14 +528,17 @@
         "season": "SPRING",
         "year": 2002
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/0/978.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/0/978.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/0/978_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/0/978.webp",
       "synonyms": [
         "Comedy",
         "Sweat Punch Series 3",
         "喜劇"
       ],
-      "relations": [],
+      "relations": [
+        "https://anisearch.com/anime/785",
+        "https://anisearch.com/anime/854"
+      ],
       "tags": [
         "bionic powers",
         "drama",
@@ -546,6 +602,7 @@
       "synonyms": [
         "A Forbidden Time",
         "Child's Time",
+        "Child’s Time",
         "Kodomo no Jikan: A Forbidden Time - Kinji Raretatoki",
         "こどもの時間",
         "こどもの時間 ～a forbidden time 禁じられたとき～"
@@ -602,6 +659,7 @@
       ],
       "relations": [
         "https://anidb.net/anime/1008",
+        "https://anilist.co/anime/147725",
         "https://anilist.co/anime/2150",
         "https://anilist.co/anime/8235",
         "https://anime-planet.com/anime/comet-in-moominland",
@@ -609,11 +667,12 @@
         "https://anime-planet.com/anime/moomin-1972",
         "https://anime-planet.com/anime/tanoshii-moomin-ikka-bouken-nikki",
         "https://anisearch.com/anime/16",
-        "https://anisearch.com/anime/2029",
-        "https://anisearch.com/anime/358",
-        "https://anisearch.com/anime/818",
         "https://kitsu.io/anime/1946",
+        "https://kitsu.io/anime/46707",
         "https://kitsu.io/anime/5259",
+        "https://livechart.me/anime/11264",
+        "https://livechart.me/anime/5667",
+        "https://livechart.me/anime/6955",
         "https://myanimelist.net/anime/2150",
         "https://myanimelist.net/anime/42089",
         "https://myanimelist.net/anime/8235",
@@ -624,6 +683,7 @@
         "adventure",
         "alternative world",
         "animal protagonists",
+        "anthropomorphism",
         "based on a novel",
         "classic literature",
         "comedy",
@@ -639,6 +699,7 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/108869",
         "https://anime-planet.com/anime/pinocchio-p-sayonara-human"
       ],
       "title": "Pinocchio-P: SAYONARA HUMAN",
@@ -649,55 +710,19 @@
         "season": "UNDEFINED",
         "year": 2016
       },
-      "picture": "https://anime-planet.com/images/anime/covers/11234.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/11234.jpg",
+      "picture": "https://cdn.anime-planet.com/anime/primary/pinocchio-p-sayonara-human-1.jpg?t=1625898580",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/pinocchio-p-sayonara-human-1-190x267.jpg?t=1625898580",
       "synonyms": [
-        "Pinocchio-P: GOODBYE HUMAN"
+        "Goodbye Human",
+        "Pinocchio-P: GOODBYE HUMAN",
+        "SAYONARA HUMAN"
       ],
       "relations": [],
       "tags": [
+        "psychological",
         "vocaloid"
       ],
       "id": "https://anime-planet.com/anime/pinocchio-p-sayonara-human"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/queens-blade-2-the-evil-eye-specials"
-      ],
-      "title": "Queen's Blade 2: The Evil Eye Specials",
-      "type": "SPECIAL",
-      "episodes": 6,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://www.anime-planet.com/images/anime/screenshots/queens-blade-2-the-evil-eye-specials-3232-1.jpg",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/queens-blade-2-the-evil-eye-specials-1-285x399.webp?t=1643345136",
-      "synonyms": [
-        "Queen's Blade 2: Gyokuza wo Tsugumono Specials"
-      ],
-      "relations": [
-        "https://anime-planet.com/anime/queens-blade-2-the-evil-eye",
-        "https://anime-planet.com/anime/queens-blade-beautiful-warriors",
-        "https://anime-planet.com/anime/queens-blade-grimoire",
-        "https://anime-planet.com/anime/queens-blade-ova",
-        "https://anime-planet.com/anime/queens-blade-ova-specials",
-        "https://anime-planet.com/anime/queens-blade-rebellion",
-        "https://anime-planet.com/anime/queens-blade-rebellion-specials",
-        "https://anime-planet.com/anime/queens-blade-the-exiled-virgin",
-        "https://anime-planet.com/anime/queens-blade-the-exiled-virgin-specials",
-        "https://anime-planet.com/anime/queens-blade-unlimited",
-        "https://anime-planet.com/anime/queens-blade-vanquished-queens",
-        "https://anime-planet.com/anime/queens-blade-vanquished-queens-specials"
-      ],
-      "tags": [
-        "borderline h",
-        "comedy",
-        "ecchi",
-        "panty shots"
-      ],
-      "id": "https://anime-planet.com/anime/queens-blade-2-the-evil-eye-specials"
     },
     {
       "sources": [
@@ -712,15 +737,17 @@
         "season": "FALL",
         "year": 2009
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/5/5724.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/5/5724.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/5/5724_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/5/5724.webp",
       "synonyms": [
         "Action Series Puppets: New Three Musketeers",
         "Renzoku Ningyō Katsugeki: Shin Sanjūshi",
         "shin sanjuushi",
         "連続人形活劇 新・三銃士"
       ],
-      "relations": [],
+      "relations": [
+        "https://anisearch.com/anime/3085"
+      ],
       "tags": [
         "action",
         "adventure",
@@ -734,30 +761,30 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/seer-11th-season"
+        "https://anisearch.com/anime/17275"
       ],
-      "title": "Seer 11th Season",
+      "title": "Roywa Hamkke Haneun Sobang Anjeon Iyagi",
       "type": "TV",
-      "episodes": 30,
+      "episodes": 26,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2021
+        "season": "SUMMER",
+        "year": 2017
       },
-      "picture": "https://cdn.anime-planet.com/anime/primary/seer-11th-season-1.jpg?t=1625908965",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/seer-11th-season-1-190x266.jpg?t=1625908965",
+      "picture": "https://www.anisearch.com/images/anime/cover/17/17275_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/17/17275.webp",
       "synonyms": [
-        "Sai Er Hao 11th Season"
+        "Fire Safety with Roy",
+        "로이와 함께 하는 소방안전 이야기"
       ],
       "relations": [
-        "https://anime-planet.com/anime/seer-10th-season"
+        "https://anisearch.com/anime/8912"
       ],
       "tags": [
-        "chinese animation",
-        "robots",
-        "sci fi"
+        "cg-anime",
+        "episodic"
       ],
-      "id": "https://anime-planet.com/anime/seer-11th-season"
+      "id": "https://anisearch.com/anime/17275"
     },
     {
       "sources": [
@@ -802,10 +829,7 @@
         "https://anime-planet.com/anime/symphogear-gx",
         "https://anime-planet.com/anime/symphogear-xv-specials",
         "https://anisearch.com/anime/11223",
-        "https://anisearch.com/anime/7352",
-        "https://anisearch.com/anime/8496",
-        "https://anisearch.com/anime/9290",
-        "https://anisearch.com/anime/9504",
+        "https://anisearch.com/anime/14971",
         "https://kitsu.io/anime/11883",
         "https://kitsu.io/anime/43035",
         "https://livechart.me/anime/1161",
@@ -830,9 +854,11 @@
         "fantasy",
         "female protagonist",
         "gods",
+        "gore",
         "guns",
         "henshin",
         "idol",
+        "idols (female)",
         "kemonomimi",
         "lost civilization",
         "magical girl",
@@ -841,7 +867,6 @@
         "monster girl",
         "motorcycles",
         "music",
-        "musical",
         "mythology",
         "new",
         "original work",
@@ -882,6 +907,7 @@
       "picture": "https://cdn.myanimelist.net/images/anime/10/37959.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/10/37959t.jpg",
       "synonyms": [
+        "Eigi: SHADOW SKILL (1996)",
         "SHADOW SKILL ~影技~ (1996)",
         "SSk",
         "SSk OVA",
@@ -891,17 +917,18 @@
         "Shadow Skill OVA",
         "Shadow Skill: La Série - Episodes 1-3",
         "Shadow Skill: The Movie",
+        "shadows ova",
         "影技 -Shadow Skill- （1996）",
         "影技 SHADOW SKILL"
       ],
       "relations": [
         "https://anidb.net/anime/2543",
         "https://anidb.net/anime/42",
+        "https://anilist.co/anime/3005",
         "https://anilist.co/anime/678",
         "https://anime-planet.com/anime/shadow-skill-epilogue",
         "https://anime-planet.com/anime/shadow-skill-secret-of-the-kurudan-style",
         "https://anime-planet.com/anime/shadow-skill-tv",
-        "https://anisearch.com/anime/2014",
         "https://anisearch.com/anime/246",
         "https://anisearch.com/anime/628",
         "https://kitsu.io/anime/2716",
@@ -922,6 +949,7 @@
         "manga",
         "martial arts",
         "shounen",
+        "super power",
         "violence"
       ],
       "id": "https://myanimelist.net/anime/679"
@@ -930,6 +958,7 @@
       "sources": [
         "https://anilist.co/anime/13245",
         "https://anime-planet.com/anime/the-prince-of-tennis-ii-specials",
+        "https://anisearch.com/anime/8612",
         "https://kitsu.io/anime/6920",
         "https://livechart.me/anime/5767",
         "https://myanimelist.net/anime/13245",
@@ -948,9 +977,12 @@
       "synonyms": [
         "New Prince of Tennis Specials",
         "Prince of Tennis II Specials",
+        "Shin Tennis no Ōji-sama Specials",
+        "The Prince of Tennis II OVA",
         "The Prince of Tennis II Specials",
         "しんてにすのおうじさま",
-        "新テニスの王子様"
+        "新テニスの王子様",
+        "新テニスの王子様 Specials"
       ],
       "relations": [
         "https://anilist.co/anime/11371",
@@ -962,28 +994,12 @@
         "https://anime-planet.com/anime/the-prince-of-tennis-the-national-tournament",
         "https://anime-planet.com/anime/the-prince-of-tennis-the-national-tournament-final",
         "https://anime-planet.com/anime/the-prince-of-tennis-the-national-tournament-semifinal",
+        "https://anisearch.com/anime/7274",
         "https://kitsu.io/anime/6501",
         "https://livechart.me/anime/10129",
         "https://livechart.me/anime/10835",
         "https://livechart.me/anime/1155",
-        "https://livechart.me/anime/2374",
         "https://livechart.me/anime/250",
-        "https://livechart.me/anime/4029",
-        "https://livechart.me/anime/4807",
-        "https://livechart.me/anime/5525",
-        "https://livechart.me/anime/5647",
-        "https://livechart.me/anime/5764",
-        "https://livechart.me/anime/5782",
-        "https://livechart.me/anime/6027",
-        "https://livechart.me/anime/6478",
-        "https://livechart.me/anime/7952",
-        "https://livechart.me/anime/7960",
-        "https://livechart.me/anime/8014",
-        "https://livechart.me/anime/8063",
-        "https://livechart.me/anime/8089",
-        "https://livechart.me/anime/8101",
-        "https://livechart.me/anime/8178",
-        "https://livechart.me/anime/8681",
         "https://myanimelist.net/anime/11371",
         "https://notify.moe/anime/fk2IpFiiR"
       ],
@@ -997,113 +1013,6 @@
         "tennis"
       ],
       "id": "https://myanimelist.net/anime/13245"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/9567"
-      ],
-      "title": "Tegami Bachi Academy",
-      "type": "SPECIAL",
-      "episodes": 25,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 2010
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/9/9567.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/9/9567.webp",
-      "synonyms": [
-        "Letter Bee Academy",
-        "Letter Bee Specials",
-        "Tegami Bachi Specials",
-        "テガミバチ Academy"
-      ],
-      "relations": [
-        "https://anisearch.com/anime/5130",
-        "https://anisearch.com/anime/5439",
-        "https://anisearch.com/anime/6207"
-      ],
-      "tags": [
-        "comedy",
-        "epic fantasy",
-        "episodic",
-        "fantasy",
-        "nonsense-comedy",
-        "school",
-        "slapstick"
-      ],
-      "id": "https://anisearch.com/anime/9567"
-    },
-    {
-      "sources": [
-        "https://livechart.me/anime/7890"
-      ],
-      "title": "Tekken",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 1998
-      },
-      "picture": "https://u.livechart.me/anime/7890/poster_image/af74165d827f0704acfe3b2a99a86220.jpg?style=large&format=jpg",
-      "thumbnail": "https://u.livechart.me/anime/7890/poster_image/af74165d827f0704acfe3b2a99a86220.jpg?style=small&format=jpg",
-      "synonyms": [
-        "Tekken: The Motion Picture",
-        "鉄拳"
-      ],
-      "relations": [],
-      "tags": [
-        "action",
-        "adventure",
-        "martial arts",
-        "sci-fi"
-      ],
-      "id": "https://livechart.me/anime/7890"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/tofu-2004"
-      ],
-      "title": "Tofu (2004)",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2004
-      },
-      "picture": "https://anime-planet.com/images/anime/covers/15666.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/15666.jpg",
-      "synonyms": [
-        "Minna no Uta: Tofu"
-      ],
-      "relations": [],
-      "tags": [
-        "minna no uta"
-      ],
-      "id": "https://anime-planet.com/anime/tofu-2004"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/zutomayo-seigi"
-      ],
-      "title": "Zutomayo: Seigi",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2019
-      },
-      "picture": "https://anime-planet.com/images/anime/covers/15687.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/15687.jpg",
-      "synonyms": [
-        "Zutomayo: Justice"
-      ],
-      "relations": [],
-      "tags": [],
-      "id": "https://anime-planet.com/anime/zutomayo-seigi"
     }
   ]
 }

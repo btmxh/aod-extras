@@ -2,33 +2,6 @@
   "data": [
     {
       "sources": [
-        "https://anisearch.com/anime/16309"
-      ],
-      "title": "A U De Fannao 2",
-      "type": "TV",
-      "episodes": 26,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2020
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/16/16309.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/16/16309.webp",
-      "synonyms": [
-        "A U De Fan Nao 2",
-        "阿U的烦恼 第二季",
-        "阿U的烦恼2"
-      ],
-      "relations": [
-        "https://anisearch.com/anime/15646"
-      ],
-      "tags": [
-        "comedy"
-      ],
-      "id": "https://anisearch.com/anime/16309"
-    },
-    {
-      "sources": [
         "https://anime-planet.com/anime/all-purpose-cultural-cat-nuku-nuku-special-1"
       ],
       "title": "All Purpose Cultural Cat Nuku Nuku Special 1",
@@ -39,8 +12,8 @@
         "season": "UNDEFINED",
         "year": 1999
       },
-      "picture": "https://anime-planet.com/images/anime/covers/3226.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/3226.jpg",
+      "picture": "https://cdn.anime-planet.com/anime/primary/all-purpose-cultural-cat-nuku-nuku-special-1-1.jpg?t=1625886672",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/all-purpose-cultural-cat-nuku-nuku-special-1-1-190x266.jpg?t=1625886672",
       "synonyms": [
         "Bannou Bunka Nekomusume: Nuku Nuku Hourou!? Akemashite Suteraremashita"
       ],
@@ -69,6 +42,7 @@
         "https://anime-planet.com/anime/adventure-on-the-gaboten-island",
         "https://anisearch.com/anime/3634",
         "https://kitsu.io/anime/5233",
+        "https://livechart.me/anime/11646",
         "https://myanimelist.net/anime/8184",
         "https://notify.moe/anime/ZLeztFimg"
       ],
@@ -105,34 +79,9 @@
     },
     {
       "sources": [
-        "https://kitsu.io/anime/43987"
-      ],
-      "title": "Creating world 2020ver.",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2020
-      },
-      "picture": "https://media.kitsu.io/anime/poster_images/43987/small.jpg",
-      "thumbnail": "https://media.kitsu.io/anime/poster_images/43987/tiny.jpg",
-      "synonyms": [],
-      "relations": [
-        "https://kitsu.io/anime/43740",
-        "https://kitsu.io/anime/43942"
-      ],
-      "tags": [
-        "idol",
-        "music"
-      ],
-      "id": "https://kitsu.io/anime/43987"
-    },
-    {
-      "sources": [
         "https://myanimelist.net/anime/45155"
       ],
-      "title": "Gu Li Donghua Luoji Siwei Qimeng",
+      "title": "Guli Donghua: Luoji Siwei Qimeng",
       "type": "ONA",
       "episodes": 59,
       "status": "FINISHED",
@@ -140,8 +89,8 @@
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1961/129941.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1961/129941t.jpg",
       "synonyms": [
         "咕力动画逻辑思维启蒙"
       ],
@@ -186,7 +135,7 @@
       "title": "Hua Jianghu Zhi Huan Shi Men Sheng 3rd Season",
       "type": "ONA",
       "episodes": 0,
-      "status": "UPCOMING",
+      "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
         "year": null
@@ -259,40 +208,6 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/7333",
-        "https://anime-planet.com/anime/koi-suru-tenshi-angelique-kagayaki-no-ashita-special"
-      ],
-      "title": "Koi Suru Tenshi Angelique: Kagayaki no Ashita Special",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2007
-      },
-      "picture": "https://anime-planet.com/inc/img/blank_main.jpg",
-      "thumbnail": "https://anime-planet.com/inc/img/blank_main.jpg",
-      "synonyms": [
-        "Koi Suru Tenshi Angelique: Kagayaki no Ashita OVA",
-        "Loving Angel Angelique: Radiant Tomorrow Special",
-        "恋する天使アンジェリーク ～かがやきの明日～ OVA"
-      ],
-      "relations": [
-        "https://anilist.co/anime/1864",
-        "https://anime-planet.com/anime/koi-suru-tenshi-angelique-kagayaki-no-ashita"
-      ],
-      "tags": [
-        "based on a visual novel",
-        "based on an otome game",
-        "fantasy",
-        "male harem",
-        "romance",
-        "shoujo"
-      ],
-      "id": "https://anime-planet.com/anime/koi-suru-tenshi-angelique-kagayaki-no-ashita-special"
-    },
-    {
-      "sources": [
         "https://anime-planet.com/anime/kurage-p-sayonara-chainsaw"
       ],
       "title": "Kurage-P: Sayonara Chainsaw",
@@ -353,7 +268,8 @@
         "シュヴァリエ Le Chevalier D'Eon",
         "シュヴァリエ Le Chevalier D`Eon",
         "シュヴァリエ Le Chevalier D’Eon",
-        "双面骑士"
+        "双面骑士",
+        "雙面騎士"
       ],
       "relations": [],
       "tags": [
@@ -379,7 +295,10 @@
         "magic",
         "mystery",
         "novel",
+        "past",
+        "plot continuity",
         "political",
+        "religion",
         "revenge",
         "seinen",
         "supernatural",
@@ -434,9 +353,11 @@
         "https://anidb.net/anime/15132",
         "https://anidb.net/anime/15952",
         "https://anidb.net/anime/16081",
+        "https://anilist.co/anime/112300",
         "https://anilist.co/anime/127688",
         "https://anilist.co/anime/130389",
         "https://anilist.co/anime/20679",
+        "https://anilist.co/anime/21685",
         "https://anime-planet.com/anime/the-honor-student-at-magic-high-school",
         "https://anime-planet.com/anime/the-irregular-at-magic-high-school-10th-anniversary-pv",
         "https://anime-planet.com/anime/the-irregular-at-magic-high-school-get-to-know-magic-studies",
@@ -446,11 +367,10 @@
         "https://anime-planet.com/anime/the-irregular-at-magic-high-school-reminiscence-arc",
         "https://anime-planet.com/anime/the-irregular-at-magic-high-school-visitor-arc",
         "https://anime-planet.com/anime/the-irregular-at-magic-high-school-x-mameshiba",
-        "https://anisearch.com/anime/11186",
         "https://anisearch.com/anime/14657",
         "https://anisearch.com/anime/15859",
         "https://anisearch.com/anime/16019",
-        "https://anisearch.com/anime/17002",
+        "https://anisearch.com/anime/9541",
         "https://kitsu.io/anime/11931",
         "https://kitsu.io/anime/42608",
         "https://kitsu.io/anime/43847",
@@ -467,6 +387,7 @@
         "https://myanimelist.net/anime/40497",
         "https://myanimelist.net/anime/45572",
         "https://myanimelist.net/anime/48375",
+        "https://myanimelist.net/anime/50097",
         "https://notify.moe/anime/2SqotKmiR",
         "https://notify.moe/anime/Fkccga8Wg",
         "https://notify.moe/anime/JCb64zUGR",
@@ -484,11 +405,13 @@
         "female harem",
         "future",
         "genius",
+        "gore",
         "guns",
         "harem",
         "hero of strong character",
         "heterosexual",
         "high school",
+        "incest",
         "japan",
         "kuudere",
         "magic",
@@ -501,6 +424,7 @@
         "overpowered main characters",
         "plot continuity",
         "primarily adult cast",
+        "primarily teen cast",
         "romance",
         "school",
         "school life",
@@ -512,6 +436,7 @@
         "siblings",
         "slice of life",
         "stoic hero",
+        "super power",
         "supernatural",
         "terrorism",
         "violence"
@@ -568,10 +493,10 @@
         "https://anime-planet.com/anime/mashin-eiyuuden-wataru-owarinaki-toki-no-monogatari",
         "https://anime-planet.com/anime/mashin-eiyuuden-wataru-soukaizen-eiyuu-densetsu",
         "https://anime-planet.com/anime/shin-mashin-eiyuuden-wataru-majinzan",
-        "https://anisearch.com/anime/3635",
+        "https://anisearch.com/anime/14730",
         "https://anisearch.com/anime/4798",
-        "https://anisearch.com/anime/4978",
         "https://anisearch.com/anime/601",
+        "https://anisearch.com/anime/745",
         "https://kitsu.io/anime/3005",
         "https://kitsu.io/anime/5722",
         "https://kitsu.io/anime/7468",
@@ -690,9 +615,7 @@
       ],
       "relations": [],
       "tags": [
-        "asia",
         "based on a manga",
-        "bisexual",
         "bishounen",
         "chibi",
         "comedy",
@@ -705,9 +628,11 @@
         "ensemble cast",
         "episodic",
         "female protagonist",
+        "femboy",
+        "food",
+        "found family",
         "gangs",
         "gender bender",
-        "gender bending",
         "harem",
         "heterosexual",
         "high school",
@@ -715,10 +640,13 @@
         "hosts",
         "japan",
         "lgbtq+ themes",
+        "love triangle",
+        "makeup",
         "male harem",
         "manga",
         "martial arts",
         "meta",
+        "mixed gender harem",
         "ojou-sama",
         "parody",
         "present",
@@ -734,12 +662,13 @@
         "school clubs",
         "school life",
         "shoujo",
+        "slapstick",
         "slice of life",
         "social gap",
+        "stereotypes",
         "stoic heroine",
         "super deformed",
         "tomboy",
-        "transgender",
         "twins",
         "yakuza"
       ],
@@ -747,10 +676,12 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/chidori-rsc-nationals-are-right-before-us",
+        "https://anisearch.com/anime/14885",
         "https://kitsu.io/anime/42852",
         "https://myanimelist.net/anime/40769"
       ],
-      "title": "Rifle Is Beautiful Recap",
+      "title": "Rifle Is Beautiful: Zengoku Daikai Is Mokuzen",
       "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
@@ -762,22 +693,37 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1347/104573t.jpg",
       "synonyms": [
         "Chidori RSC Recap",
+        "Chidori RSC: Nationals Are Right Before Us",
+        "Chidori RSC: Rifle Is Beautiful - Die Landesmeisterschaft ist nah",
         "Nationals Are Right Before Us",
         "Rifle Is Beautiful Episode 7.5",
-        "Rifle Is Beautiful: Zengoku Daikai Is Mokuzen",
+        "Rifle Is Beautiful Recap",
+        "Rifle Is Beautiful: Zenkoku Taikai Is Mokuzen",
+        "Rifle Is Beautiful: Zenkokutaikai Is Mokuzen",
         "ライフル・イズ・ビューティフル『全国大会 ・イズ・目前』"
       ],
       "relations": [
+        "https://anime-planet.com/anime/chidori-rsc",
+        "https://anisearch.com/anime/13943",
         "https://kitsu.io/anime/42292",
         "https://myanimelist.net/anime/38529"
       ],
       "tags": [
+        "based on a 4-koma manga",
+        "based on a manga",
+        "cgdct",
+        "club",
         "comedy",
+        "ganbatte",
+        "guns",
+        "recap",
         "school",
         "school clubs",
         "school life",
         "seinen",
-        "slice of life"
+        "slice of life",
+        "sports",
+        "team sports"
       ],
       "id": "https://myanimelist.net/anime/40769"
     },
@@ -793,7 +739,7 @@
         "season": "UNDEFINED",
         "year": 2019
       },
-      "picture": "https://cdn.anime-planet.com/anime/primary/rilakkuma-korilakkuma-to-chairoikoguma-no-happy-ice-cream-1.jpg?t=1625788946",
+      "picture": "https://cdn.anime-planet.com/anime/primary/rilakkuma-korilakkuma-to-chairoikoguma-no-happy-ice-cream-1.jpg?t=1625908064",
       "thumbnail": "https://cdn.anime-planet.com/anime/primary/rilakkuma-korilakkuma-to-chairoikoguma-no-happy-ice-cream-1-190x266.jpg?t=1625908064",
       "synonyms": [
         "Rilakkuma: Korilakkuma and Chairoikoguma - Happy Ice Cream"
@@ -809,30 +755,6 @@
         "shorts"
       ],
       "id": "https://anime-planet.com/anime/rilakkuma-korilakkuma-to-chairoikoguma-no-happy-ice-cream"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/44258"
-      ],
-      "title": "Road without Road",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2020
-      },
-      "picture": "https://cdn.myanimelist.net/images/anime/1222/110487.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1222/110487t.jpg",
-      "synonyms": [
-        "HaNaMiNa",
-        "Irodorimidori"
-      ],
-      "relations": [],
-      "tags": [
-        "music"
-      ],
-      "id": "https://myanimelist.net/anime/44258"
     },
     {
       "sources": [
@@ -898,65 +820,26 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/stitch-best-friends-forever-aces-back"
+        "https://anime-planet.com/anime/syudou-assault-love"
       ],
-      "title": "Stitch!: Best Friends Forever - Ace's Back",
+      "title": "syudou: Assault Love",
       "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": 2011
+        "year": 2020
       },
-      "picture": "https://anime-planet.com/images/anime/covers/6618.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/6618.jpg",
-      "synonyms": [
-        "Stitch!: Zutto Saikou no Tomodachi - Ace's Back"
-      ],
-      "relations": [
-        "https://anime-planet.com/anime/stitch",
-        "https://anime-planet.com/anime/stitch-and-the-planet-of-sand",
-        "https://anime-planet.com/anime/stitch-best-friends-forever",
-        "https://anime-planet.com/anime/stitch-challenge-from-piko",
-        "https://anime-planet.com/anime/stitch-perfect-memory",
-        "https://anime-planet.com/anime/stitch-son-of-sprout",
-        "https://anime-planet.com/anime/stitch-the-mischievous-aliens-great-adventure"
-      ],
-      "tags": [
-        "based on a cartoon",
-        "disney",
-        "family friendly"
-      ],
-      "id": "https://anime-planet.com/anime/stitch-best-friends-forever-aces-back"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/11316",
-        "https://notify.moe/anime/iLbXpFmmg"
-      ],
-      "title": "Summer Train!",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2015
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/11/11316.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/11/11316.webp",
-      "synonyms": [
-        "JR West Summer Train CM",
-        "Natsu ga Zoku Zoku! Natsu Kazoku! Summer Train!",
-        "SUMMER TRAIN! (サマートレイン)",
-        "Summer is Thrilling! Summer Family! Summer Train!",
-        "サマートレイン！"
-      ],
+      "picture": "https://cdn.anime-planet.com/anime/primary/syudou-assault-love-1.webp?t=1646436790",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/syudou-assault-love-1-285x398.webp?t=1646436790",
+      "synonyms": [],
       "relations": [],
       "tags": [
-        "present",
-        "slice of life"
+        "psychological",
+        "romance",
+        "vocaloid"
       ],
-      "id": "https://anisearch.com/anime/11316"
+      "id": "https://anime-planet.com/anime/syudou-assault-love"
     },
     {
       "sources": [
@@ -982,34 +865,6 @@
         "parody"
       ],
       "id": "https://kitsu.io/anime/7950"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/11566"
-      ],
-      "title": "To Heart: Eizou Tokuten",
-      "type": "SPECIAL",
-      "episodes": 6,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SUMMER",
-        "year": 1999
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/11/11566.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/11/11566.webp",
-      "synonyms": [
-        "To Heart Omake",
-        "To Heart: Eizō Tokuten",
-        "To Heart: Special Mini Episodes",
-        "トゥハート 映像特典"
-      ],
-      "relations": [
-        "https://anisearch.com/anime/2354",
-        "https://anisearch.com/anime/3924",
-        "https://anisearch.com/anime/915"
-      ],
-      "tags": [],
-      "id": "https://anisearch.com/anime/11566"
     },
     {
       "sources": [
@@ -1077,9 +932,11 @@
         "sci-fi",
         "science fiction",
         "science-fiction",
+        "shorts",
         "shounen",
         "space",
         "super robot",
+        "tokusatsu",
         "tragedy",
         "war"
       ],
@@ -1087,50 +944,30 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/143292",
-        "https://kitsu.io/anime/45756"
-      ],
-      "title": "Where is my home?",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 2019
-      },
-      "picture": "https://media.kitsu.io/anime/45756/poster_image/small-ca1f2c1849309db20cf388bf1d6a9f08.jpeg",
-      "thumbnail": "https://media.kitsu.io/anime/45756/poster_image/tiny-3af006de67bd690cc50e3c43c1544686.jpeg",
-      "synonyms": [],
-      "relations": [],
-      "tags": [
-        "animals",
-        "bullying",
-        "drama",
-        "psychological",
-        "stop motion"
-      ],
-      "id": "https://kitsu.io/anime/45756"
-    },
-    {
-      "sources": [
         "https://myanimelist.net/anime/47907"
       ],
-      "title": "Xiao Yu Ren Mo Ji Mu Si Yijia season3",
-      "type": "TV",
+      "title": "Xiao Yu Ren Mojimusi Yijia 3rd Season",
+      "type": "ONA",
       "episodes": 26,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2019
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1140/130068.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1140/130068t.jpg",
       "synonyms": [
+        "Mojimusi Family 3rd Season",
         "小鱼人莫叽姆斯一家 第3季"
       ],
-      "relations": [],
+      "relations": [
+        "https://myanimelist.net/anime/47906",
+        "https://myanimelist.net/anime/47908"
+      ],
       "tags": [
-        "fantasy"
+        "anthropomorphic",
+        "fantasy",
+        "kids"
       ],
       "id": "https://myanimelist.net/anime/47907"
     },
@@ -1179,7 +1016,7 @@
         "https://anidb.net/anime/16989",
         "https://anilist.co/anime/107743",
         "https://anilist.co/anime/134081",
-        "https://anime-planet.com/anime/xie-wang-zhui-qi",
+        "https://anime-planet.com/anime/king-of-jin-in-tang-dynasty",
         "https://anime-planet.com/anime/xie-wang-zhui-qi-3-shennu-guilai",
         "https://anisearch.com/anime/14359",
         "https://anisearch.com/anime/17018",
@@ -1215,27 +1052,52 @@
     },
     {
       "sources": [
+        "https://anidb.net/anime/17425",
         "https://anilist.co/anime/141882",
+        "https://anime-planet.com/anime/let-me-check-the-walkthrough-first",
+        "https://anisearch.com/anime/17371",
+        "https://kitsu.io/anime/46259",
         "https://myanimelist.net/anime/50571"
       ],
       "title": "Zanting! Rang Wo Cha Gonglüe",
       "type": "ONA",
-      "episodes": 0,
-      "status": "UPCOMING",
+      "episodes": 12,
+      "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
+        "season": "SPRING",
+        "year": 2022
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/1304/120011.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1304/120011t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1984/123836.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1984/123836t.jpg",
       "synonyms": [
-        "Pause",
+        "Let Me Check the Walkthrough First",
+        "Pause! Let Me Check the Walkthrough First",
+        "Zan Ting! Rang Wo Zha Gong Lue",
+        "Zanting! Rang Wo Cha Gonglue",
+        "Zanting! Rang Wo Zha Gonglue",
         "暂停！让我查攻略"
       ],
       "relations": [],
       "tags": [
+        "adventure",
+        "age regression",
+        "cg animation",
+        "chinese animation",
         "comedy",
-        "fantasy"
+        "cute girls doing cute things",
+        "demons",
+        "drama",
+        "fantasy",
+        "female protagonist",
+        "full cgi",
+        "isekai",
+        "lgbtq+ themes",
+        "meta",
+        "parody",
+        "person in a strange world",
+        "primarily female cast",
+        "shoujo",
+        "video games"
       ],
       "id": "https://myanimelist.net/anime/50571"
     }

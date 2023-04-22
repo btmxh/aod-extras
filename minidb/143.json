@@ -4,7 +4,8 @@
       "sources": [
         "https://anidb.net/anime/15967",
         "https://anilist.co/anime/126347",
-        "https://anime-planet.com/anime/bai-yao-pu-2nd-season",
+        "https://anime-planet.com/anime/fairies-albums-2nd-season",
+        "https://anisearch.com/anime/17289",
         "https://kitsu.io/anime/43789",
         "https://livechart.me/anime/10738",
         "https://myanimelist.net/anime/44067",
@@ -24,9 +25,11 @@
         "Bai Yao Pu 2",
         "Bai Yao Pu Di Er Ji",
         "Bai Yao Pu Ⅱ",
+        "Fairies Album S2",
         "Fairies Albums 2",
+        "Fairies Albums 2nd Season",
+        "Fairies Albums S2",
         "Fairies Albums Season 2",
-        "Hundred Demon Spectrum 2nd Season",
         "Manual of Hundred Demons 2nd Season",
         "百妖谱 2",
         "百妖谱 第二季",
@@ -34,14 +37,20 @@
       ],
       "relations": [
         "https://anidb.net/anime/15966",
+        "https://anidb.net/anime/17535",
         "https://anilist.co/anime/114136",
         "https://anilist.co/anime/141866",
-        "https://anime-planet.com/anime/bai-yao-pu",
-        "https://anime-planet.com/anime/bai-yao-pu-3rd-season",
+        "https://anime-planet.com/anime/fairies-albums",
+        "https://anime-planet.com/anime/fairies-albums-3rd-season",
+        "https://anisearch.com/anime/14799",
+        "https://anisearch.com/anime/17290",
         "https://kitsu.io/anime/43176",
         "https://kitsu.io/anime/45711",
+        "https://livechart.me/anime/11346",
+        "https://livechart.me/anime/11588",
         "https://livechart.me/anime/9867",
         "https://myanimelist.net/anime/41224",
+        "https://myanimelist.net/anime/50537",
         "https://notify.moe/anime/JxQCof9Wg"
       ],
       "tags": [
@@ -49,19 +58,59 @@
         "ancient china",
         "based on a novel",
         "chinese animation",
+        "cultivation",
         "drama",
+        "episodic",
         "fantasy",
         "female protagonist",
         "historical",
+        "martial arts",
         "mystery",
+        "mythology",
+        "reincarnation",
         "supernatural"
       ],
       "id": "https://myanimelist.net/anime/44067"
     },
     {
       "sources": [
+        "https://anilist.co/anime/151598",
+        "https://anime-planet.com/anime/baozou-xia-ri",
+        "https://myanimelist.net/anime/52251"
+      ],
+      "title": "Baozou Xia Ri",
+      "type": "ONA",
+      "episodes": 16,
+      "status": "UPCOMING",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2022
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1445/124858.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1445/124858t.jpg",
+      "synonyms": [
+        "Baozou Xiari",
+        "Fengkuang Xiari",
+        "Summer Punch",
+        "暴走夏日",
+        "疯狂夏日"
+      ],
+      "relations": [],
+      "tags": [
+        "action",
+        "cg animation",
+        "chinese animation",
+        "comedy",
+        "full cgi",
+        "romance"
+      ],
+      "id": "https://myanimelist.net/anime/52251"
+    },
+    {
+      "sources": [
         "https://anidb.net/anime/11337",
         "https://anime-planet.com/anime/chichi-to-ko",
+        "https://anisearch.com/anime/11003",
         "https://kitsu.io/anime/11184",
         "https://myanimelist.net/anime/31129",
         "https://notify.moe/anime/ioUupKiig"
@@ -98,8 +147,8 @@
         "season": "WINTER",
         "year": 2007
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/3/3884.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/3/3884.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/3/3884_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/3/3884.webp",
       "synonyms": [
         "クレイジーOLアワー"
       ],
@@ -127,8 +176,8 @@
         "season": "FALL",
         "year": 2019
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/15/15118.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/15/15118.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/15/15118_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/15/15118.webp",
       "synonyms": [],
       "relations": [],
       "tags": [
@@ -164,7 +213,11 @@
         "Fairy Tail (2011)",
         "Fairy Tail: Youkoso Fairy Hills!",
         "Yousei Gakuen: Yankee-kun to Yankee-chan",
+        "ft ova",
+        "gar ova",
+        "rave ova",
         "Приказна история (2011)",
+        "فيري تيل (2014)",
         "フェアリーテイル (2011)",
         "フェアリーテイル OVA"
       ],
@@ -173,7 +226,6 @@
         "https://anidb.net/anime/6662",
         "https://anidb.net/anime/9980",
         "https://anilist.co/anime/6702",
-        "https://anilist.co/anime/99749",
         "https://anime-planet.com/anime/fairy-tail",
         "https://anime-planet.com/anime/fairy-tail-2",
         "https://anime-planet.com/anime/fairy-tail-2-ova",
@@ -204,14 +256,17 @@
         "episodic",
         "fantasy",
         "fantasy world",
+        "female protagonist",
         "friendship",
-        "large breasts - deprecated",
+        "large breasts",
         "magic",
+        "male protagonist",
         "manga",
         "nudity",
         "school",
         "shounen",
-        "stereotypes"
+        "stereotypes",
+        "super power"
       ],
       "id": "https://myanimelist.net/anime/9982"
     },
@@ -240,29 +295,6 @@
         "vtuber"
       ],
       "id": "https://kitsu.io/anime/44577"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/44845"
-      ],
-      "title": "Feng Qing Xue Huiyilu",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2013
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "风晴雪回忆录"
-      ],
-      "relations": [],
-      "tags": [
-        "game"
-      ],
-      "id": "https://myanimelist.net/anime/44845"
     },
     {
       "sources": [
@@ -300,6 +332,35 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/154040",
+        "https://anime-planet.com/anime/the-living-wall",
+        "https://kitsu.io/anime/46938",
+        "https://myanimelist.net/anime/54038"
+      ],
+      "title": "Ikiru Kabe",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "FALL",
+        "year": 2020
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1781/132192.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1781/132192t.jpg",
+      "synonyms": [
+        "The Living Wall",
+        "生きる壁"
+      ],
+      "relations": [],
+      "tags": [
+        "avant garde",
+        "dementia",
+        "original work"
+      ],
+      "id": "https://myanimelist.net/anime/54038"
+    },
+    {
+      "sources": [
         "https://anidb.net/anime/13679",
         "https://anilist.co/anime/119770",
         "https://anisearch.com/anime/16409",
@@ -331,64 +392,6 @@
         "world wars"
       ],
       "id": "https://myanimelist.net/anime/26139"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/kochira-katsushikaku-kameari-kouenmae-hashutsujo-ryou-san-no-sushi-kuinee-choujyou-maguro-taiketsu"
-      ],
-      "title": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo: Ryou-san no Sushi Kuinee! - Choujyou Maguro Taiketsu",
-      "type": "SPECIAL",
-      "episodes": 2,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2007
-      },
-      "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
-      "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
-      "synonyms": [],
-      "relations": [],
-      "tags": [
-        "comedy",
-        "police"
-      ],
-      "id": "https://anime-planet.com/anime/kochira-katsushikaku-kameari-kouenmae-hashutsujo-ryou-san-no-sushi-kuinee-choujyou-maguro-taiketsu"
-    },
-    {
-      "sources": [
-        "https://anilist.co/anime/98704",
-        "https://anime-planet.com/anime/kurokos-basketball-3-ng-shuu"
-      ],
-      "title": "Kuroko's Basketball 3: NG-shuu",
-      "type": "SPECIAL",
-      "episodes": 9,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2015
-      },
-      "picture": "https://anime-planet.com/inc/img/blank_main.jpg",
-      "thumbnail": "https://anime-planet.com/inc/img/blank_main.jpg",
-      "synonyms": [
-        "Kuroko no Basket 3 NG-shuu",
-        "Kuroko no Basket 3: NG-shuu",
-        "黒子のバスケ3 NG集"
-      ],
-      "relations": [
-        "https://anilist.co/anime/20725",
-        "https://anime-planet.com/anime/kurokos-basketball-2-ng-shuu",
-        "https://anime-planet.com/anime/kurokos-basketball-3",
-        "https://anime-planet.com/anime/kurokos-basketball-last-game-ng-shuu",
-        "https://anime-planet.com/anime/kurokos-basketball-ng-shuu"
-      ],
-      "tags": [
-        "basketball",
-        "comedy",
-        "shounen",
-        "sports",
-        "super power"
-      ],
-      "id": "https://anime-planet.com/anime/kurokos-basketball-3-ng-shuu"
     },
     {
       "sources": [
@@ -440,6 +443,9 @@
         "https://anisearch.com/anime/5405",
         "https://kitsu.io/anime/4538",
         "https://kitsu.io/anime/742",
+        "https://livechart.me/anime/6643",
+        "https://livechart.me/anime/7889",
+        "https://livechart.me/anime/9090",
         "https://myanimelist.net/anime/6379",
         "https://myanimelist.net/anime/837",
         "https://notify.moe/anime/G-EAcKmmg",
@@ -448,6 +454,7 @@
       "tags": [
         "asia",
         "based on a manga",
+        "child protagonists",
         "comedy",
         "earth",
         "ecchi",
@@ -471,70 +478,25 @@
       "sources": [
         "https://myanimelist.net/anime/48178"
       ],
-      "title": "Leobeuseulleiteu",
+      "title": "Love Slate",
       "type": "MOVIE",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
+        "season": "WINTER",
+        "year": 2017
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1585/125159.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1585/125159t.jpg",
       "synonyms": [
+        "Leobeuseulleiteu",
         "러브슬레이트"
       ],
       "relations": [],
       "tags": [
-        "kids"
+        "erotica"
       ],
       "id": "https://myanimelist.net/anime/48178"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/loin-haita"
-      ],
-      "title": "Loin: Haita",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2017
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/loin-haita-1.webp?t=1642446659",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/loin-haita-1-285x399.webp?t=1642446659",
-      "synonyms": [],
-      "relations": [],
-      "tags": [
-        "vocaloid"
-      ],
-      "id": "https://anime-planet.com/anime/loin-haita"
-    },
-    {
-      "sources": [
-        "https://kitsu.io/anime/43068"
-      ],
-      "title": "Mahou Shounen Miracle Toshiko",
-      "type": "ONA",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 2019
-      },
-      "picture": "https://media.kitsu.io/anime/poster_images/43068/small.jpg",
-      "thumbnail": "https://media.kitsu.io/anime/poster_images/43068/tiny.jpg",
-      "synonyms": [
-        "Magical Boy Miracle Toshiko"
-      ],
-      "relations": [],
-      "tags": [
-        "fantasy",
-        "magic",
-        "magical girl"
-      ],
-      "id": "https://kitsu.io/anime/43068"
     },
     {
       "sources": [
@@ -584,17 +546,10 @@
         "https://anime-planet.com/anime/major-season-6",
         "https://anime-planet.com/anime/major-world-series",
         "https://anime-planet.com/anime/shounen-sunday-cm-major",
-        "https://anisearch.com/anime/12937",
-        "https://anisearch.com/anime/14675",
-        "https://anisearch.com/anime/3297",
-        "https://anisearch.com/anime/3683",
-        "https://anisearch.com/anime/4386",
+        "https://anisearch.com/anime/11796",
         "https://anisearch.com/anime/4668",
-        "https://anisearch.com/anime/4956",
-        "https://anisearch.com/anime/5844",
-        "https://anisearch.com/anime/6693",
-        "https://anisearch.com/anime/7389",
         "https://kitsu.io/anime/3892",
+        "https://kitsu.io/anime/46337",
         "https://kitsu.io/anime/515",
         "https://livechart.me/anime/2936",
         "https://livechart.me/anime/5175",
@@ -607,6 +562,7 @@
         "https://livechart.me/anime/5617",
         "https://livechart.me/anime/9628",
         "https://myanimelist.net/anime/5029",
+        "https://myanimelist.net/anime/52616",
         "https://myanimelist.net/anime/558",
         "https://notify.moe/anime/UbYrcFiiR",
         "https://notify.moe/anime/ceLTcFmmg"
@@ -615,6 +571,8 @@
         "asia",
         "baseball",
         "based on a manga",
+        "bullying",
+        "child protagonists",
         "comedy",
         "coming of age",
         "drama",
@@ -632,6 +590,7 @@
         "school",
         "shounen",
         "sports",
+        "team sports",
         "time skip",
         "tragedy"
       ],
@@ -700,8 +659,8 @@
         "season": "SUMMER",
         "year": 2006
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/14/14262.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/14/14262.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/14/14262_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/14/14262.webp",
       "synonyms": [
         "Mo Bei Si Waan",
         "Thru the Moebius Strip",
@@ -736,62 +695,14 @@
         "O.N.G.E.K.I.",
         "オンゲキ"
       ],
-      "relations": [],
+      "relations": [
+        "https://anisearch.com/anime/13800",
+        "https://myanimelist.net/anime/52470"
+      ],
       "tags": [
         "slice of life"
       ],
       "id": "https://myanimelist.net/anime/37802"
-    },
-    {
-      "sources": [
-        "https://anidb.net/anime/16272",
-        "https://anilist.co/anime/132698",
-        "https://anime-planet.com/anime/oshiri-tantei-movie-3-sufure-tou-no-himitsu",
-        "https://anisearch.com/anime/16243"
-      ],
-      "title": "Oshiri Tantei Movie 3: Sufure-tou no Himitsu",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SUMMER",
-        "year": 2021
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/oshiri-tantei-movie-3-sufure-tou-no-himitsu-1.jpg?t=1640708621",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/oshiri-tantei-movie-3-sufure-tou-no-himitsu-1-190x269.jpg?t=1640708621",
-      "synonyms": [
-        "Eiga Oshiri Tantei: Sufure-tou no Himitsu",
-        "Eiga Oshiri Tantei: Sufure-tō no Himitsu",
-        "Oshiri Tantei: Sufuure-tou no Himitsu",
-        "映画おしりたんてい スフーレ島のひみつ"
-      ],
-      "relations": [
-        "https://anidb.net/anime/13203",
-        "https://anilist.co/anime/100790",
-        "https://anime-planet.com/anime/oshiri-tantei",
-        "https://anime-planet.com/anime/oshiri-tantei-mina-to-machi-no-tuk-tuk-chase",
-        "https://anime-planet.com/anime/oshiri-tantei-movie-1-curry-naru-jiken",
-        "https://anime-planet.com/anime/oshiri-tantei-movie-2-tentou-mushi-iseki-no-nazo",
-        "https://anime-planet.com/anime/oshiri-tantei-movie-4-shiriarty",
-        "https://anisearch.com/anime/12517",
-        "https://anisearch.com/anime/15033",
-        "https://anisearch.com/anime/15158",
-        "https://anisearch.com/anime/15170",
-        "https://anisearch.com/anime/16185",
-        "https://anisearch.com/anime/16196",
-        "https://anisearch.com/anime/16703",
-        "https://anisearch.com/anime/16909"
-      ],
-      "tags": [
-        "based on a picture book",
-        "comedy",
-        "detective",
-        "detectives",
-        "family friendly",
-        "fantasy",
-        "mystery"
-      ],
-      "id": "https://anime-planet.com/anime/oshiri-tantei-movie-3-sufure-tou-no-himitsu"
     },
     {
       "sources": [
@@ -805,8 +716,8 @@
         "season": "UNDEFINED",
         "year": 2019
       },
-      "picture": "https://anime-planet.com/images/anime/covers/13972.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/13972.jpg",
+      "picture": "https://cdn.anime-planet.com/anime/primary/ossan-to-love-1.jpg?t=1625907583",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/ossan-to-love-1-190x266.jpg?t=1625907583",
       "synonyms": [],
       "relations": [],
       "tags": [
@@ -815,6 +726,32 @@
         "work life"
       ],
       "id": "https://anime-planet.com/anime/ossan-to-love"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/rotary-park-eggy-pole-dance"
+      ],
+      "title": "Rotary Park: EGGY pole dance",
+      "type": "ONA",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2017
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/rotary-park-eggy-pole-dance-1.webp?t=1670700446",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/rotary-park-eggy-pole-dance-1-285x400.webp?t=1670700446",
+      "synonyms": [],
+      "relations": [
+        "https://anime-planet.com/anime/rotary-park"
+      ],
+      "tags": [
+        "cg animation",
+        "korean animation",
+        "pole dancing",
+        "shorts"
+      ],
+      "id": "https://anime-planet.com/anime/rotary-park-eggy-pole-dance"
     },
     {
       "sources": [
@@ -852,15 +789,15 @@
         "https://anisearch.com/anime/11026"
       ],
       "title": "Sekai Meisaku Gekijou Kanketsu Ban: Porfy no Nagai Tabi",
-      "type": "TV",
+      "type": "OVA",
       "episodes": 2,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
+        "season": "SUMMER",
+        "year": 2011
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/11/11026.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/11/11026.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/11/11026_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/11/11026.webp",
       "synonyms": [
         "Sekai Meisaku Gekijō Kanketsu Ban: Porfy no Nagai Tabi",
         "World Masterpiece Theater Complete Edition: Mina and Porphyras",
@@ -921,42 +858,21 @@
       "tags": [
         "action",
         "based on a mobile game",
+        "cgi",
+        "cute boys doing cute things",
         "dystopian",
         "ensemble cast",
+        "episodic",
+        "foreign",
         "game",
         "guns",
         "military",
         "post-apocalyptic",
         "primarily male cast",
+        "super power",
         "twins"
       ],
       "id": "https://myanimelist.net/anime/37571"
-    },
-    {
-      "sources": [
-        "https://anilist.co/anime/120513"
-      ],
-      "title": "Shinobi no Susume",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2019
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120513-wJGckyWyL7Hf.png",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120513-wJGckyWyL7Hf.png",
-      "synonyms": [
-        "A Ninja's Encouragement",
-        "An Encouragement of Ninja",
-        "忍びのすゝめ"
-      ],
-      "relations": [],
-      "tags": [
-        "acting",
-        "ninja"
-      ],
-      "id": "https://anilist.co/anime/120513"
     },
     {
       "sources": [
@@ -968,18 +884,58 @@
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2010
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1994/123491.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1994/123491t.jpg",
       "synonyms": [
         "书架上的奇妙世界"
       ],
       "relations": [],
       "tags": [
-        "historical"
+        "fantasy",
+        "kids"
       ],
       "id": "https://myanimelist.net/anime/45983"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/tamaya-shichiten-sono-saki-e",
+        "https://anisearch.com/anime/17629",
+        "https://myanimelist.net/anime/52834"
+      ],
+      "title": "Tamaya CM: Sono Saki e-hen",
+      "type": "ONA",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SUMMER",
+        "year": 2022
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1351/127230.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1351/127230t.jpg",
+      "synonyms": [
+        "Sono Saki e",
+        "TAMAYA アニメCM 「その先へ篇」",
+        "Tamaya CM 3",
+        "Tamaya Pawn Shop: Sono Saki e",
+        "Tamaya Shichiten: Sono Saki e",
+        "その先へ"
+      ],
+      "relations": [
+        "https://anime-planet.com/anime/tamaya-shichiten-shichiyatte-donna-toko",
+        "https://anime-planet.com/anime/tamaya-shichiten-takusareta-omoi-hen",
+        "https://anime-planet.com/anime/tamaya-shichiten-tanjoubi-hen",
+        "https://myanimelist.net/anime/34785",
+        "https://myanimelist.net/anime/44063",
+        "https://myanimelist.net/anime/50349"
+      ],
+      "tags": [
+        "commercials",
+        "present",
+        "promotional"
+      ],
+      "id": "https://myanimelist.net/anime/52834"
     },
     {
       "sources": [
@@ -992,7 +948,7 @@
         "https://myanimelist.net/anime/36653",
         "https://notify.moe/anime/jjWHhKimR"
       ],
-      "title": "Tsurune: Kazemai Koukou Kyuudoubu",
+      "title": "Tsurune: Kazemai Koukou Kyuudou-bu",
       "type": "TV",
       "episodes": 13,
       "status": "FINISHED",
@@ -1004,14 +960,17 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1360/93571t.jpg",
       "synonyms": [
         "Tsurune",
+        "Tsurune - Il tiro che unisce",
+        "Tsurune - Kazemai Koukou Kyuudou-bu -",
         "Tsurune Archery",
         "Tsurune: Kazemai High School Kyudo Club",
         "Tsurune: Kazemai Koukou Kyuudou Bu",
-        "Tsurune: Kazemai Koukou Kyuudou-bu",
+        "Tsurune: Kazemai Koukou Kyuudoubu",
         "Tsurune: Kazemai Kōkō Kyūdō-bu",
         "ツルネ",
         "ツルネ -風舞高校弓道部-",
         "ツルネ ―風舞高校弓道部―",
+        "弦音 -風舞高中弓道部-",
         "弦音 -风舞高中弓道部-",
         "츠루네: 카제마이 고교의 궁도부"
       ],
@@ -1020,10 +979,15 @@
         "https://anilist.co/anime/107506",
         "https://anilist.co/anime/125261",
         "https://anime-planet.com/anime/tsurune-dangerous-shoot",
-        "https://anime-planet.com/anime/tsurune-movie-kazemai-koukou-kyuudou-bu",
+        "https://anime-planet.com/anime/tsurune-movie-hajimari-no-hitosa",
+        "https://anime-planet.com/anime/tsurune-the-linking-shot",
         "https://anisearch.com/anime/14220",
+        "https://anisearch.com/anime/15679",
+        "https://anisearch.com/anime/17625",
         "https://kitsu.io/anime/42355",
+        "https://kitsu.io/anime/45942",
         "https://livechart.me/anime/10188",
+        "https://livechart.me/anime/11383",
         "https://livechart.me/anime/8692",
         "https://myanimelist.net/anime/38921",
         "https://myanimelist.net/anime/43556",
@@ -1034,11 +998,14 @@
         "archery",
         "based on a light novel",
         "club",
+        "cute boys doing cute things",
         "drama",
         "ganbatte",
         "high school",
         "iyashikei",
         "male protagonist",
+        "martial arts",
+        "novel",
         "present",
         "primarily male cast",
         "primarily teen cast",
@@ -1047,6 +1014,7 @@
         "school club",
         "school clubs",
         "school life",
+        "shoujo",
         "slice of life",
         "sports",
         "tournaments",
@@ -1054,6 +1022,32 @@
         "twins"
       ],
       "id": "https://myanimelist.net/anime/36653"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/uta-no-prince-sama-maji-love-starish-tours-special"
+      ],
+      "title": "Uta no Prince-sama: Maji Love Starish Tours Special",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2022
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/uta-no-prince-sama-maji-love-starish-tours-special-1.webp?t=1652601323",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/uta-no-prince-sama-maji-love-starish-tours-special-1-285x400.webp?t=1652601323",
+      "synonyms": [],
+      "relations": [
+        "https://anime-planet.com/anime/uta-no-prince-sama-maji-love-starish-tours"
+      ],
+      "tags": [
+        "based on a visual novel",
+        "based on an otome game",
+        "reverse harem",
+        "shoujo"
+      ],
+      "id": "https://anime-planet.com/anime/uta-no-prince-sama-maji-love-starish-tours-special"
     },
     {
       "sources": [
@@ -1084,6 +1078,7 @@
         "Vandread Gekitouhen",
         "Vandread Intense Fighting Volume",
         "Vandread Turbulence",
+        "Vandread: Turbulence",
         "ヴァンドレッド 激闘篇",
         "ヴァンドレッド　激闘篇",
         "반드레드 격동편"
@@ -1096,8 +1091,6 @@
         "https://anime-planet.com/anime/vandread-integral",
         "https://anime-planet.com/anime/vandread-the-second-stage",
         "https://anisearch.com/anime/2186",
-        "https://anisearch.com/anime/2210",
-        "https://anisearch.com/anime/2814",
         "https://kitsu.io/anime/158",
         "https://livechart.me/anime/3994",
         "https://livechart.me/anime/4431",
@@ -1176,6 +1169,7 @@
         "WMT",
         "Watashi no Ashinaga Oji-san",
         "World Masterpiece Theater",
+        "ashinaga",
         "Длинноногий дядюшка",
         "Длинноногий папочка",
         "بابا لنگ دراز",
@@ -1188,6 +1182,7 @@
         "https://anidb.net/anime/7153",
         "https://anilist.co/anime/20466",
         "https://anime-planet.com/anime/daddy-long-legs-1979",
+        "https://anime-planet.com/anime/daddy-long-legs-specials",
         "https://anisearch.com/anime/5747",
         "https://anisearch.com/anime/6076",
         "https://kitsu.io/anime/10332",
@@ -1213,6 +1208,7 @@
         "earth",
         "female protagonist",
         "foreign",
+        "heterosexual",
         "high school",
         "historical",
         "mysterious benefactor",

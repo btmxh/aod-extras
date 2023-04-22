@@ -2,48 +2,6 @@
   "data": [
     {
       "sources": [
-        "https://anilist.co/anime/143663",
-        "https://anime-planet.com/anime/bakemonogatari-pv",
-        "https://kitsu.io/anime/45896"
-      ],
-      "title": "Bakemonogatari PV",
-      "type": "ONA",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 2022
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/bakemonogatari-pv-1.webp?t=1645054644",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/bakemonogatari-pv-1-285x400.webp?t=1645054644",
-      "synonyms": [
-        "Bakemonogatari Special PV",
-        "化物語 PV",
-        "漫画 化物語 シャフト制作特別PV"
-      ],
-      "relations": [
-        "https://anilist.co/anime/5081",
-        "https://anime-planet.com/anime/bakemonogatari",
-        "https://kitsu.io/anime/3919"
-      ],
-      "tags": [
-        "advertisement",
-        "based on a manga",
-        "male protagonist",
-        "mystery",
-        "primarily female cast",
-        "promotional",
-        "romance",
-        "shounen",
-        "supernatural",
-        "urban fantasy",
-        "vampire",
-        "youkai"
-      ],
-      "id": "https://anime-planet.com/anime/bakemonogatari-pv"
-    },
-    {
-      "sources": [
         "https://anidb.net/anime/15328",
         "https://anilist.co/anime/114411",
         "https://anime-planet.com/anime/bungo-and-alchemist-gears-of-judgement",
@@ -66,22 +24,28 @@
       "synonyms": [
         "BunAl",
         "Bungo and Alchemist -Gears of Judgement-",
+        "Bungo and Alchemist : Gears of Judgement",
         "Bungo and Alchemist: Gears of Judgement",
         "Bungo to Alchemist: Shinpan no Haguruma",
         "Bungō to Alchemist: Shinpan no Haguruma",
         "Literary Greats and Alchemists: The Gears of Judgement",
         "Literary Greats and Alchemists: The Gears of Judgment",
+        "Литераторы и алхимик -Шестерни правосудия-",
         "文豪とアルケミスト ~審判ノ歯車~",
         "文豪とアルケミスト 〜審判ノ歯車〜",
         "文豪とアルケミスト ～審判ノ歯車～",
-        "文豪とアルケミスト　〜審判ノ歯車〜"
+        "文豪とアルケミスト　〜審判ノ歯車〜",
+        "文豪与炼金术师 ～审判的齿轮～"
       ],
       "relations": [],
       "tags": [
         "action",
         "adventure",
+        "angst",
         "based on a video game",
+        "bishounen",
         "classic literature",
+        "detective",
         "epic fantasy",
         "episodic",
         "fantasy",
@@ -99,58 +63,10 @@
         "supernatural",
         "swordplay",
         "swords & co",
+        "tragedy",
         "writers"
       ],
       "id": "https://myanimelist.net/anime/40934"
-    },
-    {
-      "sources": [
-        "https://anidb.net/anime/16655"
-      ],
-      "title": "Chiji Dai Zuozhan Di 2 Ji",
-      "type": "ONA",
-      "episodes": 20,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SUMMER",
-        "year": 2019
-      },
-      "picture": "https://cdn.anidb.net/images/main/264956.jpg",
-      "thumbnail": "https://cdn.anidb.net/images/main/264956.jpg-thumb.jpg",
-      "synonyms": [
-        "吃鸡大作战 第2季"
-      ],
-      "relations": [
-        "https://anidb.net/anime/16654",
-        "https://anidb.net/anime/16656"
-      ],
-      "tags": [
-        "short episodes"
-      ],
-      "id": "https://anidb.net/anime/16655"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/47752"
-      ],
-      "title": "Di Bo Long Huanqiu Lixian Ji",
-      "type": "ONA",
-      "episodes": 2,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "迪啵龙环球历险记"
-      ],
-      "relations": [],
-      "tags": [
-        "kids"
-      ],
-      "id": "https://myanimelist.net/anime/47752"
     },
     {
       "sources": [
@@ -164,10 +80,12 @@
         "season": "SPRING",
         "year": 2014
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/10/10099.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/10/10099.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/10/10099_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/10/10099.webp",
       "synonyms": [],
-      "relations": [],
+      "relations": [
+        "https://anisearch.com/anime/8987"
+      ],
       "tags": [],
       "id": "https://anisearch.com/anime/10099"
     },
@@ -208,7 +126,7 @@
         "https://livechart.me/anime/5601",
         "https://myanimelist.net/anime/35321"
       ],
-      "title": "Haikyuu!!: Tokushuu! Haru-kou Volley ni Kaketa Seishun",
+      "title": "Haikyuu!! Tokushuu! Haru-kou Volley ni Kaketa Seishun",
       "type": "OVA",
       "episodes": 1,
       "status": "FINISHED",
@@ -221,15 +139,20 @@
       "synonyms": [
         "HAIKYU!! - Special Feature! The Spring Tournament of Their Youth",
         "Haikyu!! Karasuno High School vs Shiratorizawa Academy: Special Feature! The Spring Tournament of Their Youth",
+        "Haikyu!! Karasuno vs. Shiratorizawa: Special Feature! The Spring Tournament of Their Youth",
+        "Haikyu!! Season 3 OVA",
         "Haikyu!! Sonderbeitrag: Die Jugend beim Frühlingsturnier",
         "Haikyu!! Special Feature! The Spring Tournament of Their Youth",
+        "Haikyu!! ¡Especial! Los jóvenes y el torneo de primavera",
         "Haikyuu!! Karasuno Koukou vs Shiratorizawa Gakuen Koukou: Tokushuu! Haru Kou Volley ni Kaketa Seishun",
         "Haikyuu!! OAD",
         "Haikyuu!! OVA",
+        "Haikyuu!! Special Feature! The Spring Tournament of Their Youth",
         "Haikyuu!! Tokushuu! Harukou Volley ni Kaketa Seishun",
         "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen",
         "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou OVA",
-        "Haikyū!!: Tokushū! Haru-kō Volley ni Kaketa Seishun",
+        "Haikyuu!!: Tokushuu! Haru-kou Volley ni Kaketa Seishun",
+        "Haikyū!! Tokushū! Haru-kō Volley ni Kaketa Seishun",
         "ハイキュー!! 烏野高校 VS 白鳥沢学園高校 特集! 春高バレーに賭けた青春",
         "ハイキュー!! 特集！春高バレーに賭けた青春",
         "ハイキュー！！ 特集！ 春高バレーに賭けた青春",
@@ -241,16 +164,7 @@
         "https://anilist.co/anime/21698",
         "https://anime-planet.com/anime/haikyuu-karasuno-high-school-vs-shiratorizawa-academy",
         "https://anime-planet.com/anime/haikyuu-second-season",
-        "https://anisearch.com/anime/10097",
-        "https://anisearch.com/anime/10146",
-        "https://anisearch.com/anime/11165",
         "https://anisearch.com/anime/11209",
-        "https://anisearch.com/anime/12328",
-        "https://anisearch.com/anime/14041",
-        "https://anisearch.com/anime/14682",
-        "https://anisearch.com/anime/14832",
-        "https://anisearch.com/anime/9011",
-        "https://anisearch.com/anime/9909",
         "https://myanimelist.net/anime/28891",
         "https://myanimelist.net/anime/32935"
       ],
@@ -267,6 +181,7 @@
         "shounen",
         "slapstick",
         "sports",
+        "team sports",
         "volleyball"
       ],
       "id": "https://myanimelist.net/anime/35321"
@@ -318,42 +233,6 @@
         "superpowers"
       ],
       "id": "https://myanimelist.net/anime/2739"
-    },
-    {
-      "sources": [
-        "https://anilist.co/anime/111931"
-      ],
-      "title": "Hoozuki no Reitetsu 2 OVA",
-      "type": "OVA",
-      "episodes": 3,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SUMMER",
-        "year": 2019
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b111931-3er3ajvOx0Qi.png",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b111931-3er3ajvOx0Qi.png",
-      "synonyms": [
-        "Hoozuki no Reitetsu 2 OAD",
-        "Hoozuki no Reitetsu 2nd Season OVA",
-        "鬼灯の冷徹 2 OVA"
-      ],
-      "relations": [
-        "https://anilist.co/anime/100852"
-      ],
-      "tags": [
-        "afterlife",
-        "comedy",
-        "demons",
-        "episodic",
-        "idol",
-        "male protagonist",
-        "mythology",
-        "supernatural",
-        "surreal comedy",
-        "youkai"
-      ],
-      "id": "https://anilist.co/anime/111931"
     },
     {
       "sources": [
@@ -427,6 +306,67 @@
     },
     {
       "sources": [
+        "https://myanimelist.net/anime/53205"
+      ],
+      "title": "Jun You Yun 2nd Season",
+      "type": "ONA",
+      "episodes": 0,
+      "status": "UPCOMING",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": null
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1530/128670.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1530/128670t.jpg",
+      "synonyms": [
+        "Word of Honor 2nd Season",
+        "君有云"
+      ],
+      "relations": [
+        "https://myanimelist.net/anime/50433"
+      ],
+      "tags": [
+        "action",
+        "adventure",
+        "fantasy",
+        "historical",
+        "martial arts"
+      ],
+      "id": "https://myanimelist.net/anime/53205"
+    },
+    {
+      "sources": [
+        "https://anisearch.com/anime/17975"
+      ],
+      "title": "Keroro Gunsou × No More Eiga Dorobou",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "FALL",
+        "year": 2021
+      },
+      "picture": "https://www.anisearch.com/images/anime/cover/17/17975_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/17/17975.webp",
+      "synonyms": [
+        "\"Stop! Piracy\" Sgt. Frog x No More Movie Thief",
+        "Keroro Gunsou x No More Eiga Dorobou",
+        "Keroro Gunsō × No More Eiga Dorobō",
+        "STOP! Kaizokuban: Keroro Gunsou x No More Eiga Dorobou",
+        "ケロロ軍曹 ｘ NO MORE映画泥棒"
+      ],
+      "relations": [
+        "https://anisearch.com/anime/3076"
+      ],
+      "tags": [
+        "aliens",
+        "comedy",
+        "present"
+      ],
+      "id": "https://anisearch.com/anime/17975"
+    },
+    {
+      "sources": [
         "https://anidb.net/anime/14350",
         "https://anilist.co/anime/111027",
         "https://anime-planet.com/anime/kiseki",
@@ -463,62 +403,9 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/look-plus-x-one-piece-cm"
-      ],
-      "title": "Look Plus x One Piece CM",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2019
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/look-plus-x-one-piece-cm-1.jpg?t=1625908511",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/look-plus-x-one-piece-cm-1-190x266.jpg?t=1625908511",
-      "synonyms": [],
-      "relations": [
-        "https://anime-planet.com/anime/one-piece"
-      ],
-      "tags": [
-        "commercials",
-        "pirates",
-        "promotional"
-      ],
-      "id": "https://anime-planet.com/anime/look-plus-x-one-piece-cm"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/44769"
-      ],
-      "title": "Luoke Wangguo Zhi Sheng Long Qishi",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2011
-      },
-      "picture": "https://cdn.myanimelist.net/images/anime/1115/118728.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1115/118728t.jpg",
-      "synonyms": [
-        "洛克王国之圣龙骑士"
-      ],
-      "relations": [
-        "https://myanimelist.net/anime/44770",
-        "https://myanimelist.net/anime/44773",
-        "https://myanimelist.net/anime/44774"
-      ],
-      "tags": [
-        "adventure",
-        "fantasy",
-        "kids"
-      ],
-      "id": "https://myanimelist.net/anime/44769"
-    },
-    {
-      "sources": [
         "https://anilist.co/anime/98089",
         "https://anime-planet.com/anime/mirai-no-watashi",
+        "https://anisearch.com/anime/11267",
         "https://kitsu.io/anime/11947",
         "https://myanimelist.net/anime/32959",
         "https://notify.moe/anime/Up56pFmig"
@@ -534,7 +421,9 @@
       "picture": "https://cdn.myanimelist.net/images/anime/5/79144.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/5/79144t.jpg",
       "synonyms": [
+        "Crew ni Narou. Campaign (クルーになろう。キャンペーン)",
         "McDonald's Crew ni Narou. Campaign",
+        "McDonald's Recruit Campaign",
         "The Future Me",
         "未来のワタシ"
       ],
@@ -571,7 +460,7 @@
         "season": "UNDEFINED",
         "year": 2021
       },
-      "picture": "https://cdn.anime-planet.com/anime/primary/nejishiki-sakura-no-yoru-1.jpg?t=1625792264",
+      "picture": "https://cdn.anime-planet.com/anime/primary/nejishiki-sakura-no-yoru-1.jpg?t=1625908931",
       "thumbnail": "https://cdn.anime-planet.com/anime/primary/nejishiki-sakura-no-yoru-1-190x266.jpg?t=1625908931",
       "synonyms": [],
       "relations": [],
@@ -583,31 +472,46 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/142806"
+        "https://anime-planet.com/anime/roco-kingdom-movie-1",
+        "https://myanimelist.net/anime/44769"
       ],
-      "title": "Oshiri Tantei: SHIRIARTY",
+      "title": "Roco Wangguo: Sheng Long Qishi",
       "type": "MOVIE",
       "episodes": 1,
-      "status": "UPCOMING",
+      "status": "FINISHED",
       "animeSeason": {
-        "season": "SPRING",
-        "year": 2022
+        "season": "SUMMER",
+        "year": 2011
       },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142806-u2LeYVSmZozu.jpg",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142806-u2LeYVSmZozu.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1115/118728.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1115/118728t.jpg",
       "synonyms": [
-        "映画おしりたんてい シリアーティ"
+        "Roco Kingdom Movie 1",
+        "The Dragon Knight",
+        "The Kingdom of Rock",
+        "洛克王国之圣龙骑士"
       ],
       "relations": [
-        "https://anilist.co/anime/100790"
+        "https://anime-planet.com/anime/roco-kingdom-movie-2",
+        "https://anime-planet.com/anime/roco-kingdom-movie-3",
+        "https://anime-planet.com/anime/roco-kingdom-movie-4",
+        "https://myanimelist.net/anime/44770",
+        "https://myanimelist.net/anime/44773",
+        "https://myanimelist.net/anime/44774",
+        "https://myanimelist.net/anime/44777",
+        "https://myanimelist.net/anime/44781"
       ],
       "tags": [
-        "comedy",
-        "detective",
+        "adventure",
+        "animal protagonists",
+        "anthropomorphic",
+        "chinese animation",
+        "family friendly",
+        "fantasy",
         "kids",
-        "mystery"
+        "non-human protagonists"
       ],
-      "id": "https://anilist.co/anime/142806"
+      "id": "https://myanimelist.net/anime/44769"
     },
     {
       "sources": [
@@ -631,19 +535,22 @@
       "picture": "https://cdn.myanimelist.net/images/anime/6/49963.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/6/49963t.jpg",
       "synonyms": [
+        "SAMURAI SPIRITS 〜破天降魔の章〜",
+        "SAMURAI SPIRITS: Haten Gouma no Shou",
         "Samurai Shodown",
         "Samurai Shodown The Motion Picture",
         "Samurai Shodown: The Motion Picture",
         "Samurai Showdown",
         "Samurai Showdown: The Motion Picture",
-        "Samurai Spirits",
         "Samurai Spirits: Apocalisse a Edo",
         "Samurai Spirits: Haten Gōma no Shō",
         "Самурайский дух - Фильм",
+        "ارواح سامورایی: فیلم متحرک",
         "サムライスピリッツ 破天降魔の章",
         "サムライスピリッツ　破天降魔の章"
       ],
       "relations": [
+        "https://anidb.net/anime/110",
         "https://anidb.net/anime/960",
         "https://anilist.co/anime/1937",
         "https://anilist.co/anime/839",
@@ -715,6 +622,7 @@
       ],
       "tags": [
         "adventure",
+        "educational",
         "family friendly",
         "kids"
       ],
@@ -722,63 +630,7 @@
     },
     {
       "sources": [
-        "https://myanimelist.net/anime/48765"
-      ],
-      "title": "Shinsekai",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2020
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "New World",
-        "新世界"
-      ],
-      "relations": [
-        "https://myanimelist.net/anime/38824"
-      ],
-      "tags": [
-        "music",
-        "romance"
-      ],
-      "id": "https://myanimelist.net/anime/48765"
-    },
-    {
-      "sources": [
-        "https://anilist.co/anime/139353",
-        "https://kitsu.io/anime/45589"
-      ],
-      "title": "Shouji Li de Huanxiong Xiaozhen 2",
-      "type": "ONA",
-      "episodes": 26,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 2021
-      },
-      "picture": "https://media.kitsu.io/anime/45589/poster_image/small-4d4eebc72d516558ed199c4cdaa3bad3.jpeg",
-      "thumbnail": "https://media.kitsu.io/anime/45589/poster_image/tiny-eb590ff34acdbd0eab873a4680af4489.jpeg",
-      "synonyms": [
-        "Raccoon Town in the Phone 2",
-        "手机里的浣熊小镇 第二季"
-      ],
-      "relations": [
-        "https://anilist.co/anime/131664",
-        "https://kitsu.io/anime/44784"
-      ],
-      "tags": [
-        "anthropomorphism",
-        "comedy",
-        "slice of life"
-      ],
-      "id": "https://kitsu.io/anime/45589"
-    },
-    {
-      "sources": [
+        "https://anidb.net/anime/17228",
         "https://anilist.co/anime/102665",
         "https://anime-planet.com/anime/sleepy",
         "https://kitsu.io/anime/10776",
@@ -800,8 +652,9 @@
       ],
       "relations": [],
       "tags": [
-        "avant garde",
+        "comedy",
         "dementia",
+        "mina",
         "shorts"
       ],
       "id": "https://myanimelist.net/anime/30334"
@@ -839,6 +692,7 @@
         "Ushio to Tora TV",
         "Ushio und Tora",
         "Ushio y Tora",
+        "ushiototora",
         "ushitora",
         "Ушио и Тигъра (2015)",
         "うしおととら",
@@ -857,7 +711,6 @@
         "https://anime-planet.com/anime/ushio-and-tora-tv-2016",
         "https://anisearch.com/anime/10504",
         "https://anisearch.com/anime/2575",
-        "https://anisearch.com/anime/5654",
         "https://kitsu.io/anime/11126",
         "https://kitsu.io/anime/747",
         "https://livechart.me/anime/1672",
@@ -880,6 +733,7 @@
         "love triangle",
         "male protagonist",
         "manga",
+        "mythology",
         "present",
         "shounen",
         "supernatural",
@@ -919,7 +773,8 @@
       "tags": [
         "cars",
         "motorsport",
-        "music"
+        "music",
+        "racing"
       ],
       "id": "https://myanimelist.net/anime/33124"
     },
@@ -945,6 +800,7 @@
       "picture": "https://cdn.myanimelist.net/images/anime/11/12936.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/11/12936t.jpg",
       "synonyms": [
+        "wangan",
         "Ванганская полночь",
         "わんがんみっどないと",
         "海岸午夜",
@@ -955,6 +811,7 @@
       "tags": [
         "action",
         "action drama",
+        "advertisement",
         "based on a manga",
         "cars",
         "cgi",
@@ -975,6 +832,7 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/131574",
         "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-smart-dodging",
         "https://myanimelist.net/anime/43984"
       ],
@@ -991,9 +849,14 @@
       "synonyms": [
         "Pleasant Goat and Big Big Wolf: Smart Dodging",
         "Xi Yangyang Yu Hui Tailang Zhi Qisi Miaoxiang Xi Yangyang",
+        "Xi Yangyang Yu Hui Tailang: Qi Si Miao Xiang Xi Yangyang",
+        "喜羊羊与灰太狼 第四季",
+        "喜羊羊与灰太狼之奇思妙想喜羊羊",
         "喜羊羊與灰太狼之奇思妙想喜羊羊"
       ],
       "relations": [
+        "https://anilist.co/anime/131569",
+        "https://anilist.co/anime/131589",
         "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf",
         "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-happy-happy-bang-bang",
         "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-joys-of-seasons",
@@ -1024,16 +887,16 @@
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2012
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1574/131019.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1574/131019t.jpg",
       "synonyms": [
         "熊猫走天涯"
       ],
       "relations": [],
       "tags": [
-        "adventure"
+        "kids"
       ],
       "id": "https://myanimelist.net/anime/46536"
     },
@@ -1059,6 +922,7 @@
       "picture": "https://cdn.myanimelist.net/images/anime/12/77614.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/12/77614t.jpg",
       "synonyms": [
+        "Yu-Gi-Oh! El lado oscuro de las dimensiones",
         "Yu-Gi-Oh! Film: The Darkside of Dimensions",
         "Yu-Gi-Oh! Movie 4: The Dark Side of Dimensions",
         "Yu-Gi-Oh! The Dark Side of Dimensions",
@@ -1080,21 +944,8 @@
         "https://anilist.co/anime/481",
         "https://anilist.co/anime/550",
         "https://anime-planet.com/anime/yu-gi-oh-duel-monsters",
-        "https://anisearch.com/anime/10482",
-        "https://anisearch.com/anime/12209",
-        "https://anisearch.com/anime/1310",
-        "https://anisearch.com/anime/14866",
-        "https://anisearch.com/anime/1590",
+        "https://anime-planet.com/anime/yu-gi-oh-the-dark-side-of-dimensions-special-eien-no-rival-yugi-to-kaiba",
         "https://anisearch.com/anime/220",
-        "https://anisearch.com/anime/2618",
-        "https://anisearch.com/anime/4740",
-        "https://anisearch.com/anime/482",
-        "https://anisearch.com/anime/5576",
-        "https://anisearch.com/anime/6825",
-        "https://anisearch.com/anime/8038",
-        "https://anisearch.com/anime/9402",
-        "https://anisearch.com/anime/9616",
-        "https://anisearch.com/anime/9659",
         "https://kitsu.io/anime/442",
         "https://livechart.me/anime/1009",
         "https://livechart.me/anime/1560",
@@ -1132,6 +983,7 @@
         "fantasy",
         "friendship",
         "game",
+        "gaming – card games",
         "ganbatte",
         "genius",
         "ghosts",
@@ -1145,6 +997,7 @@
         "science fiction",
         "shounen",
         "sports",
+        "strategy game",
         "supernatural",
         "urban fantasy"
       ],
@@ -1153,6 +1006,7 @@
     {
       "sources": [
         "https://anilist.co/anime/131781",
+        "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-mighty-goat-squad",
         "https://myanimelist.net/anime/44013"
       ],
       "title": "Zhiqu Yang Xuetang: Yangyang Qu Maoxian",
@@ -1167,17 +1021,29 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1223/115304t.jpg",
       "synonyms": [
         "Pleasant Goat Fun Class: Mighty Goat Squad",
+        "Pleasant Goat and Big Big Wolf: Mighty Goat Squad",
+        "Xi Yangyang Yu Hui Tailang: Yangyang Qu Maoxian",
         "喜羊羊与灰太狼之羊羊趣冒险",
         "智趣羊学堂之羊羊趣冒险"
       ],
       "relations": [
         "https://anilist.co/anime/131779",
+        "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf",
+        "https://anime-planet.com/anime/pleasant-goat-fun-class-finding-treasures",
         "https://myanimelist.net/anime/44012"
       ],
       "tags": [
         "adventure",
+        "animal protagonists",
+        "anthropomorphic",
+        "cg animation",
+        "chinese animation",
         "comedy",
-        "kids"
+        "family friendly",
+        "kids",
+        "non-human protagonists",
+        "original work",
+        "sci fi"
       ],
       "id": "https://myanimelist.net/anime/44013"
     }

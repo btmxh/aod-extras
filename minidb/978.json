@@ -12,7 +12,7 @@
         "season": "UNDEFINED",
         "year": 2012
       },
-      "picture": "https://cdn.anime-planet.com/anime/primary/azuma-yumemidori-1.jpg?t=1625785617",
+      "picture": "https://cdn.anime-planet.com/anime/primary/azuma-yumemidori-1.jpg?t=1625898750",
       "thumbnail": "https://cdn.anime-planet.com/anime/primary/azuma-yumemidori-1-190x266.jpg?t=1625898750",
       "synonyms": [],
       "relations": [],
@@ -128,12 +128,7 @@
       "relations": [
         "https://anisearch.com/anime/1719",
         "https://anisearch.com/anime/1787",
-        "https://anisearch.com/anime/2266",
-        "https://anisearch.com/anime/2535",
-        "https://anisearch.com/anime/3400",
         "https://anisearch.com/anime/3506",
-        "https://anisearch.com/anime/4150",
-        "https://anisearch.com/anime/7341",
         "https://myanimelist.net/anime/1353",
         "https://myanimelist.net/anime/2342",
         "https://myanimelist.net/anime/2359",
@@ -155,6 +150,7 @@
         "horror",
         "magic",
         "masturbation",
+        "mythology",
         "oral",
         "present",
         "psi-powers",
@@ -176,7 +172,7 @@
       "episodes": 16,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "FALL",
+        "season": "UNDEFINED",
         "year": 2019
       },
       "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140370-GXDO4jDnj7im.png",
@@ -216,9 +212,11 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1038/94231.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1038/94231t.jpg",
       "synonyms": [
+        "CRUSH GEAR TURBO THE MOVIE Kaiservern`s Ultimate Challenge",
         "Crush Gear Turbo The Movie",
         "Crush Gear Turbo The Movie - Kaiservern's Ultimate Challenge",
         "Gekitou! Crash Gear Turbo: Kaizabaan no Chousen",
+        "Gekitou! Crush Gear Turbo: Kaiservern no Chousen",
         "Gekitō! Crush Gear Turbo: Kaizabān no Chōsen",
         "激闘! クラッシュギアTURBO カイザバーンの挑戦",
         "激闘!クラッシュギアTURBO カイザバーンの挑戦",
@@ -229,7 +227,6 @@
         "https://anilist.co/anime/3012",
         "https://anime-planet.com/anime/crush-gear-nitro",
         "https://anime-planet.com/anime/crush-gear-turbo",
-        "https://anisearch.com/anime/2019",
         "https://anisearch.com/anime/3275",
         "https://kitsu.io/anime/2723",
         "https://livechart.me/anime/8733",
@@ -253,6 +250,7 @@
     {
       "sources": [
         "https://anidb.net/anime/7862",
+        "https://anime-planet.com/anime/hello-kitty-no-hajimete-no-christmas-cake",
         "https://anisearch.com/anime/7055",
         "https://kitsu.io/anime/10266",
         "https://myanimelist.net/anime/29535",
@@ -271,15 +269,23 @@
       "synonyms": [
         "ハローキティのはじめてのクリスマスケーキ"
       ],
-      "relations": [],
+      "relations": [
+        "https://anisearch.com/anime/5462"
+      ],
       "tags": [
+        "animal protagonists",
+        "anthropomorphic",
         "anthropomorphism",
         "beastmen",
+        "cats",
+        "family friendly",
         "food preparation",
         "indefinite",
         "kids",
         "kodomo",
+        "non-human protagonists",
         "present",
+        "sanrio characters",
         "slice of life"
       ],
       "id": "https://myanimelist.net/anime/29535"
@@ -375,101 +381,34 @@
     },
     {
       "sources": [
-        "https://anisearch.com/anime/5241"
+        "https://kitsu.io/anime/45938"
       ],
-      "title": "Kin’iro no Corda: Secondo Passo",
-      "type": "TV",
-      "episodes": 2,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 2009
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/5/5241.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/5/5241.webp",
-      "synonyms": [
-        "Kin'iro no Chord: Secondo Passo",
-        "La Corda d'Oro: Secondo Passo",
-        "The Golden String: Second Step",
-        "金色のコルダ ～secondo passo～"
-      ],
-      "relations": [
-        "https://anisearch.com/anime/3902",
-        "https://anisearch.com/anime/9568"
-      ],
-      "tags": [
-        "comedy",
-        "drama",
-        "ganbatte",
-        "harem",
-        "magic",
-        "music",
-        "present",
-        "romance",
-        "school"
-      ],
-      "id": "https://anisearch.com/anime/5241"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/16272"
-      ],
-      "title": "Kkoma Sillang Kung Do-Ryeong",
-      "type": "TV",
-      "episodes": 26,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 2013
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/16/16272.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/16/16272.webp",
-      "synonyms": [
-        "Koong the Little Bridegroom",
-        "Little Groom Koong",
-        "꼬마신랑 쿵도령"
-      ],
-      "relations": [
-        "https://anisearch.com/anime/16273"
-      ],
-      "tags": [
-        "historical",
-        "joseon-era"
-      ],
-      "id": "https://anisearch.com/anime/16272"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/laid-back-camp-2nd-season-specials"
-      ],
-      "title": "Laid-Back Camp 2nd Season Specials",
+      "title": "Love Me Love Me",
       "type": "SPECIAL",
-      "episodes": 2,
+      "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2021
+        "season": "WINTER",
+        "year": 2022
       },
-      "picture": "https://cdn.anime-planet.com/anime/primary/laid-back-camp-2nd-season-specials-1.jpg?t=1625909032",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/laid-back-camp-2nd-season-specials-1-190x265.jpg?t=1625909032",
-      "synonyms": [
-        "Yuru Camp 2nd Season Specials"
-      ],
+      "picture": "https://media.kitsu.io/anime/45938/poster_image/small-feef046bdc6b5ebb0909eca715807fb7.jpeg",
+      "thumbnail": "https://media.kitsu.io/anime/45938/poster_image/tiny-6021011991b64f326d23991696112a37.jpeg",
+      "synonyms": [],
       "relations": [
-        "https://anime-planet.com/anime/laid-back-camp-2nd-season"
+        "https://kitsu.io/anime/43740"
       ],
       "tags": [
-        "based on a manga",
-        "comedy",
-        "slice of life"
+        "anime influenced",
+        "idol",
+        "music"
       ],
-      "id": "https://anime-planet.com/anime/laid-back-camp-2nd-season-specials"
+      "id": "https://kitsu.io/anime/45938"
     },
     {
       "sources": [
         "https://myanimelist.net/anime/47380"
       ],
-      "title": "Meng Ji Xiaodui season3",
+      "title": "Meng Ji Xiaodui 3rd Season",
       "type": "TV",
       "episodes": 52,
       "status": "FINISHED",
@@ -477,16 +416,55 @@
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1552/129426.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1552/129426t.jpg",
       "synonyms": [
         "萌鸡小队 第3季"
       ],
-      "relations": [],
+      "relations": [
+        "https://myanimelist.net/anime/47379"
+      ],
       "tags": [
+        "fantasy",
         "kids"
       ],
       "id": "https://myanimelist.net/anime/47380"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/153840",
+        "https://anisearch.com/anime/17524",
+        "https://myanimelist.net/anime/52071"
+      ],
+      "title": "Midori no Makibao: Owaranai Chоusen!!",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SUMMER",
+        "year": 2022
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1907/124436.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1907/124436t.jpg",
+      "synonyms": [
+        "Green Makibao, The Incredible Race Horse: Neverending Challenge",
+        "Green Makibao: A Neverending Challenge!!",
+        "Midori no Makibao: Owaranai Chousen!!",
+        "Midori no Makibao: Owaranai Chōsen!!",
+        "みどりのマキバオー 終わらない挑戦!!",
+        "みどりのマキバオー 終わらない挑戦！！"
+      ],
+      "relations": [
+        "https://anilist.co/anime/3550",
+        "https://anisearch.com/anime/1961",
+        "https://myanimelist.net/anime/3550"
+      ],
+      "tags": [
+        "comedy",
+        "racing",
+        "sports"
+      ],
+      "id": "https://myanimelist.net/anime/52071"
     },
     {
       "sources": [
@@ -523,6 +501,7 @@
         "Время битв",
         "قتال الطيف",
         "むつえんめいりゅうがいでんしゅらのとき",
+        "陆奥圆明流外传 修罗之刻",
         "陸奥圓明流外伝 修羅の刻"
       ],
       "relations": [],
@@ -550,8 +529,7 @@
         "swordplay",
         "swords & co",
         "time skip",
-        "tournaments",
-        "war"
+        "tournaments"
       ],
       "id": "https://myanimelist.net/anime/340"
     },
@@ -585,6 +563,7 @@
       ],
       "relations": [
         "https://anidb.net/anime/6842",
+        "https://anisearch.com/anime/12044",
         "https://kitsu.io/anime/8615",
         "https://myanimelist.net/anime/23759",
         "https://notify.moe/anime/4kMJtKimR"
@@ -605,13 +584,15 @@
         "rabbits",
         "short movie",
         "shorts",
-        "sports"
+        "sports",
+        "team sports"
       ],
       "id": "https://myanimelist.net/anime/5826"
     },
     {
       "sources": [
         "https://anilist.co/anime/8670",
+        "https://anime-planet.com/anime/pozzie",
         "https://kitsu.io/anime/5432",
         "https://myanimelist.net/anime/8670",
         "https://notify.moe/anime/vmlmpKimR"
@@ -627,13 +608,40 @@
       "picture": "https://cdn.myanimelist.net/images/anime/11/23871.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/11/23871t.jpg",
       "synonyms": [
+        "POZZIE",
         "ポッツィー"
       ],
       "relations": [],
       "tags": [
-        "kids"
+        "abstract",
+        "family friendly",
+        "kids",
+        "short episodes"
       ],
       "id": "https://myanimelist.net/anime/8670"
+    },
+    {
+      "sources": [
+        "https://anisearch.com/anime/17318"
+      ],
+      "title": "Princess Principal: Crown Handler OVA",
+      "type": "SPECIAL",
+      "episodes": 6,
+      "status": "ONGOING",
+      "animeSeason": {
+        "season": "SUMMER",
+        "year": 2021
+      },
+      "picture": "https://www.anisearch.com/images/anime/cover/17/17318_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/17/17318.webp",
+      "synonyms": [
+        "プリンセス・プリンシパル Crown Handler"
+      ],
+      "relations": [
+        "https://anisearch.com/anime/13597"
+      ],
+      "tags": [],
+      "id": "https://anisearch.com/anime/17318"
     },
     {
       "sources": [
@@ -669,6 +677,7 @@
       "tags": [
         "age regression",
         "all girls school",
+        "all-girls school",
         "amnesia",
         "comedy",
         "conspiracy",
@@ -707,47 +716,122 @@
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2016
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1139/129033.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1139/129033t.jpg",
       "synonyms": [
         "圣光不好惹"
       ],
       "relations": [],
       "tags": [
         "adventure",
-        "comedy"
+        "comedy",
+        "fantasy"
       ],
       "id": "https://myanimelist.net/anime/45214"
     },
     {
       "sources": [
-        "https://myanimelist.net/anime/49545"
+        "https://anidb.net/anime/17068",
+        "https://anime-planet.com/anime/shimajirou-to-kirakira-ookoku-no-ooji-sama",
+        "https://anisearch.com/anime/17175",
+        "https://livechart.me/anime/11122",
+        "https://myanimelist.net/anime/54269"
       ],
-      "title": "Shinkansen Henkei Robo Shinkalion Z Special Compilation: Yarisugi!? Shinkalion Z Toshi Densetsu File",
-      "type": "ONA",
+      "title": "Shimajirou no Wow! Movie 10: Shimajirou to Kirakira Oukoku no Ouji-sama",
+      "type": "MOVIE",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2021
+        "season": "WINTER",
+        "year": 2022
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1281/132822.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1281/132822t.jpg",
       "synonyms": [
-        "ス新幹線変形ロボ シンカリオンZ ペシャル総集編！やりすぎ!?シンカリオンZ都市伝説ファイル"
+        "Eiga Shimajirou: Shimajirou to Kirakira Oukoku no Ouji-sama",
+        "Eiga Shimajirō: Shimajirō to Kirakira Ōkoku no Ōji-sama",
+        "Shimajirou to Kirakira Ookoku no Ooji-sama",
+        "Shimajirou to Kirakira Oukoku no Ouji-sama",
+        "しまじろうとキラキラおうこくの おうじさま",
+        "映画しまじろう しまじろうと キラキラおうこくの おうじさま",
+        "映画しまじろう しまじろうとキラキラおうこくのおうじさま"
       ],
       "relations": [
-        "https://myanimelist.net/anime/46381"
+        "https://anidb.net/anime/9131",
+        "https://anime-planet.com/anime/shima-shima-tora-no-shimajirou",
+        "https://anime-planet.com/anime/shimajirou-no-wow",
+        "https://anisearch.com/anime/7761",
+        "https://livechart.me/anime/10106",
+        "https://livechart.me/anime/11559",
+        "https://livechart.me/anime/1908",
+        "https://livechart.me/anime/2402",
+        "https://livechart.me/anime/2964",
+        "https://livechart.me/anime/350",
+        "https://livechart.me/anime/8227",
+        "https://livechart.me/anime/9659",
+        "https://myanimelist.net/anime/18941"
       ],
       "tags": [
-        "action",
+        "adventure",
+        "animal protagonists",
+        "anthropomorphic",
+        "cg animation",
+        "comedy",
+        "family friendly",
+        "fantasy",
         "kids",
-        "mecha",
-        "sci-fi"
+        "non-human protagonists",
+        "slice of life"
       ],
-      "id": "https://myanimelist.net/anime/49545"
+      "id": "https://myanimelist.net/anime/54269"
+    },
+    {
+      "sources": [
+        "https://anidb.net/anime/17965",
+        "https://anilist.co/anime/163292",
+        "https://anime-planet.com/anime/shinmai-ossan-boukensha-saikyou-party-ni-shinu-hodo-kitaerarete-muteki-ni-naru",
+        "https://anisearch.com/anime/18325",
+        "https://kitsu.io/anime/47272",
+        "https://livechart.me/anime/11920",
+        "https://myanimelist.net/anime/54913",
+        "https://notify.moe/anime/dYEiu7YVR"
+      ],
+      "title": "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru.",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "UPCOMING",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2023
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1695/135012.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1695/135012t.jpg",
+      "synonyms": [
+        "Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru.",
+        "Shinmai Ossan Boukensha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru.",
+        "Shinmai Ossan Bōkensha, Saikyō Party ni Shinu hodo Kitaerarete Muteki ni Naru.",
+        "The Middle-Aged Newbie Adventurer, Trained to the Brink of Death by the Strongest Party, Became Unbeatable",
+        "The Rookie Middle-Aged Adventurer Was Trained to Death by the Most Powerful Party to Become Invincible",
+        "新米オッサン冒険者, 最強パーティに死ぬほど鍛えられて無敵になる.",
+        "新米オッサン冒険者、最強パーティに死ぬほど鍛えられて無敵になる",
+        "新米オッサン冒険者、最強パーティに死ぬほど鍛えられて無敵になる。"
+      ],
+      "relations": [],
+      "tags": [
+        "action",
+        "adventure",
+        "alternative world",
+        "based on a light novel",
+        "comedy",
+        "fantasy",
+        "magic",
+        "monster",
+        "swords & co",
+        "vampires"
+      ],
+      "id": "https://myanimelist.net/anime/54913"
     },
     {
       "sources": [
@@ -772,21 +856,30 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1880/113766t.jpg",
       "synonyms": [
         "SSSS Dynazenon",
-        "SSSS.DYNAZENON"
+        "SSSS.DYNAZENON",
+        "SSSS.电光机王",
+        "SSSS.다이나제논"
       ],
       "relations": [
         "https://anidb.net/anime/13260",
         "https://anidb.net/anime/17037",
+        "https://anidb.net/anime/17769",
         "https://anilist.co/anime/124082",
         "https://anilist.co/anime/142684",
+        "https://anilist.co/anime/158991",
         "https://anilist.co/anime/99424",
-        "https://anime-planet.com/anime/gridman-x-dynazenon",
+        "https://anime-planet.com/anime/gridman-universe",
         "https://anime-planet.com/anime/ssss-gridman",
+        "https://anisearch.com/anime/12644",
+        "https://anisearch.com/anime/16915",
+        "https://anisearch.com/anime/17938",
         "https://kitsu.io/anime/13601",
         "https://kitsu.io/anime/45583",
+        "https://kitsu.io/anime/46978",
         "https://livechart.me/anime/10942",
         "https://livechart.me/anime/2774",
         "https://myanimelist.net/anime/35847",
+        "https://myanimelist.net/anime/50587",
         "https://notify.moe/anime/dio4hKimR",
         "https://notify.moe/anime/hpZ2NgTnR"
       ],
@@ -799,54 +892,36 @@
         "coming of age",
         "denpa",
         "ensemble cast",
+        "female protagonist",
         "henshin",
+        "heterosexual",
         "hikikomori",
         "kaiju",
         "kaijuu",
         "male protagonist",
         "mecha",
         "monsters",
+        "rehabilitation",
         "reincarnation",
+        "romance",
         "sci fi",
         "sci-fi",
         "science fiction",
         "science-fiction",
+        "suicide",
         "super robot",
+        "superhero",
         "television programme",
-        "tokusatsu"
+        "tokusatsu",
+        "tragedy"
       ],
       "id": "https://myanimelist.net/anime/40870"
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/the-legend-of-sky-lord"
-      ],
-      "title": "The Legend of Sky Lord",
-      "type": "ONA",
-      "episodes": 100,
-      "status": "ONGOING",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/the-legend-of-sky-lord-1.jpg?t=1634175447",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/the-legend-of-sky-lord-1-285x399.jpg?t=1634175447",
-      "synonyms": [
-        "Shenwu Tianzun"
-      ],
-      "relations": [],
-      "tags": [
-        "action",
-        "based on a webtoon",
-        "chinese animation",
-        "fantasy",
-        "short episodes"
-      ],
-      "id": "https://anime-planet.com/anime/the-legend-of-sky-lord"
-    },
-    {
-      "sources": [
         "https://anilist.co/anime/20465",
+        "https://anime-planet.com/anime/gunbuster-2-science-lessons",
+        "https://anisearch.com/anime/8961",
         "https://kitsu.io/anime/8897",
         "https://livechart.me/anime/7456",
         "https://myanimelist.net/anime/20547",
@@ -863,13 +938,27 @@
       "picture": "https://cdn.myanimelist.net/images/anime/5/54555.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/5/54555t.jpg",
       "synonyms": [
+        "Aim For the Top 2! Science Lessons",
         "Diebuster Science Course",
         "Diebuster! Science Lesson",
+        "Gunbuster 2: Science Lessons",
+        "Top o Nerae 2! Diebuster! Science Lesson",
+        "Top o Nerae 2! Kagaku Kouza",
+        "Top o Nerae 2! Kagaku Kōza",
         "Top wo Nerae 2! Diebuster! Science Lesson",
+        "トップをねらえ2！ 科学講座",
         "トップをねらえ２！科学講座"
       ],
       "relations": [
         "https://anilist.co/anime/1002",
+        "https://anime-planet.com/anime/gunbuster",
+        "https://anime-planet.com/anime/gunbuster-2",
+        "https://anime-planet.com/anime/gunbuster-2-movie",
+        "https://anime-planet.com/anime/gunbuster-movie",
+        "https://anime-planet.com/anime/gunbuster-renewal-ex",
+        "https://anime-planet.com/anime/gunbuster-science-lessons",
+        "https://anime-planet.com/anime/gunbuster-science-lessons-return",
+        "https://anisearch.com/anime/2008",
         "https://kitsu.io/anime/892",
         "https://livechart.me/anime/3501",
         "https://livechart.me/anime/3961",
@@ -884,39 +973,19 @@
         "chibi",
         "comedy",
         "educational",
+        "original work",
         "sci-fi",
-        "science fiction"
+        "science fiction",
+        "super deformed"
       ],
       "id": "https://myanimelist.net/anime/20547"
-    },
-    {
-      "sources": [
-        "https://anidb.net/anime/16688"
-      ],
-      "title": "Wo Zhen Di Meiyong Mie?",
-      "type": "ONA",
-      "episodes": 12,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2021
-      },
-      "picture": "https://cdn.anidb.net/images/main/265086.jpg",
-      "thumbnail": "https://cdn.anidb.net/images/main/265086.jpg-thumb.jpg",
-      "synonyms": [
-        "我真的没用咩?"
-      ],
-      "relations": [],
-      "tags": [
-        "short episodes"
-      ],
-      "id": "https://anidb.net/anime/16688"
     },
     {
       "sources": [
         "https://anidb.net/anime/12251",
         "https://anilist.co/anime/103921",
         "https://anime-planet.com/anime/the-big-fighting-between-wukong-and-god-erlang",
+        "https://anisearch.com/anime/12027",
         "https://kitsu.io/anime/12988",
         "https://myanimelist.net/anime/34248",
         "https://notify.moe/anime/FUUW2FiiR"
@@ -936,6 +1005,7 @@
         "The Big Fighting Between Wukong and God Erlang",
         "Wu Kong Da Zhan Er Lang Shen",
         "Wu Kong da zhan Er Lang shen",
+        "Wukong Da Zhan Er Lang Shen",
         "Wukong Dazhan Er Lang Shen",
         "孙悟空大战二郎神",
         "悟空大战二郎神"
@@ -949,11 +1019,13 @@
         "anthropomorphism",
         "based on a novel",
         "cg animation",
+        "cg-anime",
         "chinese animation",
         "journey to the west",
         "non-human protagonists",
         "novel",
         "puppetry",
+        "stop motion",
         "stop motion animation"
       ],
       "id": "https://myanimelist.net/anime/34248"
@@ -1002,14 +1074,9 @@
         "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-5-the-mythical-ark-adventures-in-love-happiness",
         "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-6-meet-the-pegasus",
         "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-7-amazing-pleasant-goat",
-        "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-8",
+        "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-8-dunk-for-future",
         "https://anisearch.com/anime/11144",
-        "https://anisearch.com/anime/12934",
-        "https://anisearch.com/anime/12998",
         "https://anisearch.com/anime/7117",
-        "https://anisearch.com/anime/7992",
-        "https://anisearch.com/anime/8009",
-        "https://anisearch.com/anime/9543",
         "https://kitsu.io/anime/5974",
         "https://myanimelist.net/anime/9973",
         "https://notify.moe/anime/VwmnpKmig"
@@ -1029,30 +1096,6 @@
         "romance"
       ],
       "id": "https://myanimelist.net/anime/6156"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/45191"
-      ],
-      "title": "Xiao Xiao Shijie Lixian Ji",
-      "type": "TV",
-      "episodes": 52,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "小小世界历险记"
-      ],
-      "relations": [],
-      "tags": [
-        "adventure",
-        "kids"
-      ],
-      "id": "https://myanimelist.net/anime/45191"
     }
   ]
 }

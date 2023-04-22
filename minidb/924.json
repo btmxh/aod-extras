@@ -2,29 +2,6 @@
   "data": [
     {
       "sources": [
-        "https://myanimelist.net/anime/47531"
-      ],
-      "title": "Agu Dun Ba De Gushi",
-      "type": "TV",
-      "episodes": 52,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "阿古顿巴的故事"
-      ],
-      "relations": [],
-      "tags": [
-        "adventure"
-      ],
-      "id": "https://myanimelist.net/anime/47531"
-    },
-    {
-      "sources": [
         "https://anidb.net/anime/10482",
         "https://anilist.co/anime/20640",
         "https://anime-planet.com/anime/aikatsu-the-movie",
@@ -49,6 +26,7 @@
         "Aikatsu! The Movie",
         "Gekijouban Aikatsu! Idol Katsudou!",
         "Gekijōban Aikatsu! Idol Katsudō!",
+        "偶像活动 剧场版",
         "劇場版 アイカツ! アイドルカツドウ!",
         "劇場版 アイカツ！",
         "劇場版 アイカツ！ アイドルカツドウ！",
@@ -66,12 +44,13 @@
         "https://anime-planet.com/anime/aikatsu-nerawareta-mahou-no-aikatsu-card",
         "https://anime-planet.com/anime/aikatsu-stars",
         "https://anime-planet.com/anime/aikatsu-stars-the-movie",
-        "https://anisearch.com/anime/10040",
-        "https://anisearch.com/anime/12220",
         "https://anisearch.com/anime/7982",
         "https://kitsu.io/anime/10093",
         "https://kitsu.io/anime/7205",
         "https://livechart.me/anime/10112",
+        "https://livechart.me/anime/11182",
+        "https://livechart.me/anime/11288",
+        "https://livechart.me/anime/11334",
         "https://livechart.me/anime/1616",
         "https://livechart.me/anime/1785",
         "https://livechart.me/anime/2037",
@@ -99,6 +78,7 @@
         "henshin",
         "idol",
         "idols",
+        "idols (female)",
         "music",
         "new",
         "present",
@@ -111,25 +91,6 @@
         "the arts"
       ],
       "id": "https://myanimelist.net/anime/22819"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/aimer-omoide-wa-kireide"
-      ],
-      "title": "Aimer: Omoide wa Kireide",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2018
-      },
-      "picture": "https://anime-planet.com/images/anime/covers/15481.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/15481.jpg",
-      "synonyms": [],
-      "relations": [],
-      "tags": [],
-      "id": "https://anime-planet.com/anime/aimer-omoide-wa-kireide"
     },
     {
       "sources": [
@@ -185,6 +146,7 @@
         "ganbatte",
         "idol",
         "idols",
+        "idols (female)",
         "kuudere",
         "mecha",
         "moe",
@@ -213,24 +175,26 @@
       "sources": [
         "https://myanimelist.net/anime/45497"
       ],
-      "title": "Baobao Bashi Qimiao Jiuyuan Dui",
-      "type": "TV",
+      "title": "Baobao Bashi: Qimiao Jiuyuan Dui",
+      "type": "ONA",
       "episodes": 32,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2018
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1330/129521.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1330/129521t.jpg",
       "synonyms": [
-        "寶寶巴士奇妙救援隊"
+        "宝宝巴士奇妙救援队"
       ],
       "relations": [
         "https://myanimelist.net/anime/45495"
       ],
       "tags": [
-        "adventure"
+        "anthropomorphic",
+        "fantasy",
+        "kids"
       ],
       "id": "https://myanimelist.net/anime/45497"
     },
@@ -256,6 +220,7 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1234/110683.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1234/110683t.jpg",
       "synonyms": [
+        "Campeões: Oliver e Benji - Desafio Europeu",
         "Capitão Tsubasa: European Challenge",
         "Captain Tsubasa - Le défi européen",
         "Captain Tsubasa - Soccer Boys Europe Finals",
@@ -282,19 +247,12 @@
         "https://anidb.net/anime/3560",
         "https://anidb.net/anime/505",
         "https://anilist.co/anime/2116",
-        "https://anisearch.com/anime/1275",
-        "https://anisearch.com/anime/13102",
-        "https://anisearch.com/anime/144",
-        "https://anisearch.com/anime/1460",
         "https://anisearch.com/anime/1633",
-        "https://anisearch.com/anime/1907",
-        "https://anisearch.com/anime/2268",
-        "https://anisearch.com/anime/3466",
-        "https://anisearch.com/anime/466",
         "https://kitsu.io/anime/1451",
         "https://livechart.me/anime/3012",
         "https://livechart.me/anime/4357",
         "https://livechart.me/anime/4490",
+        "https://livechart.me/anime/4715",
         "https://livechart.me/anime/5377",
         "https://livechart.me/anime/6142",
         "https://livechart.me/anime/6608",
@@ -312,29 +270,109 @@
         "primarily male cast",
         "shounen",
         "soccer",
-        "sports"
+        "sports",
+        "team sports"
       ],
       "id": "https://myanimelist.net/anime/2118"
     },
     {
       "sources": [
-        "https://anisearch.com/anime/12433"
+        "https://anisearch.com/anime/17471"
+      ],
+      "title": "Dai 104-kai Zenkoku Koukou Yakyuu Senshuken Taikai CM",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SPRING",
+        "year": 2022
+      },
+      "picture": "https://www.anisearch.com/images/anime/cover/17/17471_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/17/17471.webp",
+      "synonyms": [
+        "104th National High School Baseball Championship CM",
+        "Dai 104-kai Zenkoku Kōkō Yakyū Senshuken Taikai CM",
+        "第104回 全国高校野球選手権大会CM"
+      ],
+      "relations": [],
+      "tags": [
+        "baseball",
+        "present",
+        "sports"
+      ],
+      "id": "https://anisearch.com/anime/17471"
+    },
+    {
+      "sources": [
+        "https://anidb.net/anime/17565",
+        "https://anilist.co/anime/153554",
+        "https://anime-planet.com/anime/danjo-no-yuujou-wa-seiritsu-suru-iya-shinai",
+        "https://anisearch.com/anime/17597",
+        "https://kitsu.io/anime/46334",
+        "https://livechart.me/anime/11364",
+        "https://myanimelist.net/anime/52709"
+      ],
+      "title": "Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "UPCOMING",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2023
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1743/126822.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1743/126822t.jpg",
+      "synonyms": [
+        "Can a Boy-Girl Friendship Hold Up? (No, it Can’t!!))",
+        "Danjo no Yuujou wa Seiritsu Suru? (Iya, Shinai!!)",
+        "Danjo no Yuujou wa Seiritsu Suru? (Iya, Shinai)",
+        "Danjo no Yūjō wa Seiritsu Suru? (Iya, Shinai!!)",
+        "男女の友情は成立する? (いや, しないっ!!)",
+        "男女の友情は成立する？（いや、 しないっ!!）",
+        "男女の友情は成立する？（いや、 しないっ！！）",
+        "男女の友情は成立する？（いや、しないっ!!）",
+        "男女の友情は成立する？（いや、しないっ！！）"
+      ],
+      "relations": [],
+      "tags": [
+        "based on a light novel",
+        "comedy",
+        "high school",
+        "present",
+        "romance",
+        "romantic comedy",
+        "school",
+        "school life",
+        "shounen",
+        "slice of life"
+      ],
+      "id": "https://myanimelist.net/anime/52709"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/98581",
+        "https://anisearch.com/anime/12433",
+        "https://notify.moe/anime/_aUS2Kiig"
       ],
       "title": "Girlish Number Shura",
       "type": "TV",
-      "episodes": 0,
+      "episodes": 1,
       "status": "UNKNOWN",
       "animeSeason": {
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/12/12433.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/12/12433.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/12/12433_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/12/12433.webp",
       "synonyms": [
         "Gi(a)rlish Number Shura",
         "ガーリッシュ ナンバー 修羅"
       ],
-      "relations": [],
+      "relations": [
+        "https://anilist.co/anime/21627",
+        "https://anisearch.com/anime/11084",
+        "https://notify.moe/anime/jEB3tFmig"
+      ],
       "tags": [
         "comedy",
         "parody",
@@ -372,10 +410,12 @@
         "Gyo: Tokyo Fish Attack!",
         "The Fish",
         "Рыба",
-        "ギョ"
+        "ปลามรณะ",
+        "ギョ",
+        "鱼"
       ],
       "relations": [
-        "https://anidb.net/anime/13385",
+        "https://livechart.me/anime/11246",
         "https://livechart.me/anime/2767",
         "https://livechart.me/anime/3024",
         "https://livechart.me/anime/9575"
@@ -417,24 +457,27 @@
     },
     {
       "sources": [
-        "https://anisearch.com/anime/13288"
+        "https://anime-planet.com/anime/hikaru-utada-kiss-cry"
       ],
-      "title": "Hizukuri",
-      "type": "OVA",
+      "title": "Hikaru Utada: Kiss & Cry",
+      "type": "SPECIAL",
       "episodes": 1,
-      "status": "UPCOMING",
+      "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": 2021
+        "year": 2018
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/13/13288.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/13/13288.webp",
-      "synonyms": [
-        "火づくり"
+      "picture": "https://cdn.anime-planet.com/anime/primary/hikaru-utada-kiss-cry-1.webp?t=1650578276",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/hikaru-utada-kiss-cry-1-285x399.webp?t=1650578276",
+      "synonyms": [],
+      "relations": [
+        "https://anime-planet.com/anime/freedom",
+        "https://anime-planet.com/anime/nissin-cup-noodles-x-freedom"
       ],
-      "relations": [],
-      "tags": [],
-      "id": "https://anisearch.com/anime/13288"
+      "tags": [
+        "cg animation"
+      ],
+      "id": "https://anime-planet.com/anime/hikaru-utada-kiss-cry"
     },
     {
       "sources": [
@@ -461,6 +504,7 @@
         "義妹 [いもうと]"
       ],
       "relations": [
+        "https://anisearch.com/anime/3862",
         "https://myanimelist.net/anime/13643"
       ],
       "tags": [
@@ -518,7 +562,7 @@
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "FALL",
         "year": 2012
       },
       "picture": "https://cdn.myanimelist.net/images/anime/1536/105853.jpg",
@@ -535,28 +579,152 @@
     },
     {
       "sources": [
-        "https://anisearch.com/anime/12799"
+        "https://anidb.net/anime/596",
+        "https://anilist.co/anime/2302",
+        "https://anime-planet.com/anime/mobile-suit-sd-gundam-mk-i",
+        "https://anisearch.com/anime/3388",
+        "https://kitsu.io/anime/2084",
+        "https://livechart.me/anime/7717",
+        "https://myanimelist.net/anime/2302",
+        "https://notify.moe/anime/Mp2PcKimg"
       ],
-      "title": "Kraft Parmesan Cheese × Sekai Meisaku Gejijou: Shiawase Pasta Story",
+      "title": "Kidou Senshi SD Gundam Mk-I",
       "type": "SPECIAL",
-      "episodes": 7,
+      "episodes": 3,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "FALL",
-        "year": 2010
+        "season": "WINTER",
+        "year": 1988
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/12/12799.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/12/12799.webp",
+      "picture": "https://cdn.myanimelist.net/images/anime/3/51035.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/3/51035t.jpg",
       "synonyms": [
-        "Happy Pasta Story",
-        "Kraft Parmesan Cheese Commercial",
-        "Kraft Parmesan Cheese x Sekai Meisaku Gejijou: Shiawase Pasta Story",
-        "Kraft Parmesan Chēse × Sekai Meisaku Gejijō: Shiawase Pasta Story",
-        "クラフト パルメザンチーズ×世界名作劇場: 幸せパスタストーリー"
+        "Gundam: Kidou Senshi SD Gundam",
+        "Kidou Senshi SD Gundam",
+        "Kidō Senshi SD Gundam",
+        "Mobile Suit SD Gundam Mk I",
+        "Mobile Suit SD Gundam Mk-I",
+        "Mobile Suit SD Gundam Mk. I",
+        "Super Deformed Gundam MkI",
+        "機動戦士SDガンダム"
       ],
-      "relations": [],
-      "tags": [],
-      "id": "https://anisearch.com/anime/12799"
+      "relations": [
+        "https://anidb.net/anime/1037",
+        "https://anidb.net/anime/1125",
+        "https://anidb.net/anime/1216",
+        "https://anidb.net/anime/14497",
+        "https://anidb.net/anime/1703",
+        "https://anidb.net/anime/3342",
+        "https://anidb.net/anime/3343",
+        "https://anidb.net/anime/3344",
+        "https://anidb.net/anime/4722",
+        "https://anidb.net/anime/715",
+        "https://anidb.net/anime/718",
+        "https://anidb.net/anime/719",
+        "https://anidb.net/anime/7245",
+        "https://anilist.co/anime/1939",
+        "https://anilist.co/anime/2303",
+        "https://anilist.co/anime/2306",
+        "https://anilist.co/anime/80",
+        "https://anilist.co/anime/9087",
+        "https://anilist.co/anime/9098",
+        "https://anime-planet.com/anime/30th-gundam-perfect-mission",
+        "https://anime-planet.com/anime/after-war-gundam-x",
+        "https://anime-planet.com/anime/all-that-gundam",
+        "https://anime-planet.com/anime/chou-denei-ban-sd-gundam-sangokuden-brave-battle-warriors",
+        "https://anime-planet.com/anime/collection-of-key-animation-films",
+        "https://anime-planet.com/anime/gundam-mission-to-the-rise",
+        "https://anime-planet.com/anime/mobile-fighter-g-gundam",
+        "https://anime-planet.com/anime/mobile-suit-gundam-00",
+        "https://anime-planet.com/anime/mobile-suit-gundam-00-second-season",
+        "https://anime-planet.com/anime/mobile-suit-gundam-00-special-edition-i-celestial-being",
+        "https://anime-planet.com/anime/mobile-suit-gundam-00-special-edition-iii-return-the-world",
+        "https://anime-planet.com/anime/mobile-suit-gundam-00-the-movie-a-wakening-of-the-trailblazer",
+        "https://anime-planet.com/anime/mobile-suit-gundam-0083-stardust-memory-the-mayfly-of-space",
+        "https://anime-planet.com/anime/mobile-suit-gundam-0083-the-afterglow-of-zeon",
+        "https://anime-planet.com/anime/mobile-suit-gundam-age",
+        "https://anime-planet.com/anime/mobile-suit-gundam-age-memory-of-eden",
+        "https://anime-planet.com/anime/mobile-suit-gundam-evolve",
+        "https://anime-planet.com/anime/mobile-suit-gundam-iron-blooded-orphans",
+        "https://anime-planet.com/anime/mobile-suit-gundam-iron-blooded-orphans-2nd-season",
+        "https://anime-planet.com/anime/mobile-suit-gundam-seed",
+        "https://anime-planet.com/anime/mobile-suit-gundam-seed-after-phase-in-the-valley-of-stars",
+        "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny",
+        "https://anime-planet.com/anime/mobile-suit-gundam-special-edition-ii-end-of-the-world",
+        "https://anime-planet.com/anime/mobile-suit-gundam-wing",
+        "https://anime-planet.com/anime/mobile-suit-gundam-wing-endless-waltz",
+        "https://anime-planet.com/anime/mobile-suit-gundam-wing-endless-waltz-special-edition",
+        "https://anime-planet.com/anime/mobile-suit-gundam-zz-gundam-frag",
+        "https://anime-planet.com/anime/mobile-suit-sd-gundam-festival",
+        "https://anime-planet.com/anime/mobile-suit-sd-gundam-hyakka",
+        "https://anime-planet.com/anime/mobile-suit-sd-gundam-mk-ii",
+        "https://anime-planet.com/anime/mobile-suit-sd-gundam-mk-iii",
+        "https://anime-planet.com/anime/mobile-suit-sd-gundam-mk-iv",
+        "https://anime-planet.com/anime/mobile-suit-sd-gundam-mk-v",
+        "https://anime-planet.com/anime/mobile-suit-sd-gundam-no-gyakushuu-arashi-wo-yobu-gakuensai",
+        "https://anime-planet.com/anime/mobile-suit-sd-gundam-no-gyakushuu-sd-sengokuden-abaowakuujou-no-shou",
+        "https://anime-planet.com/anime/mobile-suit-sd-gundam-the-movie-musha-knight-commando-sd-gundam-scramble",
+        "https://anime-planet.com/anime/mokei-senshi-gunpla-builders-beginning-g",
+        "https://anime-planet.com/anime/ring-of-gundam",
+        "https://anime-planet.com/anime/turn-a-gundam",
+        "https://anisearch.com/anime/1100",
+        "https://anisearch.com/anime/17021",
+        "https://anisearch.com/anime/2046",
+        "https://anisearch.com/anime/2149",
+        "https://anisearch.com/anime/389",
+        "https://anisearch.com/anime/5847",
+        "https://kitsu.io/anime/11008",
+        "https://kitsu.io/anime/2085",
+        "https://kitsu.io/anime/2088",
+        "https://kitsu.io/anime/5598",
+        "https://kitsu.io/anime/5602",
+        "https://kitsu.io/anime/59",
+        "https://livechart.me/anime/10218",
+        "https://livechart.me/anime/10793",
+        "https://livechart.me/anime/11041",
+        "https://livechart.me/anime/11042",
+        "https://livechart.me/anime/6660",
+        "https://livechart.me/anime/6906",
+        "https://livechart.me/anime/6987",
+        "https://livechart.me/anime/7007",
+        "https://livechart.me/anime/7316",
+        "https://livechart.me/anime/7423",
+        "https://livechart.me/anime/7514",
+        "https://livechart.me/anime/7582",
+        "https://livechart.me/anime/7662",
+        "https://livechart.me/anime/7848",
+        "https://livechart.me/anime/8362",
+        "https://myanimelist.net/anime/2303",
+        "https://myanimelist.net/anime/2306",
+        "https://myanimelist.net/anime/30840",
+        "https://myanimelist.net/anime/80",
+        "https://myanimelist.net/anime/9087",
+        "https://myanimelist.net/anime/9098",
+        "https://notify.moe/anime/RigXpKmig",
+        "https://notify.moe/anime/ZGxWpKmmg",
+        "https://notify.moe/anime/aucpcKimR",
+        "https://notify.moe/anime/b1hPcFiig",
+        "https://notify.moe/anime/oj2E5Kiig",
+        "https://notify.moe/anime/vsJWpKiig"
+      ],
+      "tags": [
+        "action",
+        "chibi",
+        "comedy",
+        "mecha",
+        "new",
+        "nonsense-comedy",
+        "parody",
+        "sci-fi",
+        "science fiction",
+        "science-fiction",
+        "short episodes",
+        "short movie",
+        "shounen",
+        "slapstick",
+        "super deformed"
+      ],
+      "id": "https://myanimelist.net/anime/2302"
     },
     {
       "sources": [
@@ -613,8 +781,8 @@
         "season": "FALL",
         "year": 1989
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/12/43263.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/12/43263t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1867/123271.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1867/123271t.jpg",
       "synonyms": [
         "Majikaru Hatto",
         "まじかるハット"
@@ -629,164 +797,6 @@
         "original work"
       ],
       "id": "https://myanimelist.net/anime/15915"
-    },
-    {
-      "sources": [
-        "https://anidb.net/anime/596",
-        "https://anilist.co/anime/2302",
-        "https://anime-planet.com/anime/mobile-suit-sd-gundam-mk-i",
-        "https://anisearch.com/anime/3388",
-        "https://kitsu.io/anime/2084",
-        "https://livechart.me/anime/7717",
-        "https://myanimelist.net/anime/2302",
-        "https://notify.moe/anime/Mp2PcKimg"
-      ],
-      "title": "Mobile Suit SD Gundam Mk I",
-      "type": "SPECIAL",
-      "episodes": 3,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 1988
-      },
-      "picture": "https://cdn.myanimelist.net/images/anime/3/51035.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/3/51035t.jpg",
-      "synonyms": [
-        "Kidou Senshi SD Gundam",
-        "Kidō Senshi SD Gundam",
-        "Mobile Suit SD Gundam Mk. I",
-        "Super Deformed Gundam MkI",
-        "機動戦士SDガンダム"
-      ],
-      "relations": [
-        "https://anidb.net/anime/1037",
-        "https://anidb.net/anime/1125",
-        "https://anidb.net/anime/1216",
-        "https://anidb.net/anime/14497",
-        "https://anidb.net/anime/1703",
-        "https://anidb.net/anime/3342",
-        "https://anidb.net/anime/3343",
-        "https://anidb.net/anime/3344",
-        "https://anidb.net/anime/4722",
-        "https://anidb.net/anime/715",
-        "https://anidb.net/anime/718",
-        "https://anidb.net/anime/719",
-        "https://anidb.net/anime/7245",
-        "https://anilist.co/anime/1939",
-        "https://anilist.co/anime/2303",
-        "https://anilist.co/anime/2306",
-        "https://anilist.co/anime/80",
-        "https://anilist.co/anime/9087",
-        "https://anilist.co/anime/9098",
-        "https://anime-planet.com/anime/30th-gundam-perfect-mission",
-        "https://anime-planet.com/anime/after-war-gundam-x",
-        "https://anime-planet.com/anime/all-that-gundam",
-        "https://anime-planet.com/anime/chou-denei-ban-sd-gundam-sangokuden-brave-battle-warriors",
-        "https://anime-planet.com/anime/collection-of-key-animation-films",
-        "https://anime-planet.com/anime/gundam-mission-to-the-rise",
-        "https://anime-planet.com/anime/mobile-fighter-g-gundam",
-        "https://anime-planet.com/anime/mobile-suit-gundam-00",
-        "https://anime-planet.com/anime/mobile-suit-gundam-00-second-season",
-        "https://anime-planet.com/anime/mobile-suit-gundam-00-special-edition-i-celestial-being",
-        "https://anime-planet.com/anime/mobile-suit-gundam-00-special-edition-iii-return-the-world",
-        "https://anime-planet.com/anime/mobile-suit-gundam-00-the-movie-a-wakening-of-the-trailblazer",
-        "https://anime-planet.com/anime/mobile-suit-gundam-0080-war-in-the-pocket",
-        "https://anime-planet.com/anime/mobile-suit-gundam-0083-stardust-memory",
-        "https://anime-planet.com/anime/mobile-suit-gundam-0083-stardust-memory-the-mayfly-of-space",
-        "https://anime-planet.com/anime/mobile-suit-gundam-0083-the-afterglow-of-zeon",
-        "https://anime-planet.com/anime/mobile-suit-gundam-age",
-        "https://anime-planet.com/anime/mobile-suit-gundam-age-memory-of-eden",
-        "https://anime-planet.com/anime/mobile-suit-gundam-chars-counterattack",
-        "https://anime-planet.com/anime/mobile-suit-gundam-evolve",
-        "https://anime-planet.com/anime/mobile-suit-gundam-f91",
-        "https://anime-planet.com/anime/mobile-suit-gundam-iron-blooded-orphans",
-        "https://anime-planet.com/anime/mobile-suit-gundam-iron-blooded-orphans-2",
-        "https://anime-planet.com/anime/mobile-suit-gundam-ms-igloo-2-juuryoku-sensen",
-        "https://anime-planet.com/anime/mobile-suit-gundam-ms-igloo-apocalypse-0079",
-        "https://anime-planet.com/anime/mobile-suit-gundam-ms-igloo-the-hidden-one-year-war",
-        "https://anime-planet.com/anime/mobile-suit-gundam-seed",
-        "https://anime-planet.com/anime/mobile-suit-gundam-seed-after-phase-in-the-valley-of-stars",
-        "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny",
-        "https://anime-planet.com/anime/mobile-suit-gundam-special-edition-ii-end-of-the-world",
-        "https://anime-planet.com/anime/mobile-suit-gundam-the-08th-ms-team",
-        "https://anime-planet.com/anime/mobile-suit-gundam-the-origin",
-        "https://anime-planet.com/anime/mobile-suit-gundam-thunderbolt",
-        "https://anime-planet.com/anime/mobile-suit-gundam-unicorn",
-        "https://anime-planet.com/anime/mobile-suit-gundam-wing",
-        "https://anime-planet.com/anime/mobile-suit-gundam-wing-endless-waltz",
-        "https://anime-planet.com/anime/mobile-suit-gundam-wing-endless-waltz-movie",
-        "https://anime-planet.com/anime/mobile-suit-gundam-zz",
-        "https://anime-planet.com/anime/mobile-suit-gundam-zz-gundam-frag",
-        "https://anime-planet.com/anime/mobile-suit-sd-gundam-festival",
-        "https://anime-planet.com/anime/mobile-suit-sd-gundam-mk-ii",
-        "https://anime-planet.com/anime/mobile-suit-sd-gundam-mk-iii",
-        "https://anime-planet.com/anime/mobile-suit-sd-gundam-mk-iv",
-        "https://anime-planet.com/anime/mobile-suit-sd-gundam-mk-v",
-        "https://anime-planet.com/anime/mobile-suit-sd-gundam-no-gyakushuu-arashi-wo-yobu-gakuensai",
-        "https://anime-planet.com/anime/mobile-suit-sd-gundam-no-gyakushuu-sd-sengokuden-abaowakuujou-no-shou",
-        "https://anime-planet.com/anime/mobile-suit-sd-gundam-the-movie-musha-knight-commando-sd-gundam-scramble",
-        "https://anime-planet.com/anime/mobile-suit-victory-gundam",
-        "https://anime-planet.com/anime/mobile-suit-zeta-gundam",
-        "https://anime-planet.com/anime/mokei-senshi-gunpla-builders-beginning-g",
-        "https://anime-planet.com/anime/ring-of-gundam",
-        "https://anime-planet.com/anime/turn-a-gundam",
-        "https://anisearch.com/anime/1216",
-        "https://anisearch.com/anime/17021",
-        "https://anisearch.com/anime/2046",
-        "https://anisearch.com/anime/2344",
-        "https://anisearch.com/anime/2541",
-        "https://anisearch.com/anime/389",
-        "https://kitsu.io/anime/11008",
-        "https://kitsu.io/anime/2085",
-        "https://kitsu.io/anime/2088",
-        "https://kitsu.io/anime/5598",
-        "https://kitsu.io/anime/5602",
-        "https://kitsu.io/anime/59",
-        "https://livechart.me/anime/10218",
-        "https://livechart.me/anime/10793",
-        "https://livechart.me/anime/11041",
-        "https://livechart.me/anime/11042",
-        "https://livechart.me/anime/6660",
-        "https://livechart.me/anime/6906",
-        "https://livechart.me/anime/6987",
-        "https://livechart.me/anime/7007",
-        "https://livechart.me/anime/7316",
-        "https://livechart.me/anime/7423",
-        "https://livechart.me/anime/7514",
-        "https://livechart.me/anime/7582",
-        "https://livechart.me/anime/7662",
-        "https://livechart.me/anime/7848",
-        "https://livechart.me/anime/8362",
-        "https://myanimelist.net/anime/2303",
-        "https://myanimelist.net/anime/2306",
-        "https://myanimelist.net/anime/30840",
-        "https://myanimelist.net/anime/80",
-        "https://myanimelist.net/anime/9087",
-        "https://myanimelist.net/anime/9098",
-        "https://notify.moe/anime/RigXpKmig",
-        "https://notify.moe/anime/ZGxWpKmmg",
-        "https://notify.moe/anime/aucpcKimR",
-        "https://notify.moe/anime/b1hPcFiig",
-        "https://notify.moe/anime/oj2E5Kiig",
-        "https://notify.moe/anime/vsJWpKiig"
-      ],
-      "tags": [
-        "chibi",
-        "comedy",
-        "mecha",
-        "new",
-        "nonsense-comedy",
-        "parody",
-        "sci-fi",
-        "science fiction",
-        "science-fiction",
-        "short episodes",
-        "short movie",
-        "shounen",
-        "slapstick",
-        "super deformed"
-      ],
-      "id": "https://myanimelist.net/anime/2302"
     },
     {
       "sources": [
@@ -813,10 +823,15 @@
         "Gekijouban Naruto Shippuuden: Road to Ninja",
         "Naruto Film 6: Road to Ninja",
         "Naruto Movie 9",
+        "Naruto Shippuden : Road to Ninja",
+        "Naruto Shippuden Movie 06: La via del Ninja",
+        "Naruto Shippuden Movie 6",
         "Naruto Shippuden Movie 6: Road to Ninja",
-        "Naruto Shippuden: Road to Ninja",
+        "Naruto Shippuden the Movie 6: Road to Ninja",
         "Naruto Shippuuden Movie 6",
         "Naruto Shippuuden Movie 6 - Road to Ninja",
+        "Naruto Shippūden la película: El camino Ninja",
+        "Naruto the Movie: Road to Ninja",
         "Naruto: La via dei ninja",
         "ROAD TO NINJA -NARUTO THE MOVIE-",
         "ROAD TO NINJA NARUTO THE MOVIE",
@@ -840,27 +855,7 @@
         "https://anime-planet.com/anime/naruto-shippuden-ova-sage-naruto-vs-sasuke",
         "https://anime-planet.com/anime/naruto-shippuden-sunny-side-battle",
         "https://anime-planet.com/anime/the-last-naruto-the-movie",
-        "https://anisearch.com/anime/10223",
-        "https://anisearch.com/anime/12103",
-        "https://anisearch.com/anime/12678",
-        "https://anisearch.com/anime/2788",
-        "https://anisearch.com/anime/2988",
-        "https://anisearch.com/anime/3574",
-        "https://anisearch.com/anime/3647",
         "https://anisearch.com/anime/3972",
-        "https://anisearch.com/anime/4096",
-        "https://anisearch.com/anime/4097",
-        "https://anisearch.com/anime/4098",
-        "https://anisearch.com/anime/4272",
-        "https://anisearch.com/anime/4816",
-        "https://anisearch.com/anime/5279",
-        "https://anisearch.com/anime/5853",
-        "https://anisearch.com/anime/604",
-        "https://anisearch.com/anime/6206",
-        "https://anisearch.com/anime/6730",
-        "https://anisearch.com/anime/7002",
-        "https://anisearch.com/anime/7479",
-        "https://anisearch.com/anime/9794",
         "https://kitsu.io/anime/1555",
         "https://livechart.me/anime/206",
         "https://livechart.me/anime/316",
@@ -876,10 +871,13 @@
       "tags": [
         "action",
         "adventure",
+        "alternate universe",
         "based on a manga",
         "drama",
+        "family life",
         "fantasy",
         "fantasy world",
+        "female protagonist",
         "fighting-shounen",
         "hero of strong character",
         "isekai",
@@ -898,6 +896,7 @@
     },
     {
       "sources": [
+        "https://anisearch.com/anime/15188",
         "https://kitsu.io/anime/9508",
         "https://myanimelist.net/anime/26315",
         "https://notify.moe/anime/UNwBtFmmR"
@@ -913,44 +912,76 @@
       "picture": "https://cdn.myanimelist.net/images/anime/4/66253.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/4/66253t.jpg",
       "synonyms": [
-        "お母さん、なかないで"
+        "Okaasan, Nakanai de",
+        "Okāsan, Nakanai de",
+        "お母さん、なかないで",
+        "オカアサン、ナカナイデ"
       ],
       "relations": [],
       "tags": [
         "drama",
-        "kids"
+        "kids",
+        "present",
+        "tragedy"
       ],
       "id": "https://myanimelist.net/anime/26315"
     },
     {
       "sources": [
-        "https://anisearch.com/anime/2781"
+        "https://anisearch.com/anime/17239",
+        "https://myanimelist.net/anime/51594"
       ],
-      "title": "OVAL × OVER",
-      "type": "UNKNOWN",
+      "title": "Otome wa Boku ni Koishiteru: Trinkle Stars The Animation (2022)",
+      "type": "OVA",
+      "episodes": 2,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SPRING",
+        "year": 2022
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1127/122634.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1127/122634t.jpg",
+      "synonyms": [
+        "Otome wa Boku ni Koi Shiteru: Trinkle Stars The Animation (2022)",
+        "乙女はお姉さまに恋してる 三つのきら星 The Animation",
+        "処女はお姉さまに恋してる 三つのきら星 The Animation"
+      ],
+      "relations": [
+        "https://anisearch.com/anime/16569",
+        "https://myanimelist.net/anime/49518"
+      ],
+      "tags": [
+        "big boobs",
+        "boobjob",
+        "crossdressing",
+        "hentai",
+        "school",
+        "school girl",
+        "softcore"
+      ],
+      "id": "https://myanimelist.net/anime/51594"
+    },
+    {
+      "sources": [
+        "https://myanimelist.net/anime/54549"
+      ],
+      "title": "Power (R3HAB Remix)",
+      "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "WINTER",
-        "year": 2005
+        "season": "UNDEFINED",
+        "year": 2017
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/2/2781.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/2/2781.webp",
-      "synonyms": [
-        "OVAL x OVER",
-        "OVAL×OVER",
-        "Oval x Over",
-        "Oval × Over"
-      ],
+      "picture": "https://cdn.myanimelist.net/images/anime/1695/133485.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1695/133485t.jpg",
+      "synonyms": [],
       "relations": [],
       "tags": [
-        "action",
-        "comedy",
-        "racing",
-        "science-fiction",
-        "sports"
+        "avant garde",
+        "music"
       ],
-      "id": "https://anisearch.com/anime/2781"
+      "id": "https://myanimelist.net/anime/54549"
     },
     {
       "sources": [
@@ -983,29 +1014,6 @@
     },
     {
       "sources": [
-        "https://myanimelist.net/anime/47437"
-      ],
-      "title": "Ta Ta Turan Xiangdao",
-      "type": "ONA",
-      "episodes": 16,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "獭獭突然想到"
-      ],
-      "relations": [],
-      "tags": [
-        "comedy"
-      ],
-      "id": "https://myanimelist.net/anime/47437"
-    },
-    {
-      "sources": [
         "https://anidb.net/anime/2976",
         "https://anilist.co/anime/18567",
         "https://anime-planet.com/anime/taiman-blues-ladies-hen-mayumi",
@@ -1026,7 +1034,6 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/3/84021t.jpg",
       "synonyms": [
         "Taiman Blues Ladies Chapter",
-        "Taiman Blues Ladies Hen",
         "Taiman Blues Ladies Hen Mayumi",
         "Taiman Blues: Ladies Chapter - Mayumi",
         "Taiman Blues: Ladies Hen",
@@ -1039,6 +1046,7 @@
         "https://anidb.net/anime/2975",
         "https://anilist.co/anime/18569",
         "https://anime-planet.com/anime/taiman-blues-shimizu-naoto-hen",
+        "https://anisearch.com/anime/1629",
         "https://kitsu.io/anime/9653",
         "https://myanimelist.net/anime/18569",
         "https://notify.moe/anime/CdKYpFmmg"
@@ -1046,6 +1054,7 @@
       "tags": [
         "action",
         "asia",
+        "delinquents",
         "drama",
         "earth",
         "friendship",
@@ -1057,34 +1066,9 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/the-yakuzas-guide-to-babysitting-mini-anime"
-      ],
-      "title": "The Yakuza's Guide to Babysitting Mini Anime",
-      "type": "ONA",
-      "episodes": 2,
-      "status": "UNKNOWN",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 2022
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/the-yakuzas-guide-to-babysitting-mini-anime-1.webp?t=1644348587",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/the-yakuzas-guide-to-babysitting-mini-anime-1-285x399.webp?t=1644348587",
-      "synonyms": [
-        "Kumichou Musume to Sewagakari Mini Anime"
-      ],
-      "relations": [
-        "https://anime-planet.com/anime/the-yakuzas-guide-to-babysitting"
-      ],
-      "tags": [
-        "based on a manga",
-        "chibi",
-        "short episodes"
-      ],
-      "id": "https://anime-planet.com/anime/the-yakuzas-guide-to-babysitting-mini-anime"
-    },
-    {
-      "sources": [
-        "https://kitsu.io/anime/14020"
+        "https://kitsu.io/anime/14020",
+        "https://livechart.me/anime/2939",
+        "https://notify.moe/anime/3CINhKiiR"
       ],
       "title": "Uchuu Senkan Yamato 2202: Ai no Senshi-tachi - Tenmei-hen",
       "type": "MOVIE",
@@ -1098,15 +1082,29 @@
       "thumbnail": "https://media.kitsu.io/anime/poster_images/14020/tiny.jpg",
       "synonyms": [
         "Space Battleship Yamato 2202: Warriors of Love - Karma Chapter",
-        "Uchuu Senkan Yamato 2202: Ai no Senshi-tachi Film Part 4"
+        "Star Blazers 2202: Warriors of Love Movie 4: Karma Chapter",
+        "Uchuu Senkan Yamato 2202: Ai no Senshi-tachi Film Part 4",
+        "Uchuu Senkan Yamato 2202: Ai no Senshi-tachi Movie 4: Tenmei-hen",
+        "宇宙戦艦ヤマト2202　愛の戦士たち　第四章　天命篇",
+        "宇宙戦艦ヤマト2202愛の戦士たち「天命篇」"
       ],
       "relations": [
         "https://kitsu.io/anime/13870",
-        "https://kitsu.io/anime/41100"
+        "https://kitsu.io/anime/41100",
+        "https://livechart.me/anime/1775",
+        "https://livechart.me/anime/2561",
+        "https://livechart.me/anime/2758",
+        "https://livechart.me/anime/3062",
+        "https://livechart.me/anime/3307",
+        "https://notify.moe/anime/k6vFhFmmR",
+        "https://notify.moe/anime/ub-S2FmiR"
       ],
       "tags": [
         "action",
+        "adventure",
         "drama",
+        "military",
+        "sci-fi",
         "shipboard",
         "space",
         "space battles",
@@ -1117,9 +1115,31 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/vita-lakamaya"
+      ],
+      "title": "Vita Lakamaya",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2016
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/vita-lakamaya-1.webp?t=1654319205",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/vita-lakamaya-1-285x399.webp?t=1654319205",
+      "synonyms": [],
+      "relations": [],
+      "tags": [
+        "forest",
+        "shorts"
+      ],
+      "id": "https://anime-planet.com/anime/vita-lakamaya"
+    },
+    {
+      "sources": [
         "https://myanimelist.net/anime/47472"
       ],
-      "title": "Wudi Xiaolu season3",
+      "title": "Wudi Xiaolu 3rd Season",
       "type": "ONA",
       "episodes": 24,
       "status": "FINISHED",
@@ -1127,14 +1147,18 @@
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1001/129459.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1001/129459t.jpg",
       "synonyms": [
         "无敌小鹿 第3季"
       ],
-      "relations": [],
+      "relations": [
+        "https://myanimelist.net/anime/47471",
+        "https://myanimelist.net/anime/47474"
+      ],
       "tags": [
-        "fantasy"
+        "fantasy",
+        "kids"
       ],
       "id": "https://myanimelist.net/anime/47472"
     },
@@ -1142,7 +1166,7 @@
       "sources": [
         "https://myanimelist.net/anime/44922"
       ],
-      "title": "Xinnian Lai La Zhi Ju Men Zaixian",
+      "title": "Xinnian Lai La: Ju Men Zaixian",
       "type": "TV",
       "episodes": 26,
       "status": "FINISHED",
@@ -1150,8 +1174,8 @@
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1380/129920.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1380/129920t.jpg",
       "synonyms": [
         "新年来啦之巨门再现"
       ],
@@ -1203,6 +1227,7 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/yinyue-chuan",
         "https://myanimelist.net/anime/43962"
       ],
       "title": "Yinyue Chuan",
@@ -1213,8 +1238,8 @@
         "season": "UNDEFINED",
         "year": 2000
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1421/122849.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1421/122849t.jpg",
       "synonyms": [
         "Music Ship",
         "音乐船"
@@ -1222,8 +1247,12 @@
       "relations": [],
       "tags": [
         "adventure",
-        "fantasy",
-        "kids"
+        "anthropomorphic",
+        "chinese animation",
+        "family friendly",
+        "kids",
+        "ship",
+        "short episodes"
       ],
       "id": "https://myanimelist.net/anime/43962"
     }

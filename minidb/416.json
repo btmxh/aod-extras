@@ -2,6 +2,8 @@
   "data": [
     {
       "sources": [
+        "https://anidb.net/anime/12194",
+        "https://anilist.co/anime/107897",
         "https://anisearch.com/anime/11511"
       ],
       "title": "Anzu-chan",
@@ -12,43 +14,15 @@
         "season": "SPRING",
         "year": 2016
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/11/11511.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/11/11511.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/11/11511_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/11/11511.webp",
       "synonyms": [
+        "Little Girl Anzu",
         "あんずちゃん"
       ],
       "relations": [],
       "tags": [],
       "id": "https://anisearch.com/anime/11511"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/44272"
-      ],
-      "title": "AQUAIRO PALETTE",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2020
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "Aqua Iro Palette",
-        "Aquairo Palette",
-        "あくあ色ぱれっと"
-      ],
-      "relations": [
-        "https://myanimelist.net/anime/43879",
-        "https://myanimelist.net/anime/44042",
-        "https://myanimelist.net/anime/44281"
-      ],
-      "tags": [
-        "music"
-      ],
-      "id": "https://myanimelist.net/anime/44272"
     },
     {
       "sources": [
@@ -88,6 +62,31 @@
         "tomboy"
       ],
       "id": "https://myanimelist.net/anime/11735"
+    },
+    {
+      "sources": [
+        "https://myanimelist.net/anime/53164"
+      ],
+      "title": "Come On Tonight",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "FALL",
+        "year": 2019
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1390/128545.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1390/128545t.jpg",
+      "synonyms": [
+        "Come on tonight"
+      ],
+      "relations": [
+        "https://myanimelist.net/anime/40197"
+      ],
+      "tags": [
+        "music"
+      ],
+      "id": "https://myanimelist.net/anime/53164"
     },
     {
       "sources": [
@@ -140,6 +139,21 @@
       ],
       "relations": [
         "https://kitsu.io/anime/460",
+        "https://livechart.me/anime/5614",
+        "https://livechart.me/anime/6575",
+        "https://livechart.me/anime/6880",
+        "https://livechart.me/anime/7693",
+        "https://livechart.me/anime/8740",
+        "https://livechart.me/anime/8868",
+        "https://livechart.me/anime/8871",
+        "https://livechart.me/anime/8877",
+        "https://livechart.me/anime/8878",
+        "https://livechart.me/anime/8884",
+        "https://livechart.me/anime/8897",
+        "https://livechart.me/anime/8900",
+        "https://livechart.me/anime/8901",
+        "https://livechart.me/anime/8902",
+        "https://livechart.me/anime/8998",
         "https://notify.moe/anime/BRto5KimR"
       ],
       "tags": [
@@ -153,31 +167,32 @@
     },
     {
       "sources": [
-        "https://anisearch.com/anime/8473"
+        "https://anidb.net/anime/16639",
+        "https://anisearch.com/anime/18048"
       ],
-      "title": "Dynamic Super Robot Soushingeki!!",
-      "type": "SPECIAL",
-      "episodes": 3,
+      "title": "Fengzi Wuyu Yinhe Pian",
+      "type": "ONA",
+      "episodes": 8,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "FALL",
-        "year": 2000
+        "season": "SPRING",
+        "year": 2021
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/8/8473.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/8/8473.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/18/18048_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/18/18048.webp",
       "synonyms": [
-        "Dynamic Super Robot Sōshingeki!!",
-        "Dynamic Super Robots Grand Battle",
-        "Neo Getter Robo vs. Shin Getter Robo Special",
-        "ダイナミックスーパーロボット総進撃！！"
+        "Feng Zi Wu Yu Yin He Pian",
+        "Fengzi Wuyu: Yinhe Pian",
+        "风姿物语 银河篇",
+        "风姿物语银河篇"
       ],
-      "relations": [],
+      "relations": [
+        "https://anidb.net/anime/16640"
+      ],
       "tags": [
-        "action",
-        "mecha",
-        "science-fiction"
+        "cg-anime"
       ],
-      "id": "https://anisearch.com/anime/8473"
+      "id": "https://anisearch.com/anime/18048"
     },
     {
       "sources": [
@@ -207,7 +222,8 @@
         "Spooky Kitaro",
         "ゲゲゲの鬼太郎",
         "ゲゲゲの鬼太郎 (1985)",
-        "ゲゲゲの鬼太郎 （1985）"
+        "ゲゲゲの鬼太郎 （1985）",
+        "鬼太郎第三季"
       ],
       "relations": [
         "https://anidb.net/anime/1452",
@@ -245,20 +261,12 @@
         "https://anime-planet.com/anime/gegege-no-kitarou-youkai-japan-rally-3d",
         "https://anime-planet.com/anime/gegege-no-kitarou-youkai-tokkyuu-maboroshi-no-kisha",
         "https://anime-planet.com/anime/hakaba-kitarou",
-        "https://anisearch.com/anime/10667",
-        "https://anisearch.com/anime/1673",
         "https://anisearch.com/anime/1752",
         "https://anisearch.com/anime/2683",
         "https://anisearch.com/anime/2724",
         "https://anisearch.com/anime/3022",
         "https://anisearch.com/anime/3099",
-        "https://anisearch.com/anime/3184",
-        "https://anisearch.com/anime/4138",
         "https://anisearch.com/anime/49",
-        "https://anisearch.com/anime/4909",
-        "https://anisearch.com/anime/5598",
-        "https://anisearch.com/anime/5652",
-        "https://anisearch.com/anime/5659",
         "https://kitsu.io/anime/1960",
         "https://kitsu.io/anime/3207",
         "https://kitsu.io/anime/4246",
@@ -272,6 +280,7 @@
         "https://livechart.me/anime/10813",
         "https://livechart.me/anime/3050",
         "https://livechart.me/anime/6548",
+        "https://livechart.me/anime/7176",
         "https://livechart.me/anime/7326",
         "https://livechart.me/anime/7979",
         "https://livechart.me/anime/7981",
@@ -328,10 +337,10 @@
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2019
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1628/130052.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1628/130052t.jpg",
       "synonyms": [
         "机器人学院"
       ],
@@ -388,7 +397,6 @@
         "https://anilist.co/anime/20697",
         "https://anilist.co/anime/5205",
         "https://anilist.co/anime/6954",
-        "https://anilist.co/anime/98142",
         "https://anime-planet.com/anime/kara-no-kyoukai-cinema-intros",
         "https://anime-planet.com/anime/the-garden-of-sinners-epilogue",
         "https://anime-planet.com/anime/the-garden-of-sinners-movie-1-thanatos-overlooking-view",
@@ -401,15 +409,7 @@
         "https://anime-planet.com/anime/the-garden-of-sinners-recalled-out-summer-extra-chorus",
         "https://anime-planet.com/anime/the-garden-of-sinners-recalled-out-summer-manner-movie",
         "https://anime-planet.com/anime/the-garden-of-sinners-remix-gate-of-seventh-heaven",
-        "https://anisearch.com/anime/4068",
-        "https://anisearch.com/anime/5391",
-        "https://anisearch.com/anime/5392",
-        "https://anisearch.com/anime/5393",
-        "https://anisearch.com/anime/5394",
-        "https://anisearch.com/anime/5395",
-        "https://anisearch.com/anime/5396",
-        "https://anisearch.com/anime/5542",
-        "https://anisearch.com/anime/6887",
+        "https://anisearch.com/anime/16388",
         "https://anisearch.com/anime/9498",
         "https://kitsu.io/anime/4804",
         "https://kitsu.io/anime/8305",
@@ -440,6 +440,7 @@
         "drama",
         "fantasy",
         "female protagonist",
+        "gore",
         "horror",
         "japan",
         "kuudere",
@@ -463,6 +464,7 @@
     {
       "sources": [
         "https://anidb.net/anime/16803",
+        "https://anilist.co/anime/129874",
         "https://anime-planet.com/anime/demon-slayer-kimetsu-no-yaiba-mugen-train",
         "https://anisearch.com/anime/16614",
         "https://kitsu.io/anime/45249",
@@ -482,42 +484,54 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1065/118763t.jpg",
       "synonyms": [
         "Demon Slayer : Kimetsu no Yaiba - Mugen Train Arc",
-        "Demon Slayer: Kimetsu no Yaiba - Infinity Train Arc",
+        "Demon Slayer : Le train de l’infini (TV)",
+        "Demon Slayer: Kimetsu no Yaiba - Arco del Tren Infinito",
         "Demon Slayer: Kimetsu no Yaiba - Le train de l`infini",
         "Demon Slayer: Kimetsu no Yaiba - Mugen Train",
         "Demon Slayer: Kimetsu no Yaiba - Mugen Train Arc",
         "Demon Slayer: Kimetsu no Yaiba Mugen Train Arc",
+        "Demon Slayer: Kimetsu no Yaiba Season 2",
+        "Demon Slayer: Kimetsu no Yaiba season 2",
+        "Demon Slayer: Kimetsu no Yaiba: Le train de l'Infini",
         "Demon Slayer: Mugen Train Arc",
+        "Guardianes de la Noche - Kimetsu no Yaiba - Arco del Tren Infinito",
         "Kimetsu no Yaiba Movie: Mugen Ressha-hen (TV)",
         "Kimetsu no Yaiba: Mugen Ressha Hen",
         "Kimetsu no Yaiba: Mugen Ressha-hen (TV)",
+        "KnY 2",
         "The Demon Slayer: Kimetsu no Yaiba Mugen Train Arc TV",
+        "ds s2",
+        "Истребитель демонов: Поезд «Бесконечный» (2021)",
+        "قاتل الشياضين: قطار اللانهاية",
+        "ดาบพิฆาตอสูร : ศึกรถไฟสู่นิรันดร์ (TV)",
         "鬼滅の刃 無限列車編",
         "鬼滅の刃 無限列車編 (TV)",
+        "鬼灭之刃 无限列车篇",
         "귀멸의 칼날: 무한열차편"
       ],
       "relations": [
         "https://anidb.net/anime/14107",
         "https://anidb.net/anime/15113",
         "https://anidb.net/anime/16054",
+        "https://anilist.co/anime/101922",
+        "https://anilist.co/anime/112151",
+        "https://anilist.co/anime/142329",
         "https://anime-planet.com/anime/demon-slayer-kimetsu-no-yaiba",
         "https://anime-planet.com/anime/demon-slayer-kimetsu-no-yaiba-entertainment-district-arc",
         "https://anime-planet.com/anime/demon-slayer-kimetsu-no-yaiba-movie-mugen-train",
         "https://anime-planet.com/anime/demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc",
         "https://anisearch.com/anime/13658",
-        "https://anisearch.com/anime/14215",
         "https://anisearch.com/anime/14653",
         "https://anisearch.com/anime/15986",
-        "https://anisearch.com/anime/16194",
         "https://anisearch.com/anime/16195",
-        "https://anisearch.com/anime/16658",
-        "https://anisearch.com/anime/16659",
-        "https://anisearch.com/anime/17088",
         "https://kitsu.io/anime/41370",
         "https://kitsu.io/anime/42586",
         "https://kitsu.io/anime/44081",
         "https://livechart.me/anime/10399",
         "https://livechart.me/anime/10420",
+        "https://livechart.me/anime/11084",
+        "https://livechart.me/anime/11722",
+        "https://livechart.me/anime/11814",
         "https://livechart.me/anime/3311",
         "https://livechart.me/anime/9232",
         "https://livechart.me/anime/9614",
@@ -531,24 +545,36 @@
         "action drama",
         "adventure",
         "based on a manga",
+        "body horror",
+        "cannibalism",
         "demon",
         "demons",
         "drama",
         "fantasy",
         "fighting-shounen",
+        "gore",
         "historical",
+        "male protagonist",
         "manga",
+        "monster girl",
+        "mystery",
+        "orphan",
         "orphans",
+        "primarily teen cast",
+        "rural",
         "shounen",
         "siblings",
         "slapstick",
         "splatter",
         "struggle to survive",
+        "suicide",
         "super power",
         "supernatural",
         "swordplay",
         "swords & co",
+        "tragedy",
         "trains",
+        "travel",
         "violence"
       ],
       "id": "https://myanimelist.net/anime/49926"
@@ -638,16 +664,8 @@
         "https://anime-planet.com/anime/major-season-5",
         "https://anime-planet.com/anime/major-season-6",
         "https://anime-planet.com/anime/major-world-series",
-        "https://anisearch.com/anime/12937",
-        "https://anisearch.com/anime/14675",
-        "https://anisearch.com/anime/2721",
-        "https://anisearch.com/anime/3297",
         "https://anisearch.com/anime/3683",
-        "https://anisearch.com/anime/4668",
         "https://anisearch.com/anime/4956",
-        "https://anisearch.com/anime/5844",
-        "https://anisearch.com/anime/6693",
-        "https://anisearch.com/anime/7389",
         "https://kitsu.io/anime/1659",
         "https://kitsu.io/anime/3891",
         "https://livechart.me/anime/2936",
@@ -682,6 +700,7 @@
         "primarily male cast",
         "shounen",
         "sports",
+        "team sports",
         "united states"
       ],
       "id": "https://myanimelist.net/anime/3226"
@@ -731,31 +750,35 @@
     },
     {
       "sources": [
-        "https://kitsu.io/anime/42466"
+        "https://anilist.co/anime/148826",
+        "https://anime-planet.com/anime/object",
+        "https://kitsu.io/anime/47315"
       ],
-      "title": "One Room 2 Special",
-      "type": "SPECIAL",
+      "title": "object",
+      "type": "MOVIE",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "FALL",
-        "year": 2018
+        "season": "WINTER",
+        "year": 2021
       },
-      "picture": "https://media.kitsu.io/anime/poster_images/42466/small.jpg",
-      "thumbnail": "https://media.kitsu.io/anime/poster_images/42466/tiny.jpg",
+      "picture": "https://cdn.anime-planet.com/anime/primary/object-1.webp?t=1656649977",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/object-1-285x400.webp?t=1656649977",
       "synonyms": [
-        "One Room 2nd Season Extra",
-        "One Room 2nd Season Special",
-        "One Room セカンドシーズン -extra-"
+        "Object"
       ],
-      "relations": [
-        "https://kitsu.io/anime/41452"
-      ],
+      "relations": [],
       "tags": [
-        "ecchi",
-        "romance"
+        "abstract",
+        "fantasy",
+        "no dialogue",
+        "primarily child cast",
+        "shorts",
+        "time manipulation",
+        "urban",
+        "urban fantasy"
       ],
-      "id": "https://kitsu.io/anime/42466"
+      "id": "https://anime-planet.com/anime/object"
     },
     {
       "sources": [
@@ -803,8 +826,8 @@
         "season": "UNDEFINED",
         "year": 2019
       },
-      "picture": "https://anime-planet.com/images/anime/covers/14863.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/14863.jpg",
+      "picture": "https://cdn.anime-planet.com/anime/primary/pipilu-rangers-1.webp?t=1669684011",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/pipilu-rangers-1-285x399.webp?t=1669684011",
       "synonyms": [
         "Pipilu Anjeonteukgongdae"
       ],
@@ -890,7 +913,10 @@
     },
     {
       "sources": [
+        "https://anidb.net/anime/13716",
         "https://anime-planet.com/anime/sentai-hero-sukiyaki-force-gunma-no-heiwa-wo-negau-season-e-mata",
+        "https://anisearch.com/anime/13209",
+        "https://livechart.me/anime/3039",
         "https://myanimelist.net/anime/37054"
       ],
       "title": "Sentai Hero Sukiyaki Force: Gunma no Heiwa wo Negau Season e, Mata?",
@@ -904,10 +930,18 @@
       "picture": "https://cdn.myanimelist.net/images/anime/11/89869.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/11/89869t.jpg",
       "synonyms": [
-        "戦隊ヒーロー スキヤキフォース -ぐんまの平和を願うシーズン え, また?-"
+        "Sentai Hero Sukiyaki Force: Gunma no Heiwa o Negau Season - E, Mata?",
+        "Sentai Hero Sukiyaki Force: Gunma no Heiwa o Negau Season e, Mata?",
+        "Sentai Heroes Sukiyaki Force: Gunma no Heiwa wo Negau Season e, Mata?",
+        "Sentai Heroes Sukiyaki Force: The Season of Wishing for Gunma's Peace, Again?",
+        "戦隊ヒーロー スキヤキフォース -ぐんまの平和を願うシーズン え, また?-",
+        "戦隊ヒーロー スキヤキフォース -ぐんまの平和を願うシーズン え、また？-",
+        "戦隊ヒーロー スキヤキフォース –ぐんまの平和を願うシーズン え、また？-"
       ],
       "relations": [
+        "https://anidb.net/anime/12572",
         "https://anime-planet.com/anime/sentai-hero-sukiyaki-force",
+        "https://anisearch.com/anime/12123",
         "https://myanimelist.net/anime/34456"
       ],
       "tags": [
@@ -924,6 +958,32 @@
         "tourism"
       ],
       "id": "https://myanimelist.net/anime/37054"
+    },
+    {
+      "sources": [
+        "https://kitsu.io/anime/46340",
+        "https://myanimelist.net/anime/52686"
+      ],
+      "title": "Shounen Sunday CM: Wild Life",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SUMMER",
+        "year": 2004
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1932/126747.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1932/126747t.jpg",
+      "synonyms": [
+        "CM　小学館　少年サンデー　「WILD LIFE（ワイルドライフ）」編"
+      ],
+      "relations": [],
+      "tags": [
+        "comedy",
+        "medical",
+        "shounen"
+      ],
+      "id": "https://myanimelist.net/anime/52686"
     },
     {
       "sources": [
@@ -999,6 +1059,7 @@
         "طوكيو مياو مياو",
         "ขบวนการ เหมียวเหมียว",
         "とうきょうみゅうみゅう",
+        "东京猫猫",
         "東京ミュウミュウ",
         "東京喵喵",
         "베리베리 뮤우뮤우"
@@ -1007,7 +1068,10 @@
         "https://anidb.net/anime/15485",
         "https://anilist.co/anime/117196",
         "https://anime-planet.com/anime/tokyo-mew-mew-new",
+        "https://anisearch.com/anime/15182",
         "https://kitsu.io/anime/43098",
+        "https://livechart.me/anime/11322",
+        "https://livechart.me/anime/11517",
         "https://livechart.me/anime/9878",
         "https://myanimelist.net/anime/41589",
         "https://notify.moe/anime/UADo-IyGR"
@@ -1018,6 +1082,7 @@
         "alien",
         "aliens",
         "animal characteristics",
+        "archery",
         "asia",
         "based on a manga",
         "bionic powers",
@@ -1030,7 +1095,7 @@
         "fantasy",
         "female protagonist",
         "henshin",
-        "henshin heroes",
+        "heterosexual",
         "humanoid alien",
         "japan",
         "juujin",
@@ -1046,6 +1111,7 @@
         "monster-of-the-week",
         "nekomimi",
         "primarily female cast",
+        "primarily teen cast",
         "psi-powers",
         "romance",
         "romantic comedy",
@@ -1066,39 +1132,8 @@
     },
     {
       "sources": [
-        "https://notify.moe/anime/k6vFhFmmR"
-      ],
-      "title": "Uchuu Senkan Yamato 2202: Ai no Senshi-tachi - Rengoku-hen",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2018
-      },
-      "picture": "https://media.notify.moe/images/anime/large/k6vFhFmmR.webp",
-      "thumbnail": "https://media.notify.moe/images/anime/small/k6vFhFmmR.webp",
-      "synonyms": [
-        "Space Battleship Yamato 2202: Warriors of Love - Purgatory Chapter",
-        "Star Blazers 2202: Warriors of Love - Purgatory Chapter",
-        "Uchuu Senkan Yamato 2202: Ai no Senshi-tachi Film Part 5",
-        "宇宙戦艦ヤマト2202 愛の戦士たち"
-      ],
-      "relations": [
-        "https://notify.moe/anime/3CINhKiiR"
-      ],
-      "tags": [
-        "action",
-        "drama",
-        "military",
-        "sci-fi",
-        "space"
-      ],
-      "id": "https://notify.moe/anime/k6vFhFmmR"
-    },
-    {
-      "sources": [
         "https://anilist.co/anime/18231",
+        "https://anime-planet.com/anime/queens-blade-vanquished-queens-specials",
         "https://anisearch.com/anime/8911",
         "https://kitsu.io/anime/7847",
         "https://livechart.me/anime/6808",
@@ -1117,11 +1152,23 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/8/48913t.jpg",
       "synonyms": [
         "Queen's Blade",
+        "Queen's Blade: Vanquished Queens Specials",
         "ヴァンキッシュド・クイーンズ",
         "ヴァンキッシュド・クイーンズ Specials"
       ],
       "relations": [
         "https://anilist.co/anime/16363",
+        "https://anime-planet.com/anime/queens-blade-2-the-evil-eye-specials",
+        "https://anime-planet.com/anime/queens-blade-beautiful-warriors",
+        "https://anime-planet.com/anime/queens-blade-grimoire",
+        "https://anime-planet.com/anime/queens-blade-ova",
+        "https://anime-planet.com/anime/queens-blade-ova-specials",
+        "https://anime-planet.com/anime/queens-blade-rebellion",
+        "https://anime-planet.com/anime/queens-blade-rebellion-specials",
+        "https://anime-planet.com/anime/queens-blade-the-exiled-virgin",
+        "https://anime-planet.com/anime/queens-blade-the-exiled-virgin-specials",
+        "https://anime-planet.com/anime/queens-blade-unlimited",
+        "https://anime-planet.com/anime/queens-blade-vanquished-queens",
         "https://anisearch.com/anime/8193",
         "https://kitsu.io/anime/7412",
         "https://myanimelist.net/anime/16363",
@@ -1129,6 +1176,7 @@
       ],
       "tags": [
         "action",
+        "borderline h",
         "demons",
         "ecchi",
         "elf",
@@ -1138,6 +1186,7 @@
         "maids",
         "monster",
         "nudity",
+        "pirates",
         "primarily female cast",
         "reluctant heroine",
         "shrine maiden",
@@ -1148,29 +1197,42 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/154164",
+        "https://anime-planet.com/anime/violet-evergarden-pv",
+        "https://kitsu.io/anime/43347",
         "https://myanimelist.net/anime/42166"
       ],
       "title": "Violet Evergarden CM",
       "type": "ONA",
-      "episodes": 1,
+      "episodes": 2,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "SPRING",
         "year": 2016
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/1284/108546.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1284/108546t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1485/125509.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1485/125509t.jpg",
       "synonyms": [
+        "Violet Evergarden PV",
         "「ヴァイオレット・エヴァーガーデン」",
-        "「ヴァイオレット・エヴァーガーデン」 Violet Evergarden CM"
+        "ヴァイオレット・エヴァーガーデン",
+        "ヴァイオレット・エヴァーガーデン CM"
       ],
       "relations": [
+        "https://anilist.co/anime/21827",
+        "https://anime-planet.com/anime/violet-evergarden",
+        "https://kitsu.io/anime/12230",
         "https://myanimelist.net/anime/33352"
       ],
       "tags": [
+        "advertisement",
+        "based on a light novel",
+        "commercials",
         "drama",
         "fantasy",
-        "slice of life"
+        "promotional",
+        "slice of life",
+        "working life"
       ],
       "id": "https://myanimelist.net/anime/42166"
     },
@@ -1178,6 +1240,7 @@
       "sources": [
         "https://anilist.co/anime/121061",
         "https://anime-planet.com/anime/wind",
+        "https://kitsu.io/anime/46413",
         "https://myanimelist.net/anime/42279"
       ],
       "title": "Wind",
@@ -1204,6 +1267,7 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/xun",
         "https://myanimelist.net/anime/44685"
       ],
       "title": "Xun",
@@ -1212,17 +1276,20 @@
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2009
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1396/128214.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1396/128214t.jpg",
       "synonyms": [
-        "seeks",
+        "Seeks",
         "寻"
       ],
       "relations": [],
       "tags": [
-        "historical"
+        "chinese animation",
+        "historical",
+        "shorts",
+        "stop motion animation"
       ],
       "id": "https://myanimelist.net/anime/44685"
     }

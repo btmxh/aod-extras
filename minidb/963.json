@@ -2,29 +2,6 @@
   "data": [
     {
       "sources": [
-        "https://anime-planet.com/anime/arawoto-mattaku-mi-ni-naranai-song"
-      ],
-      "title": "Arawoto: Mattaku Mi ni Naranai Song",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2015
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/arawoto-mattaku-mi-ni-naranai-song-1.jpg?t=1625899023",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/arawoto-mattaku-mi-ni-naranai-song-1-190x266.jpg?t=1625899023",
-      "synonyms": [
-        "Arawoto: Wholly Useless Song"
-      ],
-      "relations": [],
-      "tags": [
-        "vocaloid"
-      ],
-      "id": "https://anime-planet.com/anime/arawoto-mattaku-mi-ni-naranai-song"
-    },
-    {
-      "sources": [
         "https://kitsu.io/anime/11108",
         "https://notify.moe/anime/JopXpKmig"
       ],
@@ -80,6 +57,7 @@
         "episodic",
         "no dialogue",
         "original work",
+        "pets",
         "short episodes",
         "slice of life"
       ],
@@ -91,13 +69,14 @@
         "https://anilist.co/anime/137908",
         "https://anime-planet.com/anime/chiyu-mahou-no-machigatta-tsukaikata-senjou-wo-kakeru-kaifuku-youin",
         "https://anisearch.com/anime/16534",
+        "https://kitsu.io/anime/44981",
         "https://livechart.me/anime/10750",
         "https://myanimelist.net/anime/49613",
         "https://notify.moe/anime/2LH7x5n7g"
       ],
       "title": "Chiyu Mahou no Machigatta Tsukaikata: Senjou wo Kakeru Kaifuku Youin",
       "type": "SPECIAL",
-      "episodes": 0,
+      "episodes": 1,
       "status": "UPCOMING",
       "animeSeason": {
         "season": "UNDEFINED",
@@ -182,29 +161,6 @@
     },
     {
       "sources": [
-        "https://myanimelist.net/anime/50701"
-      ],
-      "title": "Fuji no Seireki",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2014
-      },
-      "picture": "https://cdn.myanimelist.net/images/anime/1370/120293.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1370/120293t.jpg",
-      "synonyms": [
-        "富士の星暦"
-      ],
-      "relations": [],
-      "tags": [
-        "space"
-      ],
-      "id": "https://myanimelist.net/anime/50701"
-    },
-    {
-      "sources": [
         "https://anisearch.com/anime/11377"
       ],
       "title": "Fuyu no Seishun",
@@ -215,13 +171,15 @@
         "season": "WINTER",
         "year": 2016
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/11/11377.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/11/11377.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/11/11377_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/11/11377.webp",
       "synonyms": [
         "Puzzle & Dragons CM 2",
         "冬の青春"
       ],
-      "relations": [],
+      "relations": [
+        "https://anisearch.com/anime/11112"
+      ],
       "tags": [],
       "id": "https://anisearch.com/anime/11377"
     },
@@ -259,66 +217,34 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/hakyuu-hoshin-engi-recap"
+        "https://anilist.co/anime/104164",
+        "https://anime-planet.com/anime/holy-shit",
+        "https://anisearch.com/anime/14019",
+        "https://kitsu.io/anime/44995"
       ],
-      "title": "Hakyuu Hoshin Engi Recap",
-      "type": "SPECIAL",
+      "title": "Holy Shit!",
+      "type": "MOVIE",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2018
+        "season": "SPRING",
+        "year": 2015
       },
-      "picture": "https://anime-planet.com/images/anime/covers/10129.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/10129.jpg",
+      "picture": "https://cdn.anime-planet.com/anime/primary/holy-shit-1.webp?t=1656449876",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/holy-shit-1-285x399.webp?t=1656449876",
       "synonyms": [],
-      "relations": [
-        "https://anime-planet.com/anime/hakyuu-hoshin-engi"
-      ],
+      "relations": [],
       "tags": [
-        "action",
-        "adventure",
-        "based on a manga",
-        "fantasy",
-        "recap",
-        "shounen"
+        "abstract",
+        "achromatic",
+        "animals",
+        "black and white",
+        "body horror",
+        "dementia",
+        "no dialogue",
+        "shorts"
       ],
-      "id": "https://anime-planet.com/anime/hakyuu-hoshin-engi-recap"
-    },
-    {
-      "sources": [
-        "https://livechart.me/anime/4596"
-      ],
-      "title": "Huyao Xiao Hongniang: Wangquan Pian",
-      "type": "ONA",
-      "episodes": 14,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 2016
-      },
-      "picture": "https://u.livechart.me/anime/4596/poster_image/5700948e351428d7d3b0da0935c995a4.jpg?style=large&format=jpg",
-      "thumbnail": "https://u.livechart.me/anime/4596/poster_image/5700948e351428d7d3b0da0935c995a4.jpg?style=small&format=jpg",
-      "synonyms": [
-        "Fox Spirit Matchmaker 2nd Season",
-        "狐妖小红娘 王权篇"
-      ],
-      "relations": [
-        "https://livechart.me/anime/10012",
-        "https://livechart.me/anime/10013",
-        "https://livechart.me/anime/10529",
-        "https://livechart.me/anime/2711",
-        "https://livechart.me/anime/4704",
-        "https://livechart.me/anime/5048",
-        "https://livechart.me/anime/5339",
-        "https://livechart.me/anime/7984"
-      ],
-      "tags": [
-        "comedy",
-        "romance",
-        "supernatural"
-      ],
-      "id": "https://livechart.me/anime/4596"
+      "id": "https://anime-planet.com/anime/holy-shit"
     },
     {
       "sources": [
@@ -332,8 +258,8 @@
         "season": "SPRING",
         "year": 2009
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/7/7069.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/7/7069.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/7/7069_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/7/7069.webp",
       "synonyms": [
         "K-ON! Winter Days!",
         "K-On! Episode 13",
@@ -343,11 +269,6 @@
       ],
       "relations": [
         "https://anisearch.com/anime/5184",
-        "https://anisearch.com/anime/5955",
-        "https://anisearch.com/anime/6907",
-        "https://anisearch.com/anime/7051",
-        "https://anisearch.com/anime/7052",
-        "https://anisearch.com/anime/7053",
         "https://anisearch.com/anime/7070"
       ],
       "tags": [
@@ -359,7 +280,8 @@
         "moe",
         "music",
         "present",
-        "slice of life"
+        "slice of life",
+        "slice of life comedy"
       ],
       "id": "https://anisearch.com/anime/7069"
     },
@@ -447,6 +369,39 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/kinemaquia-pv",
+        "https://anisearch.com/anime/17379",
+        "https://kitsu.io/anime/46863",
+        "https://myanimelist.net/anime/52762"
+      ],
+      "title": "Kinemaquia PV",
+      "type": "ONA",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SPRING",
+        "year": 2022
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1902/127034.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1902/127034t.jpg",
+      "synonyms": [
+        "Kinemakia PV",
+        "Kinemaquia",
+        "キネマキア"
+      ],
+      "relations": [],
+      "tags": [
+        "action",
+        "based on a manga",
+        "horror",
+        "promotional",
+        "shounen",
+        "supernatural"
+      ],
+      "id": "https://myanimelist.net/anime/52762"
+    },
+    {
+      "sources": [
         "https://anidb.net/anime/14553",
         "https://anilist.co/anime/108891",
         "https://anime-planet.com/anime/kono-oto-tomare-2nd-season",
@@ -456,7 +411,7 @@
         "https://myanimelist.net/anime/38889",
         "https://notify.moe/anime/shDrOCZWg"
       ],
-      "title": "Kono Oto Tomare! 2nd Season",
+      "title": "Kono Oto Tomare! Part 2",
       "type": "TV",
       "episodes": 13,
       "status": "FINISHED",
@@ -467,11 +422,13 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1422/111621.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1422/111621t.jpg",
       "synonyms": [
+        "Kono Oto Tomare ! Sounds of Life Saison 2",
         "Kono Oto Tomare! (2019)",
         "Kono Oto Tomare! 2",
+        "Kono Oto Tomare! 2nd Season",
         "Kono Oto Tomare! Dai 2 Cour",
-        "Kono Oto Tomare! Part 2",
         "Kono Oto Tomare! Sounds of Life (2019)",
+        "Kono Oto Tomare! Sounds of Life Season 2",
         "Kono Oto Tomare!: Sounds of Life - Segunda Temporada",
         "Kono Oto Tomare!: Sounds of Life 2",
         "Kono Oto Tomare!: Sounds of Life 2nd Season",
@@ -482,7 +439,8 @@
         "Stop This Sound! 2",
         "Stop This Sound! 2nd Season",
         "Stop at this Sound! 2",
-        "Stop this sound! 2nd Season",
+        "konoto s2",
+        "konoto2",
         "Задержите этот звук! 2",
         "ฝากฝันไว้ที่เสียงโคโตะ! ภาค 2",
         "このおととまれだいにくーる",
@@ -523,13 +481,14 @@
         "heroine of strong character",
         "heterosexual",
         "high school",
-        "love polygon",
         "male protagonist",
         "manga",
         "music",
-        "musical",
         "performance",
+        "performing arts",
         "present",
+        "primarily male cast",
+        "primarily teen cast",
         "romance",
         "school",
         "school club",
@@ -547,7 +506,7 @@
       "sources": [
         "https://myanimelist.net/anime/47689"
       ],
-      "title": "Ku Jie De Kexue Zhi Lu Shiqian Dongwu",
+      "title": "Ku Jie de Kexue Zhi Lu: Shiqian Dongwu",
       "type": "TV",
       "episodes": 15,
       "status": "FINISHED",
@@ -555,25 +514,27 @@
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1748/130598.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1748/130598t.jpg",
       "synonyms": [
-        "酷杰的科学之旅史前动物"
+        "酷杰的科学之旅-史前动物"
       ],
       "relations": [],
       "tags": [
-        "adventure"
+        "kids"
       ],
       "id": "https://myanimelist.net/anime/47689"
     },
     {
       "sources": [
-        "https://kitsu.io/anime/13188"
+        "https://kitsu.io/anime/13188",
+        "https://livechart.me/anime/2254",
+        "https://notify.moe/anime/PYaMhFimR"
       ],
       "title": "Mahou Shoujo Lyrical Nanoha ViVid (Shinsaku)",
       "type": "TV",
       "episodes": 0,
-      "status": "UNKNOWN",
+      "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
         "year": null
@@ -581,17 +542,36 @@
       "picture": "https://media.kitsu.io/anime/poster_images/13188/small.jpg",
       "thumbnail": "https://media.kitsu.io/anime/poster_images/13188/tiny.jpg",
       "synonyms": [
+        "Magical Girl Lyrical Nanoha ViVid",
+        "Magical Girl Lyrical Nanoha ViVid (2017)",
         "Magical Girl Lyrical Nanoha ViVid (New)",
-        "魔法少女リリカルなのはViVid (新作)"
+        "Mahou Shoujo Lyrical Nanoha ViVid (New Series)",
+        "Mahou Shoujo Lyrical Nanoha ViVid 2",
+        "まほうしょうじょりりかるなのはう゛ぃう゛ぃっど 2",
+        "魔法少女リリカルなのはViVid",
+        "魔法少女リリカルなのはViVid (新作)",
+        "魔法少女リリカルなのはViVid 2"
       ],
       "relations": [
-        "https://kitsu.io/anime/8687"
+        "https://kitsu.io/anime/8687",
+        "https://livechart.me/anime/2250",
+        "https://livechart.me/anime/2389",
+        "https://livechart.me/anime/2436",
+        "https://livechart.me/anime/3926",
+        "https://livechart.me/anime/416",
+        "https://livechart.me/anime/4426",
+        "https://livechart.me/anime/4469",
+        "https://livechart.me/anime/4581",
+        "https://livechart.me/anime/774",
+        "https://livechart.me/anime/861",
+        "https://notify.moe/anime/vN11pFiiR"
       ],
       "tags": [
         "action",
         "adventure",
         "magic",
-        "magical girl"
+        "magical girl",
+        "mahou shoujo"
       ],
       "id": "https://kitsu.io/anime/13188"
     },
@@ -630,14 +610,17 @@
         "Šinko a kouzelná šošolka",
         "Шинко с вихром и тысячелетняя магия",
         "まいまいしんことせんねんのまほう",
-        "マイマイ新子と千年の魔法"
+        "マイマイ新子と千年の魔法",
+        "新子与千年魔法"
       ],
       "relations": [],
       "tags": [
         "adventure",
         "asia",
         "autobiographical",
+        "award winning",
         "based on a novel",
+        "child protagonists",
         "comedy",
         "coming of age",
         "countryside",
@@ -664,33 +647,10 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/marginal-prince-tokyo-merry-go-round"
-      ],
-      "title": "Marginal Prince: Tokyo Merry-Go-Round",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2007
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/marginal-prince-tokyo-merry-go-round-1.jpg?t=1625908437",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/marginal-prince-tokyo-merry-go-round-1-190x266.jpg?t=1625908437",
-      "synonyms": [],
-      "relations": [
-        "https://anime-planet.com/anime/marginal-prince"
-      ],
-      "tags": [
-        "based on a visual novel",
-        "shounen-ai"
-      ],
-      "id": "https://anime-planet.com/anime/marginal-prince-tokyo-merry-go-round"
-    },
-    {
-      "sources": [
         "https://anidb.net/anime/9649",
         "https://anilist.co/anime/16834",
         "https://anime-planet.com/anime/roboteugundangwa-meka3",
+        "https://anisearch.com/anime/8512",
         "https://kitsu.io/anime/7539",
         "https://myanimelist.net/anime/16834",
         "https://notify.moe/anime/iXV5pKiiR"
@@ -707,6 +667,7 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/10/45172t.jpg",
       "synonyms": [
         "Robot Corps and Mecha 3",
+        "Robot Gundangwa Meca 3",
         "Roboteugundangwa Meka3",
         "로보트군단과 메카3"
       ],
@@ -722,37 +683,10 @@
         "korean animation",
         "mecha",
         "sci fi",
+        "science-fiction",
         "shounen"
       ],
       "id": "https://myanimelist.net/anime/16834"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/44438"
-      ],
-      "title": "Menghuan Zhen 5",
-      "type": "TV",
-      "episodes": 26,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "梦幻镇5"
-      ],
-      "relations": [
-        "https://myanimelist.net/anime/44437",
-        "https://myanimelist.net/anime/44439"
-      ],
-      "tags": [
-        "adventure",
-        "fantasy",
-        "kids"
-      ],
-      "id": "https://myanimelist.net/anime/44438"
     },
     {
       "sources": [
@@ -766,13 +700,14 @@
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1698/130717.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1698/130717t.jpg",
       "synonyms": [
         "喵星人"
       ],
       "relations": [],
       "tags": [
+        "anthropomorphic",
         "kids"
       ],
       "id": "https://myanimelist.net/anime/47338"
@@ -781,6 +716,7 @@
       "sources": [
         "https://anilist.co/anime/6327",
         "https://anime-planet.com/anime/miracle-train-chuo-sen-e-youkoso",
+        "https://anisearch.com/anime/5935",
         "https://kitsu.io/anime/4521",
         "https://livechart.me/anime/6562",
         "https://myanimelist.net/anime/6327",
@@ -797,13 +733,18 @@
       "picture": "https://cdn.myanimelist.net/images/anime/9/18390.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/9/18390t.jpg",
       "synonyms": [
+        "Miracle Train: Chuuou Sen he Yokoso",
+        "Miracle Train: Chuuou-sen e Youkoso",
+        "Miracle Train: Chūō-sen e Yōkoso",
         "Miracle Train: Welcome to the Chuo Line",
         "Miracle☆Train: Chuo-sen e Youkoso",
-        "ミラクル☆トレイン〜中央線へようこそ〜"
+        "ミラクル☆トレイン〜中央線へようこそ〜",
+        "ミラクル☆トレイン～中央線へようこそ～"
       ],
       "relations": [
         "https://anilist.co/anime/7103",
         "https://anime-planet.com/anime/miracle-train",
+        "https://anisearch.com/anime/5422",
         "https://kitsu.io/anime/4866",
         "https://myanimelist.net/anime/7103",
         "https://notify.moe/anime/T40RpKmmg"
@@ -818,63 +759,6 @@
         "trains"
       ],
       "id": "https://myanimelist.net/anime/6327"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/11708"
-      ],
-      "title": "Monster Strike Natsu Special: Mermaid Rhapsody",
-      "type": "ONA",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SUMMER",
-        "year": 2016
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/11/11708.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/11/11708.webp",
-      "synonyms": [
-        "Monster Strike Especial de Verano: La Rapsodia de la Sirena",
-        "Monster Strike Sommer-Special: Meerjungfrauen-Rhapsodie",
-        "Monster Strike Spécial d'Été: Mermaid Rhapsody",
-        "Monster Strike Summer Special: Mermaid Rhapsody",
-        "モンスターストライク 夏スペシャル: マーメイド・ラプソディ"
-      ],
-      "relations": [
-        "https://anisearch.com/anime/10568",
-        "https://anisearch.com/anime/12157",
-        "https://anisearch.com/anime/12158",
-        "https://anisearch.com/anime/12340",
-        "https://anisearch.com/anime/12457",
-        "https://anisearch.com/anime/12549",
-        "https://anisearch.com/anime/12757"
-      ],
-      "tags": [
-        "action",
-        "fantasy"
-      ],
-      "id": "https://anisearch.com/anime/11708"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/17012"
-      ],
-      "title": "Mr. Shadow",
-      "type": "TV",
-      "episodes": 10,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 2019
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/17/17012.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17012.webp",
-      "synonyms": [
-        "ミスター・シャドウ"
-      ],
-      "relations": [],
-      "tags": [],
-      "id": "https://anisearch.com/anime/17012"
     },
     {
       "sources": [
@@ -902,6 +786,7 @@
         "Kagerou Daze",
         "Kagerou Project",
         "Mekakucity Records",
+        "Mekakucity: Otsukimi Recital",
         "Moon-Viewing Recital",
         "オツキミリサイタル"
       ],
@@ -954,9 +839,11 @@
         "https://anilist.co/anime/131572",
         "https://anilist.co/anime/592",
         "https://anime-planet.com/anime/popolocrois",
+        "https://anime-planet.com/anime/popolocrois-monogatari-pilot",
         "https://anisearch.com/anime/3486",
         "https://kitsu.io/anime/43356",
         "https://kitsu.io/anime/547",
+        "https://livechart.me/anime/11274",
         "https://myanimelist.net/anime/40078",
         "https://myanimelist.net/anime/592",
         "https://notify.moe/anime/dduo5Kmmg"
@@ -980,25 +867,33 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/roll-call"
+        "https://anilist.co/anime/116707",
+        "https://anime-planet.com/anime/roll-call",
+        "https://kitsu.io/anime/44584"
       ],
       "title": "Roll Call",
       "type": "MOVIE",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "WINTER",
         "year": 2017
       },
       "picture": "https://cdn.anime-planet.com/anime/primary/roll-call-1.webp?t=1629210945",
       "thumbnail": "https://cdn.anime-planet.com/anime/primary/roll-call-1-285x399.webp?t=1629210945",
       "synonyms": [
-        "Wataya"
+        "Wataya",
+        "ワタヤ"
       ],
       "relations": [],
       "tags": [
+        "female protagonist",
+        "primarily child cast",
+        "psychological",
+        "school",
         "school life",
         "shorts",
+        "stop motion",
         "stop motion animation"
       ],
       "id": "https://anime-planet.com/anime/roll-call"
@@ -1007,17 +902,18 @@
       "sources": [
         "https://myanimelist.net/anime/45105"
       ],
-      "title": "Shenhai Tegong Dui Zhi Chao Neng Jing Shi",
+      "title": "Shenhai Tegong Dui: Chao Neng Jing Shi",
       "type": "MOVIE",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "FALL",
         "year": 2019
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1339/128163.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1339/128163t.jpg",
       "synonyms": [
+        "Deep Sea Rangers: Super Crystals",
         "深海特攻队之超能晶石"
       ],
       "relations": [
@@ -1025,8 +921,10 @@
       ],
       "tags": [
         "adventure",
+        "anthropomorphic",
         "fantasy",
-        "kids"
+        "kids",
+        "sci-fi"
       ],
       "id": "https://myanimelist.net/anime/45105"
     },
@@ -1082,35 +980,29 @@
     },
     {
       "sources": [
-        "https://anisearch.com/anime/1557"
+        "https://anilist.co/anime/155330"
       ],
-      "title": "Uchuu Daikaisen: Dangard A",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
+      "title": "Xitong Xianzun Zai Dushi",
+      "type": "ONA",
+      "episodes": 0,
+      "status": "UPCOMING",
       "animeSeason": {
-        "season": "WINTER",
-        "year": 1978
+        "season": "UNDEFINED",
+        "year": null
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/1/1557.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/1/1557.webp",
+      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155330-Nnqc8ZxunDFj.png",
+      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155330-Nnqc8ZxunDFj.png",
       "synonyms": [
-        "The Great Space War: Dangard Ace",
-        "Uchuu Daikaisen: Dangard Ace",
-        "Uchū Daikaisen: Dangard A",
-        "宇宙大海戦 ダンガードA"
+        "Xianzun System in the City",
+        "系统仙尊在都市"
       ],
-      "relations": [
-        "https://anisearch.com/anime/2477",
-        "https://anisearch.com/anime/3425"
-      ],
+      "relations": [],
       "tags": [
         "action",
         "adventure",
-        "mecha",
-        "science-fiction"
+        "fantasy"
       ],
-      "id": "https://anisearch.com/anime/1557"
+      "id": "https://anilist.co/anime/155330"
     }
   ]
 }

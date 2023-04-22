@@ -3,6 +3,7 @@
     {
       "sources": [
         "https://anidb.net/anime/9711",
+        "https://anisearch.com/anime/12008",
         "https://kitsu.io/anime/9113",
         "https://myanimelist.net/anime/26199",
         "https://notify.moe/anime/hhIatKimR"
@@ -23,11 +24,13 @@
         "Dooly-ui Baenang'yeohaeng",
         "Dooly-ui Baenang`yeohaeng",
         "Dooly`s Backpacking",
+        "Doolyui Baenangyeohaeng",
         "둘리의 배낭여행"
       ],
       "relations": [
         "https://anidb.net/anime/4616",
         "https://anidb.net/anime/9710",
+        "https://anisearch.com/anime/5530",
         "https://kitsu.io/anime/7578",
         "https://myanimelist.net/anime/17088",
         "https://notify.moe/anime/KX55pKimR"
@@ -43,6 +46,7 @@
         "korea",
         "mina",
         "present",
+        "science-fiction",
         "slice of life"
       ],
       "id": "https://myanimelist.net/anime/26199"
@@ -92,12 +96,14 @@
         "https://anilist.co/anime/5760",
         "https://anime-planet.com/anime/dororo",
         "https://anime-planet.com/anime/dororo-2019-pv",
+        "https://anisearch.com/anime/16982",
         "https://anisearch.com/anime/7398",
         "https://anisearch.com/anime/837",
         "https://kitsu.io/anime/42412",
         "https://kitsu.io/anime/4266",
         "https://kitsu.io/anime/42862",
         "https://kitsu.io/anime/6516",
+        "https://livechart.me/anime/7688",
         "https://myanimelist.net/anime/11471",
         "https://myanimelist.net/anime/39257",
         "https://myanimelist.net/anime/39989",
@@ -112,6 +118,8 @@
         "based on a manga",
         "body horror",
         "cannibalism",
+        "child protagonists",
+        "crossdressing",
         "curse",
         "dark fantasy",
         "deal with the devil",
@@ -130,6 +138,7 @@
         "male protagonist",
         "manga",
         "martial arts",
+        "mythology",
         "old asia",
         "philosophy",
         "revenge",
@@ -141,59 +150,12 @@
         "swordplay",
         "swords & co",
         "tragedy",
-        "transgender",
+        "travel",
         "violence",
         "war",
         "youkai"
       ],
       "id": "https://myanimelist.net/anime/37520"
-    },
-    {
-      "sources": [
-        "https://anidb.net/anime/16977",
-        "https://anilist.co/anime/141802",
-        "https://kitsu.io/anime/45661",
-        "https://myanimelist.net/anime/50364"
-      ],
-      "title": "Douluo Dalu: Xiaowu Fuhuo",
-      "type": "ONA",
-      "episodes": 13,
-      "status": "ONGOING",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 2021
-      },
-      "picture": "https://cdn.myanimelist.net/images/anime/1824/119398.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1824/119398t.jpg",
-      "synonyms": [
-        "Douluo Dalu 11th Season",
-        "Douluo Dalu Part 11",
-        "Douluo Dalu: Xiao Wu Fuhuo",
-        "Soul Land 11th Season",
-        "Soul Land Part 11",
-        "斗罗大陆 小舞复活",
-        "斗罗大陆 第十一部分",
-        "斗罗大陆之小舞复活"
-      ],
-      "relations": [
-        "https://anidb.net/anime/16548",
-        "https://anilist.co/anime/137761",
-        "https://anilist.co/anime/145210",
-        "https://kitsu.io/anime/45032",
-        "https://myanimelist.net/anime/49638"
-      ],
-      "tags": [
-        "action",
-        "adventure",
-        "cultivation",
-        "fantasy",
-        "full cgi",
-        "historical",
-        "male protagonist",
-        "martial arts",
-        "romance"
-      ],
-      "id": "https://myanimelist.net/anime/50364"
     },
     {
       "sources": [
@@ -246,34 +208,6 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/duo-bao-xingyun-xing-3rd-season"
-      ],
-      "title": "Duo Bao Xingyun Xing 3rd Season",
-      "type": "TV",
-      "episodes": 52,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2013
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/duo-bao-xingyun-xing-3rd-season-1.jpg?t=1625762954",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/duo-bao-xingyun-xing-3rd-season-1-190x266.jpg?t=1625909012",
-      "synonyms": [],
-      "relations": [
-        "https://anime-planet.com/anime/duo-bao-xingyun-xing-2nd-season",
-        "https://anime-planet.com/anime/duo-bao-xingyun-xing-4th-season"
-      ],
-      "tags": [
-        "adventure",
-        "chinese animation",
-        "comedy",
-        "fantasy",
-        "short episodes"
-      ],
-      "id": "https://anime-planet.com/anime/duo-bao-xingyun-xing-3rd-season"
-    },
-    {
-      "sources": [
         "https://anisearch.com/anime/16733"
       ],
       "title": "Eomma Kkaturi",
@@ -284,14 +218,13 @@
         "season": "SPRING",
         "year": 2011
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/16/16733.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/16/16733.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/16/16733_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/16/16733.webp",
       "synonyms": [
         "Katuri: A Story of a Mother Bird",
         "엄마 까투리"
       ],
       "relations": [
-        "https://anisearch.com/anime/14994",
         "https://anisearch.com/anime/14995"
       ],
       "tags": [
@@ -333,6 +266,7 @@
         "Nyaruko: Crawling with Love! 2",
         "nyarlko w",
         "潜行吧! 奈亚子W",
+        "襲來！美少女邪神W",
         "這いよれ! ニャル子さんW",
         "這いよれ！ ニャル子さん W",
         "這いよれ！ニャル子さん W",
@@ -352,7 +286,6 @@
         "https://anime-planet.com/anime/haiyoru-nyaru-ani-remember-my-lovecraft-sensei",
         "https://anime-planet.com/anime/haiyoru-nyaru-ani-remember-my-lovecraft-sensei-special",
         "https://anisearch.com/anime/7382",
-        "https://anisearch.com/anime/8766",
         "https://anisearch.com/anime/9705",
         "https://anisearch.com/anime/9864",
         "https://kitsu.io/anime/6599",
@@ -386,6 +319,8 @@
         "fantasy",
         "female harem",
         "harem",
+        "henshin",
+        "heterosexual",
         "humanoid alien",
         "interspecies relationship",
         "japan",
@@ -406,7 +341,8 @@
         "science-fiction",
         "seinen",
         "space",
-        "surreal comedy"
+        "surreal comedy",
+        "tokusatsu"
       ],
       "id": "https://myanimelist.net/anime/15699"
     },
@@ -457,6 +393,7 @@
         "https://kitsu.io/anime/41281",
         "https://kitsu.io/anime/43245",
         "https://kitsu.io/anime/993",
+        "https://livechart.me/anime/8289",
         "https://myanimelist.net/anime/1108",
         "https://myanimelist.net/anime/37856",
         "https://myanimelist.net/anime/38650",
@@ -482,6 +419,7 @@
         "male protagonist",
         "manga",
         "middle ages",
+        "mythology",
         "primarily male cast",
         "shounen",
         "super power",
@@ -493,6 +431,29 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/153773"
+      ],
+      "title": "Henkei Sakuhin Dai 3-ban: Mixed Juice",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 1985
+      },
+      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b153773-abYZg3coZoKi.jpg",
+      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b153773-abYZg3coZoKi.jpg",
+      "synonyms": [
+        "Metamorphose Works No.3〈Mixed juice〉",
+        "変形作品第3番＜ミックスジュース＞"
+      ],
+      "relations": [],
+      "tags": [],
+      "id": "https://anilist.co/anime/153773"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/hkt48-x-peeping-life",
         "https://myanimelist.net/anime/48919"
       ],
       "title": "HKT48 × Peeping Life",
@@ -506,12 +467,15 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1686/115583.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1686/115583t.jpg",
       "synonyms": [
+        "HKT48 x Peeping Life",
         "HKT48 × PeepingLife"
       ],
       "relations": [
+        "https://anime-planet.com/anime/peeping-life",
         "https://myanimelist.net/anime/6525"
       ],
       "tags": [
+        "banter",
         "comedy"
       ],
       "id": "https://myanimelist.net/anime/48919"
@@ -578,6 +542,7 @@
         "https://anime-planet.com/anime/kiki-to-lala-no-mamatte-suteki",
         "https://anime-planet.com/anime/kiki-to-lala-no-ohime-sama-ni-naritai",
         "https://anime-planet.com/anime/kiki-to-lala-no-papa-to-mama-ni-aitai",
+        "https://anisearch.com/anime/4767",
         "https://kitsu.io/anime/5660",
         "https://kitsu.io/anime/8364",
         "https://kitsu.io/anime/8366",
@@ -686,6 +651,7 @@
         "This Boy Caught A Merman",
         "This Boy Caught a Merman",
         "This Boy Picked Up A Merman",
+        "konodan s2",
         "このだんしにんぎょひろいました",
         "この男子, 人魚ひろいました.",
         "この男子、 人魚ひろいました。",
@@ -701,6 +667,8 @@
         "https://anime-planet.com/anime/this-boy-can-fight-aliens",
         "https://anime-planet.com/anime/this-boy-is-a-professional-wizard",
         "https://anime-planet.com/anime/this-boy-suffers-from-crystallization",
+        "https://anisearch.com/anime/7262",
+        "https://anisearch.com/anime/9829",
         "https://kitsu.io/anime/11599",
         "https://kitsu.io/anime/6498",
         "https://kitsu.io/anime/8779",
@@ -716,9 +684,11 @@
         "boys love",
         "boys' love",
         "contemporary fantasy",
+        "cute boys doing cute things",
         "drama",
         "fantasy",
         "interspecies relationship",
+        "male protagonist",
         "mermaid",
         "mermaids",
         "new",
@@ -727,8 +697,11 @@
         "parental abandonment",
         "psychological",
         "romance",
+        "school",
         "shounen ai",
-        "shounen-ai"
+        "shounen-ai",
+        "slapstick",
+        "tragedy"
       ],
       "id": "https://myanimelist.net/anime/15439"
     },
@@ -773,34 +746,43 @@
     },
     {
       "sources": [
-        "https://myanimelist.net/anime/44310"
+        "https://anime-planet.com/anime/lunas-magic-class",
+        "https://myanimelist.net/anime/51756"
       ],
-      "title": "Lan Mao Taoqi 3000 Wen Zhi Konglong Shidai",
-      "type": "TV",
-      "episodes": 264,
+      "title": "Luna-ui Mabeobdogam",
+      "type": "SPECIAL",
+      "episodes": 6,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2002
+        "season": "WINTER",
+        "year": 2021
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1253/123608.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1253/123608t.jpg",
       "synonyms": [
-        "蓝猫淘气3000问之恐龙时代"
+        "Luna's Magic Class",
+        "Luna's Magic Encyclopedia",
+        "루나의 마법도감"
       ],
       "relations": [
-        "https://myanimelist.net/anime/44309",
-        "https://myanimelist.net/anime/44311"
+        "https://anime-planet.com/anime/tayo-and-little-wizards",
+        "https://myanimelist.net/anime/51753"
       ],
       "tags": [
-        "adventure",
-        "comedy",
-        "kids"
+        "cars",
+        "cg animation",
+        "family friendly",
+        "fantasy",
+        "kids",
+        "korean animation",
+        "non-human protagonists",
+        "short episodes"
       ],
-      "id": "https://myanimelist.net/anime/44310"
+      "id": "https://myanimelist.net/anime/51756"
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/dream-racers",
         "https://myanimelist.net/anime/45201"
       ],
       "title": "Mengxiang Jing Su",
@@ -809,55 +791,22 @@
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2011
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1547/128532.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1547/128532t.jpg",
       "synonyms": [
+        "Dream Racers",
         "梦想竞速"
       ],
       "relations": [],
       "tags": [
-        "cars"
+        "cars",
+        "chinese animation",
+        "family friendly",
+        "racing"
       ],
       "id": "https://myanimelist.net/anime/45201"
-    },
-    {
-      "sources": [
-        "https://anidb.net/anime/11884",
-        "https://anilist.co/anime/113333",
-        "https://anime-planet.com/anime/meow-no-hoshi",
-        "https://kitsu.io/anime/11798"
-      ],
-      "title": "Meow no Hoshi",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "UPCOMING",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://anime-planet.com/images/anime/covers/7770.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/7770.jpg",
-      "synonyms": [
-        "Meow`s Star",
-        "ミャウの星"
-      ],
-      "relations": [],
-      "tags": [
-        "animal protagonists",
-        "cats",
-        "drama",
-        "melancholy",
-        "mina",
-        "new",
-        "non-human protagonists",
-        "original work",
-        "pets",
-        "short movie",
-        "slice of life"
-      ],
-      "id": "https://anime-planet.com/anime/meow-no-hoshi"
     },
     {
       "sources": [
@@ -887,7 +836,8 @@
         "I`m All Yours",
         "Minna Agechau",
         "みんなあげちゃう",
-        "みんなあげちゃう♡"
+        "みんなあげちゃう♡",
+        "全部都给你"
       ],
       "relations": [],
       "tags": [
@@ -899,6 +849,7 @@
         "eroticism",
         "female protagonist",
         "guns",
+        "heterosexual",
         "japan",
         "male protagonist",
         "manga",
@@ -918,57 +869,6 @@
         "surreal comedy"
       ],
       "id": "https://myanimelist.net/anime/4688"
-    },
-    {
-      "sources": [
-        "https://anilist.co/anime/137662",
-        "https://anisearch.com/anime/16711",
-        "https://myanimelist.net/anime/49595",
-        "https://myanimelist.net/anime/50806",
-        "https://myanimelist.net/anime/50807"
-      ],
-      "title": "Release That Witch",
-      "type": "ONA",
-      "episodes": 0,
-      "status": "UPCOMING",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/anime/1368/117078.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1368/117078t.jpg",
-      "synonyms": [
-        "Fang Kai Na Ge Nü Wu",
-        "Fangkai Nage Nüwu",
-        "Fangkai Nage nüwu",
-        "Release that Witch",
-        "放开那个女巫"
-      ],
-      "relations": [],
-      "tags": [
-        "action",
-        "adventure",
-        "alternative world",
-        "anachronism",
-        "demons",
-        "economics",
-        "epic fantasy",
-        "fantasy",
-        "female harem",
-        "harem",
-        "heterosexual",
-        "historical",
-        "isekai",
-        "magic",
-        "male protagonist",
-        "monster",
-        "primarily adult cast",
-        "romance",
-        "war",
-        "witch",
-        "witches"
-      ],
-      "id": "https://myanimelist.net/anime/50807"
     },
     {
       "sources": [
@@ -999,8 +899,10 @@
         "Sasami: Magical Girls Club",
         "Sasami: Maho Shojo Club",
         "Sasami: Mahō Shōjo Club",
+        "Sasami☆Mahou Shoujo Club",
         "Tenchi Muyo: Sasami Magical Girl Club",
         "sasami",
+        "tenchi (2006)",
         "砂沙美 -魔法少女クラブ-",
         "砂沙美☆魔法少女クラブ"
       ],
@@ -1024,36 +926,24 @@
         "https://anime-planet.com/anime/tenchi-the-movie-2-the-daughter-of-darkness",
         "https://anime-planet.com/anime/tenchi-the-movie-tenchi-muyo-in-love",
         "https://anime-planet.com/anime/tenchi-universe",
-        "https://anisearch.com/anime/1156",
-        "https://anisearch.com/anime/11750",
-        "https://anisearch.com/anime/14681",
-        "https://anisearch.com/anime/1700",
-        "https://anisearch.com/anime/1994",
-        "https://anisearch.com/anime/2340",
-        "https://anisearch.com/anime/263",
-        "https://anisearch.com/anime/2720",
-        "https://anisearch.com/anime/2754",
-        "https://anisearch.com/anime/2842",
-        "https://anisearch.com/anime/2970",
         "https://anisearch.com/anime/3117",
         "https://anisearch.com/anime/3742",
-        "https://anisearch.com/anime/782",
-        "https://anisearch.com/anime/8787",
-        "https://anisearch.com/anime/990",
         "https://kitsu.io/anime/1348",
         "https://kitsu.io/anime/1693",
+        "https://livechart.me/anime/11269",
         "https://myanimelist.net/anime/1502",
         "https://myanimelist.net/anime/1882",
         "https://notify.moe/anime/fj5acFmmg",
         "https://notify.moe/anime/uhXf5FiiR"
       ],
       "tags": [
+        "child protagonists",
         "comedy",
         "contemporary fantasy",
         "cute girls doing cute things",
         "family friendly",
         "fantasy",
-        "henshin heroes",
+        "female protagonist",
         "kuudere",
         "magic",
         "magical girl",
@@ -1065,6 +955,30 @@
         "school life"
       ],
       "id": "https://myanimelist.net/anime/1881"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/something-like-a-shopping-list"
+      ],
+      "title": "Something Like a Shopping List",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2022
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/something-like-a-shopping-list-1.webp?t=1670023146",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/something-like-a-shopping-list-1-285x399.webp?t=1670023146",
+      "synonyms": [
+        "Kaimono no Memo no you na mono"
+      ],
+      "relations": [],
+      "tags": [
+        "abstract",
+        "shorts"
+      ],
+      "id": "https://anime-planet.com/anime/something-like-a-shopping-list"
     },
     {
       "sources": [
@@ -1094,6 +1008,7 @@
         "Koukou Hoshi Kageki 2",
         "Koukou Hoshi Kageki 2nd Season",
         "STARMYU 2",
+        "STARMYU Season 2",
         "Star Mu 2",
         "StarMyu (Saison 2)",
         "Starmu",
@@ -1122,6 +1037,7 @@
         "https://anime-planet.com/anime/starmyu-in-halloween",
         "https://anime-planet.com/anime/starmyu-ova",
         "https://anisearch.com/anime/10300",
+        "https://anisearch.com/anime/12898",
         "https://anisearch.com/anime/12899",
         "https://kitsu.io/anime/12201",
         "https://kitsu.io/anime/40964",
@@ -1130,6 +1046,7 @@
         "https://livechart.me/anime/2120",
         "https://livechart.me/anime/2928",
         "https://livechart.me/anime/3278",
+        "https://livechart.me/anime/5688",
         "https://myanimelist.net/anime/33033",
         "https://myanimelist.net/anime/35774",
         "https://myanimelist.net/anime/36536",
@@ -1139,16 +1056,19 @@
       ],
       "tags": [
         "acting",
+        "boys' love",
         "comedy",
         "cute boys doing cute things",
         "ganbatte",
         "idol",
+        "idols (male)",
         "music",
         "music school",
         "musical",
         "new",
         "original work",
         "performance",
+        "performing arts",
         "present",
         "primarily male cast",
         "school",
@@ -1183,7 +1103,6 @@
       "synonyms": [
         "La detective esta muerta.",
         "La detective está muerta",
-        "La detective está muerta.",
         "Shindeiru.",
         "Si Detektif Sudah Mati",
         "Tanmoshi",
@@ -1205,12 +1124,26 @@
         "探偵はもう、死んでいる。"
       ],
       "relations": [
+        "https://anidb.net/anime/17527",
+        "https://anilist.co/anime/151987",
+        "https://anilist.co/anime/152677",
         "https://anime-planet.com/anime/the-detective-is-already-dead-mini-anime",
-        "https://myanimelist.net/anime/49510"
+        "https://anime-planet.com/anime/the-detective-is-already-dead-season-2",
+        "https://anisearch.com/anime/17546",
+        "https://kitsu.io/anime/46250",
+        "https://kitsu.io/anime/46275",
+        "https://livechart.me/anime/11343",
+        "https://myanimelist.net/anime/49510",
+        "https://myanimelist.net/anime/52480",
+        "https://notify.moe/anime/cOLGtqRVg",
+        "https://notify.moe/anime/mEE9c3g4R"
       ],
       "tags": [
         "achronological order",
+        "action",
+        "alien",
         "aliens",
+        "angst",
         "artificial intelligence",
         "based on a light novel",
         "body swapping",
@@ -1225,6 +1158,7 @@
         "female harem",
         "female protagonist",
         "guns",
+        "heterosexual",
         "idol",
         "love triangle",
         "male protagonist",
@@ -1245,17 +1179,20 @@
         "supernatural drama",
         "terrorism",
         "tragedy",
+        "urban fantasy",
         "verbal comedy",
+        "violence",
         "vtuber"
       ],
       "id": "https://myanimelist.net/anime/46471"
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/tobidasu-na-panda-chan",
         "https://myanimelist.net/anime/39503"
       ],
       "title": "Tobidasu na! Panda-chan",
-      "type": "OVA",
+      "type": "MOVIE",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
@@ -1269,6 +1206,7 @@
       ],
       "relations": [],
       "tags": [
+        "educational",
         "kids"
       ],
       "id": "https://myanimelist.net/anime/39503"
@@ -1285,8 +1223,8 @@
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1483/129220.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1483/129220t.jpg",
       "synonyms": [
         "未来媳妇本地郎"
       ],
@@ -1295,6 +1233,41 @@
         "comedy"
       ],
       "id": "https://myanimelist.net/anime/47287"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/145814",
+        "https://kitsu.io/anime/45934"
+      ],
+      "title": "Yong Mei",
+      "type": "ONA",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2022
+      },
+      "picture": "https://media.kitsu.io/anime/45934/poster_image/small-9655abdf7bd64b6c3c890978168aa0bd.jpeg",
+      "thumbnail": "https://media.kitsu.io/anime/45934/poster_image/tiny-96fe43e0c51aeb7869a56d767fbfc690.jpeg",
+      "synonyms": [
+        "中国古诗词动漫：咏梅",
+        "中国唱诗班：咏梅",
+        "咏梅"
+      ],
+      "relations": [
+        "https://anilist.co/anime/129729",
+        "https://anilist.co/anime/129730",
+        "https://anilist.co/anime/129731",
+        "https://anilist.co/anime/129732",
+        "https://anilist.co/anime/129733",
+        "https://anilist.co/anime/129735"
+      ],
+      "tags": [
+        "drama",
+        "romance",
+        "supernatural"
+      ],
+      "id": "https://kitsu.io/anime/45934"
     },
     {
       "sources": [
@@ -1361,6 +1334,7 @@
         "Yuu Gi Ou! Zexal",
         "Yu☆Gi☆Oh! ZEXAL",
         "Yū Gi Ō! Zexal",
+        "游戏王ZEXAL",
         "遊☆戯☆王ZEXAL",
         "遊戯王 Zexal",
         "遊戯王ゼアル"
@@ -1382,7 +1356,7 @@
         "https://anime-planet.com/anime/yu-gi-oh-5ds",
         "https://anime-planet.com/anime/yu-gi-oh-arc-v",
         "https://anime-planet.com/anime/yu-gi-oh-duel-monsters",
-        "https://anime-planet.com/anime/yu-gi-oh-gorush",
+        "https://anime-planet.com/anime/yu-gi-oh-go-rush",
         "https://anime-planet.com/anime/yu-gi-oh-gx",
         "https://anime-planet.com/anime/yu-gi-oh-sevens",
         "https://anime-planet.com/anime/yu-gi-oh-vrains",
@@ -1390,20 +1364,8 @@
         "https://anime-planet.com/anime/yu-gi-oh-zexal-ii-iza-saishuu-kessen-e-special",
         "https://anime-planet.com/anime/yu-gi-oh-zexal-ii-midokoro-tenkomori-special",
         "https://anime-planet.com/anime/yu-gi-oh-zexal-special",
-        "https://anisearch.com/anime/10086",
-        "https://anisearch.com/anime/10482",
-        "https://anisearch.com/anime/12209",
-        "https://anisearch.com/anime/1310",
-        "https://anisearch.com/anime/14866",
-        "https://anisearch.com/anime/1590",
-        "https://anisearch.com/anime/220",
-        "https://anisearch.com/anime/2618",
         "https://anisearch.com/anime/4740",
-        "https://anisearch.com/anime/482",
-        "https://anisearch.com/anime/5576",
         "https://anisearch.com/anime/8038",
-        "https://anisearch.com/anime/9402",
-        "https://anisearch.com/anime/9616",
         "https://anisearch.com/anime/9659",
         "https://kitsu.io/anime/3387",
         "https://kitsu.io/anime/442",
@@ -1446,6 +1408,7 @@
         "friendship",
         "future",
         "game",
+        "gaming – card games",
         "ganbatte",
         "high stakes games",
         "male protagonist",
@@ -1455,6 +1418,7 @@
         "sci fi",
         "science fiction",
         "shounen",
+        "strategy game",
         "tournaments"
       ],
       "id": "https://myanimelist.net/anime/10015"

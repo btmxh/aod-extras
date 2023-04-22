@@ -2,58 +2,6 @@
   "data": [
     {
       "sources": [
-        "https://anidb.net/anime/15554",
-        "https://anilist.co/anime/129689",
-        "https://anisearch.com/anime/15398"
-      ],
-      "title": "Benghuai 3: Tian Qiong Liuxing",
-      "type": "ONA",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 2020
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/15/15398.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/15/15398.webp",
-      "synonyms": [
-        "Beng Huai 3: Tian Qiong Liu Xing",
-        "Benghuai 3: Tianqiong Liuxing",
-        "Honkai Impact 3: Meteoric Salvation",
-        "Honkai Impact 3rd - Meteoric Salvation",
-        "Honkai Impact 3rd: Animated Short - Meteoric Salvation",
-        "Meteoric Salvation",
-        "崩坏3 天穹流星",
-        "崩壊3rd 天穹の流星"
-      ],
-      "relations": [
-        "https://anidb.net/anime/15553",
-        "https://anidb.net/anime/15701",
-        "https://anilist.co/anime/129676",
-        "https://anilist.co/anime/129677",
-        "https://anilist.co/anime/129679",
-        "https://anilist.co/anime/129682",
-        "https://anilist.co/anime/129684",
-        "https://anilist.co/anime/129686",
-        "https://anilist.co/anime/129688",
-        "https://anilist.co/anime/129690",
-        "https://anilist.co/anime/129692",
-        "https://anilist.co/anime/129693",
-        "https://anilist.co/anime/136496"
-      ],
-      "tags": [
-        "action",
-        "full cgi",
-        "game",
-        "henshin",
-        "mecha",
-        "sci-fi",
-        "urban"
-      ],
-      "id": "https://anisearch.com/anime/15398"
-    },
-    {
-      "sources": [
         "https://anidb.net/anime/13240",
         "https://anilist.co/anime/99839",
         "https://anime-planet.com/anime/blame-movie-2",
@@ -70,8 +18,8 @@
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://anime-planet.com/images/anime/covers/8944.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/8944.jpg",
+      "picture": "https://cdn.anime-planet.com/anime/primary/blame-movie-2-1.jpg?t=1625897794",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/blame-movie-2-1-190x260.jpg?t=1625897794",
       "synonyms": [
         "BLAME! (続き)",
         "BLAME! 2",
@@ -89,6 +37,10 @@
         "https://anime-planet.com/anime/blame-special",
         "https://anisearch.com/anime/10968",
         "https://kitsu.io/anime/11537",
+        "https://livechart.me/anime/1924",
+        "https://livechart.me/anime/4424",
+        "https://livechart.me/anime/5583",
+        "https://livechart.me/anime/5919",
         "https://notify.moe/anime/5E0CpKmmg"
       ],
       "tags": [
@@ -128,8 +80,8 @@
         "season": "SPRING",
         "year": 2009
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/7/7272.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/7/7272.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/7/7272_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/7/7272.webp",
       "synonyms": [
         "エコファン"
       ],
@@ -139,6 +91,44 @@
         "real robots"
       ],
       "id": "https://anisearch.com/anime/7272"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/146730",
+        "https://anime-planet.com/anime/fei-zhi-baike-yuanlai-ni-shi-zheyang-de-zhiwu-5th-season"
+      ],
+      "title": "Fei Zhi Baike: Yuanlai Ni Shi Zheyang de Zhiwu 5th Season",
+      "type": "ONA",
+      "episodes": 12,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2022
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/fei-zhi-baike-yuanlai-ni-shi-zheyang-de-zhiwu-5th-season-1.webp?t=1654733809",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/fei-zhi-baike-yuanlai-ni-shi-zheyang-de-zhiwu-5th-season-1-267x375.webp?t=1654733809",
+      "synonyms": [
+        "Fatchi Baike 5",
+        "肥志百科 原来你是这样的美食",
+        "肥志百科 第五季"
+      ],
+      "relations": [
+        "https://anilist.co/anime/139563",
+        "https://anilist.co/anime/151635",
+        "https://anime-planet.com/anime/fei-zhi-baike-yuanlai-ni-shi-zheyang-de-zhiwu-4th-season",
+        "https://anime-planet.com/anime/fei-zhi-baike-yuanlai-ni-shi-zheyang-de-zhiwu-6th-season"
+      ],
+      "tags": [
+        "based on a manga",
+        "chibi",
+        "chinese animation",
+        "comedy",
+        "educational",
+        "family friendly",
+        "food protagonists",
+        "short episodes"
+      ],
+      "id": "https://anime-planet.com/anime/fei-zhi-baike-yuanlai-ni-shi-zheyang-de-zhiwu-5th-season"
     },
     {
       "sources": [
@@ -176,6 +166,7 @@
         "https://anidb.net/anime/14258",
         "https://anilist.co/anime/104009",
         "https://anime-planet.com/anime/rinshi-ekoda-chan",
+        "https://anisearch.com/anime/13804",
         "https://kitsu.io/anime/42018",
         "https://myanimelist.net/anime/38162"
       ],
@@ -203,10 +194,12 @@
         "season": "WINTER",
         "year": 2020
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/15/15115.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/15/15115.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/15/15115_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/15/15115.webp",
       "synonyms": [],
-      "relations": [],
+      "relations": [
+        "https://anisearch.com/anime/5404"
+      ],
       "tags": [
         "action",
         "mecha",
@@ -218,6 +211,7 @@
       "sources": [
         "https://anilist.co/anime/18713",
         "https://anime-planet.com/anime/haiyore-nyaruko-san-yasashii-teki-no-shitome-kata",
+        "https://anisearch.com/anime/8766",
         "https://kitsu.io/anime/7752",
         "https://livechart.me/anime/3296",
         "https://myanimelist.net/anime/18713",
@@ -236,9 +230,13 @@
       "synonyms": [
         "Haiyore! Nyaruko-san OVA",
         "Haiyore! Nyaruko-san: Easy Way to Kill Enemies",
+        "Haiyore! Nyaruko-san: How to Defeat a Kind Enemy",
+        "Haiyore! Nyaruko-san: Yasashii Teki no Shitomekata",
+        "Haiyore! Nyaruko-san: Yasashī Teki no Shitomekata",
         "Haiyoru! Nyaruani (ONA)",
         "Nyarko-san: Another Crawling Chaos - Yasashii Teki no Shitome-kata",
         "Nyaruko: Crawling with Love! OVA",
+        "這いよれ！ ニャル子さん やさしい敵の仕留め方",
         "這いよれ！ニャル子さん　やさしい敵の仕留め方"
       ],
       "relations": [
@@ -250,6 +248,7 @@
         "https://anime-planet.com/anime/haiyoru-nyaru-ani",
         "https://anime-planet.com/anime/haiyoru-nyaru-ani-remember-my-lovecraft-sensei",
         "https://anime-planet.com/anime/haiyoru-nyaru-ani-remember-my-lovecraft-sensei-special",
+        "https://anisearch.com/anime/7382",
         "https://kitsu.io/anime/6599",
         "https://livechart.me/anime/1107",
         "https://livechart.me/anime/3297",
@@ -264,15 +263,16 @@
         "based on a light novel",
         "comedy",
         "henshin",
-        "henshin heroes",
         "interspecies relationship",
         "magic",
         "magical girl",
+        "monster girl",
         "mythology",
         "non-human protagonists",
         "parody",
         "sci-fi",
         "science fiction",
+        "science-fiction",
         "supernatural"
       ],
       "id": "https://myanimelist.net/anime/18713"
@@ -280,6 +280,8 @@
     {
       "sources": [
         "https://anilist.co/anime/114550",
+        "https://anime-planet.com/anime/mr-children-hana-no-nioi",
+        "https://anisearch.com/anime/17819",
         "https://kitsu.io/anime/42896",
         "https://myanimelist.net/anime/39097"
       ],
@@ -294,14 +296,25 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1241/98546.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1241/98546t.jpg",
       "synonyms": [
+        "Mr. Children: Hana no Nioi",
+        "Mr.Children - Hana no Nioi",
+        "Mr.Children - 花の匂い",
         "The Scent of Flowers",
         "花の匂い"
       ],
       "relations": [],
       "tags": [
+        "alternative world",
+        "animal protagonists",
+        "anthropomorphic",
+        "black and white",
         "drama",
+        "melancholy",
         "military",
-        "music"
+        "music",
+        "non-human protagonists",
+        "rabbits",
+        "war"
       ],
       "id": "https://myanimelist.net/anime/39097"
     },
@@ -345,7 +358,9 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/147338",
         "https://anime-planet.com/anime/henkei-sakuhin-dai-5-ban-rembrandt-no-shudai-ni-yoru-henkei-kaitai-to-saikousei",
+        "https://kitsu.io/anime/46403",
         "https://myanimelist.net/anime/43431"
       ],
       "title": "Henkei Sakuhin Dai 5-ban: Rembrandt no Shudai ni yoru Henkei Kaitai to Saikousei",
@@ -353,13 +368,15 @@
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "WINTER",
         "year": 1986
       },
       "picture": "https://cdn.myanimelist.net/images/anime/1131/109759.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1131/109759t.jpg",
       "synonyms": [
         "Metamorphose Works No.5",
+        "Metamorphose Works No.5〈Deformation dismantling and reconstruction by Rembrandt's theme〉",
+        "変形作品第5番＜レンブラントの主題による変形解体と再構成＞",
         "変形作品第５番＜レンブラントの主題による変形解体と再構成＞"
       ],
       "relations": [
@@ -369,6 +386,8 @@
       "tags": [
         "abstract",
         "avant garde",
+        "no dialogue",
+        "psychological",
         "shorts"
       ],
       "id": "https://myanimelist.net/anime/43431"
@@ -412,7 +431,9 @@
       "picture": "https://cdn.myanimelist.net/images/anime/7/68671.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/7/68671t.jpg",
       "synonyms": [
+        "Histoires parallèles : Alien’s Attack",
         "Injū Daikessen",
+        "Mission dans les ténèbres",
         "Mission of Darkness",
         "淫獣大決戦"
       ],
@@ -445,8 +466,8 @@
         "season": "UNDEFINED",
         "year": 2019
       },
-      "picture": "https://anime-planet.com/images/anime/covers/14009.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/14009.jpg",
+      "picture": "https://cdn.anime-planet.com/anime/primary/jeipon-futatabi-kore-ga-reiwa-style-no-satsujinki-1.jpg?t=1625907627",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/jeipon-futatabi-kore-ga-reiwa-style-no-satsujinki-1-190x266.jpg?t=1625907627",
       "synonyms": [],
       "relations": [
         "https://anime-planet.com/anime/saturday-the-14th"
@@ -472,7 +493,7 @@
         "season": "FALL",
         "year": 2012
       },
-      "picture": "https://cdn.anime-planet.com/anime/primary/junjou-romantica-ova-1.jpg?t=1625775889",
+      "picture": "https://cdn.anime-planet.com/anime/primary/junjou-romantica-ova-1.jpg?t=1625896381",
       "thumbnail": "https://cdn.anime-planet.com/anime/primary/junjou-romantica-ova-1-190x269.jpg?t=1625896381",
       "synonyms": [
         "Junjou Romantica (2012)",
@@ -485,8 +506,6 @@
         "https://anime-planet.com/anime/junjou-romantica-3",
         "https://anime-planet.com/anime/junjou-romantica-ova-2",
         "https://anime-planet.com/anime/junjou-romantica-special",
-        "https://anisearch.com/anime/10400",
-        "https://anisearch.com/anime/4555",
         "https://anisearch.com/anime/5010"
       ],
       "tags": [
@@ -536,27 +555,6 @@
     },
     {
       "sources": [
-        "https://anidb.net/anime/6865"
-      ],
-      "title": "Karasu no Hoken Kan`yuuin",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 1940
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "烏の保険勧誘員"
-      ],
-      "relations": [],
-      "tags": [],
-      "id": "https://anidb.net/anime/6865"
-    },
-    {
-      "sources": [
         "https://anidb.net/anime/6909",
         "https://anisearch.com/anime/11902"
       ],
@@ -568,8 +566,8 @@
         "season": "FALL",
         "year": 1941
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/0.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/0.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/0_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/0.webp",
       "synonyms": [
         "Borrowed Hat",
         "Karita Bōshi",
@@ -578,32 +576,6 @@
       "relations": [],
       "tags": [],
       "id": "https://anisearch.com/anime/11902"
-    },
-    {
-      "sources": [
-        "https://anilist.co/anime/140588",
-        "https://anisearch.com/anime/13720"
-      ],
-      "title": "Kaze no Koto Tsute",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2017
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/13/13720.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/13/13720.webp",
-      "synonyms": [
-        "a little bird told",
-        "about the wind",
-        "風のことつて"
-      ],
-      "relations": [],
-      "tags": [
-        "slice of life"
-      ],
-      "id": "https://anisearch.com/anime/13720"
     },
     {
       "sources": [
@@ -816,8 +788,10 @@
         "dark fantasy",
         "drama",
         "fantasy",
+        "gore",
         "horror",
         "magical girl",
+        "mahou shoujo",
         "psychological",
         "recap",
         "shounen",
@@ -825,34 +799,6 @@
         "urban fantasy"
       ],
       "id": "https://myanimelist.net/anime/38104"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/maid-sama-lala-special"
-      ],
-      "title": "Maid-sama! LaLa Special",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2010
-      },
-      "picture": "https://anime-planet.com/images/anime/covers/3747.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/3747.jpg",
-      "synonyms": [
-        "Kaichou wa Maid-sama! LaLa Special"
-      ],
-      "relations": [
-        "https://anime-planet.com/anime/maid-sama",
-        "https://anime-planet.com/anime/maid-sama-omake-dayo"
-      ],
-      "tags": [
-        "based on a manga",
-        "comedy",
-        "maids"
-      ],
-      "id": "https://anime-planet.com/anime/maid-sama-lala-special"
     },
     {
       "sources": [
@@ -865,7 +811,7 @@
       "title": "Marumofubiyori",
       "type": "ONA",
       "episodes": 8,
-      "status": "ONGOING",
+      "status": "FINISHED",
       "animeSeason": {
         "season": "SPRING",
         "year": 2017
@@ -890,7 +836,56 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/115641",
+        "https://anime-planet.com/anime/moonlight-gravity"
+      ],
+      "title": "MOONLIGHT GRAVITY",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2015
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/moonlight-gravity-1.webp?t=1664818892",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/moonlight-gravity-1-285x400.webp?t=1664818892",
+      "synonyms": [],
+      "relations": [],
+      "tags": [
+        "fantasy",
+        "korean animation",
+        "shorts"
+      ],
+      "id": "https://anime-planet.com/anime/moonlight-gravity"
+    },
+    {
+      "sources": [
+        "https://myanimelist.net/anime/54661"
+      ],
+      "title": "Nobana",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 1994
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1316/133959.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1316/133959t.jpg",
+      "synonyms": [
+        "Wildflower",
+        "野花"
+      ],
+      "relations": [],
+      "tags": [
+        "drama"
+      ],
+      "id": "https://myanimelist.net/anime/54661"
+    },
+    {
+      "sources": [
         "https://anidb.net/anime/7700",
+        "https://anilist.co/anime/148485",
         "https://anime-planet.com/anime/offside-ova",
         "https://anisearch.com/anime/4973",
         "https://kitsu.io/anime/14228",
@@ -913,6 +908,7 @@
       ],
       "relations": [
         "https://anidb.net/anime/2416",
+        "https://anilist.co/anime/5200",
         "https://anime-planet.com/anime/offside",
         "https://anisearch.com/anime/1915",
         "https://kitsu.io/anime/3979",
@@ -923,18 +919,52 @@
         "association football",
         "based on a manga",
         "drama",
+        "football",
         "ganbatte",
+        "male protagonist",
         "present",
         "shounen",
         "soccer",
         "sports",
+        "team sports",
         "tournaments"
       ],
       "id": "https://myanimelist.net/anime/31575"
     },
     {
       "sources": [
+        "https://anidb.net/anime/16340",
+        "https://anime-planet.com/anime/okashi-no-rocket-de-shuppatsu",
+        "https://myanimelist.net/anime/54086"
+      ],
+      "title": "Okashi no Rocket de Shuppatsu!",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2010
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1491/132327.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1491/132327t.jpg",
+      "synonyms": [
+        "Okashi no Rocket de Shuppaatsu!",
+        "おかしのロケットでしゅっぱ~つ!"
+      ],
+      "relations": [],
+      "tags": [
+        "family friendly",
+        "kids",
+        "sci-fi",
+        "shorts",
+        "space"
+      ],
+      "id": "https://myanimelist.net/anime/54086"
+    },
+    {
+      "sources": [
         "https://anilist.co/anime/1237",
+        "https://anime-planet.com/anime/one-piece-open-upon-the-great-sea-a-fathers-huge-huge-dream",
         "https://anisearch.com/anime/3823",
         "https://kitsu.io/anime/1113",
         "https://livechart.me/anime/5174",
@@ -954,6 +984,8 @@
       "synonyms": [
         "ONE PIECE: Oounabara ni Hirake! Dekkai Dekkai Chichi no Yume!",
         "ONE PIECE: 大海原にひらけ! でっかいでっカイ父の夢",
+        "One Piece Special 2: Oounabara ni Hirake! Dekkai Dekkai Chichi no Yume!",
+        "One Piece Special 2: Open Upon the Great Sea! A Father's Huge, HUGE Dream!",
         "One Piece Special: Open Upon the Great Sea! A Father's Huge",
         "One Piece Special: Open Upon the Great Sea! A Father's Huge, HUGE Dream!",
         "One Piece TV Special 02",
@@ -961,54 +993,14 @@
         "One Piece: Open Upon the Great Sea! A Father's Huge, Huge Dream!",
         "One Piece: Un tesoro grande un sogno",
         "One Piece: Ōunabara ni Hirake! Dekkai Dekkai Chichi no Yume!",
+        "Vua Hải Tặc: Vươn ra đại dương! Giấc mơ to lớn của bố!",
+        "วันพีซ ภาคพิเศษ 2 ออกสู่ทะเลกว้างใหญ่ ความฝันอันยิ่งใหญ่ของพ่อ",
         "ワンピース 大海原にひらけ! でっかいでっカイ父の夢!"
       ],
       "relations": [
         "https://anilist.co/anime/21",
-        "https://anisearch.com/anime/10689",
-        "https://anisearch.com/anime/10975",
-        "https://anisearch.com/anime/11009",
-        "https://anisearch.com/anime/11484",
-        "https://anisearch.com/anime/11565",
-        "https://anisearch.com/anime/12168",
-        "https://anisearch.com/anime/12595",
-        "https://anisearch.com/anime/13630",
-        "https://anisearch.com/anime/1369",
-        "https://anisearch.com/anime/13833",
-        "https://anisearch.com/anime/14420",
-        "https://anisearch.com/anime/14746",
-        "https://anisearch.com/anime/15205",
-        "https://anisearch.com/anime/15379",
-        "https://anisearch.com/anime/15494",
-        "https://anisearch.com/anime/15495",
-        "https://anisearch.com/anime/15516",
-        "https://anisearch.com/anime/16819",
-        "https://anisearch.com/anime/1815",
-        "https://anisearch.com/anime/1854",
+        "https://anime-planet.com/anime/one-piece",
         "https://anisearch.com/anime/2227",
-        "https://anisearch.com/anime/2376",
-        "https://anisearch.com/anime/2553",
-        "https://anisearch.com/anime/302",
-        "https://anisearch.com/anime/3260",
-        "https://anisearch.com/anime/3359",
-        "https://anisearch.com/anime/3804",
-        "https://anisearch.com/anime/3836",
-        "https://anisearch.com/anime/3941",
-        "https://anisearch.com/anime/3965",
-        "https://anisearch.com/anime/4495",
-        "https://anisearch.com/anime/5131",
-        "https://anisearch.com/anime/5400",
-        "https://anisearch.com/anime/6498",
-        "https://anisearch.com/anime/6545",
-        "https://anisearch.com/anime/7388",
-        "https://anisearch.com/anime/7573",
-        "https://anisearch.com/anime/8028",
-        "https://anisearch.com/anime/8211",
-        "https://anisearch.com/anime/8279",
-        "https://anisearch.com/anime/8738",
-        "https://anisearch.com/anime/8884",
-        "https://anisearch.com/anime/9785",
-        "https://anisearch.com/anime/9793",
         "https://kitsu.io/anime/12",
         "https://livechart.me/anime/321",
         "https://livechart.me/anime/4028",
@@ -1032,6 +1024,7 @@
         "action",
         "adventure",
         "alternative world",
+        "based on a manga",
         "beastmen",
         "bionic powers",
         "comedy",
@@ -1052,6 +1045,7 @@
         "slapstick",
         "super power",
         "superpower",
+        "superpowers",
         "swordplay"
       ],
       "id": "https://myanimelist.net/anime/1237"
@@ -1132,41 +1126,30 @@
     },
     {
       "sources": [
-        "https://anisearch.com/anime/8171"
+        "https://myanimelist.net/anime/54208"
       ],
-      "title": "Qin Shi Ming Yue: Si Wan Li Chang Cheng",
-      "type": "TV",
-      "episodes": 37,
+      "title": "Pokemon Anime Chou Hyakka: Pokemon Zukan",
+      "type": "OVA",
+      "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "SUMMER",
-        "year": 2012
+        "season": "UNDEFINED",
+        "year": 1998
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/8/8171.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/8/8171.webp",
+      "picture": "https://cdn.myanimelist.net/images/anime/1075/132656.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1075/132656t.jpg",
       "synonyms": [
-        "Qin Shi Ming Yue 4: The Great Wall",
-        "Qin's Moon Season 4",
-        "秦时明月肆万里长城"
+        "ポケットモンスター アニメ超百科ポケモン図鑑"
       ],
       "relations": [
-        "https://anisearch.com/anime/13026",
-        "https://anisearch.com/anime/13584",
-        "https://anisearch.com/anime/13744",
-        "https://anisearch.com/anime/13960",
-        "https://anisearch.com/anime/14256",
-        "https://anisearch.com/anime/7595",
-        "https://anisearch.com/anime/7749",
-        "https://anisearch.com/anime/7750"
+        "https://myanimelist.net/anime/527"
       ],
       "tags": [
-        "action",
-        "cg-anime",
-        "fantasy",
-        "historical",
-        "martial arts"
+        "adventure",
+        "comedy",
+        "kids"
       ],
-      "id": "https://anisearch.com/anime/8171"
+      "id": "https://myanimelist.net/anime/54208"
     },
     {
       "sources": [
@@ -1180,8 +1163,8 @@
         "season": "SUMMER",
         "year": 2020
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/15/15831.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/15/15831.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/15/15831_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/15/15831.webp",
       "synonyms": [
         "シャイニーウェディング"
       ],
@@ -1218,10 +1201,12 @@
         "Soni-Ani: Super Sonico The Animation",
         "Soni-Ani: Super Sonico the Animation",
         "SoniAni",
+        "SoniAni: SUPER SONICO THE ANIMATION",
         "Super Sonico",
         "Super Sonico The Animation",
         "Super Sonico そにアニ The Animation",
         "Super Sonico: The Animation",
+        "sonico",
         "سوپر سونیکو",
         "すーぱーそに子",
         "そにあにすーぱーそにこじあにめーしょん",
@@ -1238,6 +1223,8 @@
         "https://anilist.co/anime/119873",
         "https://anime-planet.com/anime/puella-magi-sonico-magica",
         "https://anime-planet.com/anime/ultrasonico",
+        "https://anisearch.com/anime/13413",
+        "https://anisearch.com/anime/6993",
         "https://kitsu.io/anime/13645",
         "https://myanimelist.net/anime/10519",
         "https://myanimelist.net/anime/35329",
@@ -1265,25 +1252,31 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/spirits-from-the-night"
+        "https://anilist.co/anime/113265",
+        "https://anime-planet.com/anime/spirits-from-the-night",
+        "https://kitsu.io/anime/45386"
       ],
       "title": "Spirits from the Night",
       "type": "MOVIE",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "WINTER",
         "year": 2012
       },
       "picture": "https://cdn.anime-planet.com/anime/primary/spirits-from-the-night-1.jpg?t=1625908032",
       "thumbnail": "https://cdn.anime-planet.com/anime/primary/spirits-from-the-night-1-190x266.jpg?t=1625908032",
       "synonyms": [
-        "Yoru kara Kita Hito-tachi"
+        "Yoru kara Kita Hito-tachi",
+        "Yoru kara Kita Hitotachi",
+        "夜から来た人たち"
       ],
       "relations": [],
       "tags": [
         "horror",
+        "mystery",
         "no dialogue",
+        "psychological",
         "shorts",
         "supernatural"
       ],
@@ -1293,16 +1286,16 @@
       "sources": [
         "https://myanimelist.net/anime/46709"
       ],
-      "title": "Taiji Kedou Chengzhang Ji Zhi Baishi Xi Wu Pian",
+      "title": "Taiji Kedou Chengzhang Ji: Baishi Xi Wu Pian",
       "type": "TV",
       "episodes": 52,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2012
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1231/131124.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1231/131124t.jpg",
       "synonyms": [
         "太极蝌蚪成长记之拜师习武篇"
       ],
@@ -1316,7 +1309,7 @@
       "sources": [
         "https://myanimelist.net/anime/46519"
       ],
-      "title": "Yongchun Baihe Quan Zhi Wuse Yu Chuanqi",
+      "title": "Yongchun Baihe Quan: Wuse Yu Chuanqi",
       "type": "TV",
       "episodes": 26,
       "status": "FINISHED",
@@ -1324,15 +1317,14 @@
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1875/131009.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1875/131009t.jpg",
       "synonyms": [
         "永春白鹤拳之五色羽传奇"
       ],
       "relations": [],
       "tags": [
-        "adventure",
-        "martial arts"
+        "kids"
       ],
       "id": "https://myanimelist.net/anime/46519"
     }

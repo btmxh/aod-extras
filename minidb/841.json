@@ -16,8 +16,8 @@
         "season": "WINTER",
         "year": 2010
       },
-      "picture": "https://anime-planet.com/images/anime/covers/8871.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/8871.jpg",
+      "picture": "https://cdn.anime-planet.com/anime/primary/about-the-girl-1.jpg?t=1625897762",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/about-the-girl-1-190x285.jpg?t=1625897762",
       "synonyms": [
         "About the girl",
         "About the girl (Saya FUKASE)",
@@ -85,8 +85,11 @@
       "relations": [],
       "tags": [
         "adventure",
+        "americas",
         "angst",
-        "asia",
+        "animals",
+        "band",
+        "cgi",
         "circus",
         "comedy",
         "coming of age",
@@ -99,14 +102,20 @@
         "europe",
         "female protagonist",
         "foreign",
+        "found family",
         "france",
+        "heterosexual",
         "historical",
         "italy",
         "love triangle",
+        "male harem",
         "musical band",
         "new",
         "original work",
+        "orphans",
+        "past",
         "performance",
+        "plot continuity",
         "romance",
         "shoujo",
         "steampunk",
@@ -169,25 +178,11 @@
         "https://anime-planet.com/anime/sailor-moon-super-s-memorial",
         "https://anime-planet.com/anime/sailor-moon-super-s-plus-amis-first-love",
         "https://anime-planet.com/anime/sailor-moon-super-s-the-movie",
-        "https://anisearch.com/anime/11125",
-        "https://anisearch.com/anime/12190",
-        "https://anisearch.com/anime/14257",
         "https://anisearch.com/anime/1619",
-        "https://anisearch.com/anime/1927",
-        "https://anisearch.com/anime/2110",
-        "https://anisearch.com/anime/2150",
-        "https://anisearch.com/anime/2333",
-        "https://anisearch.com/anime/2469",
-        "https://anisearch.com/anime/3904",
-        "https://anisearch.com/anime/7836",
-        "https://anisearch.com/anime/83",
-        "https://anisearch.com/anime/855",
-        "https://anisearch.com/anime/8627",
         "https://kitsu.io/anime/1115",
         "https://livechart.me/anime/113",
         "https://livechart.me/anime/1845",
         "https://livechart.me/anime/2521",
-        "https://livechart.me/anime/2768",
         "https://livechart.me/anime/3884",
         "https://livechart.me/anime/4684",
         "https://livechart.me/anime/4962",
@@ -211,7 +206,6 @@
         "fantasy",
         "female protagonist",
         "henshin",
-        "henshin heroes",
         "kuudere",
         "magic",
         "magical girl",
@@ -232,7 +226,7 @@
       "sources": [
         "https://myanimelist.net/anime/46129"
       ],
-      "title": "Caoyuan Dou Si Zhi X Jiong Tegong",
+      "title": "Caoyuan Dou Si: X Jiong Tegong",
       "type": "TV",
       "episodes": 30,
       "status": "FINISHED",
@@ -240,8 +234,8 @@
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1957/129992.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1957/129992t.jpg",
       "synonyms": [
         "草原豆思之X囧特工"
       ],
@@ -253,36 +247,6 @@
         "kids"
       ],
       "id": "https://myanimelist.net/anime/46129"
-    },
-    {
-      "sources": [
-        "https://kitsu.io/anime/44329"
-      ],
-      "title": "Crazy ∞ nighT",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 2015
-      },
-      "picture": "https://media.kitsu.io/anime/poster_images/44329/small.jpg",
-      "thumbnail": "https://media.kitsu.io/anime/poster_images/44329/tiny.jpg",
-      "synonyms": [
-        "Hitoshizuku-P x Yama△: Crazy ∞ nighT"
-      ],
-      "relations": [
-        "https://kitsu.io/anime/44327",
-        "https://kitsu.io/anime/44334",
-        "https://kitsu.io/anime/44335"
-      ],
-      "tags": [
-        "horror",
-        "music",
-        "mystery",
-        "psychological"
-      ],
-      "id": "https://kitsu.io/anime/44329"
     },
     {
       "sources": [
@@ -303,8 +267,8 @@
         "season": "WINTER",
         "year": 2010
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/10/23561.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/10/23561t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1062/124809.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1062/124809t.jpg",
       "synonyms": [
         "Bailando con Vampiros",
         "Bailando con Vampiros: Dance in the Vampire Bund",
@@ -366,6 +330,7 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/lee-juck-x-jinpyo-kim-stoning",
         "https://myanimelist.net/anime/50534"
       ],
       "title": "Dolpalmae",
@@ -379,12 +344,17 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1007/119936.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1007/119936t.jpg",
       "synonyms": [
+        "Lee Juck x Jinpyo Kim: Dolpalmae",
+        "Lee Juck x Jinpyo Kim: Stoning",
         "Stoning",
         "돌팔매"
       ],
       "relations": [],
       "tags": [
-        "avant garde"
+        "avant garde",
+        "black and white",
+        "korean animation",
+        "non-human protagonists"
       ],
       "id": "https://myanimelist.net/anime/50534"
     },
@@ -392,6 +362,7 @@
       "sources": [
         "https://anidb.net/anime/11703",
         "https://anilist.co/anime/102767",
+        "https://anime-planet.com/anime/fantasy",
         "https://anisearch.com/anime/11962",
         "https://kitsu.io/anime/11675",
         "https://myanimelist.net/anime/31831",
@@ -413,10 +384,41 @@
       "relations": [],
       "tags": [
         "achromatic",
+        "black and white",
         "independent anime",
-        "short movie"
+        "original work",
+        "short movie",
+        "shorts"
       ],
       "id": "https://myanimelist.net/anime/31831"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/the-mad-capsule-markets-fly-high",
+        "https://myanimelist.net/anime/53921"
+      ],
+      "title": "Fly High",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2002
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1127/131983.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1127/131983t.jpg",
+      "synonyms": [
+        "FLY HIGH",
+        "The Mad Capsule Markets: Fly High"
+      ],
+      "relations": [],
+      "tags": [
+        "avant garde",
+        "music",
+        "racing",
+        "sci-fi"
+      ],
+      "id": "https://myanimelist.net/anime/53921"
     },
     {
       "sources": [
@@ -498,7 +500,7 @@
         "https://kitsu.io/anime/44096"
       ],
       "title": "Huntik: Secrets & Seekers",
-      "type": "SPECIAL",
+      "type": "TV",
       "episodes": 26,
       "status": "FINISHED",
       "animeSeason": {
@@ -557,6 +559,7 @@
         "https://anime-planet.com/anime/inukami-movie",
         "https://anisearch.com/anime/4039",
         "https://kitsu.io/anime/1929",
+        "https://livechart.me/anime/5460",
         "https://myanimelist.net/anime/2132",
         "https://myanimelist.net/anime/6628",
         "https://notify.moe/anime/DyuYcFimg"
@@ -573,6 +576,7 @@
         "earth",
         "ecchi",
         "fantasy",
+        "female harem",
         "hero of strong character",
         "heroine of strong character",
         "japan",
@@ -580,6 +584,7 @@
         "juujin",
         "magic",
         "martial arts",
+        "mythology",
         "novel",
         "present",
         "psi-powers",
@@ -630,6 +635,7 @@
         "https://anilist.co/anime/4050",
         "https://anime-planet.com/anime/kouchuu-ouja-mushiking-mori-no-tami-no-densetsu",
         "https://anime-planet.com/anime/kouchuu-ouja-mushiking-super-battle-movie-yami-no-kaizou-kouchuu",
+        "https://anisearch.com/anime/1819",
         "https://kitsu.io/anime/3430",
         "https://myanimelist.net/anime/4050",
         "https://notify.moe/anime/ItiX5KimR"
@@ -638,13 +644,14 @@
         "adventure",
         "based on a card game",
         "fantasy",
-        "game",
-        "ganbatte"
+        "ganbatte",
+        "strategy game"
       ],
       "id": "https://myanimelist.net/anime/17469"
     },
     {
       "sources": [
+        "https://anisearch.com/anime/5299",
         "https://kitsu.io/anime/7842",
         "https://notify.moe/anime/tjLtpKmig"
       ],
@@ -659,11 +666,20 @@
       "picture": "https://media.kitsu.io/anime/poster_images/7842/small.jpg",
       "thumbnail": "https://media.kitsu.io/anime/poster_images/7842/tiny.jpg",
       "synonyms": [],
-      "relations": [],
+      "relations": [
+        "https://anisearch.com/anime/5772",
+        "https://anisearch.com/anime/5913"
+      ],
       "tags": [
         "action",
+        "cg-anime",
+        "fantasy",
+        "guns",
+        "romance",
         "sci-fi",
-        "science fiction"
+        "science fiction",
+        "science-fiction",
+        "swords & co"
       ],
       "id": "https://kitsu.io/anime/7842"
     },
@@ -690,12 +706,14 @@
       ],
       "tags": [
         "kids",
-        "music"
+        "music",
+        "performing arts"
       ],
       "id": "https://myanimelist.net/anime/40188"
     },
     {
       "sources": [
+        "https://anilist.co/anime/10625",
         "https://anime-planet.com/anime/mazinger-z-1973"
       ],
       "title": "Mazinger Z (1973)",
@@ -703,15 +721,20 @@
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "SPRING",
         "year": 1973
       },
-      "picture": "https://anime-planet.com/inc/img/blank_main.jpg",
-      "thumbnail": "https://anime-planet.com/inc/img/blank_main.jpg",
+      "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+      "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
       "synonyms": [
-        "Mazinger Z Vs. Dr. Hell"
+        "Mazinga Z",
+        "Mazinger Z (Movie)",
+        "Mazinger Z Vs. Dr. Hell",
+        "TranZor Z",
+        "劇場版マジンガーＺ"
       ],
       "relations": [
+        "https://anilist.co/anime/2253",
         "https://anime-planet.com/anime/cyborg-009-the-cyborg-soldier",
         "https://anime-planet.com/anime/great-mazinger",
         "https://anime-planet.com/anime/great-mazinger-vs-getter-robo",
@@ -725,50 +748,35 @@
       ],
       "tags": [
         "action",
+        "drama",
         "mecha",
         "sci fi",
+        "sci-fi",
+        "shounen",
         "super robot"
       ],
       "id": "https://anime-planet.com/anime/mazinger-z-1973"
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/million-arthur-farewell-beloved-dancho",
-        "https://anisearch.com/anime/15012"
+        "https://anime-planet.com/anime/meiyo-atogaki"
       ],
-      "title": "Million Arthur: Farewell, Beloved Dancho",
+      "title": "meiyo: Atogaki",
       "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "FALL",
-        "year": 2019
+        "season": "UNDEFINED",
+        "year": 2022
       },
-      "picture": "https://anime-planet.com/images/anime/covers/12216.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/12216.jpg",
-      "synonyms": [
-        "Han-Gyaku-Sei Million Arthur: Saraba Itoshi no Danchou",
-        "Han-Gyaku-Sei Million Arthur: Saraba Itoshi no Danchō",
-        "Hangyakusei Million Arthur Special",
-        "Million Arthur Season 2: Farewell, Beloved Dancho",
-        "Operation Han-Gyaku-Sei Million Arthur Special",
-        "叛逆性ミリオンアーサー さらば愛しの団長"
-      ],
-      "relations": [
-        "https://anime-planet.com/anime/million-arthur",
-        "https://anime-planet.com/anime/million-arthur-2nd-season",
-        "https://anisearch.com/anime/13501",
-        "https://anisearch.com/anime/13864"
-      ],
+      "picture": "https://cdn.anime-planet.com/anime/primary/meiyo-atogaki-1.webp?t=1655579261",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/meiyo-atogaki-1-285x399.webp?t=1655579261",
+      "synonyms": [],
+      "relations": [],
       "tags": [
-        "action",
-        "adventure",
-        "based on a video game",
-        "comedy",
-        "fantasy",
-        "magic"
+        "black and white"
       ],
-      "id": "https://anime-planet.com/anime/million-arthur-farewell-beloved-dancho"
+      "id": "https://anime-planet.com/anime/meiyo-atogaki"
     },
     {
       "sources": [
@@ -798,32 +806,10 @@
     },
     {
       "sources": [
-        "https://anisearch.com/anime/16168"
-      ],
-      "title": "Obey Me! Special Anime: Makai Dairyokou",
-      "type": "ONA",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2021
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/16/16168.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/16/16168.webp",
-      "synonyms": [
-        "Obey Me! Special Anime: Devildom Family Trip!",
-        "Obey Me! Special Anime: Makai Dairyokō",
-        "Obey Me! スペシャルアニメ — 魔界大旅行"
-      ],
-      "relations": [],
-      "tags": [],
-      "id": "https://anisearch.com/anime/16168"
-    },
-    {
-      "sources": [
         "https://anidb.net/anime/7615",
         "https://anilist.co/anime/19897",
         "https://anime-planet.com/anime/ohayo-spank-movie",
+        "https://anisearch.com/anime/4230",
         "https://kitsu.io/anime/9504",
         "https://myanimelist.net/anime/19897",
         "https://notify.moe/anime/HQ8BtFmig"
@@ -841,16 +827,22 @@
       "synonyms": [
         "Hello! Spank",
         "Hello! Spank (1982)",
+        "Hello! Spank (Movie)",
         "Hello! Spank Movie",
+        "Le pene d’amore di Spank",
+        "Ohayo! Spank",
         "Ohayo! Spank (Movie)",
         "Ohayo! Spank Movie",
         "Ohayou! Spank (1982)",
         "おはよう! スパンク",
-        "おはよう! スパンク (1982)"
+        "おはよう! スパンク (1982)",
+        "おはよう！スパンク"
       ],
       "relations": [
         "https://anidb.net/anime/2923",
+        "https://anilist.co/anime/2912",
         "https://anime-planet.com/anime/ohayo-spank",
+        "https://anisearch.com/anime/771",
         "https://kitsu.io/anime/2640",
         "https://myanimelist.net/anime/2912",
         "https://notify.moe/anime/3np8cFmig"
@@ -871,9 +863,39 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/persona-q2-new-cinema-labyrinth-op"
+      ],
+      "title": "Persona Q2: New Cinema Labyrinth OP",
+      "type": "ONA",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2018
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/persona-q2-new-cinema-labyrinth-op-1.webp?t=1652321430",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/persona-q2-new-cinema-labyrinth-op-1-285x400.webp?t=1652321430",
+      "synonyms": [],
+      "relations": [
+        "https://anime-planet.com/anime/persona-3-the-movie-1-spring-of-birth",
+        "https://anime-planet.com/anime/persona-4-the-animation",
+        "https://anime-planet.com/anime/persona-5-the-animation",
+        "https://anime-planet.com/anime/persona-q-shadow-of-the-labyrinth-op"
+      ],
+      "tags": [
+        "action",
+        "based on a video game",
+        "chibi",
+        "opening animation",
+        "promotional"
+      ],
+      "id": "https://anime-planet.com/anime/persona-q2-new-cinema-labyrinth-op"
+    },
+    {
+      "sources": [
         "https://myanimelist.net/anime/46567"
       ],
-      "title": "Senlin Hao Huoban Zhi Kuaile Shenghuo",
+      "title": "Senlin Hao Huoban: Kuaile Shenghuo",
       "type": "TV",
       "episodes": 58,
       "status": "FINISHED",
@@ -881,16 +903,45 @@
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1285/131037.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1285/131037t.jpg",
       "synonyms": [
         "森林好伙伴之快乐生活"
       ],
       "relations": [],
       "tags": [
+        "anthropomorphic",
         "kids"
       ],
       "id": "https://myanimelist.net/anime/46567"
+    },
+    {
+      "sources": [
+        "https://myanimelist.net/anime/54405"
+      ],
+      "title": "Shimajirou to Korasho no Saigo no Daiundoukai Tsunage! Nakayoshi Relay",
+      "type": "OVA",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SUMMER",
+        "year": 2013
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1511/133210.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1511/133210t.jpg",
+      "synonyms": [
+        "しまじろうと コラショの さいごの だいうんどうかい　つなげ！なかよしリレー"
+      ],
+      "relations": [
+        "https://myanimelist.net/anime/38743",
+        "https://myanimelist.net/anime/9768"
+      ],
+      "tags": [
+        "anthropomorphic",
+        "kids",
+        "team sports"
+      ],
+      "id": "https://myanimelist.net/anime/54405"
     },
     {
       "sources": [
@@ -964,12 +1015,7 @@
         "https://anime-planet.com/anime/fafner-exodus-2nd-season",
         "https://anime-planet.com/anime/fafner-heaven-and-earth",
         "https://anime-planet.com/anime/fafner-the-beyond",
-        "https://anisearch.com/anime/10138",
-        "https://anisearch.com/anime/10502",
-        "https://anisearch.com/anime/12179",
         "https://anisearch.com/anime/2312",
-        "https://anisearch.com/anime/5869",
-        "https://anisearch.com/anime/8274",
         "https://kitsu.io/anime/55",
         "https://livechart.me/anime/10973",
         "https://livechart.me/anime/1502",
@@ -1015,54 +1061,40 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/106567",
-        "https://anisearch.com/anime/15302",
-        "https://kitsu.io/anime/45887"
+        "https://anilist.co/anime/117560",
+        "https://anime-planet.com/anime/melting-down",
+        "https://anisearch.com/anime/13253",
+        "https://kitsu.io/anime/13289",
+        "https://myanimelist.net/anime/53659",
+        "https://notify.moe/anime/Mbn72Kmig"
       ],
-      "title": "The Fall",
+      "title": "Sukoyaka na Hizumi",
       "type": "MOVIE",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "WINTER",
-        "year": 2014
+        "season": "SPRING",
+        "year": 2015
       },
-      "picture": "https://media.kitsu.io/anime/45887/poster_image/small-5ffd1cac989996e56bf15e2b63fd994e.jpeg",
-      "thumbnail": "https://media.kitsu.io/anime/45887/poster_image/tiny-606ead8b2f7ac7bac113d4721a7c4bd8.jpeg",
-      "synonyms": [],
+      "picture": "https://cdn.myanimelist.net/images/anime/1438/131400.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1438/131400t.jpg",
+      "synonyms": [
+        "Melting Down",
+        "Melting down",
+        "Sukoyaka na Yugami",
+        "Sukoyakana yugami yokoku",
+        "すこやかな歪み",
+        "すこやかな歪み 予告"
+      ],
       "relations": [],
       "tags": [
-        "independent anime",
+        "abstract",
+        "avant garde",
+        "dementia",
         "psychological",
-        "puppetry",
-        "stop motion"
+        "shorts"
       ],
-      "id": "https://kitsu.io/anime/45887"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/the-north-face-japan-gore-tex-infinium"
-      ],
-      "title": "The North Face Japan: Gore-Tex Infinium",
-      "type": "ONA",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2018
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/the-north-face-japan-gore-tex-infinium-1.jpg?t=1629652621",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/the-north-face-japan-gore-tex-infinium-1-190x266.jpg?t=1629652621",
-      "synonyms": [],
-      "relations": [],
-      "tags": [
-        "adventure",
-        "cg animation",
-        "commercials",
-        "no dialogue",
-        "promotional"
-      ],
-      "id": "https://anime-planet.com/anime/the-north-face-japan-gore-tex-infinium"
+      "id": "https://myanimelist.net/anime/53659"
     },
     {
       "sources": [
@@ -1087,8 +1119,12 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/5/85224t.jpg",
       "synonyms": [
         "El Libro Mágico de Zero",
+        "El mágico libro de Zero",
         "Grimoire of Zero",
         "Zero kara Hajimeru Mahō no Sho",
+        "zeronosyo",
+        "zerosho",
+        "zkhmns",
         "ปฐมมนตรา ตำราพลิกโลก",
         "ゼロから始める魔法の書",
         "从零开始的魔法书",
@@ -1098,26 +1134,31 @@
         "https://anidb.net/anime/16280",
         "https://anilist.co/anime/133175",
         "https://anime-planet.com/anime/the-dawn-of-the-witch",
-        "https://kitsu.io/anime/44511"
+        "https://anisearch.com/anime/16224",
+        "https://kitsu.io/anime/44511",
+        "https://myanimelist.net/anime/48842",
+        "https://notify.moe/anime/VbAKVtrGR"
       ],
       "tags": [
         "action",
         "adventure",
         "alternative world",
         "animals",
+        "anthropomorphic",
         "anthropomorphism",
         "based on a light novel",
         "beastmen",
         "comedy",
+        "conspiracy",
         "drama",
         "fantasy",
+        "female protagonist",
         "hero of strong character",
         "heroine of strong character",
         "kemonomimi",
         "magic",
         "medieval",
         "mercenaries",
-        "nekomimi",
         "novel",
         "revenge",
         "shounen",
@@ -1136,6 +1177,7 @@
     {
       "sources": [
         "https://anilist.co/anime/109196",
+        "https://anime-planet.com/anime/zheng-he-1405-mo-hai-xun-zong",
         "https://kitsu.io/anime/44801",
         "https://myanimelist.net/anime/44836"
       ],
@@ -1147,9 +1189,10 @@
         "season": "FALL",
         "year": 2013
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1542/127255.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1542/127255t.jpg",
       "synonyms": [
+        "Voyage Extraordinaire",
         "Zheng He 1405 Voyage Extraordinaire",
         "郑和1405:魔海寻踪",
         "郑和1405：魔海寻踪"
@@ -1157,35 +1200,12 @@
       "relations": [],
       "tags": [
         "adventure",
+        "chinese animation",
         "fantasy",
         "full cgi",
         "historical"
       ],
       "id": "https://myanimelist.net/anime/44836"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/45167"
-      ],
-      "title": "Zhonghua Meide Gushi",
-      "type": "TV",
-      "episodes": 72,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "中华美德故事"
-      ],
-      "relations": [],
-      "tags": [
-        "historical",
-        "kids"
-      ],
-      "id": "https://myanimelist.net/anime/45167"
     }
   ]
 }

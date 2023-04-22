@@ -22,6 +22,8 @@
       "synonyms": [
         "Bishoujo Senshi Sailor Moon Crystal: Dead Moon-hen 2",
         "Bishoujo Senshi Sailor Moon Eternal 2",
+        "Bishoujo Senshi Sailor Moon Eternal Part 2",
+        "Bishoujo Senshi Sailor Moon: Eternal - Kouhen",
         "Gekijouban Bishoujo Senshi Sailor Moon Eternal 2",
         "Pretty Guardian Sailor Moon Eternal Movie 2",
         "Pretty Guardian Sailor Moon Eternal The Movie 2",
@@ -31,19 +33,23 @@
         "Pretty Guardian Sailor Moon Eternal: La película parte 2",
         "Pretty Guardian Sailor Moon Eternal: Le Film Partie 2",
         "Pretty Guardians Sailor Moon Eternal The Movie 2",
+        "พริตตี้ การ์เดี้ยน เซเลอร์ มูน อีเทอร์นัล เดอะ มูฟวี่ 2",
         "劇場版 美少女戦士セーラームーンEternal",
         "美少女戦士セーラームーン Crystal デッド・ムーン編",
         "美少女戦士セーラームーンEternal",
-        "美少女戦士セーラームーンEternal 2"
+        "美少女戦士セーラームーンEternal 後編"
       ],
       "relations": [
         "https://anilist.co/anime/103713",
         "https://anilist.co/anime/1239",
+        "https://anilist.co/anime/148149",
+        "https://anime-planet.com/anime/bishoujo-senshi-sailor-moon-cosmos-movie-1",
+        "https://anime-planet.com/anime/bishoujo-senshi-sailor-moon-cosmos-movie-2",
+        "https://anime-planet.com/anime/moon-effect",
         "https://anime-planet.com/anime/pretty-guardian-sailor-moon-eternal-movie-1",
         "https://kitsu.io/anime/42429",
         "https://livechart.me/anime/113",
         "https://livechart.me/anime/1845",
-        "https://livechart.me/anime/2521",
         "https://livechart.me/anime/3884",
         "https://livechart.me/anime/4684",
         "https://livechart.me/anime/4962",
@@ -59,27 +65,40 @@
         "https://livechart.me/anime/7867",
         "https://myanimelist.net/anime/1239",
         "https://myanimelist.net/anime/40024",
+        "https://myanimelist.net/anime/50239",
+        "https://myanimelist.net/anime/51716",
+        "https://notify.moe/anime/BmxZImoVg",
         "https://notify.moe/anime/u7TbcKimR",
         "https://notify.moe/anime/xHJsZ8UWR"
       ],
       "tags": [
         "action",
+        "age regression",
+        "body horror",
+        "circus",
+        "coming of age",
         "contemporary fantasy",
         "demons",
         "drama",
+        "fairy tale",
         "fantasy",
         "female protagonist",
+        "found family",
         "henshin",
-        "henshin heroes",
+        "heterosexual",
         "lgbtq+ themes",
         "magic",
         "magical girl",
         "mahou shoujo",
+        "mythology",
         "primarily female cast",
+        "primarily teen cast",
         "reincarnation",
+        "revenge",
         "romance",
         "sentai",
         "shoujo",
+        "space",
         "tokusatsu",
         "urban fantasy"
       ],
@@ -121,6 +140,49 @@
     },
     {
       "sources": [
+        "https://anidb.net/anime/17442",
+        "https://anilist.co/anime/149799",
+        "https://kitsu.io/anime/46150"
+      ],
+      "title": "Douluo Dalu: Fenghuo Buxi",
+      "type": "ONA",
+      "episodes": 13,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SPRING",
+        "year": 2022
+      },
+      "picture": "https://media.kitsu.io/anime/46150/poster_image/small-19ed14ccd4fc0bd9ebcf3f6a9bba83ec.jpeg",
+      "thumbnail": "https://media.kitsu.io/anime/46150/poster_image/tiny-04f5d936956759d18677b5793081c85b.jpeg",
+      "synonyms": [
+        "Douluo Dalu Part 13",
+        "Douluo Dalu Season 13",
+        "Douluo Dalu: Feng Huo Bu Xi",
+        "Soul Land Part 13",
+        "斗罗大陆 烽火不息",
+        "斗罗大陆 第十三部分"
+      ],
+      "relations": [
+        "https://anidb.net/anime/17197",
+        "https://anidb.net/anime/17558",
+        "https://anilist.co/anime/145210",
+        "https://anilist.co/anime/152211",
+        "https://kitsu.io/anime/46149",
+        "https://kitsu.io/anime/46536"
+      ],
+      "tags": [
+        "action",
+        "adventure",
+        "fantasy",
+        "full cgi",
+        "historical",
+        "martial arts",
+        "romance"
+      ],
+      "id": "https://kitsu.io/anime/46150"
+    },
+    {
+      "sources": [
         "https://anidb.net/anime/1070",
         "https://anilist.co/anime/903",
         "https://anime-planet.com/anime/dragon-ball-z-movie-10-broly-second-coming",
@@ -141,6 +203,7 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1191/93673.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1191/93673t.jpg",
       "synonyms": [
+        "Bảy Viên Ngọc Rồng Z: Broly Trở Lại Lần Nữa",
         "DBZ Movie 10",
         "DRAGON BALL Z 危険なふたり! 超[スーパー]戦士はねむれない",
         "Dragon Ball Z - Rivais Perigosos",
@@ -153,22 +216,22 @@
         "Dragon Ball Z Movie 10: Broly - Second Coming",
         "Dragon Ball Z Película 10: ¡El Dúo Peligroso! Los Super Guerreros Nunca Duermen",
         "Dragon Ball Z: Broly - Second Coming",
-        "Dragon Ball Z: Broly – Second Coming",
         "Dragon Ball Z: Dangerous Duo! Super Soldiers Never Sleep",
         "Dragon Ball Z: Dangerous Partners! Super Warriors Never Rest",
         "Dragon Ball Z: Dangerous Rivals",
         "Dragon Ball Z: Dangerous Two! Super Warriors Can't Sleep",
         "Dragon Ball Z: El Regreso de Broly",
+        "Dragon Ball Z: El regreso del guerrero legendario",
         "Dragon Ball Z: Kiken na Futari! Super Senshi wa Nemurenai",
         "Dragon Ball Z: Movie 10",
         "Dragon Ball Z: Sfida alla leggenda",
         "Dragonball Z: The Movie - Brolys Rückkehr",
+        "ดราก้อนบอล Z เดอะมูฟวี่ 10 การกลับมาของโบรลี่",
         "ドラゴンボールZ 危険なふたり! 超戦士はねむれない",
         "ドラゴンボールZ 危険なふたり!超戦士はねむれない",
         "ドラゴンボールZ 危険なふたり！超戦士はねむれない"
       ],
       "relations": [
-        "https://anidb.net/anime/1530",
         "https://anidb.net/anime/905",
         "https://anidb.net/anime/906",
         "https://anilist.co/anime/813",
@@ -199,42 +262,8 @@
         "https://anime-planet.com/anime/dragon-ball-z-plan-to-destroy-the-saiyajin",
         "https://anime-planet.com/anime/dragon-ball-z-special-1-bardock-the-father-of-goku",
         "https://anime-planet.com/anime/dragon-ball-z-special-2-the-history-of-trunks",
-        "https://anisearch.com/anime/10022",
-        "https://anisearch.com/anime/1011",
-        "https://anisearch.com/anime/10383",
         "https://anisearch.com/anime/1054",
-        "https://anisearch.com/anime/11462",
-        "https://anisearch.com/anime/13114",
-        "https://anisearch.com/anime/1441",
-        "https://anisearch.com/anime/1568",
-        "https://anisearch.com/anime/16372",
-        "https://anisearch.com/anime/1825",
-        "https://anisearch.com/anime/1841",
-        "https://anisearch.com/anime/1947",
-        "https://anisearch.com/anime/245",
-        "https://anisearch.com/anime/2466",
-        "https://anisearch.com/anime/2504",
-        "https://anisearch.com/anime/2748",
-        "https://anisearch.com/anime/2849",
-        "https://anisearch.com/anime/286",
-        "https://anisearch.com/anime/2938",
-        "https://anisearch.com/anime/2957",
-        "https://anisearch.com/anime/3163",
-        "https://anisearch.com/anime/3449",
         "https://anisearch.com/anime/360",
-        "https://anisearch.com/anime/427",
-        "https://anisearch.com/anime/4281",
-        "https://anisearch.com/anime/468",
-        "https://anisearch.com/anime/5088",
-        "https://anisearch.com/anime/5286",
-        "https://anisearch.com/anime/5508",
-        "https://anisearch.com/anime/68",
-        "https://anisearch.com/anime/6962",
-        "https://anisearch.com/anime/763",
-        "https://anisearch.com/anime/7952",
-        "https://anisearch.com/anime/831",
-        "https://anisearch.com/anime/9483",
-        "https://anisearch.com/anime/9753",
         "https://kitsu.io/anime/720",
         "https://kitsu.io/anime/801",
         "https://kitsu.io/anime/804",
@@ -266,7 +295,6 @@
         "aliens",
         "alternative world",
         "based on a manga",
-        "bionic powers",
         "comedy",
         "demon",
         "demons",
@@ -274,14 +302,13 @@
         "fighting-shounen",
         "hand to hand combat",
         "henshin",
-        "magic",
         "male protagonist",
         "manga",
         "martial arts",
+        "mythology",
         "psi-powers",
         "sci-fi",
         "science fiction",
-        "science-fiction",
         "shounen",
         "super power",
         "superpower",
@@ -301,8 +328,8 @@
         "season": "FALL",
         "year": 2017
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/13/13279.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/13/13279.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/13/13279_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/13/13279.webp",
       "synonyms": [
         "Haunted Temple Spinoff Anime",
         "フェイスレス～顔のない隣人～"
@@ -399,11 +426,10 @@
         "https://anime-planet.com/anime/harukanaru-toki-no-naka-de-ajisai-yumegatari",
         "https://anime-planet.com/anime/harukanaru-toki-no-naka-de-character-endings",
         "https://anime-planet.com/anime/harukanaru-toki-no-naka-de-maihitoyo",
-        "https://anisearch.com/anime/128",
         "https://anisearch.com/anime/292",
-        "https://anisearch.com/anime/3718",
-        "https://anisearch.com/anime/8819",
         "https://kitsu.io/anime/222",
+        "https://livechart.me/anime/6830",
+        "https://livechart.me/anime/7201",
         "https://myanimelist.net/anime/247",
         "https://notify.moe/anime/8PIhcFmmg"
       ],
@@ -414,8 +440,11 @@
         "demons",
         "fantasy",
         "historical",
+        "isekai",
+        "mythology",
         "shoujo",
-        "supernatural"
+        "supernatural",
+        "time travel"
       ],
       "id": "https://myanimelist.net/anime/1907"
     },
@@ -451,45 +480,18 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/independent-animation-festival-the-14th-opening-animation"
-      ],
-      "title": "Independent Animation Festival the 14th Opening Animation",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2016
-      },
-      "picture": "https://anime-planet.com/images/anime/covers/13656.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/13656.jpg",
-      "synonyms": [
-        "Dai 14-kai Indies Anime Festa Opening Eizou"
-      ],
-      "relations": [],
-      "tags": [
-        "animal protagonists",
-        "birds",
-        "non-human protagonists",
-        "opening animation",
-        "promotional"
-      ],
-      "id": "https://anime-planet.com/anime/independent-animation-festival-the-14th-opening-animation"
-    },
-    {
-      "sources": [
         "https://myanimelist.net/anime/46713"
       ],
-      "title": "Jingling Ai Ya Jiangtang Zhi Kouqiang Jiankang Zhishi",
-      "type": "TV",
+      "title": "Jingling Ai Ya Jiangtang: Kouqiang Jiankang Zhishi",
+      "type": "ONA",
       "episodes": 20,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1947/131127.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1947/131127t.jpg",
       "synonyms": [
         "精灵爱牙讲堂之口腔健康知识"
       ],
@@ -521,62 +523,6 @@
         "vocaloid"
       ],
       "id": "https://anime-planet.com/anime/kurozumi-p-beatrice"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/14977"
-      ],
-      "title": "Mahou Tsukai no Yome: Gakuin-hen",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 2019
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/14/14977.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/14/14977.webp",
-      "synonyms": [
-        "Mahoutsukai no Yome: Gakuin-hen Comics Senden PV",
-        "Mahō Tsukai no Yome: Gakuin-hen",
-        "The Ancient Magus' Bride: Academy Edition Manga PV",
-        "The Magicians Bride: Manga Vol.11 CM",
-        "The Magicians Bride: School Arc PV",
-        "魔法使いの嫁 学院篇"
-      ],
-      "relations": [],
-      "tags": [],
-      "id": "https://anisearch.com/anime/14977"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/13280"
-      ],
-      "title": "Nanatsu no Bitoku (2018)",
-      "type": "SPECIAL",
-      "episodes": 2,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2018
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/13/13280.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/13/13280.webp",
-      "synonyms": [
-        "The Seven Heavenly Virtues OVAs",
-        "The Seven Heavenly Virtues Specials",
-        "七つの美徳 （2018）"
-      ],
-      "relations": [
-        "https://anisearch.com/anime/13061"
-      ],
-      "tags": [
-        "celestial beings",
-        "comedy",
-        "ecchi",
-        "fantasy"
-      ],
-      "id": "https://anisearch.com/anime/13280"
     },
     {
       "sources": [
@@ -631,6 +577,7 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/12/44512t.jpg",
       "synonyms": [
         "Little Norakuro",
+        "Norakuro: Norakuro-kun",
         "のらくろクン"
       ],
       "relations": [
@@ -644,6 +591,7 @@
         "https://anime-planet.com/anime/norakuro-nitouhei-enshuu-no-maki",
         "https://anime-planet.com/anime/norakuro-nitouhei-kyouren-no-maki",
         "https://anime-planet.com/anime/norakuro-shoui-nichiyoubi-no-kaijiken",
+        "https://anisearch.com/anime/4136",
         "https://kitsu.io/anime/10589",
         "https://kitsu.io/anime/3590",
         "https://kitsu.io/anime/3591",
@@ -675,35 +623,6 @@
         "supernatural drama"
       ],
       "id": "https://myanimelist.net/anime/16393"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/1482"
-      ],
-      "title": "Omoikkiri Kagaku Adventure Sou nan da!",
-      "type": "TV",
-      "episodes": 26,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 2003
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/1/1482.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/1/1482.webp",
-      "synonyms": [
-        "Full-Blast Science Adventure - So That`s How It Is!",
-        "Omoikkiri Kagaku Adventure Sou nanda!",
-        "Omoikkiri Kagaku Adventure Sō nan da!",
-        "Sounanda",
-        "おもいっきり科学アドベンチャー そーなんだ！"
-      ],
-      "relations": [],
-      "tags": [
-        "adventure",
-        "comedy",
-        "science-fiction"
-      ],
-      "id": "https://anisearch.com/anime/1482"
     },
     {
       "sources": [
@@ -865,6 +784,7 @@
         "Морская Невеста",
         "せとのはなよめ",
         "濑户的花嫁",
+        "瀨戶的花嫁",
         "瀬戸の花嫁",
         "세토의 신부"
       ],
@@ -879,6 +799,9 @@
         "https://kitsu.io/anime/10027",
         "https://kitsu.io/anime/3498",
         "https://kitsu.io/anime/3978",
+        "https://livechart.me/anime/4007",
+        "https://livechart.me/anime/5699",
+        "https://livechart.me/anime/6013",
         "https://myanimelist.net/anime/28385",
         "https://myanimelist.net/anime/4163",
         "https://myanimelist.net/anime/5199",
@@ -892,9 +815,9 @@
         "asia",
         "based on a manga",
         "beastmen",
+        "chibi",
         "comedy",
         "coming of age",
-        "crime",
         "cyborgs",
         "diva",
         "drama",
@@ -918,6 +841,7 @@
         "middle school",
         "moe",
         "music",
+        "organized crime",
         "parody",
         "present",
         "romance",
@@ -991,66 +915,65 @@
       "title": "Skip to Loafer",
       "type": "TV",
       "episodes": 12,
-      "status": "UPCOMING",
+      "status": "ONGOING",
       "animeSeason": {
-        "season": "WINTER",
-        "year": 2022
+        "season": "SPRING",
+        "year": 2023
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/1533/119557.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1533/119557t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1355/133785.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1355/133785t.jpg",
       "synonyms": [
+        "Skip & Loafers",
         "Skip and Loafer",
-        "スキップとローファー"
+        "スキップとローファー",
+        "跃动青春"
       ],
       "relations": [],
       "tags": [
         "based on a manga",
         "comedy",
+        "coming of age",
         "drama",
         "female protagonist",
+        "heterosexual",
         "high school",
+        "iyashikei",
+        "lgbtq+ themes",
         "lifestyle change",
+        "manga",
         "present",
+        "primarily teen cast",
         "romance",
+        "rural",
         "school",
         "seinen",
         "slice of life",
-        "slice of life drama"
+        "slice of life drama",
+        "transgender",
+        "urban"
       ],
       "id": "https://myanimelist.net/anime/50416"
     },
     {
       "sources": [
-        "https://anidb.net/anime/17000",
-        "https://anilist.co/anime/141779",
-        "https://anisearch.com/anime/16797"
+        "https://anime-planet.com/anime/strangers-in-the-alley"
       ],
-      "title": "Sore, Sunawachi Sketch.",
-      "type": "ONA",
-      "episodes": 12,
-      "status": "ONGOING",
+      "title": "Strangers in the Alley",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
       "animeSeason": {
-        "season": "FALL",
-        "year": 2021
+        "season": "UNDEFINED",
+        "year": 2020
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/16/16797.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/16/16797.webp",
-      "synonyms": [
-        "In Other Words, Sketch",
-        "Soresuke",
-        "それすけ",
-        "其れ, 則ちスケッチ.",
-        "其れ、則ちスケッチ。"
-      ],
+      "picture": "https://cdn.anime-planet.com/anime/primary/strangers-in-the-alley-1.webp?t=1656630336",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/strangers-in-the-alley-1-285x399.webp?t=1656630336",
+      "synonyms": [],
       "relations": [],
       "tags": [
-        "cg-anime",
-        "comedy",
-        "full cgi",
-        "present",
-        "survival"
+        "shorts"
       ],
-      "id": "https://anisearch.com/anime/16797"
+      "id": "https://anime-planet.com/anime/strangers-in-the-alley"
     },
     {
       "sources": [
@@ -1098,6 +1021,37 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/suisoh-suicide",
+        "https://anisearch.com/anime/17230"
+      ],
+      "title": "suisoh: Suicide",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2022
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/suisoh-suicide-1.webp?t=1652641675",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/suisoh-suicide-1-285x399.webp?t=1652641675",
+      "synonyms": [
+        "Hayaku Yoru e",
+        "suisoh - Suicide",
+        "suisoh: Hayaku Yoru he",
+        "はやく夜へ",
+        "水槽 - はやく夜へ"
+      ],
+      "relations": [],
+      "tags": [
+        "drama",
+        "independent anime",
+        "mental illness",
+        "present"
+      ],
+      "id": "https://anime-planet.com/anime/suisoh-suicide"
+    },
+    {
+      "sources": [
         "https://anidb.net/anime/15843",
         "https://anilist.co/anime/125931",
         "https://anime-planet.com/anime/sumikko-gurashi-movie-2",
@@ -1130,43 +1084,33 @@
       ],
       "relations": [
         "https://anidb.net/anime/14683",
+        "https://anidb.net/anime/17793",
         "https://anilist.co/anime/111905",
+        "https://anime-planet.com/anime/sumikko-gurashi-movie-3",
         "https://anime-planet.com/anime/sumikko-gurashi-movie-tobidasu-ehon-to-himitsu-no-ko",
         "https://anisearch.com/anime/14650",
+        "https://anisearch.com/anime/18109",
         "https://kitsu.io/anime/43121",
+        "https://kitsu.io/anime/46906",
+        "https://livechart.me/anime/11758",
         "https://livechart.me/anime/9513",
         "https://myanimelist.net/anime/39250",
-        "https://notify.moe/anime/1VPajrjWR"
+        "https://myanimelist.net/anime/53936",
+        "https://notify.moe/anime/1VPajrjWR",
+        "https://notify.moe/anime/JaRcgZp4g"
       ],
       "tags": [
         "animal protagonists",
+        "animals",
         "comedy",
         "family friendly",
+        "isekai",
+        "kids",
+        "magic",
         "non-human protagonists",
         "san-x characters"
       ],
       "id": "https://myanimelist.net/anime/43780"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/summer-time"
-      ],
-      "title": "SUMMER TIME",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2017
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/summer-time-1.webp?t=1629216161",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/summer-time-1-285x399.webp?t=1629216161",
-      "synonyms": [],
-      "relations": [],
-      "tags": [
-        "shorts"
-      ],
-      "id": "https://anime-planet.com/anime/summer-time"
     },
     {
       "sources": [
@@ -1201,7 +1145,7 @@
         "season": "UNDEFINED",
         "year": 2020
       },
-      "picture": "https://cdn.anime-planet.com/anime/primary/yama-masshiro-1.jpg?t=1625791474",
+      "picture": "https://cdn.anime-planet.com/anime/primary/yama-masshiro-1.jpg?t=1625908774",
       "thumbnail": "https://cdn.anime-planet.com/anime/primary/yama-masshiro-1-190x266.jpg?t=1625908774",
       "synonyms": [],
       "relations": [],
@@ -1259,30 +1203,6 @@
         "super robot"
       ],
       "id": "https://myanimelist.net/anime/4773"
-    },
-    {
-      "sources": [
-        "https://anilist.co/anime/141901"
-      ],
-      "title": "Zhingqi 2069",
-      "type": "ONA",
-      "episodes": 0,
-      "status": "UPCOMING",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141901-QUvySrN1grtB.png",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141901-QUvySrN1grtB.png",
-      "synonyms": [
-        "重器2069"
-      ],
-      "relations": [],
-      "tags": [
-        "action",
-        "full cgi"
-      ],
-      "id": "https://anilist.co/anime/141901"
     }
   ]
 }

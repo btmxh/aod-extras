@@ -31,6 +31,9 @@
         "https://anime-planet.com/anime/12-sai-chiccha-na-mune-no-tokimeki-2",
         "https://kitsu.io/anime/11782",
         "https://kitsu.io/anime/8481",
+        "https://livechart.me/anime/2009",
+        "https://livechart.me/anime/2212",
+        "https://livechart.me/anime/447",
         "https://myanimelist.net/anime/23579",
         "https://myanimelist.net/anime/32601",
         "https://notify.moe/anime/1BAApFiiR",
@@ -38,6 +41,7 @@
       ],
       "tags": [
         "based on a manga",
+        "child protagonists",
         "friendship",
         "romance",
         "school",
@@ -45,6 +49,27 @@
         "shoujo"
       ],
       "id": "https://myanimelist.net/anime/31319"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/148629"
+      ],
+      "title": "7-jigen GIRL wa Nekoze",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2021
+      },
+      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx148629-4Q1AslQ8BeYF.png",
+      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx148629-4Q1AslQ8BeYF.png",
+      "synonyms": [
+        "7次元GIRLは猫背"
+      ],
+      "relations": [],
+      "tags": [],
+      "id": "https://anilist.co/anime/148629"
     },
     {
       "sources": [
@@ -77,6 +102,7 @@
       "relations": [],
       "tags": [
         "action",
+        "adventure",
         "based on a novel",
         "drama",
         "korean animation"
@@ -195,10 +221,6 @@
         "https://anime-planet.com/anime/berserk",
         "https://anime-planet.com/anime/berserk-2016",
         "https://anisearch.com/anime/11039",
-        "https://anisearch.com/anime/11759",
-        "https://anisearch.com/anime/12514",
-        "https://anisearch.com/anime/6574",
-        "https://anisearch.com/anime/927",
         "https://kitsu.io/anime/11655",
         "https://myanimelist.net/anime/32379",
         "https://notify.moe/anime/RyiqpKmiR"
@@ -219,72 +241,43 @@
         "medieval",
         "mercenaries",
         "military",
+        "mythology",
         "overpowered main characters",
         "recap",
         "romance",
         "seinen",
         "supernatural",
         "swordplay",
-        "swords & co"
+        "swords & co",
+        "violence"
       ],
       "id": "https://myanimelist.net/anime/35009"
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/digimon-adventure-02-movie-the-golden-digimentals"
+        "https://anilist.co/anime/145704"
       ],
-      "title": "Digimon Adventure 02 Movie: The Golden Digimentals",
+      "title": "Cheburashka: Doubutsuen e Iku",
       "type": "MOVIE",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2000
+        "season": "SUMMER",
+        "year": 2016
       },
-      "picture": "https://anime-planet.com/images/anime/covers/2919.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/2919.jpg",
+      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145704-L47dduUJxVcX.jpg",
+      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145704-L47dduUJxVcX.jpg",
       "synonyms": [
-        "Digimon Adventure 02 Movie: Zenpen Digimon Hurricane Jouriku!! - Kouhen Chouzetsu Shinka!! Ougon no Digimental"
+        "チェブラーシカ 動物園へ行く"
       ],
       "relations": [
-        "https://anime-planet.com/anime/digimon-adventure-02",
-        "https://anime-planet.com/anime/digimon-adventure-movie-1",
-        "https://anime-planet.com/anime/digimon-adventure-movie-2-bokura-no-war-game"
+        "https://anilist.co/anime/145680",
+        "https://anilist.co/anime/7176"
       ],
       "tags": [
-        "action",
-        "adventure",
-        "america",
-        "family friendly",
-        "monsters",
-        "sci fi",
-        "shounen"
+        "stop motion"
       ],
-      "id": "https://anime-planet.com/anime/digimon-adventure-02-movie-the-golden-digimentals"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/43966"
-      ],
-      "title": "Dragon School",
-      "type": "TV",
-      "episodes": 52,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2000
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "恐龙学校"
-      ],
-      "relations": [],
-      "tags": [
-        "fantasy",
-        "kids"
-      ],
-      "id": "https://myanimelist.net/anime/43966"
+      "id": "https://anilist.co/anime/145704"
     },
     {
       "sources": [
@@ -298,8 +291,8 @@
         "season": "FALL",
         "year": 2012
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/10/10154.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/10/10154.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/10/10154_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/10/10154.webp",
       "synonyms": [
         "Hidetake Takayama - Express feat. Silla (múm)"
       ],
@@ -312,6 +305,8 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/fuaxiao-chuanqi",
+        "https://anisearch.com/anime/14345",
         "https://myanimelist.net/anime/45068"
       ],
       "title": "Fuaxiao Chuanqi",
@@ -319,18 +314,25 @@
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "WINTER",
         "year": 2018
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1618/121316.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1618/121316t.jpg",
       "synonyms": [
+        "Aurora",
+        "Fu Xiao Chuan Qi",
         "拂晓传奇"
       ],
       "relations": [],
       "tags": [
-        "adventure",
-        "fantasy"
+        "apocalyptic fiction",
+        "chinese animation",
+        "drama",
+        "mystery",
+        "sci fi",
+        "sci-fi",
+        "science-fiction"
       ],
       "id": "https://myanimelist.net/anime/45068"
     },
@@ -367,7 +369,8 @@
         "Fusé: Memoirs of a Huntress",
         "Fusé: Memoirs of the Hunter Girl",
         "ふせてっぽうむすめのとりものちょう",
-        "伏 鉄砲娘の捕物帳"
+        "伏 鉄砲娘の捕物帳",
+        "伏 铁炮娘的捕物帐"
       ],
       "relations": [],
       "tags": [
@@ -393,6 +396,7 @@
         "samurai",
         "slice of life",
         "supernatural",
+        "swordplay",
         "swords & co",
         "tokugawa period",
         "tokyo",
@@ -413,13 +417,16 @@
         "season": "SUMMER",
         "year": 2018
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/14/14524.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/14/14524.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/14/14524_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/14/14524.webp",
       "synonyms": [
+        "Hello Carbot Movie 1",
         "Hello Carbot the Movie: The Cretaceous Period",
         "극장판 헬로카봇: 백악기 시대"
       ],
-      "relations": [],
+      "relations": [
+        "https://anisearch.com/anime/14858"
+      ],
       "tags": [
         "adventure"
       ],
@@ -437,8 +444,8 @@
         "season": "UNDEFINED",
         "year": 2019
       },
-      "picture": "https://anime-planet.com/images/anime/covers/14257.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/14257.jpg",
+      "picture": "https://cdn.anime-planet.com/anime/primary/hachiya-nanashi-jitter-bug-1.jpg?t=1625907980",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/hachiya-nanashi-jitter-bug-1-190x266.jpg?t=1625907980",
       "synonyms": [],
       "relations": [],
       "tags": [
@@ -481,32 +488,45 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/hello-jadoo-2"
+        "https://anidb.net/anime/12794",
+        "https://anime-planet.com/anime/hello-jadoo-2",
+        "https://anisearch.com/anime/15577"
       ],
       "title": "Hello Jadoo 2",
       "type": "TV",
       "episodes": 30,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
+        "season": "SUMMER",
+        "year": 2012
       },
-      "picture": "https://cdn.anime-planet.com/anime/primary/hello-jadoo-2-1.jpg?t=1625783349",
+      "picture": "https://cdn.anime-planet.com/anime/primary/hello-jadoo-2-1.jpg?t=1625898210",
       "thumbnail": "https://cdn.anime-planet.com/anime/primary/hello-jadoo-2-1-190x288.jpg?t=1625898210",
       "synonyms": [
-        "Annyeong Jaduya 2"
+        "Annyeong Ja-Duya 2",
+        "Annyeong Jadooya 2",
+        "Annyeong Jaduya 2",
+        "Hello Jadoo Season 2",
+        "안녕 자두야 2",
+        "안녕 자두야 시즌2"
       ],
       "relations": [
+        "https://anidb.net/anime/12590",
+        "https://anidb.net/anime/12795",
         "https://anime-planet.com/anime/hello-jadoo",
         "https://anime-planet.com/anime/hello-jadoo-3",
-        "https://anime-planet.com/anime/hello-jadoo-movie"
+        "https://anime-planet.com/anime/hello-jadoo-movie",
+        "https://anisearch.com/anime/15576",
+        "https://anisearch.com/anime/17968"
       ],
       "tags": [
         "based on a manga",
         "comedy",
         "family friendly",
         "korean animation",
-        "slice of life"
+        "manga",
+        "slice of life",
+        "tomboy"
       ],
       "id": "https://anime-planet.com/anime/hello-jadoo-2"
     },
@@ -533,7 +553,9 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/12/86825t.jpg",
       "synonyms": [
         "My Very Own Hero",
+        "hmh",
         "ひとりじめマイヒーロー",
+        "マイヒ",
         "独占我的英雄",
         "독점 마이 히어로"
       ],
@@ -570,6 +592,7 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/154978",
         "https://anime-planet.com/anime/ichiban-kuji-natsume-yuujinchou-nyanko-sensei-to-hana-shirabe",
         "https://myanimelist.net/anime/48829"
       ],
@@ -588,15 +611,20 @@
         "一番くじ 夏目友人帳 ニャンコ先生と花しらべ"
       ],
       "relations": [
+        "https://anilist.co/anime/4081",
         "https://anime-planet.com/anime/natsumes-book-of-friends",
         "https://myanimelist.net/anime/4081"
       ],
       "tags": [
         "based on a manga",
         "commercials",
+        "fantasy",
+        "female protagonist",
         "promotional",
         "shorts",
-        "slice of life"
+        "slice of life",
+        "supernatural",
+        "youkai"
       ],
       "id": "https://myanimelist.net/anime/48829"
     },
@@ -611,7 +639,7 @@
         "https://myanimelist.net/anime/37962",
         "https://notify.moe/anime/1Y53OcDZg"
       ],
-      "title": "IDOLiSH7: Second Beat!",
+      "title": "IDOLiSH7 Second Beat!",
       "type": "TV",
       "episodes": 15,
       "status": "FINISHED",
@@ -625,14 +653,16 @@
         "IDOLiSH 7 2",
         "IDOLiSH7 - 偶像星願 - Second BEAT！",
         "IDOLiSH7 2",
+        "IDOLiSH7 2nd Season",
         "IDOLiSH7 Second BEAT!",
         "IDOLiSH7 Second Beat !",
-        "IDOLiSH7 Second Beat!",
         "IDOLiSH7: Second BEAT!",
+        "IDOLiSH7: Second Beat!",
         "Idolish 7: Second Beat!",
         "Idolish Seven 2",
         "Idolish Seven Second Beat!",
         "Idolish Seven: Second Beat!",
+        "ไอดอลิช 7 เซคันด์ บีท!",
         "アイドリッシュセブン 2期",
         "アイドリッシュセブン Second BEAT!",
         "アイドリッシュセブン Second BEAT！"
@@ -645,6 +675,7 @@
         "https://anilist.co/anime/114987",
         "https://anilist.co/anime/125274",
         "https://anilist.co/anime/127721",
+        "https://anilist.co/anime/138687",
         "https://anilist.co/anime/87495",
         "https://anime-planet.com/anime/idolish7",
         "https://anime-planet.com/anime/idolish7-third-beat",
@@ -653,18 +684,21 @@
         "https://anime-planet.com/anime/zool-bang-bang-bang",
         "https://anisearch.com/anime/12167",
         "https://anisearch.com/anime/16035",
-        "https://anisearch.com/anime/16139",
-        "https://anisearch.com/anime/16142",
         "https://kitsu.io/anime/12558",
         "https://kitsu.io/anime/43514",
         "https://kitsu.io/anime/44314",
+        "https://kitsu.io/anime/47026",
         "https://livechart.me/anime/10298",
         "https://livechart.me/anime/10370",
+        "https://livechart.me/anime/11769",
         "https://livechart.me/anime/2290",
         "https://livechart.me/anime/3091",
         "https://myanimelist.net/anime/33899",
         "https://myanimelist.net/anime/41099",
+        "https://myanimelist.net/anime/43601",
         "https://myanimelist.net/anime/45577",
+        "https://myanimelist.net/anime/51741",
+        "https://myanimelist.net/anime/54047",
         "https://notify.moe/anime/9h8IHNjWR",
         "https://notify.moe/anime/DgL7WLbMg",
         "https://notify.moe/anime/uLzi2Fimg"
@@ -683,14 +717,16 @@
         "ganbatte",
         "idol",
         "idols",
+        "idols (male)",
+        "male protagonist",
         "music",
-        "musical",
         "present",
         "primarily adult cast",
         "primarily male cast",
         "shoujo",
         "showbiz",
         "the arts",
+        "tragedy",
         "twins"
       ],
       "id": "https://myanimelist.net/anime/37962"
@@ -741,6 +777,31 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/johnny-express"
+      ],
+      "title": "Johnny Express",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2014
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/johnny-express-1.webp?t=1662654547",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/johnny-express-1-285x399.webp?t=1662654547",
+      "synonyms": [],
+      "relations": [],
+      "tags": [
+        "cg animation",
+        "korean animation",
+        "outer space",
+        "sci fi",
+        "shorts"
+      ],
+      "id": "https://anime-planet.com/anime/johnny-express"
+    },
+    {
+      "sources": [
         "https://anidb.net/anime/7872",
         "https://anilist.co/anime/17985",
         "https://anime-planet.com/anime/kero-kero-keroppi-no-bokutachi-no-takaramono",
@@ -749,7 +810,7 @@
         "https://myanimelist.net/anime/17985",
         "https://notify.moe/anime/O-rxpKiig"
       ],
-      "title": "Kero Kero Keroppi no Boku-tachi no Takaramono",
+      "title": "Kero Kero Keroppi no Bokutachi no Takaramono",
       "type": "OVA",
       "episodes": 1,
       "status": "FINISHED",
@@ -761,9 +822,11 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/5/47857t.jpg",
       "synonyms": [
         "Hello Kitty and Friends: Our Treasure",
-        "Kero Kero Keroppi no Bokutachi no Takaramono",
+        "Hello Kitty e os Seus Amigos - O Nosso Tesouro",
+        "Kero Kero Keroppi no Boku-tachi no Takaramono",
         "Keroppi and Friends: Our Treasure",
         "Keroppi in Our Treasure",
+        "Keroppi: Our Treasure",
         "けろけろけろっぴのぼくたちのたからもの"
       ],
       "relations": [
@@ -772,6 +835,7 @@
         "https://anime-planet.com/anime/kero-kero-keroppi-no-christmas-eve-no-okurimono",
         "https://anime-planet.com/anime/kero-kero-keroppi-no-gulliver-no-bouken",
         "https://anime-planet.com/anime/kero-kero-keroppi-no-robin-hood",
+        "https://anisearch.com/anime/6399",
         "https://kitsu.io/anime/7291",
         "https://kitsu.io/anime/8368",
         "https://kitsu.io/anime/9014",
@@ -804,9 +868,40 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/konglong-xuexiao",
+        "https://myanimelist.net/anime/43966"
+      ],
+      "title": "Konglong Xuexiao",
+      "type": "TV",
+      "episodes": 52,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2000
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1178/122854.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1178/122854t.jpg",
+      "synonyms": [
+        "Dragon School",
+        "恐龙学校"
+      ],
+      "relations": [],
+      "tags": [
+        "chinese animation",
+        "family friendly",
+        "kids",
+        "non-human protagonists",
+        "short episodes"
+      ],
+      "id": "https://myanimelist.net/anime/43966"
+    },
+    {
+      "sources": [
         "https://anime-planet.com/anime/detective-conan-approaching-the-mystery-of-the-ancient-dinosaurs",
         "https://anisearch.com/anime/13369",
-        "https://myanimelist.net/anime/33151"
+        "https://kitsu.io/anime/13044",
+        "https://myanimelist.net/anime/33151",
+        "https://notify.moe/anime/0s6WhFmig"
       ],
       "title": "Meitantei Conan: Kodai Kyouryuu no Nazo ni Semare!",
       "type": "OVA",
@@ -819,9 +914,12 @@
       "picture": "https://cdn.myanimelist.net/images/anime/10/79627.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/10/79627t.jpg",
       "synonyms": [
+        "Case Closed - Approaching the Mystery of the Ancient Dinosaurs!",
         "Case Closed: Approaching the Mystery of the Ancient Dinosaurs!",
+        "Detective Conan - Approaching the Mystery of the Ancient Dinosaurs!",
         "Detective Conan Educational VHS Series 7",
         "Detective Conan: Approaching the Mystery of the Ancient Dinosaurs!",
+        "Meitantei Conan - - Kodai Kyouryuu no Nazo ni Semare!",
         "Meitantei Conan: Kodai Kyōryū no Nazo ni Semare!",
         "名探偵コナン 古代恐竜の謎に迫れ!",
         "名探偵コナン 古代恐竜の謎に迫れ！"
@@ -829,7 +927,11 @@
       "relations": [
         "https://anime-planet.com/anime/detective-conan",
         "https://anime-planet.com/anime/detective-conan-movie-24-the-scarlet-bullet",
-        "https://myanimelist.net/anime/235"
+        "https://anisearch.com/anime/13370",
+        "https://anisearch.com/anime/9964",
+        "https://kitsu.io/anime/210",
+        "https://myanimelist.net/anime/235",
+        "https://notify.moe/anime/lWnhcKiig"
       ],
       "tags": [
         "based on a manga",
@@ -870,15 +972,18 @@
         "The Doctor for Monster Girls.",
         "The doctor for monster girls",
         "The doctor for monster girls.",
+        "monisha",
         "Доктор для девушек-монстров",
         "รักษาหนูหน่อยคุณหมอมอนสเตอร์",
         "モンスター娘のお医者さん",
+        "モン医者",
         "魔物娘的醫生"
       ],
       "relations": [],
       "tags": [
         "age gap",
         "alternative world",
+        "anthropomorphic",
         "based on a light novel",
         "beastmen",
         "centaur",
@@ -892,12 +997,15 @@
         "fantasy world",
         "female harem",
         "harem",
+        "heterosexual",
         "juujin",
         "kemonomimi",
         "magic",
+        "male protagonist",
         "medic",
         "medical",
         "medicine",
+        "mermaid",
         "monster",
         "monster girl",
         "monster girls",
@@ -916,7 +1024,12 @@
     },
     {
       "sources": [
+        "https://anidb.net/anime/14546",
+        "https://anilist.co/anime/114338",
+        "https://anime-planet.com/anime/neko-no-niagho",
+        "https://anisearch.com/anime/14216",
         "https://kitsu.io/anime/42993",
+        "https://livechart.me/anime/8690",
         "https://myanimelist.net/anime/38857"
       ],
       "title": "Neko no Nyagh: Nya Misérables",
@@ -927,77 +1040,69 @@
         "season": "SPRING",
         "year": 2019
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/1543/109596.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1543/109596t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1451/114575.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1451/114575t.jpg",
       "synonyms": [
         "Days of van Meowogh",
         "Meowogh the Cat: Mes Misérables",
+        "Neko no Niagho",
+        "Neko no Nyahho",
+        "Neko no Nyahho - Nya Miserables",
+        "Neko no Nyahho ~Nya Miseraburu~",
         "Niagho",
+        "Nyan Gogh",
+        "猫のニャッホ",
+        "猫のニャッホ 〜ニャ・ミゼラブル〜",
         "猫のニャッホ ～ニャ・ミゼラブル～"
       ],
       "relations": [],
       "tags": [
+        "animal protagonists",
+        "animals",
+        "anthropomorphic",
+        "art",
+        "based on a mobile game",
+        "cats",
+        "comedy",
+        "drawing",
         "game",
-        "kids"
+        "kids",
+        "non-human protagonists",
+        "short episodes",
+        "slice of life",
+        "strategy game",
+        "visual arts"
       ],
       "id": "https://myanimelist.net/anime/38857"
     },
     {
       "sources": [
-        "https://anisearch.com/anime/11575"
+        "https://anilist.co/anime/148523",
+        "https://anisearch.com/anime/18157"
       ],
-      "title": "Pichikou Yakyuubu in USA",
-      "type": "ONA",
-      "episodes": 3,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2014
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/11/11575.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/11/11575.webp",
-      "synonyms": [
-        "Peach High Baseball Club in USA",
-        "Pichiko Dakyuubu USA-hen",
-        "Pichikō Yakyūbu in USA",
-        "ピチ高野球部 in USA"
-      ],
-      "relations": [
-        "https://anisearch.com/anime/11574"
-      ],
-      "tags": [
-        "comedy",
-        "sports"
-      ],
-      "id": "https://anisearch.com/anime/11575"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/9504"
-      ],
-      "title": "Senki Zesshou Symphogear G: In the Distance, That Day, When the Star Became Music … OVA",
+      "title": "Samishii Hito",
       "type": "SPECIAL",
-      "episodes": 2,
+      "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
         "season": "WINTER",
-        "year": 2014
+        "year": 2022
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/9/9504.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/9/9504.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/18/18157_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/18/18157.webp",
       "synonyms": [
-        "Senki Zesshō Symphogear G: In the Distance, That Day, When the Star Became Music … OVA",
-        "戦姫絶唱シンフォギアG In the distance, that day, when the star became music … OVA"
+        "Lonely",
+        "RIM - Lonely",
+        "Samishī Hito",
+        "さみしいひと",
+        "理芽 - さみしいひと"
       ],
-      "relations": [
-        "https://anisearch.com/anime/11223",
-        "https://anisearch.com/anime/11224",
-        "https://anisearch.com/anime/7352",
-        "https://anisearch.com/anime/8496",
-        "https://anisearch.com/anime/9290"
+      "relations": [],
+      "tags": [
+        "indefinite",
+        "independent anime"
       ],
-      "tags": [],
-      "id": "https://anisearch.com/anime/9504"
+      "id": "https://anisearch.com/anime/18157"
     },
     {
       "sources": [
@@ -1034,6 +1139,7 @@
         "based on a video game",
         "comedy",
         "game",
+        "henshin",
         "sci fi",
         "sci-fi",
         "science fiction",
@@ -1046,6 +1152,43 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/143755",
+        "https://anime-planet.com/anime/the-songbards-yuukei",
+        "https://anisearch.com/anime/16502",
+        "https://myanimelist.net/anime/51511"
+      ],
+      "title": "Yuukei",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SPRING",
+        "year": 2021
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1579/122236.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1579/122236t.jpg",
+      "synonyms": [
+        "The Songbards - Yuukei",
+        "The Songbards - 夕景",
+        "The Songbards: Yuukei",
+        "Yūkei",
+        "夕景"
+      ],
+      "relations": [],
+      "tags": [
+        "drama",
+        "independent anime",
+        "music",
+        "present",
+        "sentimental drama",
+        "slice of life"
+      ],
+      "id": "https://myanimelist.net/anime/51511"
+    },
+    {
+      "sources": [
+        "https://anidb.net/anime/15265",
+        "https://anilist.co/anime/121384",
         "https://anime-planet.com/anime/zhandou-wang-zhi-jufeng-zhan-hun-5",
         "https://myanimelist.net/anime/42468"
       ],
@@ -1062,9 +1205,13 @@
       "synonyms": [
         "Infinity Nado 5",
         "King of Warrior 5",
+        "Zhandou Wang: Jufeng Zhan Hun 5",
         "战斗王之飓风战魂5"
       ],
       "relations": [
+        "https://anidb.net/anime/12960",
+        "https://anilist.co/anime/103423",
+        "https://anilist.co/anime/121388",
         "https://anime-planet.com/anime/zhandou-wang-zhi-jufeng-zhan-hun-5-heti-fanwai-pian",
         "https://myanimelist.net/anime/36427",
         "https://myanimelist.net/anime/42979"

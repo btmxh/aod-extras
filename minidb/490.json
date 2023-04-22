@@ -27,6 +27,8 @@
         "https://anime-planet.com/anime/11eyes",
         "https://anime-planet.com/anime/11eyes-special",
         "https://kitsu.io/anime/4662",
+        "https://livechart.me/anime/3715",
+        "https://livechart.me/anime/4326",
         "https://myanimelist.net/anime/6682",
         "https://notify.moe/anime/trb6cKimR"
       ],
@@ -39,52 +41,40 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/140140",
+        "https://anime-planet.com/anime/ak-mofa-shaonu",
         "https://myanimelist.net/anime/44491"
       ],
-      "title": "Ai Ke Mofa Shaonu",
+      "title": "AK Mofa Shaonu",
       "type": "TV",
       "episodes": 52,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "SPRING",
         "year": 2015
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1609/122329.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1609/122329t.jpg",
       "synonyms": [
+        "AK Magical Girls",
+        "AK Mofa Shaonü",
         "艾可魔法少女"
       ],
       "relations": [],
       "tags": [
-        "action",
-        "adventure",
-        "josei",
+        "cgi",
+        "chinese animation",
+        "fantasy",
+        "female protagonist",
+        "full cgi",
+        "henshin",
         "kids",
-        "music"
+        "magic",
+        "magical girl",
+        "mahou shoujo",
+        "primarily female cast"
       ],
       "id": "https://myanimelist.net/anime/44491"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/aimer-we-two"
-      ],
-      "title": "Aimer: We Two",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2019
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/aimer-we-two-1.jpg?t=1625908487",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/aimer-we-two-1-190x266.jpg?t=1625908487",
-      "synonyms": [],
-      "relations": [],
-      "tags": [
-        "dancing",
-        "social media"
-      ],
-      "id": "https://anime-planet.com/anime/aimer-we-two"
     },
     {
       "sources": [
@@ -114,6 +104,7 @@
         "Akagami no Shirayukihime 2",
         "Akagami no Shirayukihime 2nd Season",
         "Die rothaarige Schneeprinzessin 2",
+        "Die rothaarige Schneeprinzessin: Staffel 2",
         "Red-haired Princess Snow White 2",
         "Shirayuki aux Cheveux Rouges Saison 2",
         "Snow White with the Red Hair (2016)",
@@ -121,10 +112,12 @@
         "Snow White with the Red Hair 2",
         "Snow White with the Red Hair 2nd Season",
         "Snow White with the Red Hair Season 2",
+        "akagami s2",
+        "akagamihime 2",
+        "สโนว์ไวท์ผมแดง ภาค 2",
         "あかがみのしらゆきひめ",
         "赤发白雪姬 第二季",
         "赤髪の白雪姫",
-        "赤髪の白雪姫 2",
         "赤髪の白雪姫 2ndシーズン",
         "赤髪の白雪姫 Snow White with the Red Hair (2016)",
         "赤髪の白雪姫 （2016）"
@@ -135,7 +128,6 @@
         "https://anime-planet.com/anime/snow-white-with-the-red-hair",
         "https://anime-planet.com/anime/snow-white-with-the-red-hair-ova",
         "https://anisearch.com/anime/10210",
-        "https://anisearch.com/anime/10722",
         "https://kitsu.io/anime/10621",
         "https://kitsu.io/anime/11341",
         "https://livechart.me/anime/1413",
@@ -203,6 +195,7 @@
         "Akisora: Yume no Naka",
         "あきそら~夢の中~",
         "あきそら～夢の中～",
+        "秋日天空 ~在夢中~",
         "秋日天空～在梦中～",
         "秋色之空～在梦中～",
         "아키소라 ~꿈속~"
@@ -224,6 +217,7 @@
         "defloration",
         "drama",
         "ecchi",
+        "erotica",
         "female student",
         "futanari",
         "gender bender",
@@ -256,31 +250,6 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/alkaloid-kiss-of-life"
-      ],
-      "title": "ALKALOID: Kiss of Life",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2019
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/alkaloid-kiss-of-life-1.webp?t=1642310094",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/alkaloid-kiss-of-life-1-285x399.webp?t=1642310094",
-      "synonyms": [],
-      "relations": [
-        "https://anime-planet.com/anime/ensemble-stars"
-      ],
-      "tags": [
-        "based on a mobile game",
-        "cg animation",
-        "idols"
-      ],
-      "id": "https://anime-planet.com/anime/alkaloid-kiss-of-life"
-    },
-    {
-      "sources": [
         "https://anilist.co/anime/119534"
       ],
       "title": "Denki 100%",
@@ -303,78 +272,41 @@
     },
     {
       "sources": [
-        "https://anisearch.com/anime/14540"
-      ],
-      "title": "Doraon Yeongung Hong Gil Dong",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 1995
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/14/14540.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/14/14540.webp",
-      "synonyms": [
-        "돌아온 영웅 홍길동"
-      ],
-      "relations": [
-        "https://anisearch.com/anime/12489",
-        "https://anisearch.com/anime/8752"
-      ],
-      "tags": [],
-      "id": "https://anisearch.com/anime/14540"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/eve-tokyo-ghetto"
+        "https://anilist.co/anime/106921",
+        "https://anime-planet.com/anime/eve-tokyo-ghetto",
+        "https://anisearch.com/anime/13764",
+        "https://kitsu.io/anime/42253"
       ],
       "title": "Eve: Tokyo Ghetto",
       "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "SUMMER",
         "year": 2018
       },
-      "picture": "https://anime-planet.com/images/anime/covers/12875.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/12875.jpg",
-      "synonyms": [],
-      "relations": [],
+      "picture": "https://cdn.anime-planet.com/anime/primary/eve-tokyo-ghetto-1.jpg?t=1625899091",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/eve-tokyo-ghetto-1-190x266.jpg?t=1625899091",
+      "synonyms": [
+        "Tokyo Ghetto",
+        "トーキョーゲットー"
+      ],
+      "relations": [
+        "https://anilist.co/anime/149084"
+      ],
       "tags": [
+        "music",
+        "psychological",
         "supernatural",
+        "the arts",
         "vocaloid"
       ],
       "id": "https://anime-planet.com/anime/eve-tokyo-ghetto"
     },
     {
       "sources": [
-        "https://myanimelist.net/anime/46442",
-        "https://myanimelist.net/anime/46961"
-      ],
-      "title": "Haiyang Xiao Huoban",
-      "type": "TV",
-      "episodes": 26,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "海洋小伙伴"
-      ],
-      "relations": [],
-      "tags": [
-        "fantasy",
-        "kids"
-      ],
-      "id": "https://myanimelist.net/anime/46961"
-    },
-    {
-      "sources": [
         "https://anidb.net/anime/6913",
+        "https://anime-planet.com/anime/itazura-post",
         "https://anisearch.com/anime/8713",
         "https://kitsu.io/anime/9348",
         "https://myanimelist.net/anime/23183",
@@ -391,6 +323,7 @@
       "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
       "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
       "synonyms": [
+        "Mischievous Post",
         "Naughty Mailbox",
         "いたずらポスト"
       ],
@@ -430,67 +363,17 @@
         "action",
         "based on a manga",
         "drama",
+        "male protagonist",
         "manga",
         "motorcycles",
+        "nudity",
         "present",
         "racing",
+        "school",
         "seinen",
         "sports"
       ],
       "id": "https://myanimelist.net/anime/17339"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/1615"
-      ],
-      "title": "Konchuu Monogatari Minashigo Hutch (Heisei Ban)",
-      "type": "TV",
-      "episodes": 55,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SUMMER",
-        "year": 1989
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/1/1615.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/1/1615.webp",
-      "synonyms": [
-        "Di fiore in fiore con L'Ape Magà",
-        "Hacou",
-        "Konchuu Monogatari Minashigo Hutch (TV 3)",
-        "Konchū Monogatari Minashigo Hutch (Heisei Ban)",
-        "昆虫物語みなしごハッチ （平成版）"
-      ],
-      "relations": [
-        "https://anisearch.com/anime/3210",
-        "https://anisearch.com/anime/3478",
-        "https://anisearch.com/anime/5941"
-      ],
-      "tags": [],
-      "id": "https://anisearch.com/anime/1615"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/kyoto-gakuen-university-cm-asagimadara-no-yume"
-      ],
-      "title": "Kyoto Gakuen University CM: Asagimadara no Yume",
-      "type": "SPECIAL",
-      "episodes": 3,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/kyoto-gakuen-university-cm-asagimadara-no-yume-1.jpg?t=1625908878",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/kyoto-gakuen-university-cm-asagimadara-no-yume-1-190x266.jpg?t=1625908878",
-      "synonyms": [],
-      "relations": [],
-      "tags": [
-        "cg animation",
-        "commercials",
-        "promotional",
-        "short episodes"
-      ],
-      "id": "https://anime-planet.com/anime/kyoto-gakuen-university-cm-asagimadara-no-yume"
     },
     {
       "sources": [
@@ -524,18 +407,19 @@
         "https://anime-planet.com/anime/larva-new-york",
         "https://anime-planet.com/anime/the-larva-island-movie",
         "https://anisearch.com/anime/14284",
-        "https://anisearch.com/anime/15403",
         "https://myanimelist.net/anime/31674",
         "https://myanimelist.net/anime/39431"
       ],
       "tags": [
+        "adventure",
+        "adventure comedy",
         "animal protagonists",
         "animals",
         "cg animation",
         "cg-anime",
-        "cgi",
         "comedy",
         "episodic",
+        "full cgi",
         "insects",
         "island",
         "kids",
@@ -576,11 +460,11 @@
         "kanantv",
         "まじかるかなん",
         "まじかるカナン",
+        "魔法少女加奈",
         "매지컬 카난"
       ],
       "relations": [
         "https://anisearch.com/anime/2394",
-        "https://anisearch.com/anime/3144",
         "https://myanimelist.net/anime/3301"
       ],
       "tags": [
@@ -594,7 +478,6 @@
         "fantasy",
         "game",
         "henshin",
-        "henshin heroes",
         "japan",
         "kuudere",
         "magic",
@@ -655,6 +538,7 @@
       "sources": [
         "https://anidb.net/anime/7534",
         "https://anilist.co/anime/141266",
+        "https://anime-planet.com/anime/ningen-kakumei",
         "https://anisearch.com/anime/6239",
         "https://kitsu.io/anime/8702",
         "https://myanimelist.net/anime/22325",
@@ -677,6 +561,7 @@
       "relations": [],
       "tags": [
         "asia",
+        "based on a novel",
         "earth",
         "historical",
         "japan",
@@ -737,6 +622,7 @@
         "https://myanimelist.net/anime/2612"
       ],
       "tags": [
+        "dancing",
         "kids",
         "minna no uta",
         "music"
@@ -748,6 +634,7 @@
         "https://anidb.net/anime/6321",
         "https://anilist.co/anime/6798",
         "https://anime-planet.com/anime/lets-go-tamagotchi",
+        "https://anisearch.com/anime/5232",
         "https://kitsu.io/anime/4722",
         "https://myanimelist.net/anime/6798",
         "https://notify.moe/anime/N2u65KimR"
@@ -767,8 +654,13 @@
         "Let's Go! Tamagotchi",
         "Let`s Go! Tamagotchi",
         "Saa Ikoo! Tamagotchi",
+        "Saa Ikou! Tamagocchi",
+        "Saiko! Tamagocchi",
+        "Sā Ikō! Tamagocchi",
+        "Tamagotchi!: Saa Ikou! Tamagotchi",
         "さぁいこーたまごっち",
         "さぁイコー! たまごっち",
+        "さぁイコー！ たまごっち",
         "さぁイコー！たまごっち",
         "さあイコー! たまごっち"
       ],
@@ -786,11 +678,16 @@
         "https://anime-planet.com/anime/tamagotchi-movie-3-himitsu-no-otodake-daisakusen",
         "https://anime-planet.com/anime/tamagotchi-tamatomo-daishuu-go",
         "https://anime-planet.com/anime/tamagotchi-yume-kira-dream",
+        "https://anisearch.com/anime/3183",
+        "https://anisearch.com/anime/4708",
+        "https://anisearch.com/anime/5554",
         "https://kitsu.io/anime/4591",
         "https://myanimelist.net/anime/6518",
         "https://notify.moe/anime/F1NecFimg"
       ],
       "tags": [
+        "adventure",
+        "alternative world",
         "comedy",
         "daily life",
         "family friendly",
@@ -803,40 +700,6 @@
         "slice of life"
       ],
       "id": "https://myanimelist.net/anime/6798"
-    },
-    {
-      "sources": [
-        "https://anidb.net/anime/15129",
-        "https://anilist.co/anime/129274"
-      ],
-      "title": "Shenbing Xiaojiang 2",
-      "type": "ONA",
-      "episodes": 52,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 2018
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129274-xvU3BC82vXRc.jpg",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129274-xvU3BC82vXRc.jpg",
-      "synonyms": [
-        "Shen Bing Xiao Jiang 2",
-        "Shenbing Kids 2",
-        "Shenbing Kids 2: New Legend",
-        "神兵小将 第二季",
-        "神兵小将2",
-        "神兵小英雄2"
-      ],
-      "relations": [
-        "https://anidb.net/anime/15116",
-        "https://anilist.co/anime/129272"
-      ],
-      "tags": [
-        "comedy",
-        "fantasy",
-        "full cgi"
-      ],
-      "id": "https://anilist.co/anime/129274"
     },
     {
       "sources": [
@@ -892,6 +755,7 @@
         "Tantei Opera Milky Holmes Movie: Milky Holmes' Counterattack",
         "Tantei Opera Milky Holmes the Movie: Milky Holmes' Counterattack",
         "Tantei Opera Milky Holmes the Movie: Milky Holmes` Counterattack",
+        "侦探歌剧 少女福尔摩斯 ～逆袭的少女福尔摩斯～",
         "劇場版 探偵オペラ ミルキィホームズ ~逆襲のミルキィホームズ~",
         "劇場版 探偵オペラ ミルキィホームズ ～逆襲のミルキィホームズ～",
         "劇場版 探偵オペラ ミルキィホームズ　~逆襲のミルキィホームズ~",
@@ -907,11 +771,7 @@
         "https://anime-planet.com/anime/tantei-opera-milky-holmes-fun-fun-pearly-night-ken-to-janet-no-okurimono",
         "https://anime-planet.com/anime/tantei-opera-milky-holmes-summer-special",
         "https://anime-planet.com/anime/tantei-opera-milky-holmes-td",
-        "https://anisearch.com/anime/6120",
-        "https://anisearch.com/anime/7258",
-        "https://anisearch.com/anime/7264",
-        "https://anisearch.com/anime/7885",
-        "https://anisearch.com/anime/8352",
+        "https://anisearch.com/anime/11516",
         "https://anisearch.com/anime/9871",
         "https://kitsu.io/anime/41104",
         "https://livechart.me/anime/1049",
@@ -960,15 +820,15 @@
         "https://myanimelist.net/anime/44757"
       ],
       "title": "Taoqi Maomao Wang",
-      "type": "TV",
+      "type": "SPECIAL",
       "episodes": 2,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2010
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1268/128516.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1268/128516t.jpg",
       "synonyms": [
         "淘气毛毛王"
       ],
@@ -979,6 +839,33 @@
         "kids"
       ],
       "id": "https://myanimelist.net/anime/44757"
+    },
+    {
+      "sources": [
+        "https://myanimelist.net/anime/54426"
+      ],
+      "title": "Tottemo Tanoshii Christmas Minna de Chikara wo Awaseyou",
+      "type": "OVA",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2011
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1905/133253.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1905/133253t.jpg",
+      "synonyms": [
+        "とっても たのしい クリスマス みんなで ちからを あわせよう"
+      ],
+      "relations": [
+        "https://myanimelist.net/anime/38743"
+      ],
+      "tags": [
+        "action",
+        "anthropomorphic",
+        "kids"
+      ],
+      "id": "https://myanimelist.net/anime/54426"
     },
     {
       "sources": [
@@ -1034,14 +921,6 @@
         "https://anime-planet.com/anime/transformers-war-for-cybertron-siege",
         "https://anime-planet.com/anime/transformers-zone",
         "https://anisearch.com/anime/112",
-        "https://anisearch.com/anime/1263",
-        "https://anisearch.com/anime/1428",
-        "https://anisearch.com/anime/1539",
-        "https://anisearch.com/anime/2587",
-        "https://anisearch.com/anime/2763",
-        "https://anisearch.com/anime/2801",
-        "https://anisearch.com/anime/3120",
-        "https://anisearch.com/anime/3360",
         "https://kitsu.io/anime/825",
         "https://myanimelist.net/anime/927",
         "https://notify.moe/anime/CsM15Kiig"
@@ -1079,9 +958,82 @@
     },
     {
       "sources": [
+        "https://anidb.net/anime/17766",
+        "https://anilist.co/anime/158704",
+        "https://anime-planet.com/anime/im-in-love-with-the-villainess",
+        "https://anisearch.com/anime/17941",
+        "https://kitsu.io/anime/46856",
+        "https://livechart.me/anime/11597",
+        "https://myanimelist.net/anime/53833",
+        "https://notify.moe/anime/aF3MCF5Vg"
+      ],
+      "title": "Watashi no Oshi wa Akuyaku Reijou.",
+      "type": "TV",
+      "episodes": 12,
+      "status": "UPCOMING",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2023
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1960/131808.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1960/131808t.jpg",
+      "synonyms": [
+        "I Favor the Villainess.",
+        "I'm in Love with the Villainess",
+        "I`m in Love with the Villainess",
+        "I’m in Love with the Villainess",
+        "Me Enamoré de la Villana",
+        "WataOshi",
+        "Wataoshi",
+        "Watashi no Oshi wa Akuyaku Reijou",
+        "Watashi no Oshi wa Akuyaku Reijō.",
+        "wataoshi",
+        "ทำไงดีเกมนี้นางร้ายน่ารัก",
+        "私の推しは悪役令嬢.",
+        "私の推しは悪役令嬢。"
+      ],
+      "relations": [],
+      "tags": [
+        "adventure",
+        "based on a light novel",
+        "comedy",
+        "drama",
+        "fantasy",
+        "female protagonist",
+        "girls love",
+        "gl",
+        "isekai",
+        "lgbtq+ themes",
+        "magic",
+        "maids",
+        "nobility",
+        "ojou-sama",
+        "person in a strange world",
+        "politics",
+        "primarily female cast",
+        "primarily teen cast",
+        "reincarnation",
+        "romance",
+        "romantic comedy",
+        "school",
+        "school life",
+        "shoujo ai",
+        "shoujo-ai",
+        "slapstick",
+        "slice of life",
+        "transgender",
+        "tsundere",
+        "villainess",
+        "yuri"
+      ],
+      "id": "https://myanimelist.net/anime/53833"
+    },
+    {
+      "sources": [
         "https://anidb.net/anime/13392",
         "https://anilist.co/anime/107070",
         "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf",
+        "https://anisearch.com/anime/11144",
         "https://kitsu.io/anime/11271",
         "https://myanimelist.net/anime/31150",
         "https://notify.moe/anime/xlM9pKimR"
@@ -1100,7 +1052,8 @@
         "Pleasant Goat and Big Big Wolf",
         "Xi Yang Yang Yu Hui Tai Lang",
         "Xi Yangyang yu Hui Tailang",
-        "喜羊羊与灰太狼"
+        "喜羊羊与灰太狼",
+        "喜羊羊與灰太狼"
       ],
       "relations": [
         "https://anilist.co/anime/131563",
@@ -1140,7 +1093,7 @@
         "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-5-the-mythical-ark-adventures-in-love-happiness",
         "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-6-meet-the-pegasus",
         "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-7-amazing-pleasant-goat",
-        "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-8",
+        "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-8-dunk-for-future",
         "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-paddi-the-amazing-chef",
         "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-rescue-across-time",
         "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-smart-dodging",
@@ -1158,6 +1111,13 @@
         "https://anime-planet.com/anime/pleasant-goat-fun-class-the-earth-carnival",
         "https://anime-planet.com/anime/pleasant-goat-fun-class-travel-around-the-world",
         "https://anime-planet.com/anime/pleasant-goat-sports-game",
+        "https://anisearch.com/anime/12934",
+        "https://anisearch.com/anime/12998",
+        "https://anisearch.com/anime/7116",
+        "https://anisearch.com/anime/7117",
+        "https://anisearch.com/anime/7992",
+        "https://anisearch.com/anime/8009",
+        "https://anisearch.com/anime/9543",
         "https://kitsu.io/anime/4451",
         "https://kitsu.io/anime/5974",
         "https://kitsu.io/anime/9061",
@@ -1239,12 +1199,9 @@
         "https://anime-planet.com/anime/encouragement-of-climb-2",
         "https://anime-planet.com/anime/encouragement-of-climb-3",
         "https://anisearch.com/anime/12521",
-        "https://anisearch.com/anime/16069",
-        "https://anisearch.com/anime/4088",
-        "https://anisearch.com/anime/8358",
         "https://anisearch.com/anime/9278",
-        "https://anisearch.com/anime/9999",
         "https://kitsu.io/anime/13583",
+        "https://kitsu.io/anime/8201",
         "https://livechart.me/anime/10474",
         "https://livechart.me/anime/1237",
         "https://livechart.me/anime/2713",
@@ -1259,6 +1216,7 @@
       "tags": [
         "adventure",
         "based on a manga",
+        "cgdct",
         "childhood friends",
         "comedy",
         "cute girls doing cute things",
@@ -1280,57 +1238,6 @@
         "verbal comedy"
       ],
       "id": "https://myanimelist.net/anime/35673"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/46781"
-      ],
-      "title": "Yonggan Zhe Riji Di Xiaolong",
-      "type": "TV",
-      "episodes": 52,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "勇敢者日记迪小龙"
-      ],
-      "relations": [],
-      "tags": [
-        "adventure"
-      ],
-      "id": "https://myanimelist.net/anime/46781"
-    },
-    {
-      "sources": [
-        "https://anidb.net/anime/14082"
-      ],
-      "title": "Zhu Zhu Xia: Chao Xing Meng Chong 3",
-      "type": "TV",
-      "episodes": 36,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 2017
-      },
-      "picture": "https://cdn.anidb.net/images/main/217599.jpg",
-      "thumbnail": "https://cdn.anidb.net/images/main/217599.jpg-thumb.jpg",
-      "synonyms": [
-        "GG Bond 13 Season 3",
-        "猪猪侠 超星萌宠3",
-        "猪猪侠之超星萌宠3"
-      ],
-      "relations": [
-        "https://anidb.net/anime/14081",
-        "https://anidb.net/anime/14083"
-      ],
-      "tags": [
-        "half-length episodes"
-      ],
-      "id": "https://anidb.net/anime/14082"
     }
   ]
 }

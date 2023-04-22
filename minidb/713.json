@@ -2,6 +2,35 @@
   "data": [
     {
       "sources": [
+        "https://anilist.co/anime/144827",
+        "https://kitsu.io/anime/47189",
+        "https://myanimelist.net/anime/51449"
+      ],
+      "title": "A lot of life",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SUMMER",
+        "year": 2020
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1393/121976.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1393/121976t.jpg",
+      "synonyms": [],
+      "relations": [
+        "https://anilist.co/anime/115069",
+        "https://kitsu.io/anime/43557",
+        "https://myanimelist.net/anime/39681"
+      ],
+      "tags": [
+        "full cgi",
+        "music",
+        "primarily female cast"
+      ],
+      "id": "https://myanimelist.net/anime/51449"
+    },
+    {
+      "sources": [
         "https://anidb.net/anime/13346",
         "https://anilist.co/anime/99725",
         "https://anime-planet.com/anime/aico-incarnation",
@@ -26,6 +55,7 @@
         "A.I.C.O. Incarnation",
         "A.I.C.O. גלגול",
         "A.I.C.O. ‎ تجسيد",
+        "A.I.C.O.：化身",
         "AICO",
         "AICO Incarnation",
         "aico",
@@ -36,12 +66,14 @@
       "tags": [
         "action",
         "action drama",
+        "bionic powers",
         "body swapping",
         "cgi",
         "drama",
         "dystopian",
         "female protagonist",
         "genetic modification",
+        "genius",
         "guns",
         "human enhancement",
         "human experimentation",
@@ -63,29 +95,6 @@
         "super robot"
       ],
       "id": "https://myanimelist.net/anime/36039"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/49496"
-      ],
-      "title": "Aisatsu",
-      "type": "ONA",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2018
-      },
-      "picture": "https://cdn.myanimelist.net/images/anime/1219/116757.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1219/116757t.jpg",
-      "synonyms": [
-        "あいさつ"
-      ],
-      "relations": [],
-      "tags": [
-        "avant garde"
-      ],
-      "id": "https://myanimelist.net/anime/49496"
     },
     {
       "sources": [
@@ -120,6 +129,29 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/birthmark"
+      ],
+      "title": "BIRTHMARK",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2021
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/birthmark-1.webp?t=1656724428",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/birthmark-1-285x400.webp?t=1656724428",
+      "synonyms": [],
+      "relations": [],
+      "tags": [
+        "abstract",
+        "black and white",
+        "shorts"
+      ],
+      "id": "https://anime-planet.com/anime/birthmark"
+    },
+    {
+      "sources": [
         "https://anidb.net/anime/1568",
         "https://anilist.co/anime/1476",
         "https://anime-planet.com/anime/city-hunter-million-dollar-conspiracy",
@@ -146,6 +178,7 @@
         "City Hunter - Complot pour 1 000 000 $",
         "City Hunter - Complot pour un million de dollars",
         "City Hunter - The $1.000.000 Conspiracy",
+        "City Hunter : Complot pour un million de dollars",
         "City Hunter Film 3: Complot pour 1 million de dollars",
         "City Hunter Film 3: Million Dollar Conspiracy",
         "City Hunter Película 3: La Conspiración del Millón de Dólares",
@@ -164,6 +197,9 @@
         "Nicky Larson - Complot pour 1 000 000 $",
         "Nicky Larson - Complot pour un million de dollars",
         "Nicky Larson: Complot pour 1 million de dollars",
+        "Pemburu Kota -Pembunuhan Jutaan Emas",
+        "Thợ Săn Thành Phố: Âm Mưu Triệu Đô",
+        "ซิตี้ฮันเตอร์ แผนการร้ายล้านดอลลาร์",
         "してぃーはんたーひゃくまんどるのいんぼう",
         "シティーハンター 百万ドルの陰謀"
       ],
@@ -182,19 +218,21 @@
         "https://anime-planet.com/anime/city-hunter-goodbye-my-sweetheart",
         "https://anime-planet.com/anime/city-hunter-ryou-no-propose",
         "https://anime-planet.com/anime/city-hunter-the-secret-service",
-        "https://anisearch.com/anime/1298",
-        "https://anisearch.com/anime/13487",
-        "https://anisearch.com/anime/1767",
-        "https://anisearch.com/anime/1920",
-        "https://anisearch.com/anime/231",
-        "https://anisearch.com/anime/2313",
-        "https://anisearch.com/anime/3365",
-        "https://anisearch.com/anime/421",
-        "https://anisearch.com/anime/448",
-        "https://anisearch.com/anime/462",
         "https://anisearch.com/anime/700",
         "https://kitsu.io/anime/1318",
         "https://kitsu.io/anime/1321",
+        "https://livechart.me/anime/11179",
+        "https://livechart.me/anime/1609",
+        "https://livechart.me/anime/3166",
+        "https://livechart.me/anime/4648",
+        "https://livechart.me/anime/8407",
+        "https://livechart.me/anime/8409",
+        "https://livechart.me/anime/8410",
+        "https://livechart.me/anime/8411",
+        "https://livechart.me/anime/8412",
+        "https://livechart.me/anime/8414",
+        "https://livechart.me/anime/8415",
+        "https://livechart.me/anime/8416",
         "https://myanimelist.net/anime/1472",
         "https://myanimelist.net/anime/1475",
         "https://notify.moe/anime/0ODacKmig",
@@ -243,7 +281,8 @@
       "synonyms": [
         "Code Geass: Boukoku no Akito 5 - Itoshiki Monotachi e Picture Drama",
         "Code Geass: Boukoku no Akito Final - Itoshiki Monotachi e Picture Drama",
-        "コードギアス 亡国のアキト 第5章 憎しみの記憶から",
+        "Code Geass: Boukoku no Akito Saishuushou - Itoshiki Mono-tachi e Picture Drama",
+        "コードギアス 亡国のアキト 最終章 愛シキモノタチヘ",
         "コードギアス 亡国のアキト 第5章 映像特典 「劇場予告」"
       ],
       "relations": [
@@ -308,6 +347,8 @@
         "https://anidb.net/anime/266",
         "https://anime-planet.com/anime/detective-conan",
         "https://anime-planet.com/anime/detective-conan-movie-24-the-scarlet-bullet",
+        "https://anisearch.com/anime/13369",
+        "https://anisearch.com/anime/13663",
         "https://kitsu.io/anime/210",
         "https://myanimelist.net/anime/235",
         "https://myanimelist.net/anime/33149",
@@ -345,6 +386,7 @@
       "synonyms": [
         "DOG DAYS",
         "Psie Dni",
+        "dd s1",
         "Дните на Кучетата",
         "Собачьи деньки",
         "Собачьи дни",
@@ -361,11 +403,8 @@
         "https://anime-planet.com/anime/dog-days-gravure-talk",
         "https://anime-planet.com/anime/dog-days-limone-resort-tenbou-onsen",
         "https://anime-planet.com/anime/dog-days-recap",
-        "https://anisearch.com/anime/15143",
         "https://anisearch.com/anime/16187",
         "https://anisearch.com/anime/7565",
-        "https://anisearch.com/anime/8199",
-        "https://anisearch.com/anime/8790",
         "https://kitsu.io/anime/10345",
         "https://kitsu.io/anime/6598",
         "https://livechart.me/anime/1024",
@@ -423,35 +462,6 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/140371"
-      ],
-      "title": "Doggie Corgi 3",
-      "type": "ONA",
-      "episodes": 0,
-      "status": "ONGOING",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 2021
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140371-Qm4xWsq62IPu.png",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140371-Qm4xWsq62IPu.png",
-      "synonyms": [
-        "도기코기 3"
-      ],
-      "relations": [
-        "https://anilist.co/anime/140370"
-      ],
-      "tags": [
-        "animals",
-        "episodic",
-        "iyashikei",
-        "no dialogue",
-        "slice of life"
-      ],
-      "id": "https://anilist.co/anime/140371"
-    },
-    {
-      "sources": [
         "https://anisearch.com/anime/8978",
         "https://myanimelist.net/anime/20377"
       ],
@@ -481,28 +491,6 @@
         "softcore"
       ],
       "id": "https://myanimelist.net/anime/20377"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/14895"
-      ],
-      "title": "Fate/strange Fake",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 2019
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/14/14895.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/14/14895.webp",
-      "synonyms": [],
-      "relations": [],
-      "tags": [
-        "action",
-        "fantasy"
-      ],
-      "id": "https://anisearch.com/anime/14895"
     },
     {
       "sources": [
@@ -542,6 +530,7 @@
         "https://anilist.co/anime/121",
         "https://anilist.co/anime/430",
         "https://anime-planet.com/anime/fullmetal-alchemist",
+        "https://anisearch.com/anime/2519",
         "https://kitsu.io/anime/100",
         "https://kitsu.io/anime/394",
         "https://livechart.me/anime/3406",
@@ -549,6 +538,7 @@
         "https://livechart.me/anime/3409",
         "https://livechart.me/anime/3410",
         "https://livechart.me/anime/3411",
+        "https://livechart.me/anime/5830",
         "https://myanimelist.net/anime/121",
         "https://myanimelist.net/anime/430",
         "https://notify.moe/anime/iMat5FmmR",
@@ -557,6 +547,7 @@
       "tags": [
         "action",
         "adventure",
+        "alchemy",
         "based on a manga",
         "chibi",
         "comedy",
@@ -564,6 +555,7 @@
         "fantasy",
         "magic",
         "military",
+        "pov",
         "present",
         "short episodes",
         "shounen",
@@ -578,6 +570,7 @@
         "https://anime-planet.com/anime/ganbare-lulu-lolo",
         "https://anisearch.com/anime/8092",
         "https://kitsu.io/anime/8984",
+        "https://livechart.me/anime/11457",
         "https://myanimelist.net/anime/20755",
         "https://notify.moe/anime/RzQxtKimR"
       ],
@@ -607,10 +600,12 @@
         "https://anime-planet.com/anime/ganbare-lulu-lolo-2nd-season",
         "https://anime-planet.com/anime/kuma-no-gakkou-movie-1-jackie-to-katie",
         "https://anime-planet.com/anime/tiny-twin-bears-3rd-season",
-        "https://anisearch.com/anime/10848",
+        "https://anisearch.com/anime/6453",
         "https://anisearch.com/anime/9863",
         "https://kitsu.io/anime/5686",
         "https://kitsu.io/anime/9170",
+        "https://livechart.me/anime/1856",
+        "https://livechart.me/anime/807",
         "https://myanimelist.net/anime/26163",
         "https://myanimelist.net/anime/9339",
         "https://notify.moe/anime/Lao-pFmig",
@@ -630,9 +625,33 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/heidong"
+      ],
+      "title": "Heidong",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "UPCOMING",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": null
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/heidong-1.webp?t=1653709364",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/heidong-1-285x400.webp?t=1653709364",
+      "synonyms": [],
+      "relations": [],
+      "tags": [
+        "abstract",
+        "black and white",
+        "chinese animation",
+        "shorts"
+      ],
+      "id": "https://anime-planet.com/anime/heidong"
+    },
+    {
+      "sources": [
         "https://anilist.co/anime/131762",
+        "https://anime-planet.com/anime/zutomayo-humanoid",
         "https://kitsu.io/anime/42312",
-        "https://myanimelist.net/anime/41624",
         "https://myanimelist.net/anime/50053"
       ],
       "title": "Humanoid",
@@ -646,6 +665,7 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1079/118638.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1079/118638t.jpg",
       "synonyms": [
+        "ZUTOMAYO: Humanoid",
         "ヒューマノイド"
       ],
       "relations": [
@@ -654,6 +674,7 @@
       "tags": [
         "music",
         "psychological",
+        "sci fi",
         "supernatural"
       ],
       "id": "https://myanimelist.net/anime/50053"
@@ -662,6 +683,7 @@
       "sources": [
         "https://anilist.co/anime/104363",
         "https://anime-planet.com/anime/i-wanna-be-your-friend",
+        "https://anisearch.com/anime/13687",
         "https://kitsu.io/anime/13288",
         "https://myanimelist.net/anime/44775",
         "https://notify.moe/anime/ohnn2Fimg"
@@ -677,6 +699,7 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1419/110747.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1419/110747t.jpg",
       "synonyms": [
+        "Wanna Be Your Friend",
         "「I Wanna Be Your Friend」（小川 育 / Iku OGAWA）"
       ],
       "relations": [],
@@ -691,6 +714,80 @@
         "urban"
       ],
       "id": "https://myanimelist.net/anime/44775"
+    },
+    {
+      "sources": [
+        "https://anidb.net/anime/17517",
+        "https://anilist.co/anime/152523",
+        "https://anime-planet.com/anime/chillin-in-my-30s-after-getting-fired-from-the-demon-kings-army",
+        "https://anisearch.com/anime/17532",
+        "https://kitsu.io/anime/46274",
+        "https://livechart.me/anime/11337",
+        "https://myanimelist.net/anime/52446",
+        "https://notify.moe/anime/QOdkrog4g"
+      ],
+      "title": "Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life",
+      "type": "TV",
+      "episodes": 12,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2023
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1224/132328.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1224/132328t.jpg",
+      "synonyms": [
+        "Chillin' in My 30s after Getting Fired from the Demon King's Army",
+        "Chillin` in My 30s After Getting Fired from the Demon King`s Army",
+        "Chillin’ in My 30s after Getting Fired from the Demon King’s Army",
+        "Kaiko Sareta Ankoku Heishi (30-dai) no Slow na Second Life",
+        "Kaikosareta Ankoku Heishi (30-dai) no Slow na Second Life",
+        "The Slow Second Life of a Dismissed Dark Soldier (Age 30)",
+        "ankokuheishi",
+        "Мені за тридцять вже минало, аж раптом з армії прогнали",
+        "被解雇的暗黑士兵（30岁）慢生活的第二人生",
+        "解雇された暗黒兵士(30代)のスローなセカンドライフ",
+        "解雇された暗黒兵士（30代）のスローなセカンドライフ"
+      ],
+      "relations": [
+        "https://anilist.co/anime/159690",
+        "https://livechart.me/anime/11780",
+        "https://myanimelist.net/anime/54084",
+        "https://notify.moe/anime/slCXg4o4g"
+      ],
+      "tags": [
+        "action",
+        "adoption",
+        "alternate universe",
+        "alternative world",
+        "based on a manga",
+        "cgi",
+        "comedy",
+        "demons",
+        "dragons",
+        "ecchi",
+        "family life",
+        "fantasy",
+        "found family",
+        "harem",
+        "heterosexual",
+        "lifestyle change",
+        "magic",
+        "male protagonist",
+        "monsters",
+        "novel",
+        "overpowered main characters",
+        "primarily adult cast",
+        "romance",
+        "rural",
+        "seinen",
+        "slice of life",
+        "slow life",
+        "swordplay",
+        "swords & co",
+        "time skip"
+      ],
+      "id": "https://myanimelist.net/anime/52446"
     },
     {
       "sources": [
@@ -710,15 +807,16 @@
         "season": "WINTER",
         "year": 1931
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/11/67917.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/11/67917t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1697/129529.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1697/129529t.jpg",
       "synonyms": [
         "Power of the Heart",
         "Will Power",
         "心の力"
       ],
       "relations": [
-        "https://anidb.net/anime/10735"
+        "https://anidb.net/anime/10735",
+        "https://anisearch.com/anime/10065"
       ],
       "tags": [
         "action",
@@ -731,6 +829,7 @@
         "romance",
         "short movie",
         "shorts",
+        "silent movie",
         "slapstick",
         "swords & co",
         "youkai"
@@ -775,6 +874,7 @@
         "adventure",
         "comedy",
         "fantasy",
+        "female protagonist",
         "game",
         "henshin",
         "heroine of strong character",
@@ -786,34 +886,10 @@
         "present",
         "short episodes",
         "slice of life",
+        "strategy game",
         "supernatural drama"
       ],
       "id": "https://myanimelist.net/anime/33690"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/49625"
-      ],
-      "title": "Oni Chichi: Refresh♥️ Special",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2015
-      },
-      "picture": "https://cdn.myanimelist.net/images/anime/1008/117260.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1008/117260t.jpg",
-      "synonyms": [
-        "鬼父 Refresh♥️ Special"
-      ],
-      "relations": [
-        "https://myanimelist.net/anime/30891"
-      ],
-      "tags": [
-        "hentai"
-      ],
-      "id": "https://myanimelist.net/anime/49625"
     },
     {
       "sources": [
@@ -860,112 +936,8 @@
     },
     {
       "sources": [
-        "https://anisearch.com/anime/10132"
-      ],
-      "title": "Pokémon the Movie XY: Ring no Choumajin Hoopa",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SUMMER",
-        "year": 2015
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/10/10132.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/10/10132.webp",
-      "synonyms": [
-        "Il film Pokémon: Hoopa e lo scontro epocale",
-        "Pokémon Movie 18",
-        "Pokémon the Movie XY: Ring no Chōmajin Hōpa",
-        "Pokémon the Movie: Hoopa and the Clash of Ages",
-        "Pokémon, le film: Hoopa et le choc des légendes",
-        "Pokémon: Der Film - Hoopa und der Kampf der Geschichte",
-        "ポケモン・ザ・ムービーXY 光輪の超魔神 フーパ"
-      ],
-      "relations": [
-        "https://anisearch.com/anime/10444",
-        "https://anisearch.com/anime/10686",
-        "https://anisearch.com/anime/10759",
-        "https://anisearch.com/anime/109",
-        "https://anisearch.com/anime/11070",
-        "https://anisearch.com/anime/11242",
-        "https://anisearch.com/anime/11243",
-        "https://anisearch.com/anime/11244",
-        "https://anisearch.com/anime/11245",
-        "https://anisearch.com/anime/11309",
-        "https://anisearch.com/anime/11437",
-        "https://anisearch.com/anime/11443",
-        "https://anisearch.com/anime/11662",
-        "https://anisearch.com/anime/11677",
-        "https://anisearch.com/anime/11757",
-        "https://anisearch.com/anime/11938",
-        "https://anisearch.com/anime/11939",
-        "https://anisearch.com/anime/12149",
-        "https://anisearch.com/anime/12911",
-        "https://anisearch.com/anime/13078",
-        "https://anisearch.com/anime/13125",
-        "https://anisearch.com/anime/13756",
-        "https://anisearch.com/anime/14495",
-        "https://anisearch.com/anime/14596",
-        "https://anisearch.com/anime/1476",
-        "https://anisearch.com/anime/15641",
-        "https://anisearch.com/anime/1612",
-        "https://anisearch.com/anime/164",
-        "https://anisearch.com/anime/1864",
-        "https://anisearch.com/anime/2105",
-        "https://anisearch.com/anime/2136",
-        "https://anisearch.com/anime/2222",
-        "https://anisearch.com/anime/2446",
-        "https://anisearch.com/anime/2602",
-        "https://anisearch.com/anime/2658",
-        "https://anisearch.com/anime/2831",
-        "https://anisearch.com/anime/2914",
-        "https://anisearch.com/anime/3100",
-        "https://anisearch.com/anime/3139",
-        "https://anisearch.com/anime/3293",
-        "https://anisearch.com/anime/3495",
-        "https://anisearch.com/anime/3551",
-        "https://anisearch.com/anime/3684",
-        "https://anisearch.com/anime/3721",
-        "https://anisearch.com/anime/3975",
-        "https://anisearch.com/anime/4690",
-        "https://anisearch.com/anime/5197",
-        "https://anisearch.com/anime/5533",
-        "https://anisearch.com/anime/5740",
-        "https://anisearch.com/anime/5741",
-        "https://anisearch.com/anime/5867",
-        "https://anisearch.com/anime/6306",
-        "https://anisearch.com/anime/6678",
-        "https://anisearch.com/anime/7344",
-        "https://anisearch.com/anime/7521",
-        "https://anisearch.com/anime/7540",
-        "https://anisearch.com/anime/7550",
-        "https://anisearch.com/anime/7655",
-        "https://anisearch.com/anime/7870",
-        "https://anisearch.com/anime/7955",
-        "https://anisearch.com/anime/8231",
-        "https://anisearch.com/anime/8300",
-        "https://anisearch.com/anime/8513",
-        "https://anisearch.com/anime/8744",
-        "https://anisearch.com/anime/8745",
-        "https://anisearch.com/anime/9040",
-        "https://anisearch.com/anime/9045",
-        "https://anisearch.com/anime/9184",
-        "https://anisearch.com/anime/9404",
-        "https://anisearch.com/anime/9591",
-        "https://anisearch.com/anime/9801"
-      ],
-      "tags": [
-        "action",
-        "adventure",
-        "alternative world",
-        "comedy",
-        "fantasy",
-        "monster"
-      ],
-      "id": "https://anisearch.com/anime/10132"
-    },
-    {
-      "sources": [
+        "https://anidb.net/anime/14525",
+        "https://anisearch.com/anime/12566",
         "https://myanimelist.net/anime/38611"
       ],
       "title": "Power Battle Watch Car",
@@ -979,40 +951,25 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1013/95954.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1013/95954t.jpg",
       "synonyms": [
+        "Paweobaeteul Wacika",
+        "Power Battle Watchcar",
         "Watchcar",
         "파워배틀 와치카"
       ],
       "relations": [
+        "https://anidb.net/anime/14942",
+        "https://anisearch.com/anime/12567",
         "https://myanimelist.net/anime/38612"
       ],
       "tags": [
-        "cars",
-        "kids"
+        "cg-anime",
+        "comedy",
+        "ganbatte",
+        "half-length episodes",
+        "kids",
+        "racing"
       ],
       "id": "https://myanimelist.net/anime/38611"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/17114"
-      ],
-      "title": "Sukidatta (Hazudatta)",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 2022
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/17/17114.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17114.webp",
-      "synonyms": [
-        "Macaroni Empitsu - Sukidatta (Hazudatta)",
-        "公式マカロニえんぴつ - 好きだった（はずだった ）",
-        "好きだった（はずだった ）"
-      ],
-      "relations": [],
-      "tags": [],
-      "id": "https://anisearch.com/anime/17114"
     },
     {
       "sources": [
@@ -1055,10 +1012,8 @@
         "https://anime-planet.com/anime/tamagotchi-movie-2-happiest-story-in-the-universe",
         "https://anime-planet.com/anime/tamagotchi-movie-3-himitsu-no-otodake-daisakusen",
         "https://anime-planet.com/anime/tamagotchi-tamatomo-daishuu-go",
-        "https://anisearch.com/anime/10283",
         "https://anisearch.com/anime/5554",
         "https://anisearch.com/anime/8901",
-        "https://anisearch.com/anime/9574",
         "https://kitsu.io/anime/4778",
         "https://kitsu.io/anime/7990",
         "https://livechart.me/anime/1427",
@@ -1087,6 +1042,7 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/5037",
         "https://anime-planet.com/anime/toward-the-terra-tv-specials",
         "https://kitsu.io/anime/3897",
         "https://livechart.me/anime/8577",
@@ -1106,16 +1062,22 @@
       "synonyms": [
         "Chikyuu he",
         "Terra e... (2007)",
+        "Terra e... Specials",
         "Terra e... TV Specials",
+        "To Terra...",
+        "Toward the Terra",
         "Toward the Terra TV Specials",
         "Towards the Terra... Epilogue",
         "Towards the Terra... Pilot",
         "地球へ..."
       ],
       "relations": [
+        "https://anilist.co/anime/2158",
         "https://anime-planet.com/anime/toward-the-terra",
         "https://anime-planet.com/anime/toward-the-terra-tv",
         "https://kitsu.io/anime/1954",
+        "https://livechart.me/anime/4562",
+        "https://livechart.me/anime/6147",
         "https://myanimelist.net/anime/2158",
         "https://notify.moe/anime/RDqYcKmmR"
       ],
@@ -1130,71 +1092,42 @@
         "sci-fi",
         "science fiction",
         "shounen",
+        "space",
         "superpowers"
       ],
       "id": "https://myanimelist.net/anime/5037"
     },
     {
       "sources": [
-        "https://anisearch.com/anime/14612"
+        "https://anilist.co/anime/149084"
       ],
-      "title": "Tie Jia Wei Chong: Ji Ren Wang",
-      "type": "TV",
-      "episodes": 52,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 2012
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/14/14612.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/14/14612.webp",
-      "synonyms": [
-        "Armored Beetles: Battle Blade",
-        "Kibaoh Armored Beetles",
-        "铁甲威虫之骑刃王",
-        "铁甲威虫骑刃王"
-      ],
-      "relations": [],
-      "tags": [],
-      "id": "https://anisearch.com/anime/14612"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/16414"
-      ],
-      "title": "Vivy: Fluorite Eye’s Song - Tokubetsu Soushuuhen - To Make Everyone Happy with My Singing",
-      "type": "ONA",
+      "title": "Tokyo Ghetto 0.8",
+      "type": "SPECIAL",
       "episodes": 1,
-      "status": "FINISHED",
+      "status": "UPCOMING",
       "animeSeason": {
-        "season": "SPRING",
-        "year": 2021
+        "season": "UNDEFINED",
+        "year": null
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/16/16414.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/16/16414.webp",
+      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b149084-JNaNU0e6Be0v.jpg",
+      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b149084-JNaNU0e6Be0v.jpg",
       "synonyms": [
-        "Vivy: Fluorite Eye’s Song - Special Summary: To Make Everyone Happy With My Singing",
-        "Vivy: Fluorite Eye’s Song - Tokubetsu Sōshūhen - To Make Everyone Happy with My Singing",
-        "Vivy: Fluorite Eye’s Song Recap",
-        "Vivy: Fluorite Eye’s Song- 特別総集編 - To make everyone happy with my singing-"
+        "トーキョーゲットー0.8"
       ],
       "relations": [
-        "https://anisearch.com/anime/15898"
+        "https://anilist.co/anime/106921"
       ],
       "tags": [
-        "action",
-        "adventure",
         "drama",
-        "robots & androids",
-        "science-fiction"
+        "psychological"
       ],
-      "id": "https://anisearch.com/anime/16414"
+      "id": "https://anilist.co/anime/149084"
     },
     {
       "sources": [
         "https://myanimelist.net/anime/45832"
       ],
-      "title": "Yang Jia Jiang Zhi Pan Yang An",
+      "title": "Yang Jia Jiang: Pan Yang An",
       "type": "TV",
       "episodes": 41,
       "status": "FINISHED",
@@ -1202,8 +1135,8 @@
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1722/128639.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1722/128639t.jpg",
       "synonyms": [
         "杨家将之潘杨案"
       ],
@@ -1212,7 +1145,9 @@
         "https://myanimelist.net/anime/45833"
       ],
       "tags": [
-        "historical"
+        "anthropomorphic",
+        "fantasy",
+        "kids"
       ],
       "id": "https://myanimelist.net/anime/45832"
     },

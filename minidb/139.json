@@ -39,6 +39,8 @@
         "https://anime-planet.com/anime/22-7-rikai-sha",
         "https://anime-planet.com/anime/22-7-shampoo-no-nioi-ga-shita",
         "https://anime-planet.com/anime/227-kaze-wa-fuiteru-ka",
+        "https://anisearch.com/anime/12721",
+        "https://anisearch.com/anime/14628",
         "https://myanimelist.net/anime/37406",
         "https://myanimelist.net/anime/37589",
         "https://myanimelist.net/anime/38051",
@@ -54,8 +56,11 @@
         "full cgi",
         "idol",
         "idols",
+        "idols (female)",
         "indefinite",
         "music",
+        "musical",
+        "no dialogue",
         "present",
         "school"
       ],
@@ -101,12 +106,14 @@
       "relations": [],
       "tags": [
         "adventure",
+        "animals",
         "based on a fairy tale",
         "classic literature",
         "coming of age",
         "earth",
         "fairy tale",
         "fantasy",
+        "heterosexual",
         "historical",
         "kids",
         "magic",
@@ -120,39 +127,32 @@
     },
     {
       "sources": [
-        "https://kitsu.io/anime/10605",
-        "https://myanimelist.net/anime/30050",
-        "https://notify.moe/anime/s_SQpFiiR"
+        "https://myanimelist.net/anime/54506"
       ],
-      "title": "Cooking Papa Christmas Special",
+      "title": "Dive feat. MRSHLL and Megan Lee",
       "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
         "season": "WINTER",
-        "year": 1993
+        "year": 2018
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/7/71976.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/7/71976t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1006/133432.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1006/133432t.jpg",
       "synonyms": [
-        "クッキングパパ クリスマススペシャル"
+        "Dive"
       ],
-      "relations": [
-        "https://kitsu.io/anime/5203",
-        "https://myanimelist.net/anime/8123",
-        "https://notify.moe/anime/uxuzpFimg"
-      ],
+      "relations": [],
       "tags": [
-        "comedy",
-        "cooking",
-        "gourmet",
-        "slice of life"
+        "fantasy",
+        "music"
       ],
-      "id": "https://myanimelist.net/anime/30050"
+      "id": "https://myanimelist.net/anime/54506"
     },
     {
       "sources": [
         "https://anilist.co/anime/2644",
+        "https://anisearch.com/anime/6937",
         "https://kitsu.io/anime/2408",
         "https://livechart.me/anime/8883",
         "https://notify.moe/anime/Q_As5KimR"
@@ -168,18 +168,39 @@
       "picture": "https://media.kitsu.io/anime/poster_images/2408/small.jpg",
       "thumbnail": "https://media.kitsu.io/anime/poster_images/2408/tiny.jpg",
       "synonyms": [
+        "Doraemon: Shinigami-yama no Takaramono",
+        "Doraemon: Treasure of the Shinigami Mountain",
+        "ドラえもん 死神山の宝物",
         "ドラえもん　死神山の宝物"
       ],
       "relations": [
         "https://anilist.co/anime/2471",
         "https://kitsu.io/anime/460",
+        "https://livechart.me/anime/5614",
+        "https://livechart.me/anime/6575",
+        "https://livechart.me/anime/6880",
+        "https://livechart.me/anime/7693",
+        "https://livechart.me/anime/8740",
+        "https://livechart.me/anime/8868",
+        "https://livechart.me/anime/8871",
+        "https://livechart.me/anime/8877",
+        "https://livechart.me/anime/8878",
+        "https://livechart.me/anime/8884",
+        "https://livechart.me/anime/8897",
+        "https://livechart.me/anime/8900",
+        "https://livechart.me/anime/8901",
+        "https://livechart.me/anime/8902",
+        "https://livechart.me/anime/8998",
         "https://notify.moe/anime/BRto5KimR"
       ],
       "tags": [
+        "action",
         "adventure",
         "comedy",
         "fantasy",
         "kids",
+        "present",
+        "samurai",
         "shounen"
       ],
       "id": "https://kitsu.io/anime/2408"
@@ -214,6 +235,7 @@
       "relations": [
         "https://anidb.net/anime/13009",
         "https://kitsu.io/anime/13884",
+        "https://myanimelist.net/anime/44101",
         "https://notify.moe/anime/4PLIhFiig"
       ],
       "tags": [
@@ -247,8 +269,8 @@
         "season": "SPRING",
         "year": 2017
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/12/12637.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/12/12637.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/12/12637_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/12/12637.webp",
       "synonyms": [
         "Korean Transformers Movie",
         "Theatrical Version Ttobot: The Attack of the Robot Army",
@@ -261,40 +283,6 @@
         "cg-anime"
       ],
       "id": "https://anisearch.com/anime/12637"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/girls-und-panzer-fushou-akiyama-yukari-no-sensha-kouza",
-        "https://notify.moe/anime/-8AptFimR"
-      ],
-      "title": "Girls und Panzer: Fushou - Akiyama Yukari no Sensha Kouza",
-      "type": "SPECIAL",
-      "episodes": 6,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 2012
-      },
-      "picture": "https://anime-planet.com/images/anime/covers/6568.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/6568.jpg",
-      "synonyms": [
-        "Girls und Panzer: Akiyama Yukari's Tank Corner",
-        "Girls und Panzer: Akiyama Yukari's Tank Course",
-        "ガールズ＆パンツァー 不肖・秋山優花里の戦車講座"
-      ],
-      "relations": [
-        "https://anime-planet.com/anime/girls-und-panzer",
-        "https://anime-planet.com/anime/girls-und-panzer-fushou-akiyama-yukari-no-sensha-kouza-extra",
-        "https://notify.moe/anime/3wROpFmig",
-        "https://notify.moe/anime/8ct8pFimg"
-      ],
-      "tags": [
-        "educational",
-        "military",
-        "original work",
-        "school"
-      ],
-      "id": "https://anime-planet.com/anime/girls-und-panzer-fushou-akiyama-yukari-no-sensha-kouza"
     },
     {
       "sources": [
@@ -365,105 +353,26 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/hong-mao-lan-tu-ao-you-guo-lixian-ji"
+        "https://anime-planet.com/anime/kikuo-ill-forgive-you-even-if-you-die"
       ],
-      "title": "Hong Mao Lan Tu: Ao You Guo Lixian Ji",
-      "type": "TV",
-      "episodes": 48,
-      "status": "FINISHED",
+      "title": "Kikuo: I'll Forgive You Even If You Die",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "UNKNOWN",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": 2013
+        "year": 2023
       },
-      "picture": "https://cdn.anime-planet.com/anime/primary/hong-mao-lan-tu-ao-you-guo-lixian-ji-1.jpg?t=1625899188",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/hong-mao-lan-tu-ao-you-guo-lixian-ji-1-190x285.jpg?t=1625899188",
-      "synonyms": [],
-      "relations": [
-        "https://anime-planet.com/anime/hong-mao-lan-tu-a-muxing",
-        "https://anime-planet.com/anime/hong-mao-lan-tu-chuang-taikong",
-        "https://anime-planet.com/anime/hong-mao-lan-tu-guangming-jian",
-        "https://anime-planet.com/anime/hong-mao-lan-tu-haidi-lixian-ji",
-        "https://anime-planet.com/anime/hong-mao-lan-tu-huo-feng-huang",
-        "https://anime-planet.com/anime/hong-mao-lan-tu-kaixin-yike",
-        "https://anime-planet.com/anime/hong-mao-lan-tu-konglong-shijie",
-        "https://anime-planet.com/anime/hong-mao-lan-tu-kuaile-shizi",
-        "https://anime-planet.com/anime/hong-mao-lan-tu-le-fantian",
-        "https://anime-planet.com/anime/hong-mao-lan-tu-maoyan-kan-yuzhou",
-        "https://anime-planet.com/anime/hong-mao-lan-tu-meng-guo-li-xian-ji",
-        "https://anime-planet.com/anime/hong-mao-lan-tu-ni-wen-wo-da",
-        "https://anime-planet.com/anime/hong-mao-lan-tu-qi-xia-chuan",
-        "https://anime-planet.com/anime/hong-mao-lan-tu-qi-xia-waizhuan",
-        "https://anime-planet.com/anime/hong-mao-lan-tu-shuimo-donghua",
-        "https://anime-planet.com/anime/hong-mao-lan-tu-xiao-youmo",
-        "https://anime-planet.com/anime/hong-mao-lan-tu-yongzhe-guilai",
-        "https://anime-planet.com/anime/hong-mao-lan-tu-zhang-jian-zou-tianya"
-      ],
-      "tags": [
-        "chinese animation",
-        "family friendly"
-      ],
-      "id": "https://anime-planet.com/anime/hong-mao-lan-tu-ao-you-guo-lixian-ji"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/1569"
-      ],
-      "title": "Kekkon: Marriage",
-      "type": "OVA",
-      "episodes": 2,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 1996
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/1/1569.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/1/1569.webp",
+      "picture": "https://cdn.anime-planet.com/anime/primary/kikuo-ill-forgive-you-even-if-you-die-1.webp?t=1675629482",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/kikuo-ill-forgive-you-even-if-you-die-1-285x400.webp?t=1675629482",
       "synonyms": [
-        "Marriage",
-        "結婚 ～Marriage～"
+        "Kikuo: Kimi ga Shinde mo Yurushite Ageruyo"
       ],
-      "relations": [
-        "https://anisearch.com/anime/1337"
-      ],
+      "relations": [],
       "tags": [
-        "romance",
-        "slice of life"
+        "vocaloid"
       ],
-      "id": "https://anisearch.com/anime/1569"
-    },
-    {
-      "sources": [
-        "https://anidb.net/anime/16789",
-        "https://anime-planet.com/anime/konglong-baobei-zhi-longshen-yongshi-3"
-      ],
-      "title": "Konglong Baobei Zhi Longshen Yongshi 3",
-      "type": "TV",
-      "episodes": 52,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2011
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/konglong-baobei-zhi-longshen-yongshi-3-1.jpg?t=1625790468",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/konglong-baobei-zhi-longshen-yongshi-3-1-190x253.jpg?t=1625908482",
-      "synonyms": [
-        "恐龙宝贝之龙神勇士3"
-      ],
-      "relations": [
-        "https://anidb.net/anime/16788",
-        "https://anime-planet.com/anime/konglong-baobei-zhi-longshen-yongshi",
-        "https://anime-planet.com/anime/konglong-baobei-zhi-longshen-yongshi-2"
-      ],
-      "tags": [
-        "action",
-        "adventure",
-        "chinese animation",
-        "comedy",
-        "family friendly",
-        "half-length episodes",
-        "sci fi"
-      ],
-      "id": "https://anime-planet.com/anime/konglong-baobei-zhi-longshen-yongshi-3"
+      "id": "https://anime-planet.com/anime/kikuo-ill-forgive-you-even-if-you-die"
     },
     {
       "sources": [
@@ -498,9 +407,11 @@
         "Zatch Bell Movie 2: Attack of Mechavulcan",
         "Zatch Bell! Attack of Mechavulcan",
         "Zatch Bell: Attack of Mechavulcan",
+        "gash movie 2",
         "劇場版 金色のガッシュベル!! メカバルカンの来襲",
         "劇場版 金色のガッシュベル！！ メカバルカンの来襲",
         "劇場版　金色のガッシュベル!!　メカバルカンの来襲",
+        "金色的卡修 机械巴鲁刚的来袭",
         "금색의 갓슈벨 - 메카 발칸의 역습"
       ],
       "relations": [
@@ -510,11 +421,12 @@
         "https://anime-planet.com/anime/konjiki-no-gash-bell-ougon-no-chichi-wo-motsu-otoko",
         "https://anime-planet.com/anime/zatch-bell",
         "https://anime-planet.com/anime/zatch-bell-movie-1-101st-devil",
-        "https://anisearch.com/anime/1252",
         "https://anisearch.com/anime/1648",
-        "https://anisearch.com/anime/8822",
-        "https://anisearch.com/anime/8823",
         "https://kitsu.io/anime/225",
+        "https://livechart.me/anime/4408",
+        "https://livechart.me/anime/8614",
+        "https://livechart.me/anime/8653",
+        "https://livechart.me/anime/9123",
         "https://myanimelist.net/anime/250",
         "https://notify.moe/anime/34Nh5Kmmg"
       ],
@@ -538,61 +450,7 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/129657"
-      ],
-      "title": "Meishi Da Maoxian 2",
-      "type": "TV",
-      "episodes": 55,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2015
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129657-ZRcp0oiJHncX.jpg",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129657-ZRcp0oiJHncX.jpg",
-      "synonyms": [
-        "Kung Food 2",
-        "美食大冒险 第二季",
-        "美食大冒险第二季：火热之旅"
-      ],
-      "relations": [
-        "https://anilist.co/anime/129656",
-        "https://anilist.co/anime/129658"
-      ],
-      "tags": [
-        "action",
-        "comedy",
-        "fantasy",
-        "full cgi"
-      ],
-      "id": "https://anilist.co/anime/129657"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/49576"
-      ],
-      "title": "Mirai Mizue's Journey to the West",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/anime/1662/117024.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1662/117024t.jpg",
-      "synonyms": [
-        "Journey to the West, Saiyuki",
-        "水江西遊記（仮)"
-      ],
-      "relations": [],
-      "tags": [
-        "fantasy"
-      ],
-      "id": "https://myanimelist.net/anime/49576"
-    },
-    {
-      "sources": [
+        "https://anime-planet.com/anime/muku-hatojuu-no-meiken-monogatari",
         "https://kitsu.io/anime/11050",
         "https://myanimelist.net/anime/30944",
         "https://notify.moe/anime/A44utFiig"
@@ -624,41 +482,7 @@
     },
     {
       "sources": [
-        "https://anisearch.com/anime/13637"
-      ],
-      "title": "Märchen Mädchen (2019)",
-      "type": "TV",
-      "episodes": 2,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2019
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/13/13637.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/13/13637.webp",
-      "synonyms": [
-        "Maerchen Maedchen (Episodes 11+12)",
-        "Maerchen Maedchen (Episodios 11+12)",
-        "Maerchen Maedchen (Épisodes 11 & 12)",
-        "Märchen Mädchen (Episoden 11+12)",
-        "Märchen Mädchen Specials",
-        "メルヘン・メドヘン （2019）"
-      ],
-      "relations": [
-        "https://anisearch.com/anime/12656"
-      ],
-      "tags": [
-        "comedy",
-        "fantasy",
-        "magic",
-        "present",
-        "school",
-        "witches"
-      ],
-      "id": "https://anisearch.com/anime/13637"
-    },
-    {
-      "sources": [
+        "https://anime-planet.com/anime/narudoma-manner-movie",
         "https://kitsu.io/anime/12381",
         "https://myanimelist.net/anime/32276",
         "https://notify.moe/anime/ejIzhKmmg"
@@ -678,6 +502,7 @@
         "ナルどマ マナームービー"
       ],
       "relations": [
+        "https://anime-planet.com/anime/narudoma",
         "https://kitsu.io/anime/10342",
         "https://myanimelist.net/anime/29715",
         "https://notify.moe/anime/gX4UpFimR"
@@ -699,8 +524,8 @@
         "season": "UNDEFINED",
         "year": 2013
       },
-      "picture": "https://anime-planet.com/images/anime/covers/12290.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/12290.jpg",
+      "picture": "https://cdn.anime-planet.com/anime/primary/oster-project-flower-of-sorrow-1.jpg?t=1625898911",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/oster-project-flower-of-sorrow-1-190x266.jpg?t=1625898911",
       "synonyms": [],
       "relations": [],
       "tags": [
@@ -741,32 +566,6 @@
         "school girl"
       ],
       "id": "https://myanimelist.net/anime/3050"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/quartet-night-force-live"
-      ],
-      "title": "QUARTET NIGHT: Force Live",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2017
-      },
-      "picture": "https://anime-planet.com/images/anime/covers/17413.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/17413.jpg",
-      "synonyms": [],
-      "relations": [
-        "https://anime-planet.com/anime/starish-shining-romance",
-        "https://anime-planet.com/anime/uta-no-prince-sama-maji-love-legend-star"
-      ],
-      "tags": [
-        "cg animation",
-        "dancing",
-        "idols"
-      ],
-      "id": "https://anime-planet.com/anime/quartet-night-force-live"
     },
     {
       "sources": [
@@ -828,26 +627,55 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/sasakure-uk-qui"
+        "https://anidb.net/anime/17757",
+        "https://anilist.co/anime/162745",
+        "https://anime-planet.com/anime/ryukyu-timeline-2-searching-for-the-city-of-the-tedako",
+        "https://anisearch.com/anime/18007",
+        "https://kitsu.io/anime/46952",
+        "https://livechart.me/anime/11509",
+        "https://myanimelist.net/anime/53861"
       ],
-      "title": "sasakure.UK: QUI",
-      "type": "SPECIAL",
+      "title": "Ryuukyuu Timeline 2: Tedako no Machi Tanbou",
+      "type": "ONA",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2020
+        "season": "WINTER",
+        "year": 2022
       },
-      "picture": "https://anime-planet.com/images/anime/covers/17109.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/17109.jpg",
-      "synonyms": [],
-      "relations": [],
-      "tags": [
-        "abstract",
-        "non-human protagonists",
-        "vocaloid"
+      "picture": "https://cdn.myanimelist.net/images/anime/1635/131865.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1635/131865t.jpg",
+      "synonyms": [
+        "Ryukyu Timeline 2 ~Teda kono Machi Tanbo~",
+        "Ryukyu Timeline 2: Searching for the City of the Tedako",
+        "Ryukyu Timeline 2: Tedako no Machi Tanbou",
+        "Ryuukyuu Timeline 2: Teda Kono Machi Tanbou",
+        "Ryūkyū Timeline 2: Teda Kono Machi Tanbō",
+        "Urasoe, Okinawa Promotion",
+        "琉球タイムライン2 -てだこのまち探訪-",
+        "琉球タイムライン２～てだこのまち探訪～"
       ],
-      "id": "https://anime-planet.com/anime/sasakure-uk-qui"
+      "relations": [
+        "https://anidb.net/anime/17756",
+        "https://anilist.co/anime/162744",
+        "https://anime-planet.com/anime/ryukyu-timeline-the-girl-from-future-and-the-ancient-king",
+        "https://anisearch.com/anime/18006",
+        "https://kitsu.io/anime/46951",
+        "https://livechart.me/anime/11806",
+        "https://myanimelist.net/anime/53860"
+      ],
+      "tags": [
+        "adventure",
+        "comedy",
+        "fantasy",
+        "feudal japan",
+        "historical",
+        "person in a strange world",
+        "present",
+        "royalty",
+        "time travel"
+      ],
+      "id": "https://myanimelist.net/anime/53861"
     },
     {
       "sources": [
@@ -855,7 +683,7 @@
         "https://myanimelist.net/anime/4489"
       ],
       "title": "Septem Charm Magical Kanan: SP Summer Camp",
-      "type": "SPECIAL",
+      "type": "OVA",
       "episodes": 2,
       "status": "FINISHED",
       "animeSeason": {
@@ -875,7 +703,6 @@
         "Septem Charm まじかるカナン SP どきどき♥サマーキャンプ!"
       ],
       "relations": [
-        "https://anisearch.com/anime/1844",
         "https://anisearch.com/anime/2394",
         "https://myanimelist.net/anime/3301"
       ],
@@ -937,8 +764,10 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/sou-x-fireworks",
         "https://kitsu.io/anime/13728",
-        "https://myanimelist.net/anime/36162"
+        "https://myanimelist.net/anime/36162",
+        "https://notify.moe/anime/1_gI2KmiR"
       ],
       "title": "Sou: Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?-hen",
       "type": "SPECIAL",
@@ -954,16 +783,23 @@
         "Sou Happy! Fireworks Appreciation 360° CM",
         "Sou Happy! Hanabi Kanshou 360° CM",
         "Sou x Fireworks",
+        "Sou x Uchiage Hanabi",
         "爽「打ち上げ花火、下から見るか？横から見るか？篇」",
-        "爽ハッピー！　花火鑑賞 360° CM"
+        "爽ハッピー！　花火鑑賞 360° CM",
+        "爽ｘ打ち上げ花火～"
       ],
       "relations": [
+        "https://anime-planet.com/anime/fireworks",
         "https://kitsu.io/anime/12794",
         "https://myanimelist.net/anime/34498",
         "https://myanimelist.net/anime/36125",
-        "https://myanimelist.net/anime/36223"
+        "https://myanimelist.net/anime/36223",
+        "https://notify.moe/anime/a4iW2Fiig"
       ],
       "tags": [
+        "commercials",
+        "food and beverage",
+        "promotional",
         "romance",
         "slice of life"
       ],
@@ -971,18 +807,54 @@
     },
     {
       "sources": [
-        "https://myanimelist.net/anime/44870"
+        "https://anilist.co/anime/146485",
+        "https://anime-planet.com/anime/spogomi-world-cup-exhibition-match-arc",
+        "https://anisearch.com/anime/17262",
+        "https://livechart.me/anime/11350",
+        "https://myanimelist.net/anime/51300"
       ],
-      "title": "Sui Cheng Li Xin-Guiyu Zhou Yuan",
+      "title": "SpoGomi: World Cup Exhibition Match-hen",
       "type": "ONA",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "WINTER",
+        "year": 2022
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1467/121515.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1467/121515t.jpg",
+      "synonyms": [
+        "SpoGOMI: World Cup Exhibition Match-hen",
+        "SpoGomi: World Cup Exhibition Match Arc",
+        "スポGOMI ワールドカップエキシビジョンマッチ編",
+        "通称スポGOMI"
+      ],
+      "relations": [],
+      "tags": [
+        "alternate universe",
+        "cannibalism",
+        "coming of age",
+        "environmental",
+        "original work",
+        "promotional",
+        "sports"
+      ],
+      "id": "https://myanimelist.net/anime/51300"
+    },
+    {
+      "sources": [
+        "https://myanimelist.net/anime/44870"
+      ],
+      "title": "Sui Cheng Li Xin: Guiyu Zhou Yuan",
+      "type": "ONA",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "FALL",
         "year": 2014
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1726/127261.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1726/127261t.jpg",
       "synonyms": [
         "岁城璃心-鬼蜮咒原"
       ],
@@ -1002,10 +874,10 @@
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 1996
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1253/129057.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1253/129057t.jpg",
       "synonyms": [
         "太空特警"
       ],
@@ -1039,9 +911,10 @@
       "synonyms": [
         "Detective Opera Milky Holmes: Arsene Karei naru Yokubou",
         "Detective Opera Milky Holmes: Arsene's Magnificent Desire",
+        "Detective Opera Milky Holmes: Arsene’s Magnificent Desire",
         "Tantei Opera Milky Holmes: Arsene - Karei naru Yokubou",
         "Tantei Opera Milky Holmes: Arsene Karei Naru Yokubou",
-        "Tantei Opera Milky Holmes: Arsene Karei Naru Yokubō",
+        "Tantei Opera Milky Holmes: Arsene Karei naru Yokubō",
         "侦探歌剧 少女福尔摩斯 亚森 华丽的欲望",
         "探偵オペラ ミルキィホームズ アルセーヌ 華麗なる欲望",
         "探偵オペラミルキィホームズ アルセーヌ 華麗なる欲望"
@@ -1050,6 +923,7 @@
         "https://anidb.net/anime/7627",
         "https://anilist.co/anime/7768",
         "https://anime-planet.com/anime/tantei-opera-milky-holmes",
+        "https://anisearch.com/anime/6120",
         "https://kitsu.io/anime/11350",
         "https://kitsu.io/anime/42020",
         "https://livechart.me/anime/1049",
@@ -1131,6 +1005,7 @@
         "band",
         "based on a light novel",
         "comedy",
+        "cute girls doing cute things",
         "drama",
         "ecchi",
         "feet",
@@ -1181,6 +1056,63 @@
     },
     {
       "sources": [
+        "https://anisearch.com/anime/17256",
+        "https://myanimelist.net/anime/51463"
+      ],
+      "title": "Tsugunai",
+      "type": "OVA",
+      "episodes": 3,
+      "status": "ONGOING",
+      "animeSeason": {
+        "season": "SPRING",
+        "year": 2022
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1345/122084.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1345/122084t.jpg",
+      "synonyms": [
+        "ツグナヒ"
+      ],
+      "relations": [],
+      "tags": [
+        "big boobs",
+        "hentai",
+        "present"
+      ],
+      "id": "https://myanimelist.net/anime/51463"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/umiushi-shimai-gekijou-tanabata-hen",
+        "https://kitsu.io/anime/46666",
+        "https://myanimelist.net/anime/51853"
+      ],
+      "title": "Umiushi Shimai Gekijou: Tanabata-hen",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SUMMER",
+        "year": 2017
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1968/123902.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1968/123902t.jpg",
+      "synonyms": [
+        "Sea Slug Sisters Go to Heaven",
+        "うみうし姉妹劇場～七夕編～"
+      ],
+      "relations": [],
+      "tags": [
+        "abstract",
+        "avant garde",
+        "dementia",
+        "music",
+        "shorts",
+        "stop motion animation"
+      ],
+      "id": "https://myanimelist.net/anime/51853"
+    },
+    {
+      "sources": [
         "https://anime-planet.com/anime/xiaodou-pai-pai-qingshang-pei-you",
         "https://myanimelist.net/anime/47987"
       ],
@@ -1209,31 +1141,6 @@
     },
     {
       "sources": [
-        "https://myanimelist.net/anime/49607"
-      ],
-      "title": "Yami Shibai Tokubetsu-hen",
-      "type": "TV",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2021
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "闇芝居特別編"
-      ],
-      "relations": [
-        "https://myanimelist.net/anime/49110"
-      ],
-      "tags": [
-        "horror"
-      ],
-      "id": "https://myanimelist.net/anime/49607"
-    },
-    {
-      "sources": [
         "https://myanimelist.net/anime/47280"
       ],
       "title": "Zheng Yi Men",
@@ -1241,17 +1148,18 @@
       "episodes": 12,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
+        "season": "WINTER",
+        "year": 2016
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1825/129210.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1825/129210t.jpg",
       "synonyms": [
         "郑义门"
       ],
       "relations": [],
       "tags": [
-        "historical"
+        "historical",
+        "kids"
       ],
       "id": "https://myanimelist.net/anime/47280"
     }

@@ -3,6 +3,7 @@
     {
       "sources": [
         "https://anidb.net/anime/13530",
+        "https://anime-planet.com/anime/bary-san-x-gospe-rats-tonde-bary-bary-monogatari",
         "https://anisearch.com/anime/13014",
         "https://kitsu.io/anime/12331",
         "https://myanimelist.net/anime/31662",
@@ -20,10 +21,13 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/4/76286t.jpg",
       "synonyms": [
         "Bari-san x Gospe Rats: Tonde Bari Bari Monogatari",
+        "Bary-san x Gospe Rats: Tonde Bari Bari Story",
         "バリィさん×ゴスペラッツ 『トンデバリバリ物語』"
       ],
       "relations": [
         "https://anidb.net/anime/11630",
+        "https://anime-planet.com/anime/bary-san-no-imabari-ben-kouza",
+        "https://anisearch.com/anime/11535",
         "https://myanimelist.net/anime/30989"
       ],
       "tags": [
@@ -33,79 +37,92 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/12371"
-      ],
-      "title": "Bosco no Mori no Nakamatachi",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 1985
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12371.jpg",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12371.jpg",
-      "synonyms": [
-        "Bosco Adventure Pilot",
-        "ボスコの森のなかまたち"
-      ],
-      "relations": [
-        "https://anilist.co/anime/3460"
-      ],
-      "tags": [
-        "adventure",
-        "fantasy"
-      ],
-      "id": "https://anilist.co/anime/12371"
-    },
-    {
-      "sources": [
+        "https://anilist.co/anime/149087",
+        "https://anime-planet.com/anime/boshi-wa-dou-bianselong",
         "https://myanimelist.net/anime/43836"
       ],
-      "title": "Boshi Wa De Gushi: Dou Bianselong",
+      "title": "Boshi Wa Dou Bianselong",
       "type": "MOVIE",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 1996
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1731/122454.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1731/122454t.jpg",
       "synonyms": [
-        "博士蛙的故事：斗變色龍"
+        "Dou Bianselong",
+        "博士蛙斗变色龙",
+        "博士蛙的故事《斗变色龙》",
+        "斗变色龙"
       ],
       "relations": [],
       "tags": [
+        "chinese animation",
         "fantasy",
-        "kids"
+        "kids",
+        "shorts"
       ],
       "id": "https://myanimelist.net/anime/43836"
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/caloriemate-natsu-ga-hajimaru"
+        "https://anime-planet.com/anime/cornelius-audio-architecture"
       ],
-      "title": "CalorieMate: Natsu ga Hajimaru.",
-      "type": "ONA",
+      "title": "Cornelius: Audio Architecture",
+      "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": 2021
+        "year": 2019
       },
-      "picture": "https://cdn.anime-planet.com/anime/primary/caloriemate-natsu-ga-hajimaru-1.webp?t=1628017139",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/caloriemate-natsu-ga-hajimaru-1-285x399.webp?t=1628017140",
+      "picture": "https://cdn.anime-planet.com/anime/primary/cornelius-audio-architecture-1.webp?t=1670039648",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/cornelius-audio-architecture-1-285x399.webp?t=1670039648",
       "synonyms": [],
       "relations": [],
       "tags": [
-        "no dialogue",
-        "promotional",
-        "school life",
-        "shorts",
-        "sports"
+        "abstract",
+        "black and white"
       ],
-      "id": "https://anime-planet.com/anime/caloriemate-natsu-ga-hajimaru"
+      "id": "https://anime-planet.com/anime/cornelius-audio-architecture"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/152212",
+        "https://kitsu.io/anime/46535"
+      ],
+      "title": "Douluo Dalu: Gui Zong Zhi Lu",
+      "type": "ONA",
+      "episodes": 3,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SUMMER",
+        "year": 2022
+      },
+      "picture": "https://media.kitsu.io/anime/46535/poster_image/small-74f3b797cae519493f2523e933659757.jpeg",
+      "thumbnail": "https://media.kitsu.io/anime/46535/poster_image/tiny-327a21ace99df1d06cc2d5588bb97c5b.jpeg",
+      "synonyms": [
+        "Douluo Dalu Part 15",
+        "Soul Land Part 15",
+        "斗罗大陆 归宗之路",
+        "斗罗大陆 第十五部分"
+      ],
+      "relations": [
+        "https://anilist.co/anime/152211",
+        "https://anilist.co/anime/152213",
+        "https://kitsu.io/anime/46536",
+        "https://kitsu.io/anime/46537"
+      ],
+      "tags": [
+        "action",
+        "adventure",
+        "fantasy",
+        "full cgi",
+        "romance"
+      ],
+      "id": "https://kitsu.io/anime/46535"
     },
     {
       "sources": [
@@ -125,6 +142,7 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1069/103379.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1069/103379t.jpg",
       "synonyms": [
+        "Eily wa Ousama!",
         "エイリは王さま!",
         "エイリは王さま！"
       ],
@@ -236,6 +254,7 @@
       "sources": [
         "https://anidb.net/anime/6606",
         "https://anilist.co/anime/136227",
+        "https://anime-planet.com/anime/go-go-toraemon",
         "https://anisearch.com/anime/10659",
         "https://kitsu.io/anime/9285",
         "https://myanimelist.net/anime/23245",
@@ -257,6 +276,7 @@
       "relations": [],
       "tags": [
         "baseball",
+        "based on a manga",
         "comedy",
         "sports"
       ],
@@ -264,6 +284,7 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/undetectable-box",
         "https://myanimelist.net/anime/50452"
       ],
       "title": "Hei He",
@@ -271,7 +292,7 @@
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "SPRING",
         "year": 2019
       },
       "picture": "https://cdn.myanimelist.net/images/anime/1255/119643.jpg",
@@ -284,7 +305,10 @@
       "relations": [],
       "tags": [
         "action",
-        "psychological"
+        "chinese animation",
+        "psychological",
+        "shorts",
+        "suspense"
       ],
       "id": "https://myanimelist.net/anime/50452"
     },
@@ -302,8 +326,8 @@
         "season": "FALL",
         "year": 2005
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/3/3013.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/3/3013.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/3/3013_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/3/3013.webp",
       "synonyms": [
         "IGPX",
         "IGPX - Immortal Grand Prix",
@@ -368,6 +392,7 @@
     {
       "sources": [
         "https://anime-planet.com/anime/blood-blockade-battlefront-even-these-are-the-worst-and-best-days-ever",
+        "https://anisearch.com/anime/10468",
         "https://kitsu.io/anime/11030",
         "https://myanimelist.net/anime/30915",
         "https://notify.moe/anime/vBZutFiig"
@@ -384,29 +409,45 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/3/74387t.jpg",
       "synonyms": [
         "Blood Blockade Battlefront - Trotz Allern: Die Besten und Schlechtesten Zeiten",
+        "Blood Blockade Battlefront Episode 10.5",
+        "Blood Blockade Battlefront Special",
+        "Blood Blockade Battlefront: Anche questi sono i giorni peggiori e migliori",
         "Blood Blockade Battlefront: Even These Are the Worst and Best Days Ever",
+        "Blood Blockade Battlefront: Even These Are the Worst and the Best Days Ever",
+        "Blood Blockade Battlefront: Incluso estos son los mejores y peores días de la vida",
+        "Blood Blockade Battlefront: Nos plus belles et nos plus sales journées",
+        "Blood Blockade Battlefront: Trotz allem - Die besten und schlechtesten Zeiten",
         "Kekkai Sensen 10.5",
-        "血界戦線 #10.5特別編「それさえも最低で最高な日々」"
+        "Kekkai Sensen Episode 10.5",
+        "Kekkai Sensen: Sore sae mo Saitei de Saikou na Hibi",
+        "Kekkai Sensen: Sore sae mo Saitei de Saikō na Hibi",
+        "血界戦線 #10.5特別編「それさえも最低で最高な日々」",
+        "血界戦線 それさえも最低で最高な日々"
       ],
       "relations": [
         "https://anime-planet.com/anime/blood-blockade-battlefront",
         "https://anime-planet.com/anime/blood-blockade-battlefront-and-beyond",
         "https://anime-planet.com/anime/blood-blockade-battlefront-and-beyond-ova",
         "https://anime-planet.com/anime/blood-blockade-battlefront-ova",
+        "https://anisearch.com/anime/9971",
         "https://kitsu.io/anime/8646",
         "https://myanimelist.net/anime/24439",
         "https://notify.moe/anime/A0D1tKmig"
       ],
       "tags": [
         "action",
+        "adventure",
         "based on a manga",
         "fantasy",
         "recap",
         "sci fi",
+        "science-fiction",
         "shounen",
         "super power",
         "supernatural",
-        "vampire"
+        "supernatural drama",
+        "vampire",
+        "vampires"
       ],
       "id": "https://myanimelist.net/anime/30915"
     },
@@ -432,6 +473,7 @@
       "picture": "https://cdn.myanimelist.net/images/anime/9/3235.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/9/3235t.jpg",
       "synonyms": [
+        "MEZZO",
         "MEZZO -メゾ-",
         "MEZZO DSA",
         "Mezzo",
@@ -458,19 +500,20 @@
         "bounty hunter",
         "bounty hunters",
         "comedy",
-        "crime",
         "detective",
         "earth",
         "ecchi",
         "female protagonist",
         "guns",
         "japan",
+        "martial arts",
         "mystery",
         "new",
         "original work",
         "police",
         "present",
         "sci-fi",
+        "science fiction",
         "science-fiction",
         "seinen",
         "supernatural drama",
@@ -508,6 +551,7 @@
         "Mushi-Shi: The Next Chapter",
         "Mushi-Shi: The Next Passage",
         "Mushi-shi Zoku Shou",
+        "Mushi-shi: Next Passage Part 1",
         "Mushishi -Next Passage-",
         "Mushishi S2",
         "Mushishi Season 2",
@@ -518,6 +562,7 @@
         "Mushishi: The Sequel Chapter",
         "Mushishi: Zoku-Sho",
         "Mushishi: Zoku-Shô",
+        "mushi s2",
         "mushi2",
         "mushishi2",
         "Мушиши (2014)",
@@ -538,9 +583,7 @@
         "https://anime-planet.com/anime/mushishi-zoku-shou-2nd-season",
         "https://anime-planet.com/anime/mushishi-zoku-shou-odoro-no-michi",
         "https://anime-planet.com/anime/mushishi-zoku-shou-suzu-no-shizuku",
-        "https://anisearch.com/anime/14584",
         "https://anisearch.com/anime/9224",
-        "https://anisearch.com/anime/926",
         "https://anisearch.com/anime/9573",
         "https://kitsu.io/anime/419",
         "https://kitsu.io/anime/8112",
@@ -561,6 +604,7 @@
         "https://notify.moe/anime/pmeAtFiig"
       ],
       "tags": [
+        "adult cast",
         "adventure",
         "anachronism",
         "based on a manga",
@@ -592,6 +636,7 @@
         "slice of life",
         "supernatural",
         "supernatural drama",
+        "travel",
         "youkai"
       ],
       "id": "https://myanimelist.net/anime/21939"
@@ -638,6 +683,7 @@
         "https://notify.moe/anime/VXUmhKmiR"
       ],
       "tags": [
+        "animals",
         "kids",
         "kodomo",
         "short episodes",
@@ -648,7 +694,6 @@
     {
       "sources": [
         "https://anidb.net/anime/13561",
-        "https://anilist.co/anime/137493",
         "https://anime-planet.com/anime/pig-the-dam-keeper-poems",
         "https://anisearch.com/anime/12046",
         "https://kitsu.io/anime/12723",
@@ -676,13 +721,11 @@
       "relations": [],
       "tags": [
         "animal protagonists",
-        "animals",
         "anthropomorphic",
         "anthropomorphism",
         "daily life",
         "family friendly",
         "fantasy",
-        "kids",
         "no dialogue",
         "non-human protagonists",
         "original work",
@@ -715,10 +758,12 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1071/94957t.jpg",
       "synonyms": [
         "Ranma 1/2 OAV Series (Episode 10 - 12)",
+        "Ranma 1/2 SUPER",
         "Ranma 1/2 Super",
         "Ranma 1/2 Super OVA",
         "Ranma OVA Super",
         "Ranma ½ Super OVA",
+        "ranma ova 4",
         "らんま1/2 SUPER",
         "らんま1/2 Super OVA",
         "らんま１／２　ＳＵＰＥＲ"
@@ -735,15 +780,7 @@
         "https://anime-planet.com/anime/ranma-special",
         "https://anime-planet.com/anime/ranma-the-movie-2-nihao-my-concubine",
         "https://anime-planet.com/anime/ranma-the-movie-big-trouble-in-nekonron-china",
-        "https://anisearch.com/anime/1057",
-        "https://anisearch.com/anime/1098",
-        "https://anisearch.com/anime/11814",
-        "https://anisearch.com/anime/282",
-        "https://anisearch.com/anime/357",
-        "https://anisearch.com/anime/385",
-        "https://anisearch.com/anime/5031",
         "https://anisearch.com/anime/5196",
-        "https://anisearch.com/anime/8737",
         "https://anisearch.com/anime/988",
         "https://kitsu.io/anime/4123",
         "https://kitsu.io/anime/900",
@@ -769,6 +806,7 @@
         "adventure",
         "animals",
         "based on a manga",
+        "combat sport",
         "comedy",
         "ecchi",
         "female harem",
@@ -807,8 +845,8 @@
         "season": "WINTER",
         "year": 2006
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/8/34621.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/8/34621t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1940/124243.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1940/124243t.jpg",
       "synonyms": [
         "REC",
         "Рек",
@@ -837,6 +875,7 @@
         "earth",
         "female protagonist",
         "half-length episodes",
+        "heterosexual",
         "japan",
         "male protagonist",
         "manga",
@@ -854,8 +893,7 @@
         "sudden girlfriend appearance",
         "voice acting",
         "work",
-        "work life",
-        "working life"
+        "work life"
       ],
       "id": "https://myanimelist.net/anime/710"
     },
@@ -878,13 +916,15 @@
         "season": "SPRING",
         "year": 2010
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/5/32589.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/5/32589t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1156/126909.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1156/126909t.jpg",
       "synonyms": [
         "Romance of the Three Kingdoms",
         "Romance of the Three Kingdoms (2010)",
         "Saikyou Bushou-den Sangoku Engi",
         "Saikyō Bushō-den Sangoku Engi",
+        "The Legend of the Strongest General: Romance of the Three Kingdoms",
+        "Zui Qiang Wujiang Chuan · Sanguo Yanyi",
         "最強武将伝 三国演義",
         "最強武将伝・三国演義",
         "最强武将传·三国演义",
@@ -898,6 +938,7 @@
         "ancient china",
         "based on a novel",
         "classic literature",
+        "foreign",
         "historical",
         "military",
         "novel",
@@ -965,6 +1006,7 @@
         "male harem",
         "manga",
         "music",
+        "performing arts",
         "reverse harem",
         "shoujo"
       ],
@@ -986,7 +1028,7 @@
       "status": "FINISHED",
       "animeSeason": {
         "season": "WINTER",
-        "year": 1931
+        "year": 1930
       },
       "picture": "https://cdn.myanimelist.net/images/anime/4/29217.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/4/29217t.jpg",
@@ -1018,60 +1060,82 @@
     },
     {
       "sources": [
+        "https://anidb.net/anime/17534",
         "https://anilist.co/anime/134101",
-        "https://anime-planet.com/anime/shen-lan-qi-yu-wushuang-zhu",
-        "https://myanimelist.net/anime/48965"
+        "https://anime-planet.com/anime/the-land-of-miracles",
+        "https://kitsu.io/anime/47171",
+        "https://myanimelist.net/anime/48965",
+        "https://notify.moe/anime/BgRlJdT4R"
       ],
       "title": "Shen Lan Qi Yu Wushuang Zhu",
       "type": "ONA",
-      "episodes": 0,
-      "status": "UPCOMING",
+      "episodes": 15,
+      "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2021
+        "season": "SUMMER",
+        "year": 2022
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/1717/114930.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1717/114930t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1907/125403.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1907/125403t.jpg",
       "synonyms": [
         "The Land of Miracles",
         "神澜奇域无双珠"
       ],
-      "relations": [],
+      "relations": [
+        "https://anilist.co/anime/155839",
+        "https://anime-planet.com/anime/shen-lan-qi-yu-wushuang-zhu-2",
+        "https://myanimelist.net/anime/53367",
+        "https://notify.moe/anime/TA3zxOoVR"
+      ],
       "tags": [
         "action",
         "based on a web novel",
+        "boys' love",
         "cg animation",
         "chinese animation",
+        "cultivation",
         "fantasy",
         "full cgi",
+        "kuudere",
+        "magic",
+        "orphan",
+        "revenge",
+        "shapeshifting",
+        "tragedy",
+        "urban fantasy",
         "wuxia"
       ],
       "id": "https://myanimelist.net/anime/48965"
     },
     {
       "sources": [
-        "https://anilist.co/anime/140583"
+        "https://anime-planet.com/anime/softbank-x-weathering-with-you-cm"
       ],
-      "title": "Shigatsu",
-      "type": "MOVIE",
+      "title": "SoftBank x Weathering With You CM",
+      "type": "SPECIAL",
       "episodes": 1,
-      "status": "FINISHED",
+      "status": "UPCOMING",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": 2018
+        "year": null
       },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140583-VjeF9eXirThy.png",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140583-VjeF9eXirThy.png",
+      "picture": "https://cdn.anime-planet.com/anime/primary/softbank-x-weathering-with-you-cm-1.webp?t=1664683376",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/softbank-x-weathering-with-you-cm-1-285x399.webp?t=1664683376",
       "synonyms": [
-        "Pieces of April",
-        "四月"
+        "SoftBank x Tenko no Ko CM"
       ],
-      "relations": [],
-      "tags": [],
-      "id": "https://anilist.co/anime/140583"
+      "relations": [
+        "https://anime-planet.com/anime/weathering-with-you"
+      ],
+      "tags": [
+        "commercials",
+        "promotional"
+      ],
+      "id": "https://anime-planet.com/anime/softbank-x-weathering-with-you-cm"
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/tian-yan-chuanqi",
         "https://myanimelist.net/anime/50168"
       ],
       "title": "Tian Yan Chuanqi",
@@ -1092,10 +1156,42 @@
       "relations": [],
       "tags": [
         "adventure",
+        "chinese animation",
         "fantasy",
         "kids"
       ],
       "id": "https://myanimelist.net/anime/50168"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/ttwittwippangppang-gujodae"
+      ],
+      "title": "Ttwittwippangppang Gujodae",
+      "type": "TV",
+      "episodes": 52,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": null
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/ttwittwippangppang-gujodae-1.webp?t=1657662586",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/ttwittwippangppang-gujodae-1-285x399.webp?t=1657662586",
+      "synonyms": [
+        "Rescue Paws",
+        "T-Pang Rescue"
+      ],
+      "relations": [
+        "https://anime-planet.com/anime/ttwittwippangppang-gujodae-2"
+      ],
+      "tags": [
+        "animal protagonists",
+        "anthropomorphic",
+        "cg animation",
+        "korean animation",
+        "non-human protagonists",
+        "short episodes"
+      ],
+      "id": "https://anime-planet.com/anime/ttwittwippangppang-gujodae"
     },
     {
       "sources": [
@@ -1151,6 +1247,7 @@
       "tags": [
         "animal protagonists",
         "anthropomorphic",
+        "award winning",
         "comedy",
         "family friendly",
         "koalas",
@@ -1173,7 +1270,7 @@
       ],
       "title": "Wan Jie Xian Zong 5th Season",
       "type": "ONA",
-      "episodes": 96,
+      "episodes": 190,
       "status": "ONGOING",
       "animeSeason": {
         "season": "SPRING",
@@ -1217,6 +1314,7 @@
         "historical",
         "manga",
         "martial arts",
+        "mythology",
         "romance",
         "short episodes"
       ],
@@ -1271,24 +1369,27 @@
       "picture": "https://cdn.myanimelist.net/images/anime/5/76911.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/5/76911t.jpg",
       "synonyms": [
+        "Yu-Gi-Oh ! Le Film",
         "Yu-Gi-Oh!",
         "Yu-Gi-Oh! - Der Film",
         "Yu-Gi-Oh! - O Filme",
         "Yu-Gi-Oh! A Mozifilm",
+        "Yu-Gi-Oh! Der Film",
+        "Yu-Gi-Oh! Der Film: Die Pyramide des Lichts",
         "Yu-Gi-Oh! Film: Pyramida světla",
         "Yu-Gi-Oh! Filmen: Den Lysende Pyramiden",
+        "Yu-Gi-Oh! Il Film",
+        "Yu-Gi-Oh! La película",
+        "Yu-Gi-Oh! La película: Pirámide de la luz",
         "Yu-Gi-Oh! Le film : La pyramide de lumière",
         "Yu-Gi-Oh! Movie 2: Hikari no Pyramid",
         "Yu-Gi-Oh! Movie 2: Pyramid of Light",
         "Yu-Gi-Oh! Ostateczne Starcie",
+        "Yu-Gi-Oh! Ostateczne starcie",
         "Yu-Gi-Oh! The Movie",
         "Yu-Gi-Oh! The Movie: Pyramid of Light",
         "Yu-Gi-Oh!: Der Film",
-        "Yu-Gi-Oh!: Die Pyramide des Lichts",
         "Yu-Gi-Oh!: Duel Monsters",
-        "Yu-Gi-Oh!: Il film",
-        "Yu-Gi-Oh!: La película",
-        "Yu-Gi-Oh!: Le Film",
         "Yu-Gi-Oh!: Le film",
         "Yu-Gi-Oh!: Pyramid of Light",
         "Yu-Gi-Oh!: The Movie",
@@ -1307,21 +1408,7 @@
         "https://anidb.net/anime/2061",
         "https://anilist.co/anime/481",
         "https://anime-planet.com/anime/yu-gi-oh-duel-monsters",
-        "https://anisearch.com/anime/10086",
-        "https://anisearch.com/anime/10482",
-        "https://anisearch.com/anime/12209",
-        "https://anisearch.com/anime/14866",
-        "https://anisearch.com/anime/1590",
         "https://anisearch.com/anime/220",
-        "https://anisearch.com/anime/2618",
-        "https://anisearch.com/anime/4740",
-        "https://anisearch.com/anime/482",
-        "https://anisearch.com/anime/5576",
-        "https://anisearch.com/anime/6825",
-        "https://anisearch.com/anime/8038",
-        "https://anisearch.com/anime/9402",
-        "https://anisearch.com/anime/9616",
-        "https://anisearch.com/anime/9659",
         "https://kitsu.io/anime/442",
         "https://livechart.me/anime/1009",
         "https://livechart.me/anime/1560",
@@ -1354,6 +1441,7 @@
         "fantasy",
         "friendship",
         "game",
+        "gaming – card games",
         "ganbatte",
         "high stakes games",
         "magic",
@@ -1366,6 +1454,7 @@
         "proxy battles",
         "science fiction",
         "shounen",
+        "strategy game",
         "urban fantasy"
       ],
       "id": "https://myanimelist.net/anime/1894"

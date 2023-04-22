@@ -2,6 +2,9 @@
   "data": [
     {
       "sources": [
+        "https://anidb.net/anime/7149",
+        "https://anime-planet.com/anime/sekai-meisaku-gekijou-kanketsu-ban-ai-shoujo-pollyanna-story",
+        "https://anisearch.com/anime/6128",
         "https://kitsu.io/anime/8954",
         "https://myanimelist.net/anime/24645",
         "https://notify.moe/anime/BVLbtFiiR"
@@ -18,10 +21,18 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/5/63433t.jpg",
       "synonyms": [
         "Ai Shoujo Pollyanna Monogatari Recaps",
+        "Pollyanna special",
+        "Porianna special",
         "Sekai Meisaku Gekijou Kanketsu Ban: Ai Shoujo Pollyanna Monogatari",
+        "Sekai Meisaku Gekijou Kanketsu Ban: Ai Shoujo Pollyanna Story",
+        "Sekai Meisaku Gekijō Kanketsu Ban: Ai Shōjo Pollyanna Monogatari",
+        "World Masterpiece Theater Complete Edition: Pollyanna",
         "世界名作劇場・完結版 愛少女ポリアンナ物語"
       ],
       "relations": [
+        "https://anidb.net/anime/2297",
+        "https://anime-planet.com/anime/ai-shoujo-pollyanna-monogatari",
+        "https://anisearch.com/anime/983",
         "https://kitsu.io/anime/2319",
         "https://myanimelist.net/anime/2554",
         "https://notify.moe/anime/pfMs5KiiR"
@@ -29,6 +40,7 @@
       "tags": [
         "drama",
         "historical",
+        "novel",
         "slice of life"
       ],
       "id": "https://myanimelist.net/anime/24645"
@@ -70,6 +82,7 @@
       ],
       "relations": [],
       "tags": [
+        "action",
         "adventure",
         "animals",
         "asia",
@@ -91,6 +104,7 @@
         "musical",
         "mythology",
         "novel",
+        "old asia",
         "past",
         "siblings",
         "slavery",
@@ -101,6 +115,7 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/bao-shou-lieren",
         "https://myanimelist.net/anime/47448"
       ],
       "title": "Bao Shou Lieren",
@@ -109,16 +124,22 @@
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2017
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1942/123246.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1942/123246t.jpg",
       "synonyms": [
+        "Eonster Hunter",
         "爆兽猎人"
       ],
       "relations": [],
       "tags": [
-        "adventure"
+        "adventure",
+        "chinese animation",
+        "family friendly",
+        "fantasy",
+        "kids",
+        "sci-fi"
       ],
       "id": "https://myanimelist.net/anime/47448"
     },
@@ -167,29 +188,6 @@
     },
     {
       "sources": [
-        "https://myanimelist.net/anime/48329"
-      ],
-      "title": "Chokohana",
-      "type": "TV",
-      "episodes": 38,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "초코하나"
-      ],
-      "relations": [],
-      "tags": [
-        "kids"
-      ],
-      "id": "https://myanimelist.net/anime/48329"
-    },
-    {
-      "sources": [
         "https://myanimelist.net/anime/46919"
       ],
       "title": "Daqin Wuhang Shaonian Chuan",
@@ -198,18 +196,49 @@
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2014
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1278/129392.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1278/129392t.jpg",
       "synonyms": [
+        "The Valor of Qin",
         "大秦五行少年传"
       ],
       "relations": [],
       "tags": [
-        "historical"
+        "kids"
       ],
       "id": "https://myanimelist.net/anime/46919"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/disney-twisted-wonderland-2-shuunen-kinen-pv"
+      ],
+      "title": "Disney: Twisted-Wonderland 2-shuunen Kinen PV",
+      "type": "ONA",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2022
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/disney-twisted-wonderland-2-shuunen-kinen-pv-1.webp?t=1650322301",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/disney-twisted-wonderland-2-shuunen-kinen-pv-1-285x400.webp?t=1650322301",
+      "synonyms": [
+        "Disney: Twisted-Wonderland 2nd Anniversary PV"
+      ],
+      "relations": [
+        "https://anime-planet.com/anime/disney-twisted-wonderland",
+        "https://anime-planet.com/anime/disney-twisted-wonderland-1st-anniversary-pv",
+        "https://anime-planet.com/anime/disney-twisted-wonderland-3-shuunen-kinen-pv",
+        "https://anime-planet.com/anime/disney-twisted-wonderland-op"
+      ],
+      "tags": [
+        "based on a mobile game",
+        "disney",
+        "promotional"
+      ],
+      "id": "https://anime-planet.com/anime/disney-twisted-wonderland-2-shuunen-kinen-pv"
     },
     {
       "sources": [
@@ -251,6 +280,7 @@
       "relations": [
         "https://anilist.co/anime/107704",
         "https://anime-planet.com/anime/minami-kawaki-wo-ameku",
+        "https://anisearch.com/anime/14511",
         "https://kitsu.io/anime/42152",
         "https://kitsu.io/anime/45075",
         "https://myanimelist.net/anime/39112",
@@ -264,6 +294,7 @@
         "comedy",
         "drama",
         "ecchi",
+        "eroticism",
         "family life",
         "female harem",
         "female teacher",
@@ -271,10 +302,12 @@
         "heterosexual",
         "high school",
         "inseki",
+        "lgbtq+ themes",
         "love polygon",
         "love triangle",
         "male protagonist",
         "manga",
+        "netorare",
         "nudity",
         "older woman, younger man",
         "present",
@@ -282,6 +315,7 @@
         "romance",
         "romantic drama",
         "school",
+        "school club",
         "school life",
         "sex",
         "shounen",
@@ -289,7 +323,7 @@
         "student-teacher relationship",
         "teacher",
         "tragedy",
-        "writing"
+        "tsundere"
       ],
       "id": "https://myanimelist.net/anime/37982"
     },
@@ -348,9 +382,8 @@
         "https://anime-planet.com/anime/fushigi-yugi-ova",
         "https://anime-planet.com/anime/fushigi-yugi-ova-dai-ni-bu",
         "https://anime-planet.com/anime/fushigi-yugi-ova-eikoden",
-        "https://anisearch.com/anime/1839",
+        "https://anime-planet.com/anime/fushigi-yuugi-special-nakago-shikkari-shinasai",
         "https://anisearch.com/anime/3049",
-        "https://anisearch.com/anime/356",
         "https://kitsu.io/anime/347",
         "https://livechart.me/anime/7313",
         "https://livechart.me/anime/7632",
@@ -374,6 +407,7 @@
         "fantasy",
         "fantasy world",
         "female protagonist",
+        "foreign",
         "harem",
         "hero of strong character",
         "heroine of strong character",
@@ -386,7 +420,10 @@
         "male harem",
         "manga",
         "martial arts",
+        "mythology",
+        "past",
         "person in a strange world",
+        "plot continuity",
         "prophecy",
         "reverse harem",
         "romance",
@@ -394,65 +431,50 @@
         "slapstick",
         "summoned into another world",
         "super power",
-        "tone changes",
         "tragedy",
+        "transported into a novel",
         "twins"
       ],
       "id": "https://myanimelist.net/anime/123"
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/hungry-days-x-one-piece"
+        "https://anime-planet.com/anime/hungry-days-x-one-piece",
+        "https://anisearch.com/anime/14420"
       ],
       "title": "Hungry Days x One Piece",
       "type": "ONA",
       "episodes": 4,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
+        "season": "SPRING",
+        "year": 2019
       },
-      "picture": "https://anime-planet.com/images/anime/covers/13622.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/13622.jpg",
-      "synonyms": [],
+      "picture": "https://cdn.anime-planet.com/anime/primary/hungry-days-x-one-piece-1.jpg?t=1625899396",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/hungry-days-x-one-piece-1-190x276.jpg?t=1625899396",
+      "synonyms": [
+        "Hungry Days ワンピース",
+        "Hungry Days: One Piece",
+        "Nissin Cup Noodle CM 2019/2020"
+      ],
       "relations": [
         "https://anime-planet.com/anime/hungry-days-x-bump-of-chicken-kinen-satsuei",
-        "https://anime-planet.com/anime/one-piece"
+        "https://anime-planet.com/anime/one-piece",
+        "https://anisearch.com/anime/12554",
+        "https://anisearch.com/anime/15205",
+        "https://anisearch.com/anime/2227"
       ],
       "tags": [
         "commercials",
         "food and beverage",
+        "high school",
         "parody",
+        "present",
         "promotional",
         "school life",
         "short episodes"
       ],
       "id": "https://anime-planet.com/anime/hungry-days-x-one-piece"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/44995"
-      ],
-      "title": "Keke Xiao Ai Luyou Xilie",
-      "type": "TV",
-      "episodes": 26,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "可可小爱旅游系列"
-      ],
-      "relations": [
-        "https://myanimelist.net/anime/44984"
-      ],
-      "tags": [
-        "kids"
-      ],
-      "id": "https://myanimelist.net/anime/44995"
     },
     {
       "sources": [
@@ -484,6 +506,7 @@
       ],
       "relations": [
         "https://anidb.net/anime/1930",
+        "https://anilist.co/anime/3272",
         "https://anilist.co/anime/3277",
         "https://anilist.co/anime/3279",
         "https://anime-planet.com/anime/kinnikuman",
@@ -500,18 +523,7 @@
         "https://anime-planet.com/anime/tatakae-ramenman",
         "https://anime-planet.com/anime/tatakae-ramenman-movie",
         "https://anime-planet.com/anime/ultimate-muscle",
-        "https://anisearch.com/anime/1020",
-        "https://anisearch.com/anime/1270",
-        "https://anisearch.com/anime/1447",
-        "https://anisearch.com/anime/1514",
-        "https://anisearch.com/anime/1962",
-        "https://anisearch.com/anime/2346",
-        "https://anisearch.com/anime/3110",
         "https://anisearch.com/anime/3321",
-        "https://anisearch.com/anime/373",
-        "https://anisearch.com/anime/5701",
-        "https://anisearch.com/anime/717",
-        "https://anisearch.com/anime/858",
         "https://kitsu.io/anime/2903",
         "https://kitsu.io/anime/2905",
         "https://myanimelist.net/anime/3277",
@@ -523,6 +535,7 @@
         "action",
         "action comedy",
         "adventure",
+        "combat sports",
         "comedy",
         "foreign",
         "hand to hand combat",
@@ -552,8 +565,8 @@
         "season": "SUMMER",
         "year": 1991
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/3/3859.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/3/3859.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/3/3859_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/3/3859.webp",
       "synonyms": [],
       "relations": [],
       "tags": [
@@ -565,8 +578,6 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/koalas-goodbye-song",
-        "https://anime-planet.com/anime/koalas-goodbye-song-piano-version",
         "https://myanimelist.net/anime/40785"
       ],
       "title": "Koala no Goodbye Song",
@@ -581,11 +592,8 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1804/104553t.jpg",
       "synonyms": [
         "Good-bye Koala Piano ver.",
-        "Koala no Goodbye Song Piano Version",
         "Koala no Goodbye Song: Piano Version",
         "Koala's Good-Bye Song",
-        "Koala's Goodbye Song",
-        "Koala's Goodbye Song (Piano Version)",
         "コアラのグッバイソング"
       ],
       "relations": [
@@ -593,14 +601,40 @@
         "https://myanimelist.net/anime/40361"
       ],
       "tags": [
-        "animal protagonists",
         "kids",
-        "koalas",
-        "music",
-        "non-human protagonists",
-        "shorts"
+        "music"
       ],
       "id": "https://myanimelist.net/anime/40785"
+    },
+    {
+      "sources": [
+        "https://kitsu.io/anime/43983",
+        "https://myanimelist.net/anime/52828"
+      ],
+      "title": "Kurogane no Moribito",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2020
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1499/127166.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1499/127166t.jpg",
+      "synonyms": [
+        "Black Iron Guardian",
+        "黒鉄の守り人"
+      ],
+      "relations": [
+        "https://kitsu.io/anime/43740",
+        "https://myanimelist.net/anime/44042"
+      ],
+      "tags": [
+        "idol",
+        "idols (female)",
+        "music"
+      ],
+      "id": "https://myanimelist.net/anime/52828"
     },
     {
       "sources": [
@@ -614,8 +648,8 @@
         "season": "SUMMER",
         "year": 2020
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/15/15518.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/15/15518.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/15/15518_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/15/15518.webp",
       "synonyms": [
         "Magical: Make the Princess Laugh",
         "매지컬 : 공주를 웃겨라"
@@ -625,6 +659,30 @@
         "cg-anime"
       ],
       "id": "https://anisearch.com/anime/15518"
+    },
+    {
+      "sources": [
+        "https://myanimelist.net/anime/54480"
+      ],
+      "title": "Meomulleo Issneun Geos Ttohan Aleumdaul su Issneun Geon",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": null
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1514/133389.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1514/133389t.jpg",
+      "synonyms": [
+        "Still beautiful",
+        "머물러 있는 것 또한 아름다울 수 있는 건"
+      ],
+      "relations": [],
+      "tags": [
+        "music"
+      ],
+      "id": "https://myanimelist.net/anime/54480"
     },
     {
       "sources": [
@@ -639,7 +697,7 @@
         "season": "UNDEFINED",
         "year": 2018
       },
-      "picture": "https://cdn.anime-planet.com/anime/primary/mochi-wo-tsuku-yatsu-1.jpg?t=1625792162",
+      "picture": "https://cdn.anime-planet.com/anime/primary/mochi-wo-tsuku-yatsu-1.jpg?t=1625908910",
       "thumbnail": "https://cdn.anime-planet.com/anime/primary/mochi-wo-tsuku-yatsu-1-190x266.jpg?t=1625908910",
       "synonyms": [
         "餅をつくやつ"
@@ -704,14 +762,103 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/penis"
+        "https://anidb.net/anime/17796",
+        "https://anilist.co/anime/159309",
+        "https://anime-planet.com/anime/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs-2nd-season",
+        "https://anisearch.com/anime/17984",
+        "https://kitsu.io/anime/46925",
+        "https://livechart.me/anime/11761",
+        "https://myanimelist.net/anime/54000",
+        "https://notify.moe/anime/Q-5I_dt4g"
+      ],
+      "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2nd Season",
+      "type": "TV",
+      "episodes": 12,
+      "status": "UPCOMING",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2023
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1930/132098.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1930/132098t.jpg",
+      "synonyms": [
+        "Mobseka 2",
+        "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2",
+        "Otome Game Sekai wa Mob ni Kibishī Sekai desu 2",
+        "Otomege 2",
+        "Otomege Sekai wa Mob ni Kibishii Sekai Desu",
+        "Otomege Sekai wa Mob ni Kibishii Sekai Desu 2",
+        "Otomege Sekai wa Mob ni Kibishii Sekai Desu 2nd Season",
+        "Otomege Sekai wa Mob ni Kibishii Sekai desu 2nd Season",
+        "The World of Otome Games is a Tough for Mobs. Season 2",
+        "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs 2",
+        "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs 2nd Season",
+        "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs Season 2",
+        "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs 2nd Season",
+        "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2",
+        "mobseka 2",
+        "mobseka s2",
+        "ชีวิตตัวประกอบอย่างตูช่างอยู่ยาก เมื่ออยู่ในโลกเกมจีบหนุ่ม ภาค 2",
+        "乙女ゲー世界はモブに厳しい世界です 第2期",
+        "乙女ゲー世界はモブに厳しい世界です 2",
+        "乙女ゲー世界はモブに厳しい世界です 第2期"
+      ],
+      "relations": [
+        "https://anidb.net/anime/17005",
+        "https://anilist.co/anime/142074",
+        "https://anime-planet.com/anime/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs",
+        "https://anisearch.com/anime/16820",
+        "https://kitsu.io/anime/45529",
+        "https://livechart.me/anime/10906",
+        "https://myanimelist.net/anime/50461",
+        "https://notify.moe/anime/dyeQYKh7R"
+      ],
+      "tags": [
+        "action",
+        "action comedy",
+        "adventure",
+        "alternative world",
+        "based on a light novel",
+        "cheats",
+        "comedy",
+        "drama",
+        "elves",
+        "fantasy",
+        "female harem",
+        "guns",
+        "harem",
+        "isekai",
+        "kemonomimi",
+        "knight",
+        "magic",
+        "mecha",
+        "nobility",
+        "nobleman",
+        "novel",
+        "person in a strange world",
+        "political",
+        "reincarnation",
+        "reluctant hero",
+        "robots & androids",
+        "romance",
+        "school",
+        "school life",
+        "super robots",
+        "swords & co"
+      ],
+      "id": "https://myanimelist.net/anime/54000"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/penis",
+        "https://kitsu.io/anime/47319"
       ],
       "title": "Penis",
       "type": "MOVIE",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "WINTER",
         "year": 2002
       },
       "picture": "https://cdn.anime-planet.com/anime/primary/penis-1.webp?t=1630559676",
@@ -720,6 +867,7 @@
       "relations": [],
       "tags": [
         "abstract",
+        "dementia",
         "shorts"
       ],
       "id": "https://anime-planet.com/anime/penis"
@@ -758,52 +906,154 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/7016",
-        "https://anisearch.com/anime/8443"
+        "https://anilist.co/anime/154688",
+        "https://anime-planet.com/anime/umisea-it-comes-ryuuu-and-it-goes-kyuuu",
+        "https://myanimelist.net/anime/53075"
       ],
-      "title": "Senjou no Valkyria: SenVal Gekijou",
+      "title": "Riyuu tto Kitte Kyuu tsu!!!",
       "type": "SPECIAL",
-      "episodes": 9,
+      "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
         "season": "SUMMER",
-        "year": 2009
+        "year": 2022
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/8/8443.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/8/8443.webp",
+      "picture": "https://cdn.myanimelist.net/images/anime/1221/128071.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1221/128071t.jpg",
       "synonyms": [
-        "Senjou No Valkyria: Gallian Chronicles Specials",
-        "Senjou no Valkyria: Gallian Chronicles Theater",
-        "Senjou no Valkyria: SenVal Theater",
-        "Senjō no Valkyria: SenVal Gekijō",
-        "Valkyria Chronicles Specials",
-        "Valkyria Chronicles: Theater",
-        "Valkyria Chronicles: Theater Specials",
-        "戦場のヴァルキュリア -Gallian Chronicles-",
-        "戦場のヴァルキュリア 戦ヴァル劇場"
+        "It Comes Ryuuu And It Goes Kyuuu",
+        "Ryuuutto Kite Kyuuu!!!",
+        "UMISEA: It Comes Ryuuu And It Goes Kyuuu",
+        "UMISEA: Ryuutto Kite Kyuu!!!",
+        "りゅーーっときてきゅーーっ!!!"
       ],
       "relations": [
-        "https://anilist.co/anime/5507",
-        "https://anisearch.com/anime/5159",
-        "https://anisearch.com/anime/6686"
+        "https://anilist.co/anime/118123",
+        "https://anilist.co/anime/139342",
+        "https://myanimelist.net/anime/44042",
+        "https://myanimelist.net/anime/47904",
+        "https://myanimelist.net/anime/49860"
       ],
       "tags": [
-        "alternative world",
-        "comedy",
-        "ecchi",
-        "historical",
-        "kuudere"
+        "adventure",
+        "cgi",
+        "chibi",
+        "fantasy",
+        "idols (female)",
+        "maids",
+        "ocean",
+        "pirates",
+        "primarily female cast",
+        "slice of life",
+        "vtuber",
+        "vtubers"
       ],
-      "id": "https://anisearch.com/anime/8443"
+      "id": "https://myanimelist.net/anime/53075"
+    },
+    {
+      "sources": [
+        "https://anidb.net/anime/17350",
+        "https://anilist.co/anime/146409",
+        "https://anime-planet.com/anime/throne-of-seal",
+        "https://anisearch.com/anime/17278",
+        "https://kitsu.io/anime/46093",
+        "https://myanimelist.net/anime/51335"
+      ],
+      "title": "Shen Yin Wangzuo",
+      "type": "ONA",
+      "episodes": 26,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SPRING",
+        "year": 2022
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1776/122162.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1776/122162t.jpg",
+      "synonyms": [
+        "Shen Yin Wang Zuo",
+        "Shen Yin Wangzuo (2022)",
+        "Takhta Segel Dewa",
+        "Throne of Seal",
+        "神印王座",
+        "神印王座 (2022)"
+      ],
+      "relations": [
+        "https://anilist.co/anime/153499",
+        "https://anime-planet.com/anime/throne-of-seal-2nd-season",
+        "https://kitsu.io/anime/46552",
+        "https://myanimelist.net/anime/52684"
+      ],
+      "tags": [
+        "action",
+        "adventure",
+        "amnesia",
+        "assassin",
+        "assassins",
+        "based on a web novel",
+        "cg animation",
+        "cg-anime",
+        "chinese animation",
+        "coming of age",
+        "cultivation",
+        "demon",
+        "demons",
+        "disability",
+        "fantasy",
+        "full cgi",
+        "gods",
+        "magic",
+        "male protagonist",
+        "martial arts",
+        "swordplay",
+        "swords & co"
+      ],
+      "id": "https://myanimelist.net/anime/51335"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/shounen-sunday-cm-firefighter-daigo-of-fire-company-m",
+        "https://kitsu.io/anime/46346",
+        "https://myanimelist.net/anime/52620"
+      ],
+      "title": "Shounen Sunday CM: Megumi no Daigo",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "FALL",
+        "year": 1996
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1607/126601.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1607/126601t.jpg",
+      "synonyms": [
+        "CM　小学館　少年サンデー　「め組の大吾」編",
+        "Shounen Sunday CM: Firefighter! Daigo of Fire Company M"
+      ],
+      "relations": [
+        "https://anime-planet.com/anime/me-gumi-no-daigo",
+        "https://kitsu.io/anime/2823",
+        "https://myanimelist.net/anime/3147"
+      ],
+      "tags": [
+        "action",
+        "based on a manga",
+        "commercials",
+        "drama",
+        "firefighters",
+        "promotional",
+        "shounen"
+      ],
+      "id": "https://myanimelist.net/anime/52620"
     },
     {
       "sources": [
         "https://anime-planet.com/anime/tokiwa-kitareri",
+        "https://anisearch.com/anime/12001",
         "https://kitsu.io/anime/12428",
         "https://myanimelist.net/anime/32564",
         "https://notify.moe/anime/DapkhFiig"
       ],
-      "title": "Tokiwa Kitareri!!",
+      "title": "Shounen Sunday CM: Tokiwa Kitareri!! CM",
       "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
@@ -814,8 +1064,12 @@
       "picture": "https://cdn.myanimelist.net/images/anime/13/79284.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/13/79284t.jpg",
       "synonyms": [
+        "CM Gekijou: Tokiwa Kitareri!!",
+        "CM Gekijō: Tokiwa Kitareri!!",
+        "CM劇場トキワ来たれり!!",
         "Toki wa Kitareri!!",
         "Tokiwa Kitareri CM",
+        "Tokiwa Kitareri!!",
         "トキワ来たれり!!"
       ],
       "relations": [],
@@ -832,12 +1086,13 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-mighty-little-defenders-4",
         "https://myanimelist.net/anime/49079"
       ],
       "title": "Xi Yangyang Yu Hui Tailang: Juezhan Ci Shidai",
       "type": "TV",
       "episodes": 60,
-      "status": "ONGOING",
+      "status": "FINISHED",
       "animeSeason": {
         "season": "SUMMER",
         "year": 2021
@@ -846,16 +1101,28 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1492/115307t.jpg",
       "synonyms": [
         "Pleasant Goat and Big Big Wolf: Decisive Battle Times",
+        "Pleasant Goat and Big Big Wolf: Mighty Little Defenders 4",
         "Pleasant Goat and Big Big Wolf: Ultimate Battle The Next Generation (Mighty Little Defenders 4)",
+        "Xi Yangyang Yu Hui Tailang: Yang Cun Shouhu Zhe 4",
         "喜羊羊与灰太狼之决战次时代"
       ],
       "relations": [
+        "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf",
+        "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-against-the-dark-force",
+        "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-dunk-for-victories",
         "https://myanimelist.net/anime/49078"
       ],
       "tags": [
         "action",
+        "adventure",
+        "animal protagonists",
+        "anthropomorphic",
+        "chinese animation",
         "comedy",
-        "kids"
+        "family friendly",
+        "kids",
+        "non-human protagonists",
+        "original work"
       ],
       "id": "https://myanimelist.net/anime/49079"
     },

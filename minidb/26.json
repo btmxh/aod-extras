@@ -2,33 +2,6 @@
   "data": [
     {
       "sources": [
-        "https://anime-planet.com/anime/a-sisters-all-you-need-specials"
-      ],
-      "title": "A Sister's All You Need Specials",
-      "type": "SPECIAL",
-      "episodes": 2,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2018
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/a-sisters-all-you-need-specials-1.jpg?t=1625782664",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/a-sisters-all-you-need-specials-1-190x266.jpg?t=1625898092",
-      "synonyms": [
-        "Imouto sae Ireba Ii. Specials"
-      ],
-      "relations": [
-        "https://anime-planet.com/anime/a-sisters-all-you-need",
-        "https://anime-planet.com/anime/a-sisters-all-you-need-web"
-      ],
-      "tags": [
-        "chibi",
-        "comedy"
-      ],
-      "id": "https://anime-planet.com/anime/a-sisters-all-you-need-specials"
-    },
-    {
-      "sources": [
         "https://anidb.net/anime/6937",
         "https://anime-planet.com/anime/adauchi-karasu",
         "https://anisearch.com/anime/11923",
@@ -54,6 +27,51 @@
         "shorts"
       ],
       "id": "https://myanimelist.net/anime/35212"
+    },
+    {
+      "sources": [
+        "https://anidb.net/anime/7194",
+        "https://anilist.co/anime/6852",
+        "https://anime-planet.com/anime/ahiru-no-otegara",
+        "https://anisearch.com/anime/5949",
+        "https://kitsu.io/anime/4753",
+        "https://livechart.me/anime/6947",
+        "https://notify.moe/anime/e0e6cFmiR"
+      ],
+      "title": "Ahiru no Otegara",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 1931
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/ahiru-no-otegara-1.jpg?t=1625896097",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/ahiru-no-otegara-1-190x266.jpg?t=1625896097",
+      "synonyms": [
+        "The Duckling Saves the Day",
+        "アヒルのお手柄"
+      ],
+      "relations": [],
+      "tags": [
+        "achromatic",
+        "adventure",
+        "animal protagonists",
+        "animals",
+        "birds",
+        "black and white",
+        "drama",
+        "japanese anime classic collection",
+        "no dialogue",
+        "non-human protagonists",
+        "original work",
+        "short movie",
+        "shorts",
+        "silent movie",
+        "slice of life",
+        "slice of life drama"
+      ],
+      "id": "https://anime-planet.com/anime/ahiru-no-otegara"
     },
     {
       "sources": [
@@ -93,16 +111,16 @@
       "sources": [
         "https://myanimelist.net/anime/46865"
       ],
-      "title": "Cha A Er Zhong season2",
-      "type": "TV",
+      "title": "Cha A Er Zhong 2nd Season",
+      "type": "ONA",
       "episodes": 10,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
+        "season": "SUMMER",
+        "year": 2015
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1796/129360.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1796/129360t.jpg",
       "synonyms": [
         "茶啊二中 第2季"
       ],
@@ -111,9 +129,44 @@
         "https://myanimelist.net/anime/46866"
       ],
       "tags": [
-        "slice of life"
+        "comedy",
+        "kids",
+        "school"
       ],
       "id": "https://myanimelist.net/anime/46865"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/dig-rock-dice-type-icxhr-impish-crow-ram-cm"
+      ],
+      "title": "DIG-ROCK -dice- Type: ICxHR - Impish Crow: RAM CM",
+      "type": "ONA",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2021
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/dig-rock-dice-type-icxhr-impish-crow-ram-cm-1.webp?t=1679632553",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/dig-rock-dice-type-icxhr-impish-crow-ram-cm-1-285x398.webp?t=1679632553",
+      "synonyms": [],
+      "relations": [
+        "https://anime-planet.com/anime/dig-rock-blue-type-ic-impish-crow-sky-is-the-limit-cm",
+        "https://anime-planet.com/anime/dig-rock-break-time-type-ic-impish-crow-be-ambitious-cm",
+        "https://anime-planet.com/anime/dig-rock-dice-type-ic-impish-crow-updraft-cm",
+        "https://anime-planet.com/anime/dig-rock-duel-fes-vol-1-type-ic-impish-crow-grow-cm",
+        "https://anime-planet.com/anime/dig-rock-duel-fes-vol-2-impish-crow-ride-the-wind-cm",
+        "https://anime-planet.com/anime/dig-rock-faith-mini-album-impish-crow-faith-cm",
+        "https://anime-planet.com/anime/dig-rock-impish-crow-vol-1-impish-crow-rise-cm",
+        "https://anime-planet.com/anime/dig-rock-impish-crow-vol-2-impish-crow-pump-it-cm",
+        "https://anime-planet.com/anime/dig-rock-impish-crow-vol-3-impish-crow-beyond-the-sky-cm",
+        "https://anime-planet.com/anime/dig-rock-trick-mini-album-impish-crow-trick-cm"
+      ],
+      "tags": [
+        "commercials",
+        "promotional"
+      ],
+      "id": "https://anime-planet.com/anime/dig-rock-dice-type-icxhr-impish-crow-ram-cm"
     },
     {
       "sources": [
@@ -139,29 +192,6 @@
     },
     {
       "sources": [
-        "https://myanimelist.net/anime/46614"
-      ],
-      "title": "Fengkuang De Zhangyu",
-      "type": "TV",
-      "episodes": 52,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "疯狂的章鱼"
-      ],
-      "relations": [],
-      "tags": [
-        "adventure"
-      ],
-      "id": "https://myanimelist.net/anime/46614"
-    },
-    {
-      "sources": [
         "https://anidb.net/anime/7394",
         "https://anilist.co/anime/8862",
         "https://anime-planet.com/anime/ganbare-goemon-jigen-jou-no-akumu",
@@ -183,12 +213,14 @@
       "synonyms": [
         "Ganbare Goemon: Jigen Jō no Akumu",
         "Legend of the Mystical Ninja OVA",
-        "がんばれゴエモン 次元城の悪夢"
+        "がんばれゴエモン 次元城の悪夢",
+        "大盗五右卫门 次元城的恶梦"
       ],
       "relations": [
         "https://anidb.net/anime/2423",
         "https://anilist.co/anime/2885",
         "https://anime-planet.com/anime/legend-of-the-mystical-ninja",
+        "https://anisearch.com/anime/2281",
         "https://myanimelist.net/anime/2885"
       ],
       "tags": [
@@ -223,6 +255,7 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/6/6610t.jpg",
       "synonyms": [
         "Geobreeders 2",
+        "Geobreeders 2: (Akta-XX) \"Przełom\"",
         "Geobreeders 2: Mōryō Yūgekitai File-XX Ransen Toppa",
         "Geobreeders: Breakthrough",
         "Геоблюстители 2",
@@ -253,13 +286,14 @@
         "japan",
         "manga",
         "nudity",
+        "present",
         "primarily female cast",
         "sci-fi",
         "science fiction",
         "science-fiction",
+        "seinen",
         "shounen",
-        "supernatural",
-        "working life"
+        "supernatural"
       ],
       "id": "https://myanimelist.net/anime/1159"
     },
@@ -291,11 +325,13 @@
         "Healin' Good Pretty Cure Movie: Yume no Machi de Kyun! Tto GoGo! Daihenshin!!",
         "Healin' Good♥Precure: Yume no Machi de Kyun! Tto GoGo! Dai Henshin!!",
         "Healin' Good❤︎Precure Movie: Yume no Machi de Kyun! tto GoGo! Dai Henshin!!",
+        "precure17 movie",
         "映画ヒーリングっど♥プリキュア",
         "映画ヒーリングっど♥プリキュア ゆめのまちでキュン! っとGoGo! 大変身!!",
         "映画ヒーリングっど♥プリキュア ゆめのまちでキュン！ っとGoGo！ 大変身！！",
         "映画ヒーリングっど♥プリキュア　ゆめのまちでキュン！っとGoGo！大変身！！",
-        "映画ヒーリングっど❤︎プリキュア ゆめのまちでキュン！っとGoGo！大変身！！"
+        "映画ヒーリングっど❤︎プリキュア ゆめのまちでキュン！っとGoGo！大変身！！",
+        "电影 Healin` Good ♥ 光之美少女 梦想的小镇心动不已！GoGo！大变身！！"
       ],
       "relations": [
         "https://anidb.net/anime/15231",
@@ -305,22 +341,12 @@
         "https://anilist.co/anime/3692",
         "https://anime-planet.com/anime/healin-good-pretty-cure",
         "https://anime-planet.com/anime/yes-pretty-cure-5-gogo",
+        "https://anisearch.com/anime/14880",
+        "https://anisearch.com/anime/16001",
         "https://kitsu.io/anime/42650",
-        "https://livechart.me/anime/5176",
-        "https://livechart.me/anime/5317",
-        "https://livechart.me/anime/5318",
-        "https://livechart.me/anime/5363",
-        "https://livechart.me/anime/5446",
-        "https://livechart.me/anime/5476",
-        "https://livechart.me/anime/5599",
-        "https://livechart.me/anime/5668",
-        "https://livechart.me/anime/5706",
-        "https://livechart.me/anime/5787",
-        "https://livechart.me/anime/5818",
-        "https://livechart.me/anime/5851",
-        "https://livechart.me/anime/6039",
-        "https://livechart.me/anime/6275",
-        "https://livechart.me/anime/6550",
+        "https://kitsu.io/anime/46159",
+        "https://livechart.me/anime/9647",
+        "https://livechart.me/anime/9655",
         "https://myanimelist.net/anime/40610",
         "https://myanimelist.net/anime/46650",
         "https://notify.moe/anime/0k6QH90WR"
@@ -328,18 +354,20 @@
       "tags": [
         "action",
         "animals",
+        "comedy",
+        "contemporary fantasy",
         "crossover",
         "family friendly",
         "fantasy",
         "female protagonist",
         "henshin",
-        "henshin heroes",
         "kemonomimi",
         "magic",
         "magical girl",
         "mahou shoujo",
         "music",
         "nekomimi",
+        "present",
         "primarily female cast",
         "sentai",
         "shoujo",
@@ -383,7 +411,8 @@
         "Исследователи руин",
         "秘境探検 ファム & イーリー",
         "秘境探検 ファム&イーリー",
-        "秘境探検 ファム＆イーリー"
+        "秘境探検 ファム＆イーリー",
+        "秘境探险"
       ],
       "relations": [],
       "tags": [
@@ -398,11 +427,16 @@
         "henshin",
         "lost civilization",
         "magic",
+        "nekomimi",
         "new",
+        "revenge",
         "shounen",
         "super deformed",
+        "swordplay",
         "swords & co",
+        "tomboy",
         "tone changes",
+        "travel",
         "treasure hunters"
       ],
       "id": "https://myanimelist.net/anime/1181"
@@ -435,7 +469,9 @@
         "一発貫太くん"
       ],
       "relations": [
-        "https://anilist.co/anime/107908"
+        "https://anilist.co/anime/107908",
+        "https://anilist.co/anime/145358",
+        "https://myanimelist.net/anime/51144"
       ],
       "tags": [
         "action",
@@ -446,45 +482,10 @@
         "original work",
         "present",
         "sports",
+        "team sports",
         "tournaments"
       ],
       "id": "https://myanimelist.net/anime/5287"
-    },
-    {
-      "sources": [
-        "https://livechart.me/anime/2918"
-      ],
-      "title": "K: Seven Stories Episode 6 - Circle Vision ~Nameless Song~",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 2019
-      },
-      "picture": "https://u.livechart.me/anime/2918/poster_image/1cb66c45cdf2f390e12ad07b1a85a24c.jpeg?style=large&format=jpg",
-      "thumbnail": "https://u.livechart.me/anime/2918/poster_image/1cb66c45cdf2f390e12ad07b1a85a24c.jpeg?style=small&format=jpg",
-      "synonyms": [
-        "K SEVEN STORIES Episode 6　「Circle Vision ～Nameless Song～」"
-      ],
-      "relations": [
-        "https://livechart.me/anime/116",
-        "https://livechart.me/anime/1268",
-        "https://livechart.me/anime/2177",
-        "https://livechart.me/anime/2914",
-        "https://livechart.me/anime/2915",
-        "https://livechart.me/anime/2916",
-        "https://livechart.me/anime/2917",
-        "https://livechart.me/anime/2919",
-        "https://livechart.me/anime/948"
-      ],
-      "tags": [
-        "action",
-        "mystery",
-        "supernatural",
-        "superpower"
-      ],
-      "id": "https://livechart.me/anime/2918"
     },
     {
       "sources": [
@@ -519,41 +520,24 @@
     },
     {
       "sources": [
-        "https://anisearch.com/anime/16741"
+        "https://myanimelist.net/anime/54995"
       ],
-      "title": "Mabeop Bus Tayo",
-      "type": "TV",
-      "episodes": 10,
-      "status": "FINISHED",
+      "title": "Koumi-jima: Shuu 7 de Umeru Mesu-tachi",
+      "type": "ONA",
+      "episodes": 0,
+      "status": "ONGOING",
       "animeSeason": {
-        "season": "FALL",
-        "year": 2020
+        "season": "UNDEFINED",
+        "year": 2023
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/16/16741.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/16/16741.webp",
-      "synonyms": [
-        "Magic Bus Tayo",
-        "Tayo and Little Wizards",
-        "Tayo and the Little Wizards!",
-        "Tayo und die kleinen Zauberer",
-        "마법버스 타요"
-      ],
-      "relations": [
-        "https://anisearch.com/anime/12195",
-        "https://anisearch.com/anime/12294",
-        "https://anisearch.com/anime/12295",
-        "https://anisearch.com/anime/12296",
-        "https://anisearch.com/anime/12297"
-      ],
+      "picture": "https://cdn.myanimelist.net/images/anime/1097/135284.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1097/135284t.jpg",
+      "synonyms": [],
+      "relations": [],
       "tags": [
-        "alternative world",
-        "cg-anime",
-        "comedy",
-        "fantasy",
-        "magic",
-        "witches"
+        "hentai"
       ],
-      "id": "https://anisearch.com/anime/16741"
+      "id": "https://myanimelist.net/anime/54995"
     },
     {
       "sources": [
@@ -568,8 +552,8 @@
         "season": "SUMMER",
         "year": 2020
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/15/15774.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/15/15774.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/15/15774_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/15/15774.webp",
       "synonyms": [
         "Eyelids",
         "Ibuki Takai - Mabuta",
@@ -588,15 +572,15 @@
         "https://myanimelist.net/anime/47935"
       ],
       "title": "Niantu Xiongmei",
-      "type": "TV",
+      "type": "ONA",
       "episodes": 26,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2019
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1682/130088.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1682/130088t.jpg",
       "synonyms": [
         "黏土兄妹"
       ],
@@ -695,8 +679,8 @@
         "season": "SPRING",
         "year": 2014
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/6/78671.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/6/78671t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1286/93994.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1286/93994t.jpg",
       "synonyms": [
         "Els Cavallers del Zodíac: La Llegenda del Santuari",
         "I Cavalieri dello Zodiaco: La Leggenda del Grande Tempio",
@@ -711,7 +695,9 @@
         "Saint Seiya (Movie)",
         "Saint Seiya Film 6: Les Chevaliers du Zodiaque - La Légende du Sanctuaire",
         "Saint Seiya Película 6: Los Caballeros del Zodiaco. La Leyenda del Santuario",
+        "Saint Seiya: LEGEND of SANCTUARY",
         "Saint Seiya: Los Caballeros Del Zodiaco - La Leyenda Del Santuario",
+        "圣斗士星矢 圣域传说",
         "圣斗士星矢：圣域传说",
         "聖闘士星矢 LEGEND of SANCTUARY",
         "聖闘士星矢 Legend of Sanctuary"
@@ -719,24 +705,10 @@
       "relations": [
         "https://anidb.net/anime/826",
         "https://anilist.co/anime/1254",
+        "https://anilist.co/anime/151659",
+        "https://anilist.co/anime/158988",
         "https://anime-planet.com/anime/saint-seiya-knights-of-the-zodiac",
-        "https://anisearch.com/anime/10149",
-        "https://anisearch.com/anime/10186",
-        "https://anisearch.com/anime/10239",
-        "https://anisearch.com/anime/12143",
-        "https://anisearch.com/anime/12698",
-        "https://anisearch.com/anime/1454",
-        "https://anisearch.com/anime/1487",
-        "https://anisearch.com/anime/1923",
-        "https://anisearch.com/anime/2041",
-        "https://anisearch.com/anime/2108",
-        "https://anisearch.com/anime/2657",
-        "https://anisearch.com/anime/3026",
         "https://anisearch.com/anime/318",
-        "https://anisearch.com/anime/4632",
-        "https://anisearch.com/anime/5190",
-        "https://anisearch.com/anime/6673",
-        "https://anisearch.com/anime/7598",
         "https://kitsu.io/anime/1129",
         "https://livechart.me/anime/1279",
         "https://livechart.me/anime/2464",
@@ -774,7 +746,8 @@
         "science-fiction",
         "shounen",
         "super power",
-        "superpowers"
+        "superpowers",
+        "zodiac"
       ],
       "id": "https://myanimelist.net/anime/10687"
     },
@@ -803,6 +776,7 @@
       ],
       "tags": [
         "drama",
+        "educational",
         "kids"
       ],
       "id": "https://myanimelist.net/anime/28561"
@@ -854,9 +828,11 @@
       "picture": "https://cdn.myanimelist.net/images/anime/5/4277.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/5/4277t.jpg",
       "synonyms": [
+        "Shihaisha no Tasogare: TWILIGHT OF THE DARK MASTER",
         "Twilight Of The Dark Master",
         "Twilight of the Dark Master",
         "支配者の黄昏",
+        "支配者の黄昏 TWILIGHT OF THE DARK MASTER",
         "支配者の黄昏 Twilight Of The Dark Master"
       ],
       "relations": [],
@@ -866,16 +842,19 @@
         "asia",
         "based on a manga",
         "bionic powers",
+        "body horror",
         "demon",
         "demons",
         "detective",
         "drama",
+        "drugs",
         "earth",
         "genetic modification",
         "horror",
         "human enhancement",
         "japan",
         "magic",
+        "mythology",
         "novel",
         "nudity",
         "psi-powers",
@@ -933,6 +912,7 @@
         "https://anime-planet.com/anime/show-by-rock-short",
         "https://anime-planet.com/anime/show-by-rock-stars",
         "https://anime-planet.com/anime/show-by-rock-x-joysound",
+        "https://anisearch.com/anime/11557",
         "https://anisearch.com/anime/15434",
         "https://kitsu.io/anime/43590",
         "https://kitsu.io/anime/9729",
@@ -957,7 +937,6 @@
         "game",
         "ganbatte",
         "idol",
-        "isekai",
         "juujin",
         "kemonomimi",
         "music",
@@ -973,7 +952,9 @@
     {
       "sources": [
         "https://anime-planet.com/anime/tokyo-twins-athletic-tournament",
-        "https://myanimelist.net/anime/33473"
+        "https://kitsu.io/anime/12429",
+        "https://myanimelist.net/anime/33473",
+        "https://notify.moe/anime/QytzhFmmg"
       ],
       "title": "Tokyo Futago Athletic",
       "type": "TV",
@@ -1058,6 +1039,7 @@
         "よこはまかいだしきこう",
         "ヨコハマ買い出し紀行",
         "ヨコ買い",
+        "横滨购物纪行",
         "요코하마 매물기행"
       ],
       "relations": [
@@ -1082,9 +1064,11 @@
         "future",
         "iyashikei",
         "japan",
+        "lost civilization",
         "manga",
         "mopeds",
         "non-human protagonists",
+        "philosophy",
         "photography",
         "post-apocalyptic",
         "robots",

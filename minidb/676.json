@@ -2,28 +2,29 @@
   "data": [
     {
       "sources": [
-        "https://anilist.co/anime/121500",
-        "https://kitsu.io/anime/44559"
+        "https://anilist.co/anime/158564",
+        "https://kitsu.io/anime/46847"
       ],
-      "title": "Akabashi wa Ochita",
-      "type": "MOVIE",
+      "title": "Baby I Hate You",
+      "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "WINTER",
-        "year": 2018
+        "season": "SPRING",
+        "year": 2022
       },
-      "picture": "https://media.kitsu.io/anime/poster_images/44559/small.jpg",
-      "thumbnail": "https://media.kitsu.io/anime/poster_images/44559/tiny.jpg",
+      "picture": "https://media.kitsu.io/anime/46847/poster_image/small-3555ef1a4e64220af440cbe9ee4ddb6e.jpeg",
+      "thumbnail": "https://media.kitsu.io/anime/46847/poster_image/tiny-1a71b52dae4ea4b9d6a4deb0cfdfe1d5.jpeg",
       "synonyms": [
-        "The Red Bridge is falling down",
-        "あかばしは落ちた"
+        "ベイビーあいへいちゅー"
       ],
       "relations": [],
       "tags": [
-        "psychological"
+        "music",
+        "romance",
+        "tsundere"
       ],
-      "id": "https://kitsu.io/anime/44559"
+      "id": "https://kitsu.io/anime/46847"
     },
     {
       "sources": [
@@ -44,8 +45,8 @@
         "season": "FALL",
         "year": 2017
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/11/87069.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/11/87069t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1401/127578.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1401/127578t.jpg",
       "synonyms": [
         "Baja's Studio",
         "Baja`s Studio",
@@ -53,10 +54,13 @@
       ],
       "relations": [
         "https://anidb.net/anime/14839",
+        "https://anilist.co/anime/102596",
         "https://anilist.co/anime/112010",
         "https://anime-planet.com/anime/bajas-studio-baja-and-the-sea",
         "https://anime-planet.com/anime/kyoto-animation-koushiki-twitter-itsumo-arigatou",
+        "https://anisearch.com/anime/15057",
         "https://kitsu.io/anime/42366",
+        "https://livechart.me/anime/9554",
         "https://myanimelist.net/anime/39735",
         "https://notify.moe/anime/zCnEXCnZg"
       ],
@@ -64,6 +68,7 @@
         "action",
         "animal protagonists",
         "animals",
+        "anti-hero",
         "comedy",
         "contemporary fantasy",
         "daily life",
@@ -75,11 +80,13 @@
         "magical girl",
         "new",
         "non-human protagonists",
+        "office lady",
         "present",
         "shapeshifting",
         "shorts",
         "slice of life",
-        "the arts"
+        "the arts",
+        "work"
       ],
       "id": "https://myanimelist.net/anime/35965"
     },
@@ -116,6 +123,8 @@
         "https://anilist.co/anime/13511",
         "https://anime-planet.com/anime/cofun-gal-no-coffy-2005",
         "https://anime-planet.com/anime/cofun-gal-no-coffy-christmas-daisakusen",
+        "https://anime-planet.com/anime/cofun-gal-no-coffy-cofunderella",
+        "https://anime-planet.com/anime/cofun-gal-no-coffy-okehazama-no-tatakai",
         "https://anime-planet.com/anime/cofun-gal-no-coffy-specials",
         "https://kitsu.io/anime/13202",
         "https://kitsu.io/anime/6980",
@@ -148,6 +157,7 @@
         "https://anime-planet.com/anime/deliver-police-nishitokyo-shi-deliver-keisatsutai",
         "https://anisearch.com/anime/16048",
         "https://kitsu.io/anime/44916",
+        "https://livechart.me/anime/10898",
         "https://myanimelist.net/anime/48575"
       ],
       "title": "Deliver Police: Nishitokyo-shi Deliver Keisatsutai",
@@ -162,7 +172,12 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1114/113739t.jpg",
       "synonyms": [
         "Anime no Tane 2021",
-        "DELIVER POLICE/西東京市デリバー警察隊"
+        "DELIVER POLICE",
+        "DELIVER POLICE/西東京市デリバー警察隊",
+        "DELIVER POLICE: Nishitokyo-shi Deliver Keisatsutai",
+        "Nishi-Tokyo-shi Deliver Keisatsu-tai",
+        "Young Animator Training Project 2021",
+        "西東京市デリバー警察隊"
       ],
       "relations": [
         "https://anilist.co/anime/130846",
@@ -174,6 +189,9 @@
         "https://kitsu.io/anime/44915",
         "https://kitsu.io/anime/44917",
         "https://kitsu.io/anime/44918",
+        "https://livechart.me/anime/10899",
+        "https://livechart.me/anime/10900",
+        "https://livechart.me/anime/10901",
         "https://myanimelist.net/anime/48576",
         "https://myanimelist.net/anime/48577",
         "https://myanimelist.net/anime/48589"
@@ -195,6 +213,7 @@
       "sources": [
         "https://anilist.co/anime/112125",
         "https://anime-planet.com/anime/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-ii-ova",
+        "https://anisearch.com/anime/14697",
         "https://kitsu.io/anime/42584",
         "https://livechart.me/anime/9612",
         "https://myanimelist.net/anime/40453",
@@ -212,13 +231,25 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1360/111696t.jpg",
       "synonyms": [
         "DanMachi II OVA",
-        "DanMachi II OVA, Is It Wrong to Try to Pick Up Girls in a Dungeon? II OVA",
+        "Danmachi Familia Myth: Saison 2 OVA",
+        "Danmachi OVA 2",
+        "Danmachi: Is It Wrong to Try to Pick Up Girls in a Dungeon? Familia Myth II OVA",
+        "Danmachi: Is It Wrong to Try to Pick Up Girls in a Dungeon? Ist es falsch, auf einer unbewohnten Insel nach Heilkräutern zu suchen?",
+        "Danmachi: È sbagliato cercare erbe medicinali su un’isola deserta?",
+        "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka: Familia Myth 2 OVA",
+        "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka: Familia Myth II: Mujintou ni Yakusou o Motomeru no wa Machigatte Iru Darou ka",
+        "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darō ka: Familia Myth II: Mujintou ni Yakusō o Motomeru no wa Machigatte Iru Darō ka",
+        "Dungeon ni Deai wo Motomeru no wa Machigatte Iru Darou ka: Familia Myth 2 OVA",
+        "Dungeon ni Deai wo Motomeru no wa Machigatte Iru Darou ka: Familia Myth II: Mujintou ni Yakusou wo Motomeru no wa Machigatte Iru Darou ka",
         "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II: Familia Myth OVA",
         "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II: Mujintou ni Yakusou wo Motomeru no wa Machigatte Iru Darouka",
         "Dungeon ni Deai wo Motomeru no wa Machigatteiru no Darou ka II OVA",
         "Is It Wrong to Try to Pick Up Girls in a Dungeon? II OVA",
         "Is It Wrong to Try to Pick Up Girls in a Dungeon? II: Is It Wrong to Go Searching for Herbs on a Deserted Island?",
+        "Is It Wrong to Try to Pick Up Girls in a Dungeon? II: Is It Wrong to go Searching for Herbs on a Deserted Island?",
+        "Is it Wrong to Try to Pick Up Girls in a Dungeon?: Season 2 OVA",
         "ダンジョンに出会いを求めるのは間違っているだろうか 2期 OVA",
+        "ダンジョンに出会いを求めるのは間違っているだろうか FAMILIA MYTH II 無人島に薬草を求めるのは間違っているだろうか",
         "ダンジョンに出会いを求めるのは間違っているだろうか II OVA",
         "ダンジョンに出会いを求めるのは間違っているだろうかⅡ OVA",
         "ダンジョンに出会いを求めるのは間違っているだろうかⅡ 無人島に薬草を求めるのは間違っているだろうか"
@@ -226,9 +257,11 @@
       "relations": [
         "https://anilist.co/anime/101167",
         "https://anime-planet.com/anime/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-ii",
+        "https://anisearch.com/anime/13352",
         "https://kitsu.io/anime/40599",
         "https://livechart.me/anime/10279",
         "https://livechart.me/anime/10382",
+        "https://livechart.me/anime/11536",
         "https://livechart.me/anime/1274",
         "https://livechart.me/anime/2045",
         "https://livechart.me/anime/2066",
@@ -242,13 +275,16 @@
         "action",
         "adventure",
         "aliens",
+        "alternative world",
         "amnesia",
         "based on a light novel",
+        "celestial beings",
         "chibi",
         "comedy",
         "crossdressing",
         "dungeon",
         "ecchi",
+        "elves",
         "fantasy",
         "female harem",
         "gag",
@@ -258,6 +294,7 @@
         "kemonomimi",
         "kuudere",
         "male protagonist",
+        "nonsense-comedy",
         "politics",
         "primarily female cast",
         "romance",
@@ -278,14 +315,16 @@
         "season": "WINTER",
         "year": 2008
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/9/9272.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/9/9272.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/9/9272_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/9/9272.webp",
       "synonyms": [
         "Fabre Konchuuki",
         "Fabre Konchū-ki",
         "ファーブル昆虫記"
       ],
-      "relations": [],
+      "relations": [
+        "https://anisearch.com/anime/3820"
+      ],
       "tags": [
         "kodomo"
       ],
@@ -326,11 +365,13 @@
       "tags": [
         "action",
         "asia",
+        "award winning",
         "cgi",
         "comedy",
         "earth",
         "ecchi",
         "female protagonist",
+        "heterosexual",
         "independent anime",
         "japan",
         "love confession",
@@ -339,6 +380,7 @@
         "pantsu",
         "panty shots",
         "present",
+        "primarily child cast",
         "romance",
         "short movie",
         "shorts",
@@ -351,6 +393,7 @@
         "https://anidb.net/anime/4230",
         "https://anilist.co/anime/6733",
         "https://anime-planet.com/anime/galaxy-express-999-can-you-live-like-a-warrior",
+        "https://anisearch.com/anime/2858",
         "https://kitsu.io/anime/4690",
         "https://myanimelist.net/anime/6733",
         "https://notify.moe/anime/NVE65FmiR"
@@ -369,7 +412,10 @@
         "Expreso Galáctico 999",
         "Galaxy Express 999: Can You Live Like A Warrior?",
         "Ginga Tetsudo 999: Kimi wa Senshi no You ni Ikirareru ka?",
+        "Ginga Tetsudou 999: Kimi wa Senshi no You ni Ikirareru ka!?",
         "Ginga Tetsudou 999: Kimi wa Senshi no You ni Ikirareruka!!",
+        "Ginga Tetsudō 999: Kimi wa Senshi no Yō ni Ikirareru ka!?",
+        "銀河鉄道 999 君は戦士のように生きられるか！？",
         "銀河鉄道999 君は戦士のように生きられるか!!",
         "銀河鉄道９９９　君は戦士のように生きられるか！？"
       ],
@@ -387,11 +433,13 @@
         "https://anime-planet.com/anime/the-galaxy-railways",
         "https://anime-planet.com/anime/the-galaxy-railways-a-letter-from-the-abandoned-planet",
         "https://anime-planet.com/anime/the-galaxy-railways-ii",
+        "https://anisearch.com/anime/713",
         "https://kitsu.io/anime/1337",
         "https://myanimelist.net/anime/1491",
         "https://notify.moe/anime/caF-5Fimg"
       ],
       "tags": [
+        "adventure",
         "based on a manga",
         "drama",
         "fantasy",
@@ -401,6 +449,7 @@
         "sci fi",
         "sci-fi",
         "science fiction",
+        "science-fiction",
         "shounen",
         "space",
         "space travel",
@@ -454,6 +503,7 @@
         "秘湯めぐり The Animation 「若女将、拉致る」"
       ],
       "relations": [
+        "https://anisearch.com/anime/6354",
         "https://myanimelist.net/anime/15839",
         "https://myanimelist.net/anime/9487"
       ],
@@ -523,6 +573,7 @@
         "Fantasma do Futuro 2: Inocente",
         "Ghost in The Shell 2: Innocence",
         "Ghost in the Shell - Innocence",
+        "Ghost in the Shell - L'attacco dei cyborg",
         "Ghost in the Shell 2 - Innocence",
         "Ghost in the Shell 2 - L`attacco dei cyborg",
         "Ghost in the Shell 2: Innocence",
@@ -546,7 +597,6 @@
         "いのせんす",
         "イノセンス",
         "攻壳机动队2 无罪",
-        "攻殻機動隊イノセンス",
         "공각기동대 2 이노센트"
       ],
       "relations": [
@@ -573,20 +623,9 @@
         "https://anime-planet.com/anime/ghost-in-the-shell-standalone-complex-the-laughing-man",
         "https://anime-planet.com/anime/ghost-in-the-shell-the-new-movie",
         "https://anime-planet.com/anime/ghost-in-the-shell-uchikomatic-days",
-        "https://anisearch.com/anime/10100",
-        "https://anisearch.com/anime/14020",
-        "https://anisearch.com/anime/15195",
-        "https://anisearch.com/anime/16488",
-        "https://anisearch.com/anime/1740",
         "https://anisearch.com/anime/2088",
-        "https://anisearch.com/anime/2569",
-        "https://anisearch.com/anime/3563",
-        "https://anisearch.com/anime/3602",
         "https://anisearch.com/anime/4942",
-        "https://anisearch.com/anime/8303",
-        "https://anisearch.com/anime/875",
-        "https://anisearch.com/anime/9293",
-        "https://anisearch.com/anime/9848",
+        "https://anisearch.com/anime/5931",
         "https://kitsu.io/anime/25",
         "https://livechart.me/anime/3607",
         "https://livechart.me/anime/3662",
@@ -609,8 +648,10 @@
       "tags": [
         "action",
         "action drama",
+        "adult cast",
         "artificial intelligence",
         "asia",
+        "award winning",
         "based on a manga",
         "bionic powers",
         "cgi",
@@ -621,6 +662,8 @@
         "detective",
         "drama",
         "earth",
+        "female protagonist",
+        "future",
         "guns",
         "hacking",
         "hero of strong character",
@@ -647,9 +690,9 @@
         "science fiction",
         "science-fiction",
         "seinen",
-        "special squads",
         "supernatural drama",
         "thriller",
+        "virtual reality",
         "virtual world"
       ],
       "id": "https://myanimelist.net/anime/468"
@@ -666,39 +709,18 @@
         "season": "UNDEFINED",
         "year": 2009
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1834/129559.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1834/129559t.jpg",
       "synonyms": [
         "精灵酷小贝"
       ],
       "relations": [],
       "tags": [
+        "anthropomorphic",
+        "fantasy",
         "kids"
       ],
       "id": "https://myanimelist.net/anime/46207"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/kai-chai-guniang"
-      ],
-      "title": "Kai Chai Guniang",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 1960
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/kai-chai-guniang-1.jpg?t=1636480153",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/kai-chai-guniang-1-285x400.jpg?t=1636480154",
-      "synonyms": [],
-      "relations": [],
-      "tags": [
-        "chinese animation",
-        "shorts",
-        "stop motion animation"
-      ],
-      "id": "https://anime-planet.com/anime/kai-chai-guniang"
     },
     {
       "sources": [
@@ -723,31 +745,6 @@
         "promotional"
       ],
       "id": "https://anime-planet.com/anime/kaishain-x-gaitamencom-fx-da-yo-kaishain"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/44999"
-      ],
-      "title": "Keke Xiao Ai Zhi Shijie Xuanchuan Ri",
-      "type": "TV",
-      "episodes": 9,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "可可小爱之世界宣传日"
-      ],
-      "relations": [
-        "https://myanimelist.net/anime/44984"
-      ],
-      "tags": [
-        "kids"
-      ],
-      "id": "https://myanimelist.net/anime/44999"
     },
     {
       "sources": [
@@ -780,6 +777,7 @@
         "Robotech",
         "Robotech (U.S.)",
         "Robotech: La Saga de Macross",
+        "Robotech: Season 1",
         "Robotech: The Macross Saga",
         "Robotech: The Series",
         "SDF Macross",
@@ -806,7 +804,6 @@
         "https://anidb.net/anime/996",
         "https://anilist.co/anime/1089",
         "https://anilist.co/anime/1504",
-        "https://anilist.co/anime/19105",
         "https://anilist.co/anime/194",
         "https://anilist.co/anime/474",
         "https://anime-planet.com/anime/macross-7",
@@ -817,20 +814,11 @@
         "https://anime-planet.com/anime/macross-zero",
         "https://anime-planet.com/anime/mini-chara-macross",
         "https://anime-planet.com/anime/super-dimensional-fortress-macross-do-you-remember-love",
-        "https://anisearch.com/anime/10952",
-        "https://anisearch.com/anime/12718",
-        "https://anisearch.com/anime/14304",
-        "https://anisearch.com/anime/194",
-        "https://anisearch.com/anime/2244",
-        "https://anisearch.com/anime/2413",
         "https://anisearch.com/anime/255",
         "https://anisearch.com/anime/2997",
-        "https://anisearch.com/anime/3464",
-        "https://anisearch.com/anime/374",
-        "https://anisearch.com/anime/4465",
-        "https://anisearch.com/anime/5470",
-        "https://anisearch.com/anime/6513",
-        "https://anisearch.com/anime/8472",
+        "https://anisearch.com/anime/3012",
+        "https://anisearch.com/anime/525",
+        "https://anisearch.com/anime/7369",
         "https://kitsu.io/anime/11441",
         "https://kitsu.io/anime/1350",
         "https://kitsu.io/anime/171",
@@ -875,6 +863,7 @@
         "aviation",
         "drama",
         "earth",
+        "future",
         "heterosexual",
         "humanoid alien",
         "idol",
@@ -899,6 +888,7 @@
         "sci-fi",
         "science fiction",
         "science-fiction",
+        "shipboard",
         "space",
         "space opera",
         "time skip",
@@ -913,17 +903,18 @@
       "sources": [
         "https://myanimelist.net/anime/45451"
       ],
-      "title": "Mai Quan Keke Man Youji",
+      "title": "Maiquan Keke Man Youji",
       "type": "TV",
       "episodes": 36,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2009
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1458/128829.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1458/128829t.jpg",
       "synonyms": [
+        "Maiquan & Keke's Adventure",
         "麦圈可可漫游记"
       ],
       "relations": [
@@ -932,37 +923,9 @@
         "https://myanimelist.net/anime/45462"
       ],
       "tags": [
-        "adventure"
+        "kids"
       ],
       "id": "https://myanimelist.net/anime/45451"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/7067",
-        "https://myanimelist.net/anime/49666"
-      ],
-      "title": "My last day",
-      "type": "ONA",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2011
-      },
-      "picture": "https://cdn.myanimelist.net/images/anime/1772/117354.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1772/117354t.jpg",
-      "synonyms": [
-        "Jesus: My Last Day",
-        "My Last Day",
-        "My lat day"
-      ],
-      "relations": [],
-      "tags": [
-        "drama",
-        "excessive violence",
-        "historical"
-      ],
-      "id": "https://myanimelist.net/anime/49666"
     },
     {
       "sources": [
@@ -983,6 +946,7 @@
       ],
       "relations": [],
       "tags": [
+        "educational",
         "kids"
       ],
       "id": "https://myanimelist.net/anime/39403"
@@ -1063,16 +1027,25 @@
         "fantasy",
         "japan",
         "magic",
+        "male protagonist",
         "manga",
+        "nudity",
         "present",
+        "primarily adult cast",
         "psi-powers",
         "reincarnation",
         "romance",
         "seinen",
         "shounen",
+        "suicide",
+        "super power",
         "supernatural",
         "supernatural drama",
-        "violence"
+        "swordplay",
+        "tragedy",
+        "urban",
+        "violence",
+        "war"
       ],
       "id": "https://myanimelist.net/anime/1866"
     },
@@ -1100,10 +1073,11 @@
       "synonyms": [
         "GoShogun - O Estrangeiro do Tempo",
         "GoShogun: The Time Etranger",
+        "GoShogun: The Time Stranger",
         "GoShogun: The Time Étranger",
         "Goshogun Etranger",
         "Goshogun: The Time Etranger",
-        "Goshogun: Time Étranger",
+        "Sengoku Majin Goushougun: Toki no ÉTRANGER",
         "Sengoku Majin Gōshōgun: Toki no Etranger",
         "Time Stranger",
         "戦国魔人ゴーショーグン 時の異邦人[ÉTRANGER[エトランゼ]]"
@@ -1112,9 +1086,10 @@
         "https://anidb.net/anime/1481",
         "https://anilist.co/anime/2510",
         "https://anime-planet.com/anime/goshogun",
-        "https://anisearch.com/anime/5887",
         "https://anisearch.com/anime/664",
         "https://kitsu.io/anime/2276",
+        "https://livechart.me/anime/7873",
+        "https://livechart.me/anime/9434",
         "https://myanimelist.net/anime/2510",
         "https://notify.moe/anime/Qj6PcFmig"
       ],
@@ -1134,8 +1109,10 @@
         "motorcycles",
         "original work",
         "other planet",
+        "philosophy",
         "police",
         "primarily adult cast",
+        "primarily male cast",
         "psychological drama",
         "sci fi",
         "sci-fi",
@@ -1143,7 +1120,9 @@
         "science-fiction",
         "seinen",
         "shounen",
+        "survival",
         "tragedy",
+        "urban",
         "violence",
         "zombie"
       ],
@@ -1177,12 +1156,13 @@
       "relations": [
         "https://anidb.net/anime/13820",
         "https://anilist.co/anime/102432",
-        "https://anime-planet.com/anime/shaonian-jinyiwei-2nd-season",
+        "https://anime-planet.com/anime/shaonian-jinyiwei-2nd-season-xuzhang",
         "https://anime-planet.com/anime/shaonian-jinyiwei-xuzhang",
         "https://anisearch.com/anime/13347",
         "https://kitsu.io/anime/40996",
         "https://myanimelist.net/anime/37152",
-        "https://myanimelist.net/anime/48910"
+        "https://myanimelist.net/anime/48910",
+        "https://myanimelist.net/anime/52182"
       ],
       "tags": [
         "action",
@@ -1214,19 +1194,22 @@
         "season": "SUMMER",
         "year": 1986
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/7/7379.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/7/7379.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/7/7379_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/7/7379.webp",
       "synonyms": [
         "Symphony Urusei Yatsura Kaisou Played by Apricot Systematic",
         "シンフォニー・うる星やつら"
       ],
-      "relations": [],
+      "relations": [
+        "https://anisearch.com/anime/1945"
+      ],
       "tags": [],
       "id": "https://anisearch.com/anime/7379"
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/venture"
+        "https://anime-planet.com/anime/venture",
+        "https://livechart.me/anime/9914"
       ],
       "title": "Venture",
       "type": "ONA",
@@ -1236,21 +1219,25 @@
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://anime-planet.com/images/anime/covers/15036.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/15036.jpg",
-      "synonyms": [],
+      "picture": "https://cdn.anime-planet.com/anime/primary/venture-1.jpg?t=1625908329",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/venture-1-190x266.jpg?t=1625908329",
+      "synonyms": [
+        "ベンチャー"
+      ],
       "relations": [
         "https://anime-planet.com/anime/venture-pilot"
       ],
       "tags": [
         "comedy",
         "original work",
+        "slice of life",
         "work life"
       ],
       "id": "https://anime-planet.com/anime/venture"
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/xingyuan-xiao-bao",
         "https://myanimelist.net/anime/47456"
       ],
       "title": "Xingyuan Xiao Bao",
@@ -1259,23 +1246,29 @@
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2017
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1553/129449.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1553/129449t.jpg",
       "synonyms": [
+        "xBuddies",
         "星原小宝"
       ],
-      "relations": [],
+      "relations": [
+        "https://anime-planet.com/anime/xingyuan-xiao-bao-2-shenyong-v5-dui",
+        "https://myanimelist.net/anime/47457"
+      ],
       "tags": [
-        "adventure"
+        "chinese animation",
+        "family friendly",
+        "kids",
+        "non-human protagonists"
       ],
       "id": "https://myanimelist.net/anime/47456"
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/yurumates-2012",
-        "https://anisearch.com/anime/7770",
+        "https://kitsu.io/anime/7187",
         "https://livechart.me/anime/8072",
         "https://myanimelist.net/anime/14949",
         "https://notify.moe/anime/VuJdpKiig"
@@ -1296,56 +1289,24 @@
         "Yurumates 3D Plus: Natsuyasumi Maison du Wish Report",
         "Yurumates 3D: Ushinawareta Genjitsu",
         "ゆるめいつ 3でぃ ｢失われた現実｣",
-        "ゆるめいつ 3でぃOVA",
-        "ゆるめいつ （2012）"
+        "ゆるめいつ 3でぃOVA"
       ],
       "relations": [
-        "https://anime-planet.com/anime/yurumates",
-        "https://anime-planet.com/anime/yurumates-3d",
-        "https://anime-planet.com/anime/yurumates-3d-plus",
-        "https://anime-planet.com/anime/yurumates-wa",
-        "https://anisearch.com/anime/3908",
-        "https://anisearch.com/anime/7615",
+        "https://kitsu.io/anime/6669",
         "https://myanimelist.net/anime/12123",
         "https://myanimelist.net/anime/14693",
         "https://notify.moe/anime/594HtFmig"
       ],
       "tags": [
-        "based on a 4-koma manga",
-        "based on a manga",
-        "boarding house",
-        "chibi",
+        "asia",
         "comedy",
-        "neighbors",
-        "nonsense-comedy",
-        "parody",
+        "earth",
+        "japan",
         "present",
         "seinen",
-        "short episodes",
         "slice of life"
       ],
       "id": "https://myanimelist.net/anime/14949"
-    },
-    {
-      "sources": [
-        "https://anilist.co/anime/108732"
-      ],
-      "title": "Zero",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2019
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108732-7AarWNYDJoXS.png",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108732-7AarWNYDJoXS.png",
-      "synonyms": [
-        "ぜろ"
-      ],
-      "relations": [],
-      "tags": [],
-      "id": "https://anilist.co/anime/108732"
     },
     {
       "sources": [
@@ -1359,8 +1320,8 @@
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1524/130715.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1524/130715t.jpg",
       "synonyms": [
         "智慧庄园"
       ],

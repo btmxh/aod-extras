@@ -85,36 +85,6 @@
     },
     {
       "sources": [
-        "https://livechart.me/anime/2760"
-      ],
-      "title": "GRANBLUE FANTASY The Animation: Extra 2",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 2017
-      },
-      "picture": "https://u.livechart.me/anime/2760/poster_image/b099ea31b9c06d4f3cf7005dfc3961b9.png?style=large&format=jpg",
-      "thumbnail": "https://u.livechart.me/anime/2760/poster_image/b099ea31b9c06d4f3cf7005dfc3961b9.png?style=small&format=jpg",
-      "synonyms": [
-        "GRANBLUE FANTASY The Animation EXTRA2"
-      ],
-      "relations": [
-        "https://livechart.me/anime/1826",
-        "https://livechart.me/anime/2940",
-        "https://livechart.me/anime/9719",
-        "https://livechart.me/anime/9861",
-        "https://livechart.me/anime/9876"
-      ],
-      "tags": [
-        "adventure",
-        "fantasy"
-      ],
-      "id": "https://livechart.me/anime/2760"
-    },
-    {
-      "sources": [
         "https://anidb.net/anime/3200",
         "https://anilist.co/anime/2999",
         "https://anime-planet.com/anime/hi-no-tori-yamato-hen",
@@ -146,10 +116,12 @@
         "https://anilist.co/anime/1371",
         "https://anilist.co/anime/2997",
         "https://anilist.co/anime/2998",
+        "https://anime-planet.com/anime/hi-no-tori-hagoromo-hen",
         "https://anime-planet.com/anime/hi-no-tori-houou-hen",
         "https://anime-planet.com/anime/hi-no-tori-uchuu-hen",
         "https://anime-planet.com/anime/phoenix",
         "https://anime-planet.com/anime/phoenix-2772",
+        "https://anime-planet.com/anime/phoenix-eden17",
         "https://anisearch.com/anime/2786",
         "https://anisearch.com/anime/442",
         "https://kitsu.io/anime/1225",
@@ -222,6 +194,8 @@
     {
       "sources": [
         "https://anilist.co/anime/108275",
+        "https://anime-planet.com/anime/sarazanmai-houkago-kappa",
+        "https://kitsu.io/anime/46882",
         "https://myanimelist.net/anime/39727"
       ],
       "title": "Houkago Kappa",
@@ -229,17 +203,21 @@
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "WINTER",
         "year": 2019
       },
       "picture": "https://cdn.myanimelist.net/images/anime/1667/100614.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1667/100614t.jpg",
       "synonyms": [
         "After School Kappa",
+        "Sarazanmai: Houkago Kappa",
         "放課後カッパー"
       ],
       "relations": [
-        "https://anilist.co/anime/101261"
+        "https://anilist.co/anime/101261",
+        "https://anime-planet.com/anime/sarazanmai",
+        "https://kitsu.io/anime/41017",
+        "https://myanimelist.net/anime/37426"
       ],
       "tags": [
         "dancing",
@@ -253,7 +231,8 @@
       "sources": [
         "https://anidb.net/anime/16441",
         "https://anilist.co/anime/136707",
-        "https://anime-planet.com/anime/isekai-yakkyoku",
+        "https://anime-planet.com/anime/parallel-world-pharmacy",
+        "https://anisearch.com/anime/16537",
         "https://kitsu.io/anime/44900",
         "https://livechart.me/anime/10677",
         "https://myanimelist.net/anime/49438",
@@ -261,66 +240,57 @@
       ],
       "title": "Isekai Yakkyoku",
       "type": "TV",
-      "episodes": 0,
-      "status": "UPCOMING",
+      "episodes": 12,
+      "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
+        "season": "SUMMER",
+        "year": 2022
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/1053/116557.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1053/116557t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1120/124644.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1120/124644t.jpg",
       "synonyms": [
         "Alternate World Pharmacy",
         "Alternate World Pharmacy,",
+        "Iseyak",
         "Parallel World Pharmacy",
-        "異世界薬局"
+        "เภสัชกรเทพสองโลก",
+        "奇幻世界药局",
+        "异世界药局",
+        "異世界薬局",
+        "異世界藥局"
       ],
       "relations": [],
       "tags": [
         "adventure",
+        "alchemy",
+        "alternative world",
         "based on a light novel",
-        "fantasy",
-        "isekai",
-        "medicine",
-        "medieval",
-        "modern knowledge"
-      ],
-      "id": "https://myanimelist.net/anime/49438"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/546"
-      ],
-      "title": "Jang Geumiui Kkum",
-      "type": "TV",
-      "episodes": 26,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 2005
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/0/546.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/0/546.webp",
-      "synonyms": [
-        "Jang Geum’s Dream",
-        "Janggeum’s Dream",
-        "Shoujo Jang Geum no Yume (少女チャングムの夢)",
-        "장금이의 꿈"
-      ],
-      "relations": [
-        "https://anisearch.com/anime/6787"
-      ],
-      "tags": [
-        "adventure",
         "comedy",
         "drama",
-        "food preparation",
-        "ganbatte",
+        "educational",
+        "fantasy",
+        "gods",
         "historical",
-        "old asia",
+        "isekai",
+        "iyashikei",
+        "magic",
+        "makeup",
+        "male protagonist",
+        "medic",
+        "medical",
+        "medicine",
+        "medieval",
+        "modern knowledge",
+        "novel",
+        "overpowered main characters",
+        "pandemic",
+        "parallel world",
+        "person in a strange world",
+        "reincarnation",
+        "romance",
         "slice of life"
       ],
-      "id": "https://anisearch.com/anime/546"
+      "id": "https://myanimelist.net/anime/49438"
     },
     {
       "sources": [
@@ -381,62 +351,12 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/131755",
-        "https://anisearch.com/anime/16413"
-      ],
-      "title": "Kan Saete Kuyashii wa",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 2021
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/16/16413.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/16/16413.webp",
-      "synonyms": [
-        "Kan Saete Kuyashī wa",
-        "Kansaete Kuyashiiwa",
-        "Zutomayo: Kan Saete Kuyashii wa",
-        "Zutto Mayonaka de Ii no ni.: Kan Saete Kuyashii wa (ずっと真夜中でいいのに。- 勘冴えて悔しいわ)",
-        "勘冴えて悔しいわ"
-      ],
-      "relations": [
-        "https://anilist.co/anime/118609",
-        "https://anilist.co/anime/119943",
-        "https://anilist.co/anime/119992",
-        "https://anilist.co/anime/121234",
-        "https://anilist.co/anime/121867",
-        "https://anilist.co/anime/122735",
-        "https://anilist.co/anime/126706",
-        "https://anilist.co/anime/126870",
-        "https://anilist.co/anime/128752",
-        "https://anilist.co/anime/129706",
-        "https://anilist.co/anime/131702",
-        "https://anilist.co/anime/131762",
-        "https://anilist.co/anime/131763",
-        "https://anilist.co/anime/136637",
-        "https://anilist.co/anime/139325",
-        "https://anilist.co/anime/139326",
-        "https://anilist.co/anime/139511"
-      ],
-      "tags": [
-        "adventure",
-        "food",
-        "heterosexual",
-        "independent anime",
-        "mystery",
-        "psychological",
-        "supernatural"
-      ],
-      "id": "https://anisearch.com/anime/16413"
-    },
-    {
-      "sources": [
         "https://anidb.net/anime/3461",
         "https://anilist.co/anime/3547",
         "https://anime-planet.com/anime/kochira-katsushikaku-kameari-kouenmae-hashutsujo-the-movie-2-ufo-shuurai-tornado-daisakusen",
+        "https://anisearch.com/anime/1722",
         "https://kitsu.io/anime/3092",
+        "https://livechart.me/anime/11506",
         "https://myanimelist.net/anime/3547",
         "https://notify.moe/anime/GveQ5FmmR"
       ],
@@ -452,9 +372,12 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/12/5943t.jpg",
       "synonyms": [
         "Kochikame Movie 2",
+        "Kochira Katsushika-ku Kameari Kouen-mae Hashutsujo: The Movie 2 - UFO Shuurai! Tornado Daisakusen!!",
+        "Kochira Katsushika-ku Kameari Kōen-mae Hashutsujo: The Movie 2 - UFO Shūrai! Tornado Daisakusen!!",
         "Kochira Katsushikaku Kameari Kouenmae Hashutsujo THE MOVIE 2: UFO Shuurai! Tornado Daisakusen!!",
         "Kochira Katsushikaku Kameari Kouenmae Hashutsujo The Movie 2: UFO Shuurai! Tornado Daisakusen",
         "こちら葛飾区亀有公園前派出所 THE MOVIE2 UFO襲来! トルネード大作戦!!",
+        "こちら葛飾区亀有公園前派出所 The Movie 2 UFO襲来！トルネード大作戦！！",
         "こちら葛飾区亀有公園前派出所　ＴＨＥ　ＭＯＶＩＥ２　ＵＦＯ襲来！トルネード大作戦！！"
       ],
       "relations": [
@@ -464,8 +387,24 @@
         "https://anime-planet.com/anime/kameari-park-precinct",
         "https://anime-planet.com/anime/kochira-katsushikaku-kameari-kouenmae-hashutsujo",
         "https://anime-planet.com/anime/kochira-katsushikaku-kameari-kouenmae-hashutsujo-shinsaku",
+        "https://anisearch.com/anime/2526",
         "https://kitsu.io/anime/2632",
         "https://kitsu.io/anime/3090",
+        "https://livechart.me/anime/11478",
+        "https://livechart.me/anime/11479",
+        "https://livechart.me/anime/11480",
+        "https://livechart.me/anime/11481",
+        "https://livechart.me/anime/11482",
+        "https://livechart.me/anime/11483",
+        "https://livechart.me/anime/11484",
+        "https://livechart.me/anime/11485",
+        "https://livechart.me/anime/11486",
+        "https://livechart.me/anime/11487",
+        "https://livechart.me/anime/11488",
+        "https://livechart.me/anime/11489",
+        "https://livechart.me/anime/11504",
+        "https://livechart.me/anime/11505",
+        "https://livechart.me/anime/6699",
         "https://myanimelist.net/anime/2901",
         "https://myanimelist.net/anime/3545",
         "https://notify.moe/anime/KzewcFmmg",
@@ -473,147 +412,107 @@
       ],
       "tags": [
         "action",
+        "adult cast",
         "comedy",
         "cops",
-        "police"
+        "detective",
+        "gag humor",
+        "mystery",
+        "police",
+        "shounen",
+        "slice of life"
       ],
       "id": "https://myanimelist.net/anime/3547"
     },
     {
       "sources": [
-        "https://anidb.net/anime/14643",
-        "https://anilist.co/anime/109343",
-        "https://anime-planet.com/anime/kuiba-movie-4-mei-lingluo",
-        "https://myanimelist.net/anime/40820"
+        "https://anime-planet.com/anime/longwang-dian-2nd-season",
+        "https://myanimelist.net/anime/51210"
       ],
-      "title": "Kuiba IV: Mei Lingluo",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "UPCOMING",
+      "title": "Long Wang Dian 2nd Season",
+      "type": "ONA",
+      "episodes": 75,
+      "status": "ONGOING",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": 2020
+        "year": 2022
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1554/127542.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1554/127542t.jpg",
       "synonyms": [
-        "Kuiba 4 Zhi Mei Lingluo",
-        "Kuiba Movie 4: Mei Lingluo",
-        "Zuihou De Kuiba",
-        "Zuihou de Kaiba",
-        "最后的魁拔",
-        "魁拔4之梅零落",
-        "魁拔IV: 梅零落",
-        "魁拔IV：梅零落",
-        "魁拔之最后的魁拔",
-        "魁拔之梅之零落"
+        "Fake Identity",
+        "Longwang Dian",
+        "Longwang Dian 2nd Season",
+        "Marrying into her Family",
+        "Temple of Dragon King 2nd Season",
+        "The Dragon King’s Hall 2nd Season",
+        "龙王殿 第二季"
       ],
       "relations": [
-        "https://anidb.net/anime/10861",
-        "https://anidb.net/anime/14644",
-        "https://anilist.co/anime/19781",
-        "https://anime-planet.com/anime/kuiba-movie-1-zhi-shiwanhuoji",
-        "https://anime-planet.com/anime/kuiba-movie-2-dazhan-yuan-yang-jie",
-        "https://anime-planet.com/anime/kuiba-movie-3-zhanshen-jueqi",
-        "https://anime-planet.com/anime/kuiba-yao-xia-zhuan"
+        "https://anime-planet.com/anime/longwang-dian",
+        "https://myanimelist.net/anime/52401"
       ],
       "tags": [
         "action",
-        "adventure",
+        "based on a webtoon",
         "chinese animation",
-        "family friendly",
-        "fantasy",
-        "kodomo",
-        "new",
-        "original work"
+        "comedy",
+        "harem",
+        "romance"
       ],
-      "id": "https://myanimelist.net/anime/40820"
+      "id": "https://myanimelist.net/anime/51210"
     },
     {
       "sources": [
-        "https://anisearch.com/anime/13903"
+        "https://anilist.co/anime/140594",
+        "https://anime-planet.com/anime/momonga-to-hanabishi"
       ],
-      "title": "Kyoukaisen-jou no Horizon XXI-PV",
+      "title": "Momonga to Hanabishi",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2019
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/momonga-to-hanabishi-1.webp?t=1656725948",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/momonga-to-hanabishi-1-285x400.webp?t=1656725948",
+      "synonyms": [
+        "Flying squirrels and the pyrotechnician",
+        "Momonga to Hanabi-shi",
+        "ももんがと花火師"
+      ],
+      "relations": [],
+      "tags": [
+        "animal protagonists",
+        "non-human protagonists",
+        "shorts"
+      ],
+      "id": "https://anime-planet.com/anime/momonga-to-hanabishi"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/mukbang"
+      ],
+      "title": "MUKBANG!",
       "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "FALL",
-        "year": 2018
+        "season": "UNDEFINED",
+        "year": 2022
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/13/13903.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/13/13903.webp",
-      "synonyms": [
-        "Horizon on the Middle of Nowhere BD-Box Special",
-        "Kyoukaisen-jou no Horizon: Kanzen Shinsaku Tokuten Animation (境界線上のホライゾン 完全新作特典アニメーション)",
-        "Kyoukaisenjou no Horizon Special",
-        "Kyōkaisen-jō no Horizon XXI-PV",
-        "境界線上のホライゾン XXI-PV"
-      ],
+      "picture": "https://cdn.anime-planet.com/anime/primary/mukbang-1.webp?t=1670785784",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/mukbang-1-285x399.webp?t=1670785784",
+      "synonyms": [],
       "relations": [],
       "tags": [
-        "action",
-        "fantasy",
-        "science-fiction"
-      ],
-      "id": "https://anisearch.com/anime/13903"
-    },
-    {
-      "sources": [
-        "https://anidb.net/anime/14466",
-        "https://anilist.co/anime/102060",
-        "https://anime-planet.com/anime/cats-and-peachtopia",
-        "https://anisearch.com/anime/13712",
-        "https://kitsu.io/anime/41170",
-        "https://myanimelist.net/anime/37179",
-        "https://myanimelist.net/anime/45045",
-        "https://notify.moe/anime/6Ww2qbmmg"
-      ],
-      "title": "Mao Yu Tao Hua Yuan",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2018
-      },
-      "picture": "https://cdn.myanimelist.net/images/anime/1820/111939.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1820/111939t.jpg",
-      "synonyms": [
-        "Birba micio combinaguai",
-        "Birba: Micio Combinaguai",
-        "Cats",
-        "Cats and Peachtopia",
-        "Cats: Ein schnurriges Abenteuer",
-        "Gatos",
-        "Mao Yu Taohua Yuan",
-        "Mao Yu Taohuayuan",
-        "Oscar et Le Monde des Chats",
-        "Oscar et le Monde des Chats",
-        "Rent Cats",
-        "Sekretny świat kotów",
-        "猫与桃花源"
-      ],
-      "relations": [],
-      "tags": [
-        "adventure",
-        "animal protagonists",
-        "anthropomorphism",
-        "birds",
-        "cats",
-        "cg animation",
-        "cg-anime",
+        "abstract",
         "chinese animation",
-        "comedy",
-        "family friendly",
-        "fantasy",
-        "full cgi",
-        "genius",
-        "kids",
-        "non-human protagonists",
-        "present"
+        "food and beverage",
+        "shorts"
       ],
-      "id": "https://myanimelist.net/anime/45045"
+      "id": "https://anime-planet.com/anime/mukbang"
     },
     {
       "sources": [
@@ -621,6 +520,7 @@
         "https://anilist.co/anime/123948",
         "https://anime-planet.com/anime/uchikubi-gokumon-doukoukai-sakugasaku",
         "https://anisearch.com/anime/15659",
+        "https://kitsu.io/anime/43542",
         "https://myanimelist.net/anime/42935"
       ],
       "title": "Sakugasaku",
@@ -637,77 +537,22 @@
         "Uchikubi Gokumon Doukoukai - Sakugasaku",
         "Uchikubi Gokumon Doukoukai: Sakugasaku",
         "サクガサク",
-        "打首獄門同好会 - サクガサク"
+        "打首獄門同好会 - サクガサク",
+        "打首獄門同好会「サクガサク」"
       ],
       "relations": [],
       "tags": [
+        "action",
         "anime & movie",
         "anime industry",
         "drawing",
         "indefinite",
         "meta",
         "music",
+        "otaku culture",
         "work"
       ],
       "id": "https://myanimelist.net/anime/42935"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/sawako-kabuki-natsu-no-gero-wa-fuyu-no-sakana"
-      ],
-      "title": "Sawako Kabuki: Natsu no Gero wa Fuyu no Sakana",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2016
-      },
-      "picture": "https://anime-planet.com/images/anime/covers/11217.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/11217.jpg",
-      "synonyms": [],
-      "relations": [],
-      "tags": [
-        "abstract"
-      ],
-      "id": "https://anime-planet.com/anime/sawako-kabuki-natsu-no-gero-wa-fuyu-no-sakana"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/44357"
-      ],
-      "title": "Shantae 5",
-      "type": "ONA",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "S5"
-      ],
-      "relations": [],
-      "tags": [
-        "action",
-        "comedy",
-        "ecchi",
-        "fantasy",
-        "kids",
-        "music",
-        "mystery",
-        "romance",
-        "school",
-        "seinen",
-        "shoujo",
-        "slice of life",
-        "sports",
-        "supernatural",
-        "suspense"
-      ],
-      "id": "https://myanimelist.net/anime/44357"
     },
     {
       "sources": [
@@ -719,16 +564,18 @@
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2010
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1816/129006.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1816/129006t.jpg",
       "synonyms": [
+        "Tales of the Chinese Zodiac",
         "生肖山传奇"
       ],
       "relations": [],
       "tags": [
-        "fantasy"
+        "fantasy",
+        "kids"
       ],
       "id": "https://myanimelist.net/anime/46362"
     },
@@ -744,8 +591,8 @@
         "season": "SPRING",
         "year": 2011
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/7/7557.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/7/7557.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/7/7557_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/7/7557.webp",
       "synonyms": [
         "Shiki Episode 20.5",
         "Shiki: Daifutatōtohanwa",
@@ -753,8 +600,7 @@
         "屍鬼 第腐汰悼と犯話"
       ],
       "relations": [
-        "https://anisearch.com/anime/5859",
-        "https://anisearch.com/anime/7558"
+        "https://anisearch.com/anime/5859"
       ],
       "tags": [
         "drama",
@@ -778,8 +624,8 @@
         "season": "FALL",
         "year": 2015
       },
-      "picture": "https://cdn.anidb.net/images/main/178063.jpg",
-      "thumbnail": "https://cdn.anidb.net/images/main/178063.jpg-thumb.jpg",
+      "picture": "https://cdn.anidb.net/images/main/276303.jpg",
+      "thumbnail": "https://cdn.anidb.net/images/main/276303.jpg-thumb.jpg",
       "synonyms": [
         "Food Wars! OVAs",
         "Takumi no Shitamachi Gassen",
@@ -872,8 +718,8 @@
         "season": "SUMMER",
         "year": 2011
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/11/33219.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/11/33219t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1014/94473.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1014/94473t.jpg",
       "synonyms": [
         "Eternal Quon 4: The Roaring Anxiety",
         "Towa no Quon Movie 4: Guren no Shoushin",
@@ -912,7 +758,8 @@
         "super power",
         "supernatural",
         "superpower",
-        "superpowers"
+        "superpowers",
+        "tokusatsu"
       ],
       "id": "https://myanimelist.net/anime/10715"
     },
@@ -959,6 +806,7 @@
         "assassin",
         "assassins",
         "based on a manga",
+        "cgi",
         "crime",
         "drama",
         "ecchi",
@@ -968,7 +816,8 @@
         "harem",
         "heterosexual",
         "high school",
-        "large breasts - deprecated",
+        "idol",
+        "large breasts",
         "law and order",
         "love triangle",
         "mafia",
@@ -1037,6 +886,7 @@
         "game",
         "half-length episodes",
         "harem",
+        "heterosexual",
         "romance",
         "school",
         "school life",
@@ -1076,6 +926,7 @@
     {
       "sources": [
         "https://anime-planet.com/anime/youjo-shenki-episode-0",
+        "https://anisearch.com/anime/12418",
         "https://kitsu.io/anime/13222",
         "https://livechart.me/anime/4405",
         "https://myanimelist.net/anime/34723",
@@ -1089,13 +940,22 @@
         "season": "WINTER",
         "year": 2017
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/4/83711.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/4/83711t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1781/122851.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1781/122851t.jpg",
       "synonyms": [
-        "ようじょしぇんき"
+        "Saga of Tanya the Evil: Chibi Shorts #00",
+        "Saga of Tanya the Evil: SD Mini Episodes #00",
+        "Youjo Senki Mini Anime #00",
+        "Youjo Shenki #00",
+        "Youjo Shenki: Episode 0",
+        "Yōjo Shenki #00",
+        "ようじょしぇんき",
+        "ようじょしぇんき #00"
       ],
       "relations": [
         "https://anime-planet.com/anime/youjo-shenki",
+        "https://anisearch.com/anime/11175",
+        "https://anisearch.com/anime/12421",
         "https://kitsu.io/anime/11794",
         "https://kitsu.io/anime/13215",
         "https://myanimelist.net/anime/32615",
@@ -1104,11 +964,25 @@
         "https://notify.moe/anime/kxyM2Kmmg"
       ],
       "tags": [
+        "alternative world",
         "based on a light novel",
         "chibi",
         "comedy",
+        "dark fantasy",
+        "fantasy",
+        "guns",
+        "heroine of strong character",
+        "historical",
+        "isekai",
+        "magic",
+        "military",
         "parody",
-        "shorts"
+        "reincarnation",
+        "reluctant heroine",
+        "shorts",
+        "super deformed",
+        "war",
+        "world wars"
       ],
       "id": "https://myanimelist.net/anime/34723"
     },

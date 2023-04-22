@@ -2,7 +2,6 @@
   "data": [
     {
       "sources": [
-        "https://anime-planet.com/anime/009-re-cyborg-x-zip",
         "https://kitsu.io/anime/12326",
         "https://myanimelist.net/anime/32737",
         "https://notify.moe/anime/FnzzhKmiR"
@@ -21,49 +20,68 @@
         "サイボーグ009 × 日テレ「ZIP!」"
       ],
       "relations": [
-        "https://anime-planet.com/anime/009-re-cyborg",
-        "https://anime-planet.com/anime/009-re-cyborg-seishain-cyborg-003",
         "https://kitsu.io/anime/6588",
         "https://myanimelist.net/anime/11755",
         "https://notify.moe/anime/nX_ItFiiR"
       ],
       "tags": [
-        "cg animation",
         "comedy",
-        "crossover",
-        "promotional",
-        "short episodes",
         "super power"
       ],
       "id": "https://myanimelist.net/anime/32737"
     },
     {
       "sources": [
-        "https://kitsu.io/anime/12335"
+        "https://anidb.net/anime/17932",
+        "https://anime-planet.com/anime/bakugan-legends",
+        "https://anisearch.com/anime/18340",
+        "https://livechart.me/anime/11851",
+        "https://myanimelist.net/anime/54637"
       ],
-      "title": "Burutabu-chan",
-      "type": "TV",
-      "episodes": 3,
+      "title": "Bakugan: Legends",
+      "type": "ONA",
+      "episodes": 13,
       "status": "FINISHED",
       "animeSeason": {
         "season": "WINTER",
-        "year": 1994
+        "year": 2023
       },
-      "picture": "https://media.kitsu.io/anime/poster_images/12335/small.jpg",
-      "thumbnail": "https://media.kitsu.io/anime/poster_images/12335/tiny.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1426/134705.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1426/134705t.jpg",
       "synonyms": [
-        "ぶるたぶちゃん"
+        "Bakugan: Battle Planet Season 5",
+        "爆丸レジェンズ"
       ],
-      "relations": [],
+      "relations": [
+        "https://anidb.net/anime/17239",
+        "https://anime-planet.com/anime/bakugan-evolutions",
+        "https://anisearch.com/anime/17015",
+        "https://livechart.me/anime/10470",
+        "https://livechart.me/anime/10523",
+        "https://livechart.me/anime/10524",
+        "https://livechart.me/anime/11118",
+        "https://livechart.me/anime/1570",
+        "https://livechart.me/anime/2996",
+        "https://livechart.me/anime/4692",
+        "https://livechart.me/anime/4814",
+        "https://livechart.me/anime/5283",
+        "https://livechart.me/anime/9830",
+        "https://myanimelist.net/anime/51263"
+      ],
       "tags": [
-        "comedy",
+        "action",
+        "family friendly",
         "fantasy",
-        "magic"
+        "game",
+        "ganbatte",
+        "proxy battles",
+        "strategy game"
       ],
-      "id": "https://kitsu.io/anime/12335"
+      "id": "https://myanimelist.net/anime/54637"
     },
     {
       "sources": [
+        "https://anilist.co/anime/130979",
         "https://anime-planet.com/anime/chongsheng-xiangfeng-gei-ni-wo-de-dujia-chongni"
       ],
       "title": "Chongsheng Xiangfeng: Gei Ni Wo De Dujia Chongni",
@@ -74,10 +92,12 @@
         "season": "UNDEFINED",
         "year": 2021
       },
-      "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
-      "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
+      "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+      "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
       "synonyms": [
-        "Rebirth Meeting: For You and My Exclusive Lovers"
+        "Chongsheng Xiangfeng: Gei Ni Wo De Dujia Chong Ni",
+        "Rebirth Meeting: For You and My Exclusive Lovers",
+        "重生相逢：给你我的独家宠溺"
       ],
       "relations": [],
       "tags": [
@@ -115,10 +135,11 @@
         "Dumbbell Nan-Kilo Moteru?",
         "How Heavy Are The Dumbbelss You Lift?",
         "How Heavy Are the Dumbbells You Lift?",
+        "How Many Kilograms Are the Dumbbells You Lift?",
         "How Many Kilograms are the Dumbbells You Lift?",
         "How Much Heavy Dumbbells Can You Lift?",
-        "How heavy are the dumbbells you lift?",
         "How much heavy dumbbells can you lift?",
+        "dumbbell",
         "แก๊งสาวป่วน ก๊วนฟิตเนส",
         "だんべるなんきろもてる",
         "ダンベル何キロ持てる?",
@@ -129,12 +150,16 @@
       "relations": [
         "https://anilist.co/anime/100891",
         "https://anilist.co/anime/138103",
+        "https://anime-planet.com/anime/how-heavy-are-the-dumbbells-you-lift-silverman-gym-oni-tore-kouza",
+        "https://anisearch.com/anime/17486",
+        "https://kitsu.io/anime/47012",
         "https://myanimelist.net/anime/41463"
       ],
       "tags": [
         "athletics",
         "based on a manga",
         "boxing",
+        "cgdct",
         "comedy",
         "cosplay",
         "cute girls doing cute things",
@@ -160,28 +185,10 @@
         "sports",
         "tanned skin",
         "teacher",
+        "tomboy",
         "urban"
       ],
       "id": "https://myanimelist.net/anime/39026"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/fake-type-beelzebuz"
-      ],
-      "title": "FAKE TYPE: BEELZEBUZ",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2020
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/fake-type-beelzebuz-1.jpg?t=1625908628",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/fake-type-beelzebuz-1-190x266.jpg?t=1625908628",
-      "synonyms": [],
-      "relations": [],
-      "tags": [],
-      "id": "https://anime-planet.com/anime/fake-type-beelzebuz"
     },
     {
       "sources": [
@@ -240,7 +247,7 @@
       "picture": "https://cdn.myanimelist.net/images/anime/4/88981.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/4/88981t.jpg",
       "synonyms": [
-        "Gdgd Men's Party",
+        "Gdgd Men’s Party",
         "Guda Men",
         "gd Men",
         "gd men's party",
@@ -260,6 +267,7 @@
         "https://anime-planet.com/anime/gdgd-fairies",
         "https://anime-planet.com/anime/gdgd-fairies-2",
         "https://anime-planet.com/anime/gdgd-fairies-the-movie-tte-iu-eiga-wa-dou-kana",
+        "https://anisearch.com/anime/7442",
         "https://kitsu.io/anime/42378",
         "https://kitsu.io/anime/7498",
         "https://myanimelist.net/anime/16726",
@@ -294,7 +302,7 @@
     {
       "sources": [
         "https://anilist.co/anime/124115",
-        "https://anime-planet.com/anime/girls-und-panzer-saishuushou-3",
+        "https://anime-planet.com/anime/girls-und-panzer-das-finale-part-3",
         "https://kitsu.io/anime/44519",
         "https://livechart.me/anime/2595",
         "https://myanimelist.net/anime/39166",
@@ -314,8 +322,8 @@
         "Girls und Panzer das Finale 3",
         "Girls und Panzer das Finale Part 3",
         "Girls und Panzer das Finale – Part 3",
+        "Girls und Panzer das Finale: Part 3",
         "Girls und Panzer: Saishuushou 3",
-        "Girls und Panzer: Saishuushou Part 3",
         "Girls und Panzer: The Final Chapter Part 3",
         "『ガールズ＆パンツァー 最終章』第3話",
         "ガールズ＆パンツァー 最終章 第3話"
@@ -326,7 +334,7 @@
         "https://anilist.co/anime/144803",
         "https://anime-planet.com/anime/girls-und-panzer",
         "https://anime-planet.com/anime/girls-und-panzer-das-finale-part-1",
-        "https://anime-planet.com/anime/girls-und-panzer-saishuushou-2",
+        "https://anime-planet.com/anime/girls-und-panzer-das-finale-part-2",
         "https://anime-planet.com/anime/girls-und-panzer-saishuushou-3-specials",
         "https://anime-planet.com/anime/girls-und-panzer-saishuushou-4",
         "https://anime-planet.com/anime/girls-und-panzer-saishuushou-5",
@@ -358,6 +366,7 @@
       "tags": [
         "action",
         "all girls school",
+        "ensemble cast",
         "friendship",
         "military",
         "military school",
@@ -395,44 +404,6 @@
         "vocaloid"
       ],
       "id": "https://anime-planet.com/anime/halyosy-attakaito"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/867"
-      ],
-      "title": "Heavy Metal L-Gaim I: Petagna Window + Lady Gablae",
-      "type": "OVA",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "FALL",
-        "year": 1986
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/0/867.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/0/867.webp",
-      "synonyms": [
-        "Heavy Metal L-Gaim I: Pentagona Window + Lady Gavlet",
-        "重戦機エルガイムI ペンタゴナ ウインドゥ+レディ ギャブレー"
-      ],
-      "relations": [
-        "https://anisearch.com/anime/1654",
-        "https://anisearch.com/anime/3503",
-        "https://anisearch.com/anime/66"
-      ],
-      "tags": [
-        "action",
-        "alternative world",
-        "comedy",
-        "mecha",
-        "military",
-        "real robots",
-        "romance",
-        "science-fiction",
-        "space",
-        "space opera",
-        "war"
-      ],
-      "id": "https://anisearch.com/anime/867"
     },
     {
       "sources": [
@@ -474,7 +445,6 @@
         "https://anime-planet.com/anime/high-school-fleet-movie",
         "https://anime-planet.com/anime/high-school-fleet-ova",
         "https://anisearch.com/anime/11800",
-        "https://anisearch.com/anime/13550",
         "https://kitsu.io/anime/12579",
         "https://kitsu.io/anime/41259",
         "https://livechart.me/anime/2346",
@@ -499,8 +469,10 @@
         "new",
         "ocean",
         "original work",
+        "post-apocalyptic",
         "present",
         "primarily female cast",
+        "primarily teen cast",
         "school",
         "school life",
         "ship",
@@ -527,6 +499,7 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1559/109051.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1559/109051t.jpg",
       "synonyms": [
+        "Hiyoko Buta no Theme PART 2.",
         "Minna no Uta",
         "Minna no Uta: Hiyoko Buta no Theme Part 2.",
         "ひよこぶたのテーマPART2。"
@@ -543,6 +516,8 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/40meterp-ima-wo-kakeru-shoujo",
+        "https://kitsu.io/anime/47095",
         "https://myanimelist.net/anime/51004"
       ],
       "title": "Ima wo Kakeru Shoujo",
@@ -556,14 +531,18 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1442/120905.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1442/120905t.jpg",
       "synonyms": [
+        "40MeterP: Ima wo Kakeru Shoujo",
+        "40MeterP: The Girl Who Leapt Present",
         "The Girl Who Leapt Present",
         "今をかける少女"
       ],
       "relations": [
+        "https://kitsu.io/anime/47098",
         "https://myanimelist.net/anime/50318"
       ],
       "tags": [
-        "music"
+        "music",
+        "vocaloid"
       ],
       "id": "https://myanimelist.net/anime/51004"
     },
@@ -658,13 +637,16 @@
       ],
       "relations": [
         "https://anime-planet.com/anime/magic-kyun-renaissance",
+        "https://anisearch.com/anime/11478",
         "https://kitsu.io/anime/12182",
         "https://myanimelist.net/anime/33299",
         "https://notify.moe/anime/x9dghFiig"
       ],
       "tags": [
+        "fantasy",
         "magic",
         "music",
+        "reverse harem",
         "romance",
         "school",
         "school life"
@@ -705,6 +687,7 @@
     {
       "sources": [
         "https://kitsu.io/anime/40952",
+        "https://livechart.me/anime/8990",
         "https://myanimelist.net/anime/36447",
         "https://notify.moe/anime/5cyOhFmmg"
       ],
@@ -729,7 +712,8 @@
       ],
       "tags": [
         "fantasy",
-        "game"
+        "game",
+        "strategy game"
       ],
       "id": "https://myanimelist.net/anime/36447"
     },
@@ -757,41 +741,6 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/manly-appetites-minegishi-loves-otsu"
-      ],
-      "title": "Manly Appetites: Minegishi Loves Otsu",
-      "type": "ONA",
-      "episodes": 4,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2020
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/manly-appetites-minegishi-loves-otsu-1.jpg?t=1625908330",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/manly-appetites-minegishi-loves-otsu-1-190x266.jpg?t=1625908330",
-      "synonyms": [
-        "Minegishi-san wa Outsu-kun ni Tabesasetai"
-      ],
-      "relations": [],
-      "tags": [
-        "based on a manga",
-        "bl",
-        "chibi",
-        "coworkers",
-        "flash animation",
-        "food and beverage",
-        "opposites attract",
-        "romance",
-        "salaryman",
-        "seinen",
-        "short episodes",
-        "shounen-ai",
-        "work life"
-      ],
-      "id": "https://anime-planet.com/anime/manly-appetites-minegishi-loves-otsu"
-    },
-    {
-      "sources": [
         "https://anilist.co/anime/114744",
         "https://anime-planet.com/anime/made-in-abyss-marulks-daily-life",
         "https://anisearch.com/anime/14961",
@@ -813,11 +762,14 @@
       "synonyms": [
         "Made in Abyss: Le Giornate di Marluk",
         "Made in Abyss: Marulk's Daily Life",
+        "Made in Abyss: Marulk’s Daily Life",
         "Made in Abyss: Marulk’s Everyday",
         "Marulk's Daily Life",
         "Marulk's Everyday",
-        "Marulk-chan no Nichijō",
         "Maruruk's Everday",
+        "Maruruk-chan no Nichijou",
+        "Maruruk-chan no Nichijō",
+        "Maruruk’s Everyday",
         "マルルクちゃんの日常"
       ],
       "relations": [
@@ -825,7 +777,10 @@
         "https://anime-planet.com/anime/made-in-abyss",
         "https://anime-planet.com/anime/made-in-abyss-movie-dawn-of-the-deep-soul",
         "https://anime-planet.com/anime/made-in-abyss-the-golden-city-of-the-scorching-sun",
+        "https://anisearch.com/anime/13071",
         "https://kitsu.io/anime/14027",
+        "https://livechart.me/anime/11268",
+        "https://livechart.me/anime/11785",
         "https://livechart.me/anime/2483",
         "https://livechart.me/anime/2993",
         "https://livechart.me/anime/3164",
@@ -838,18 +793,25 @@
         "adventure",
         "alternative world",
         "based on a manga",
+        "child protagonists",
         "comedy",
         "crossdressing",
+        "cute boys doing cute things",
         "drama",
         "episodic",
         "fantasy",
+        "femboy",
+        "male protagonist",
         "monster",
         "mystery",
+        "primarily child cast",
         "sci-fi",
         "short episodes",
         "slapstick",
         "slice of life",
-        "slice of life drama"
+        "slice of life drama",
+        "urban",
+        "work"
       ],
       "id": "https://myanimelist.net/anime/40897"
     },
@@ -863,7 +825,7 @@
         "https://myanimelist.net/anime/9087",
         "https://notify.moe/anime/vsJWpKiig"
       ],
-      "title": "Mobile Suit SD Gundam Musha, Knight, Commando",
+      "title": "Musha Knight Commando: SD Gundam Scramble",
       "type": "MOVIE",
       "episodes": 2,
       "status": "FINISHED",
@@ -875,24 +837,26 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/13/25171t.jpg",
       "synonyms": [
         "Dawn of Papal",
+        "Gundam: Musha Knight Commando: SD Gundam Scramble",
         "Kidou Senshi SD Gundam SD Gundam Musha, Knight, Commando",
+        "Kidou Senshi SD Gundam: Musha Kishi Commando - SD Gundam Kinkyuu Shutsugeki",
+        "Mobile Suit SD Gundam Musha, Knight, Commando",
         "Musha",
         "Musha Kishi Commando SD Gundam Kinkyuu Shutsugeki",
-        "Musha Knight Commando: SD Gundam Scramble",
-        "Musha Naito Commando SD Gundam Kinkyuu Shutsugeki",
         "Musha, Knight, Commando: SD Gundam Emergency Sortie",
         "SD Gundam Musha Knight Command Emergency Sortie",
         "SD Gundam Musha Knight Commando",
         "SD Gundam Scramble",
+        "機動戦士SDガンダム劇場版 武者・騎士・コマンド SDガンダム緊急出撃",
         "機動戦士ＳＤガンダム 武者・騎士・コマンド ＳＤガンダム緊急出撃",
         "武者・騎士[ナイト]・コマンド SDガンダム緊急出撃[スクランブル]",
-        "武者・騎士・コマンド SDガンダム緊急出撃",
-        "ＳＤガンダム 武者・騎士・コマンド ＳＤガンダム緊急出撃"
+        "武者・騎士・コマンド SDガンダム緊急出撃"
       ],
       "relations": [
         "https://anidb.net/anime/596",
         "https://anidb.net/anime/626",
         "https://anilist.co/anime/2302",
+        "https://anisearch.com/anime/1978",
         "https://kitsu.io/anime/2084",
         "https://livechart.me/anime/10218",
         "https://livechart.me/anime/10793",
@@ -914,12 +878,14 @@
       ],
       "tags": [
         "action",
+        "chibi",
         "comedy",
         "fantasy",
         "mecha",
         "new",
         "parody",
-        "shounen"
+        "shounen",
+        "super deformed"
       ],
       "id": "https://myanimelist.net/anime/9087"
     },
@@ -954,6 +920,36 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/154122",
+        "https://anisearch.com/anime/17347"
+      ],
+      "title": "Nano List",
+      "type": "TV",
+      "episodes": 12,
+      "status": "UPCOMING",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": null
+      },
+      "picture": "https://www.anisearch.com/images/anime/cover/17/17347_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/17/17347.webp",
+      "synonyms": [
+        "나노리스트"
+      ],
+      "relations": [],
+      "tags": [
+        "action",
+        "cg-anime",
+        "fantasy",
+        "full cgi",
+        "robots",
+        "romance",
+        "sci-fi"
+      ],
+      "id": "https://anisearch.com/anime/17347"
+    },
+    {
+      "sources": [
         "https://anisearch.com/anime/15290"
       ],
       "title": "Natsu no Tobira",
@@ -964,38 +960,17 @@
         "season": "SPRING",
         "year": 2020
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/15/15290.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/15/15290.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/15/15290_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/15/15290.webp",
       "synonyms": [
         "MacShake Morinaga Ramune CM",
         "夏のトビラ"
       ],
-      "relations": [],
+      "relations": [
+        "https://anisearch.com/anime/15578"
+      ],
       "tags": [],
       "id": "https://anisearch.com/anime/15290"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/41977"
-      ],
-      "title": "Reversible Campaign feat. Hatsune Miku",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2016
-      },
-      "picture": "https://cdn.myanimelist.net/images/anime/1886/107524.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1886/107524t.jpg",
-      "synonyms": [
-        "DECO*27 - リバーシブル・キャンペーン feat. 初音ミク"
-      ],
-      "relations": [],
-      "tags": [
-        "music"
-      ],
-      "id": "https://myanimelist.net/anime/41977"
     },
     {
       "sources": [
@@ -1026,9 +1001,47 @@
       "tags": [
         "female protagonist",
         "music",
+        "sci fi",
         "the arts"
       ],
       "id": "https://myanimelist.net/anime/36752"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/114525",
+        "https://anime-planet.com/anime/rootless-heart",
+        "https://kitsu.io/anime/45208",
+        "https://myanimelist.net/anime/53038"
+      ],
+      "title": "Samayou Shinzou",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2011
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1249/127969.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1249/127969t.jpg",
+      "synonyms": [
+        "Rootless Heart",
+        "Rootless heart",
+        "Samayo Shinzo",
+        "Samayo shinzo",
+        "さまよう心臓"
+      ],
+      "relations": [],
+      "tags": [
+        "horror",
+        "mystery",
+        "no dialogue",
+        "psychological",
+        "shorts",
+        "stop motion",
+        "stop motion animation",
+        "supernatural"
+      ],
+      "id": "https://myanimelist.net/anime/53038"
     },
     {
       "sources": [
@@ -1054,6 +1067,7 @@
       "synonyms": [
         "Detective Team Kazs' Case Notes",
         "Tantei Team KZ: Jiken Note",
+        "侦探小队KZ事件簿",
         "探偵チームKZ[カッズ] 事件ノート",
         "探偵チームKZ（カッズ）事件ノート",
         "探偵チームＫＺ事件ノート",
@@ -1063,6 +1077,7 @@
       "tags": [
         "based on a light novel",
         "cgi",
+        "child protagonists",
         "crime",
         "crime fiction",
         "delinquents",
@@ -1116,6 +1131,7 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/wagaya-no-koutsuu-anzen-chichi-to-no-yakusoku",
         "https://kitsu.io/anime/40719",
         "https://myanimelist.net/anime/35170",
         "https://notify.moe/anime/djlv2Fimg"
@@ -1125,8 +1141,8 @@
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
+        "season": "WINTER",
+        "year": 2005
       },
       "picture": "https://cdn.myanimelist.net/images/anime/5/84782.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/5/84782t.jpg",
@@ -1135,30 +1151,69 @@
       ],
       "relations": [],
       "tags": [
+        "educational",
         "kids"
       ],
       "id": "https://myanimelist.net/anime/35170"
     },
     {
       "sources": [
-        "https://myanimelist.net/anime/46858"
+        "https://anime-planet.com/anime/xiao-xing-mao-mohuan-yuezhang",
+        "https://myanimelist.net/anime/45272"
       ],
-      "title": "Zhengchenggong",
+      "title": "Xiao Xing Mao: Mohuan Yuezhang",
       "type": "TV",
-      "episodes": 52,
+      "episodes": 26,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1457/131244.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1457/131244t.jpg",
       "synonyms": [
+        "小星猫之魔幻乐章"
+      ],
+      "relations": [
+        "https://anime-planet.com/anime/xiao-xing-mao-mohuan-yuezhang-2nd-season",
+        "https://myanimelist.net/anime/45246",
+        "https://myanimelist.net/anime/45284"
+      ],
+      "tags": [
+        "cg animation",
+        "chinese animation",
+        "family friendly",
+        "kids"
+      ],
+      "id": "https://myanimelist.net/anime/45272"
+    },
+    {
+      "sources": [
+        "https://anidb.net/anime/15223",
+        "https://anime-planet.com/anime/zheng-cheng-gong",
+        "https://myanimelist.net/anime/46858"
+      ],
+      "title": "Zheng Cheng Gong",
+      "type": "TV",
+      "episodes": 52,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2014
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1134/122349.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1134/122349t.jpg",
+      "synonyms": [
+        "The Legend of Zheng Cheng Gong",
+        "The Legend of Zheng Chenggong",
+        "Zheng Chenggong",
         "郑成功"
       ],
       "relations": [],
       "tags": [
-        "historical"
+        "chinese animation",
+        "historical",
+        "kids"
       ],
       "id": "https://myanimelist.net/anime/46858"
     }

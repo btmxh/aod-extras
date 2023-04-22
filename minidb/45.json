@@ -2,40 +2,6 @@
   "data": [
     {
       "sources": [
-        "https://anilist.co/anime/126663",
-        "https://kitsu.io/anime/43766",
-        "https://myanimelist.net/anime/44261"
-      ],
-      "title": "Ahoy!! Warera Houshou Kaizoku-dan☆",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SUMMER",
-        "year": 2020
-      },
-      "picture": "https://cdn.myanimelist.net/images/anime/1153/110490.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1153/110490t.jpg",
-      "synonyms": [
-        "Ahoy!! 我ら宝鐘海賊団☆"
-      ],
-      "relations": [
-        "https://anilist.co/anime/118123",
-        "https://kitsu.io/anime/43740",
-        "https://myanimelist.net/anime/44042"
-      ],
-      "tags": [
-        "adventure",
-        "idol",
-        "music",
-        "pirate",
-        "pirates",
-        "vtuber"
-      ],
-      "id": "https://myanimelist.net/anime/44261"
-    },
-    {
-      "sources": [
         "https://anidb.net/anime/10445",
         "https://anilist.co/anime/20632",
         "https://anime-planet.com/anime/aldnoah-zero",
@@ -61,6 +27,7 @@
         "ALDNOAH.ZERO",
         "AZ",
         "Aldnoah. Zero",
+        "ald0",
         "ΛLDNOΛH.ZERO",
         "Алдноа Зеро",
         "Алдной.Генезис",
@@ -114,6 +81,7 @@
         "science-fiction",
         "seinen",
         "space",
+        "space opera",
         "stoic hero",
         "torture",
         "tragedy",
@@ -124,6 +92,7 @@
     {
       "sources": [
         "https://anilist.co/anime/117568",
+        "https://anime-planet.com/anime/boku-to-deja-vu",
         "https://myanimelist.net/anime/39901"
       ],
       "title": "Boku to Déjà vu",
@@ -137,13 +106,17 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1624/101206.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1624/101206t.jpg",
       "synonyms": [
+        "Boku to Deja Vu",
         "Déjà vu and Me",
         "Minna no Uta",
+        "Minna no Uta: Boku to Deja Vu",
         "ぼくとディジャヴ"
       ],
       "relations": [],
       "tags": [
+        "birds",
         "kids",
+        "minna no uta",
         "music"
       ],
       "id": "https://myanimelist.net/anime/39901"
@@ -160,8 +133,8 @@
         "season": "UNDEFINED",
         "year": 2015
       },
-      "picture": "https://anime-planet.com/images/anime/covers/11877.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/11877.jpg",
+      "picture": "https://cdn.anime-planet.com/anime/primary/brave-frontier-x-taka-no-tsume-collab-movie-1.jpg?t=1625898770",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/brave-frontier-x-taka-no-tsume-collab-movie-1-190x266.jpg?t=1625898770",
       "synonyms": [
         "Brave Frontier x Eagle Talon: Collab Movie"
       ],
@@ -173,6 +146,7 @@
       "tags": [
         "based on a mobile game",
         "comedy",
+        "commercials",
         "crossover",
         "flash animation",
         "parody",
@@ -206,6 +180,7 @@
         "Eiyū Banka Kōshi-den",
         "Koshi-den",
         "Koushi Den",
+        "The Heroic Elegy of Confucius",
         "The Life of Confucius",
         "英雄挽歌 孔子傳"
       ],
@@ -246,9 +221,12 @@
         "Dr. Fabre is a Detective",
         "Fabre Sensei wa Meitantei",
         "Inspector Fabre",
-        "ファーブル先生は名探偵"
+        "ファーブル先生は名探偵",
+        "法布尔先生是名侦探"
       ],
-      "relations": [],
+      "relations": [
+        "https://anisearch.com/anime/9272"
+      ],
       "tags": [
         "crime fiction",
         "detective",
@@ -261,36 +239,43 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/fanta-x-one-piece"
+        "https://anilist.co/anime/150202",
+        "https://anime-planet.com/anime/harumaki-gohan-x-tatsuya-kitani-moonlight",
+        "https://myanimelist.net/anime/52413"
       ],
-      "title": "Fanta x One Piece",
+      "title": "Gekkou",
       "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2016
+        "season": "SPRING",
+        "year": 2022
       },
-      "picture": "https://anime-planet.com/images/anime/covers/11266.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/11266.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1169/125440.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1169/125440t.jpg",
       "synonyms": [
-        "Oishi-sa Hajikeru! One Piece"
+        "Harumaki Gohan x Tatsuya Kitani: Gekkou",
+        "Harumaki Gohan x Tatsuya Kitani: Moonlight",
+        "Moonlight",
+        "月光"
       ],
-      "relations": [
-        "https://anime-planet.com/anime/one-piece"
-      ],
+      "relations": [],
       "tags": [
-        "commercials",
-        "promotional"
+        "music",
+        "psychological",
+        "visual arts",
+        "vocaloid"
       ],
-      "id": "https://anime-planet.com/anime/fanta-x-one-piece"
+      "id": "https://myanimelist.net/anime/52413"
     },
     {
       "sources": [
+        "https://anilist.co/anime/124430",
+        "https://anime-planet.com/anime/m-flo-x-j-balvin-human-lost",
         "https://kitsu.io/anime/43843",
         "https://myanimelist.net/anime/40792"
       ],
-      "title": "HUMAN LOST feat. J. Balvin / m-flo",
+      "title": "Human Lost feat. J. Balvin",
       "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
@@ -301,72 +286,26 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1475/105988.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1475/105988t.jpg",
       "synonyms": [
-        "HUMAN LOST MV"
+        "HUMAN LOST (Music)",
+        "HUMAN LOST MV",
+        "HUMAN LOST feat. J. Balvin",
+        "HUMAN LOST feat. J. Balvin / m-flo",
+        "m-flo x J. Balvin: HUMAN LOST"
       ],
       "relations": [
+        "https://anilist.co/anime/108626",
+        "https://anime-planet.com/anime/human-lost",
         "https://kitsu.io/anime/42210",
         "https://myanimelist.net/anime/39584"
       ],
       "tags": [
-        "action",
-        "comedy",
-        "drama",
-        "ecchi",
-        "fantasy",
-        "historical",
-        "kids",
+        "cg animation",
+        "full cgi",
         "music",
-        "mystery",
-        "romance",
-        "school",
-        "seinen",
-        "shoujo",
-        "slice of life",
-        "sports",
-        "supernatural",
-        "suspense"
+        "sci fi",
+        "sci-fi"
       ],
       "id": "https://myanimelist.net/anime/40792"
-    },
-    {
-      "sources": [
-        "https://anidb.net/anime/14623"
-      ],
-      "title": "Jashin-chan Dropkick Dash",
-      "type": "ONA",
-      "episodes": 11,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2020
-      },
-      "picture": "https://cdn.anidb.net/images/main/244550.jpg",
-      "thumbnail": "https://cdn.anidb.net/images/main/244550.jpg-thumb.jpg",
-      "synonyms": [
-        "Dropkick on My Devil!! 2",
-        "Dropkick on My Devil!! Dash",
-        "Jashin-chan Dropkick 2",
-        "Jashin-chan Dropkick`",
-        "jashin-chan2",
-        "小邪神飛踢！第二季",
-        "邪神ちゃんドロップキック’",
-        "邪神与厨二病少女 2"
-      ],
-      "relations": [
-        "https://anidb.net/anime/13637",
-        "https://anidb.net/anime/15749"
-      ],
-      "tags": [
-        "angel",
-        "comedy",
-        "contemporary fantasy",
-        "demon",
-        "manga",
-        "parody",
-        "super deformed",
-        "violence"
-      ],
-      "id": "https://anidb.net/anime/14623"
     },
     {
       "sources": [
@@ -394,7 +333,9 @@
     },
     {
       "sources": [
+        "https://anidb.net/anime/16787",
         "https://anilist.co/anime/129214",
+        "https://anime-planet.com/anime/konglong-baobei-zhi-longshen-yongshi",
         "https://myanimelist.net/anime/41416"
       ],
       "title": "Konglong Baobei: Longshen Yongshi",
@@ -402,24 +343,35 @@
       "episodes": 52,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "FALL",
         "year": 2009
       },
       "picture": "https://cdn.myanimelist.net/images/anime/1697/106399.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1697/106399t.jpg",
       "synonyms": [
+        "Konglong Baobei Zhi Longshen Yongshi",
         "恐龙宝贝之龙神勇士"
       ],
       "relations": [
+        "https://anidb.net/anime/16788",
         "https://anilist.co/anime/129215",
-        "https://myanimelist.net/anime/42263"
+        "https://anime-planet.com/anime/konglong-baobei",
+        "https://anime-planet.com/anime/konglong-baobei-zhi-longshen-yongshi-2",
+        "https://anime-planet.com/anime/konglong-baobei-zhi-longshen-yongshi-3",
+        "https://myanimelist.net/anime/42263",
+        "https://myanimelist.net/anime/44402"
       ],
       "tags": [
         "action",
         "adventure",
         "cgi",
+        "chinese animation",
         "comedy",
+        "dinosaurs",
+        "family friendly",
+        "half-length episodes",
         "kids",
+        "sci fi",
         "sci-fi"
       ],
       "id": "https://myanimelist.net/anime/41416"
@@ -449,6 +401,7 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/monpy",
         "https://kitsu.io/anime/10657",
         "https://myanimelist.net/anime/30117",
         "https://notify.moe/anime/pDoQtKmig"
@@ -470,7 +423,10 @@
       "relations": [],
       "tags": [
         "adventure",
-        "kids"
+        "family friendly",
+        "kids",
+        "non-human protagonists",
+        "short episodes"
       ],
       "id": "https://myanimelist.net/anime/30117"
     },
@@ -559,39 +515,29 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/queens-blade-vanquished-queens-specials"
+        "https://myanimelist.net/anime/54986"
       ],
-      "title": "Queen's Blade: Vanquished Queens Specials",
-      "type": "SPECIAL",
-      "episodes": 4,
-      "status": "FINISHED",
+      "title": "Pokémon",
+      "type": "ONA",
+      "episodes": 0,
+      "status": "ONGOING",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2023
       },
-      "picture": "https://cdn.anime-planet.com/anime/primary/queens-blade-vanquished-queens-specials-1.jpg?t=1625896620",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/queens-blade-vanquished-queens-specials-1-190x267.jpg?t=1625896620",
-      "synonyms": [],
-      "relations": [
-        "https://anime-planet.com/anime/queens-blade-2-the-evil-eye-specials",
-        "https://anime-planet.com/anime/queens-blade-beautiful-warriors",
-        "https://anime-planet.com/anime/queens-blade-grimoire",
-        "https://anime-planet.com/anime/queens-blade-ova",
-        "https://anime-planet.com/anime/queens-blade-ova-specials",
-        "https://anime-planet.com/anime/queens-blade-rebellion",
-        "https://anime-planet.com/anime/queens-blade-rebellion-specials",
-        "https://anime-planet.com/anime/queens-blade-the-exiled-virgin",
-        "https://anime-planet.com/anime/queens-blade-the-exiled-virgin-specials",
-        "https://anime-planet.com/anime/queens-blade-unlimited",
-        "https://anime-planet.com/anime/queens-blade-vanquished-queens"
+      "picture": "https://cdn.myanimelist.net/images/anime/1517/135254.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1517/135254t.jpg",
+      "synonyms": [
+        "Cube-Shaped Pokémon on Cubie Island?!",
+        "Marujanai Shima no Shikaku na Pokémon!?",
+        "マルジャナイ島のシカクなポケモン!?"
       ],
+      "relations": [],
       "tags": [
-        "borderline h",
-        "ecchi",
         "fantasy",
-        "pirates"
+        "kids"
       ],
-      "id": "https://anime-planet.com/anime/queens-blade-vanquished-queens-specials"
+      "id": "https://myanimelist.net/anime/54986"
     },
     {
       "sources": [
@@ -626,7 +572,7 @@
       "sources": [
         "https://myanimelist.net/anime/46034"
       ],
-      "title": "Sanqi Xiao Fuxing Zhi Xuyuan Shanzhuang",
+      "title": "Sanqi Xiao Fuxing: Xuyuan Shanzhuang",
       "type": "TV",
       "episodes": 26,
       "status": "FINISHED",
@@ -634,8 +580,8 @@
         "season": "UNDEFINED",
         "year": null
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1136/129130.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1136/129130t.jpg",
       "synonyms": [
         "三七小福星之许愿山庄"
       ],
@@ -643,12 +589,16 @@
         "https://myanimelist.net/anime/46023"
       ],
       "tags": [
+        "comedy",
         "kids"
       ],
       "id": "https://myanimelist.net/anime/46034"
     },
     {
       "sources": [
+        "https://anilist.co/anime/10469",
+        "https://anime-planet.com/anime/sayonara-zetsubou-sensei-blu-ray-box-special",
+        "https://anisearch.com/anime/7671",
         "https://kitsu.io/anime/6196",
         "https://livechart.me/anime/4778",
         "https://myanimelist.net/anime/10469",
@@ -665,12 +615,33 @@
       "picture": "https://cdn.myanimelist.net/images/anime/12/75518.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/12/75518t.jpg",
       "synonyms": [
+        "Nyankin no Kirisuto (ニャン京の基督)",
         "SZS Blu-ray Box Special",
+        "Satsujin Genba ni Zetsubou ga Ochite Ita (殺人現場に絶望が落ちていた)",
         "Sayonara Zetsubou Sensei BD Box OVA",
+        "Sayonara Zetsubou Sensei Blu-ray BOX special",
+        "Sayonara Zetsubou Sensei Blu-ray Box Special",
+        "Sayonara Zetsubou Sensei Memorial Disc OVA",
+        "Sayonara Zetsubou Sensei: Kanzen Shinsakuwa Original Blu-ray Disc",
+        "Sayonara Zetsubou Sensei: Nyankin no Kirisuto",
+        "Sayonara Zetsubō Sensei: Kanzen Shinsakuwa Original Blu-ray Disc",
         "さよならぜつぼうせんせい",
-        "さよなら絶望先生"
+        "さよなら絶望先生",
+        "さよなら絶望先生 ニャン京の基督",
+        "さよなら絶望先生 完全新作話オリジナル Blu-ray DISC"
       ],
       "relations": [
+        "https://anilist.co/anime/7044",
+        "https://anime-planet.com/anime/goku-sayonara-zetsubou-sensei",
+        "https://anime-planet.com/anime/sayonara-zetsubou-sensei",
+        "https://anime-planet.com/anime/sayonara-zetsubou-sensei-jo-zetsubou-shoujo-senshuu",
+        "https://anime-planet.com/anime/sayonara-zetsubou-sensei-jo-zoku-zetsubou-shoujo-senshuu",
+        "https://anime-planet.com/anime/sayonara-zetsubou-sensei-special-omake",
+        "https://anime-planet.com/anime/zan-sayonara-zetsubou-sensei",
+        "https://anime-planet.com/anime/zan-sayonara-zetsubou-sensei-bangaichi",
+        "https://anime-planet.com/anime/zoku-sayonara-zetsubou-sensei",
+        "https://anisearch.com/anime/5784",
+        "https://anisearch.com/anime/8463",
         "https://kitsu.io/anime/2369",
         "https://kitsu.io/anime/7001",
         "https://livechart.me/anime/3647",
@@ -687,40 +658,26 @@
         "https://notify.moe/anime/t3fDpKimR"
       ],
       "tags": [
+        "based on a manga",
+        "breaking the fourth wall",
         "comedy",
+        "female harem",
+        "gag",
+        "gag humor",
+        "kuudere",
+        "male protagonist",
+        "meta",
         "mystery",
+        "nonsense-comedy",
         "parody",
-        "shounen"
+        "present",
+        "primarily female cast",
+        "satire",
+        "school",
+        "shounen",
+        "teacher"
       ],
       "id": "https://myanimelist.net/anime/10469"
-    },
-    {
-      "sources": [
-        "https://anime-planet.com/anime/seer-da-dianying-3-zhanshen-lianmeng"
-      ],
-      "title": "Seer Da Dianying 3: Zhanshen Lianmeng",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2013
-      },
-      "picture": "https://anime-planet.com/images/anime/covers/16895.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/16895.jpg",
-      "synonyms": [
-        "Sai Er Hao Da Dianying 3: Zhanshen Lianmeng"
-      ],
-      "relations": [
-        "https://anime-planet.com/anime/seer-da-dianying-2-leiyi-yu-maiersi",
-        "https://anime-planet.com/anime/seer-da-dianying-4-sheng-mo-zhi-shan"
-      ],
-      "tags": [
-        "chinese animation",
-        "robots",
-        "sci fi"
-      ],
-      "id": "https://anime-planet.com/anime/seer-da-dianying-3-zhanshen-lianmeng"
     },
     {
       "sources": [
@@ -775,30 +732,81 @@
     },
     {
       "sources": [
-        "https://anisearch.com/anime/14295"
+        "https://anidb.net/anime/17793",
+        "https://anime-planet.com/anime/sumikko-gurashi-movie-3",
+        "https://anisearch.com/anime/18109",
+        "https://kitsu.io/anime/46906",
+        "https://livechart.me/anime/11758",
+        "https://myanimelist.net/anime/53936",
+        "https://notify.moe/anime/JaRcgZp4g"
       ],
-      "title": "Taisei Kensetsu CM: Singapore",
-      "type": "SPECIAL",
+      "title": "Sumikko Gurashi Movie 3",
+      "type": "MOVIE",
       "episodes": 1,
+      "status": "UPCOMING",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2023
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1425/132014.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1425/132014t.jpg",
+      "synonyms": [
+        "Eiga Sumikko Gurashi 3",
+        "Sumikko Gurashi 3",
+        "Sumikko Gurashi Movie 3 (Tentative)",
+        "映画 すみっコぐらし3",
+        "映画すみっコぐらし3（仮）"
+      ],
+      "relations": [
+        "https://anidb.net/anime/15843",
+        "https://anime-planet.com/anime/sumikko-gurashi-movie-2",
+        "https://anisearch.com/anime/16259",
+        "https://kitsu.io/anime/43774",
+        "https://livechart.me/anime/10215",
+        "https://livechart.me/anime/9513",
+        "https://myanimelist.net/anime/43780",
+        "https://notify.moe/anime/ylirevYMg"
+      ],
+      "tags": [
+        "animal protagonists",
+        "comedy",
+        "family friendly",
+        "non-human protagonists",
+        "san-x characters"
+      ],
+      "id": "https://myanimelist.net/anime/53936"
+    },
+    {
+      "sources": [
+        "https://anisearch.com/anime/17788"
+      ],
+      "title": "Sup Sok Gujodae Myeongtamjeong Peet 2",
+      "type": "TV",
+      "episodes": 26,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "SPRING",
-        "year": 2018
+        "season": "SUMMER",
+        "year": 2015
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/14/14295.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/14/14295.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/17/17788_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/17/17788.webp",
       "synonyms": [
-        "大成建設 CM: シンガポール"
+        "Peet: The Forest Detective 2",
+        "숲 속 구조대 명탐정 피트2"
       ],
-      "relations": [],
+      "relations": [
+        "https://anisearch.com/anime/17789"
+      ],
       "tags": [
-        "present"
+        "cg-anime",
+        "detective"
       ],
-      "id": "https://anisearch.com/anime/14295"
+      "id": "https://anisearch.com/anime/17788"
     },
     {
       "sources": [
         "https://anilist.co/anime/136462",
+        "https://anime-planet.com/anime/kuchiroro-umi",
         "https://kitsu.io/anime/45344",
         "https://myanimelist.net/anime/41451"
       ],
@@ -813,13 +821,16 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1310/106462.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1310/106462t.jpg",
       "synonyms": [
+        "Kuchiroro: Umi",
         "海"
       ],
       "relations": [],
       "tags": [
+        "abstract",
         "avant garde",
         "music",
-        "stop motion"
+        "stop motion",
+        "stop motion animation"
       ],
       "id": "https://myanimelist.net/anime/41451"
     },
@@ -844,10 +855,10 @@
       "picture": "https://cdn.myanimelist.net/images/anime/13/55745.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/13/55745t.jpg",
       "synonyms": [
-        "True Tears x Hanasaku Iroha x TARITARI: Utopia",
         "True Tears x Hanasaku Iroha x Tari Tari: Utopia",
         "True Tears × Hanasaku Iroha × Tari Tari: Utopia",
         "nano.RIPE - Utopia",
+        "true tears x Hanasaku Iroha x TARITARI: Utopia",
         "true tears×花咲くいろは×TARITARI ユートピア",
         "ユートピア"
       ],
@@ -861,6 +872,9 @@
         "https://anime-planet.com/anime/hanasaku-iroha",
         "https://anime-planet.com/anime/tari-tari",
         "https://anime-planet.com/anime/true-tears",
+        "https://anisearch.com/anime/3784",
+        "https://anisearch.com/anime/6361",
+        "https://anisearch.com/anime/7706",
         "https://myanimelist.net/anime/13333",
         "https://myanimelist.net/anime/2129",
         "https://myanimelist.net/anime/9289"
@@ -889,8 +903,8 @@
         "season": "SPRING",
         "year": 2016
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/11/11688.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/11/11688.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/11/11688_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/11/11688.webp",
       "synonyms": [
         "Clocktower Project",
         "ウェンディシンドローム"

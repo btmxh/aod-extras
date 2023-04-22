@@ -62,6 +62,7 @@
         "Altered Carbon: Reenfundados",
         "Das Unsterblichkeitsprogramm",
         "Digitalni ugljik: U novom tijelu",
+        "Půjčovna masa: Nové pouzdro",
         "פחמן משודרג: שרוול חדש",
         "オルタード・カーボン: リスリーブド",
         "オルタード・カーボン：リスリーブド"
@@ -69,6 +70,7 @@
       "relations": [],
       "tags": [
         "action",
+        "american derived",
         "based on a novel",
         "cg animation",
         "cg-anime",
@@ -131,6 +133,7 @@
         "https://anime-planet.com/anime/bobobo-bo-bo-bobo",
         "https://anisearch.com/anime/1326",
         "https://kitsu.io/anime/940",
+        "https://livechart.me/anime/4514",
         "https://myanimelist.net/anime/1050",
         "https://notify.moe/anime/vJLJ5Fmig"
       ],
@@ -155,21 +158,23 @@
       "sources": [
         "https://myanimelist.net/anime/47386"
       ],
-      "title": "Bu Lu Ke Zhandui Zhi Yuan Xing Shi Shouwei",
-      "type": "TV",
+      "title": "Bu Lu Ke Zhandui: Yuan Xing Shi Shouwei",
+      "type": "ONA",
       "episodes": 20,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
+        "season": "SUMMER",
+        "year": 2020
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1712/129433.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1712/129433t.jpg",
       "synonyms": [
+        "Team Blocks",
         "布鲁可战队之源星石守卫"
       ],
       "relations": [],
       "tags": [
+        "fantasy",
         "kids"
       ],
       "id": "https://myanimelist.net/anime/47386"
@@ -194,9 +199,11 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1013/93320t.jpg",
       "synonyms": [
         "Cloudy Laugh Gaiden",
+        "Donten: Laughing Under The Clouds - Gaiden: Chapter 2 - The Tragedy of Fuuma Ninja Tribe",
         "Donten: Laughing Under the Clouds - Gaiden: Chapter 2 - The Tragedy of Fuuma Ninja Tribe",
         "Laughing Under the Clouds Gaiden",
         "Laughing Under the Clouds Gaiden: Movie 2",
+        "Laughing Under the Clouds: Gaiden Part 2",
         "Unterm Wolkenhimmel, Laughing Under the Clouds: Gaiden, Film 2: Tödliches Ritual",
         "曇天に笑う<外伝> ～宿命、双頭の風魔～",
         "曇天に笑う＜外伝＞ ～宿命、双頭の風魔～"
@@ -219,6 +226,7 @@
         "action",
         "based on a manga",
         "historical",
+        "martial arts",
         "ninja",
         "shoujo",
         "supernatural"
@@ -237,16 +245,72 @@
         "season": "UNDEFINED",
         "year": 2014
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1968/129040.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1968/129040t.jpg",
       "synonyms": [
         "二兔大梦想"
       ],
       "relations": [],
       "tags": [
-        "fantasy"
+        "fantasy",
+        "kids"
       ],
       "id": "https://myanimelist.net/anime/45194"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/155399",
+        "https://anisearch.com/anime/18167",
+        "https://kitsu.io/anime/46596",
+        "https://livechart.me/anime/11784",
+        "https://myanimelist.net/anime/53246",
+        "https://notify.moe/anime/3uNqSxFVR"
+      ],
+      "title": "Evangelion: 3.0 (-46h)",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2023
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1613/134089.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1613/134089t.jpg",
+      "synonyms": [
+        "EVANGELION:3.0 (-46h)",
+        "EVANGELION:3.0(-46h)",
+        "EVANGELION:3.0(-46h) YOU CAN (NOT) REDO.",
+        "EVANGELION:3.0(−46h)"
+      ],
+      "relations": [
+        "https://anilist.co/anime/3785",
+        "https://anilist.co/anime/3786",
+        "https://anisearch.com/anime/4679",
+        "https://kitsu.io/anime/3252",
+        "https://livechart.me/anime/115",
+        "https://livechart.me/anime/3243",
+        "https://livechart.me/anime/3244",
+        "https://livechart.me/anime/3590",
+        "https://livechart.me/anime/3633",
+        "https://livechart.me/anime/4039",
+        "https://livechart.me/anime/5032",
+        "https://livechart.me/anime/6217",
+        "https://livechart.me/anime/968",
+        "https://myanimelist.net/anime/3786",
+        "https://notify.moe/anime/ZC0lcFmig"
+      ],
+      "tags": [
+        "action",
+        "cgi",
+        "female protagonist",
+        "mecha",
+        "post-apocalyptic",
+        "sci-fi",
+        "science fiction",
+        "super robot",
+        "survival"
+      ],
+      "id": "https://myanimelist.net/anime/53246"
     },
     {
       "sources": [
@@ -303,7 +367,7 @@
       ],
       "relations": [
         "https://anilist.co/anime/98581",
-        "https://anime-planet.com/anime/girlish-number-shura",
+        "https://anisearch.com/anime/12433",
         "https://notify.moe/anime/_aUS2Kiig"
       ],
       "tags": [
@@ -326,6 +390,7 @@
         "japan",
         "meta",
         "novel",
+        "otaku culture",
         "present",
         "primarily adult cast",
         "satire",
@@ -341,52 +406,9 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/harumaki-gohan-seventina"
-      ],
-      "title": "Harumaki Gohan: Seventina",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2018
-      },
-      "picture": "https://anime-planet.com/images/anime/covers/18259.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/18259.jpg",
-      "synonyms": [],
-      "relations": [],
-      "tags": [
-        "vocaloid"
-      ],
-      "id": "https://anime-planet.com/anime/harumaki-gohan-seventina"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/47295"
-      ],
-      "title": "He Xiaolu Wen Wen Yiqi Wan",
-      "type": "ONA",
-      "episodes": 84,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "和小鹿问问一起玩"
-      ],
-      "relations": [],
-      "tags": [
-        "fantasy"
-      ],
-      "id": "https://myanimelist.net/anime/47295"
-    },
-    {
-      "sources": [
         "https://anidb.net/anime/7774",
         "https://anilist.co/anime/18033",
+        "https://anisearch.com/anime/6407",
         "https://kitsu.io/anime/9860",
         "https://myanimelist.net/anime/18033",
         "https://notify.moe/anime/6MMPtKiiR"
@@ -403,16 +425,53 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/4/47939t.jpg",
       "synonyms": [
         "Hello Kitty no Yuubin`ya-san Arigatou",
+        "Hello Kitty no Yuubin’ya-san Arigatou",
+        "Hello Kitty no Yūbin’ya-san Arigatō",
         "ハローキティの 郵便屋さんありがとう",
         "ハローキティの郵便屋さんありがとう"
       ],
-      "relations": [],
+      "relations": [
+        "https://anisearch.com/anime/5462"
+      ],
       "tags": [
         "anthropomorphism",
         "fantasy",
         "kids"
       ],
       "id": "https://myanimelist.net/anime/18033"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/144292",
+        "https://kitsu.io/anime/46118"
+      ],
+      "title": "Honkai Impact 3rd: Thus Spoke Apocalypse",
+      "type": "ONA",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2022
+      },
+      "picture": "https://media.kitsu.io/anime/46118/poster_image/small-c7e7d2dc9ee9b5b7d0f99e88a4b0300c.jpeg",
+      "thumbnail": "https://media.kitsu.io/anime/46118/poster_image/tiny-35e3192f199c590593f48f1b1fe9fb65.jpeg",
+      "synonyms": [
+        "Benghuai 3: Apocalypse Rushi Shuo",
+        "崩坏3 阿波卡利斯如是说"
+      ],
+      "relations": [],
+      "tags": [
+        "action",
+        "anti-hero",
+        "drama",
+        "full cgi",
+        "philosophy",
+        "sci-fi",
+        "science fiction",
+        "time manipulation",
+        "tragedy"
+      ],
+      "id": "https://kitsu.io/anime/46118"
     },
     {
       "sources": [
@@ -437,6 +496,7 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1054/98245t.jpg",
       "synonyms": [
         "Crow",
+        "KARAS",
         "Karas: The Prophecy",
         "Karas: The Revelation",
         "Karga",
@@ -454,12 +514,14 @@
         "からす",
         "鴉 -KARAS-",
         "鴉 -Karas-",
+        "鸦 -KARAS-",
         "카라스"
       ],
       "relations": [],
       "tags": [
         "action",
         "asia",
+        "cgi",
         "contemporary fantasy",
         "demon",
         "demons",
@@ -467,6 +529,7 @@
         "earth",
         "excessive violence",
         "fantasy",
+        "gore",
         "gunfights",
         "henshin",
         "horror",
@@ -483,13 +546,16 @@
         "sci-fi",
         "science-fiction",
         "seinen",
+        "shapeshifting",
         "super power",
         "supernatural drama",
         "superpowers",
         "swordplay",
         "swords & co",
         "tokusatsu",
+        "urban fantasy",
         "violence",
+        "yakuza",
         "youkai"
       ],
       "id": "https://myanimelist.net/anime/389"
@@ -539,25 +605,72 @@
     },
     {
       "sources": [
-        "https://kitsu.io/anime/12924",
-        "https://notify.moe/anime/pfAZ2KiiR"
+        "https://anime-planet.com/anime/legend-of-the-galactic-heroes-die-neue-these-fourth-1",
+        "https://livechart.me/anime/11215"
       ],
-      "title": "Killer Song",
-      "type": "SPECIAL",
+      "title": "Legend of the Galactic Heroes: Die Neue These Fourth 1",
+      "type": "MOVIE",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "WINTER",
-        "year": 2011
+        "season": "UNDEFINED",
+        "year": 2022
       },
-      "picture": "https://media.kitsu.io/anime/poster_images/12924/small.jpg",
-      "thumbnail": "https://media.kitsu.io/anime/poster_images/12924/tiny.jpg",
+      "picture": "https://cdn.anime-planet.com/anime/primary/legend-of-the-galactic-heroes-die-neue-these-fourth-1-1.webp?t=1652420952",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/legend-of-the-galactic-heroes-die-neue-these-fourth-1-1-285x399.webp?t=1652420952",
+      "synonyms": [
+        "Ginga Eiyuu Densetsu: Die Neue These - Sakubou 1",
+        "Legend of the Galactic Heroes: Die Neue These - Intrigue Part 1",
+        "銀河英雄伝説 Die Neue These 策謀　第一章"
+      ],
+      "relations": [
+        "https://anime-planet.com/anime/legend-of-the-galactic-heroes-die-neue-these-fourth-2",
+        "https://anime-planet.com/anime/legend-of-the-galactic-heroes-die-neue-these-third-3",
+        "https://livechart.me/anime/10151",
+        "https://livechart.me/anime/10832",
+        "https://livechart.me/anime/10833",
+        "https://livechart.me/anime/11216",
+        "https://livechart.me/anime/11217",
+        "https://livechart.me/anime/2887",
+        "https://livechart.me/anime/2888",
+        "https://livechart.me/anime/2889",
+        "https://livechart.me/anime/436"
+      ],
+      "tags": [
+        "action",
+        "based on a novel",
+        "drama",
+        "military",
+        "sci fi",
+        "sci-fi",
+        "space",
+        "space opera"
+      ],
+      "id": "https://anime-planet.com/anime/legend-of-the-galactic-heroes-die-neue-these-fourth-1"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/little-thinks"
+      ],
+      "title": "little thinks",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "UPCOMING",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": null
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/little-thinks-1.webp?t=1660312167",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/little-thinks-1-285x400.webp?t=1660312167",
       "synonyms": [],
       "relations": [],
       "tags": [
-        "music"
+        "chinese animation",
+        "original work",
+        "shorts",
+        "stop motion animation"
       ],
-      "id": "https://kitsu.io/anime/12924"
+      "id": "https://anime-planet.com/anime/little-thinks"
     },
     {
       "sources": [
@@ -611,7 +724,8 @@
         "Historia Gatuna Japonesa (Neko Neko Nihonshi)",
         "Meow Meow Japanese History",
         "ねこねこにほんし",
-        "ねこねこ日本史"
+        "ねこねこ日本史",
+        "猫猫日本史"
       ],
       "relations": [
         "https://anidb.net/anime/13054",
@@ -622,9 +736,6 @@
         "https://anime-planet.com/anime/meow-meow-japanese-history-5th-season",
         "https://anime-planet.com/anime/meow-meow-japanese-history-movie-ryouma-no-hachamecha-time-travel-ze-yo",
         "https://anisearch.com/anime/12408",
-        "https://anisearch.com/anime/13381",
-        "https://anisearch.com/anime/14320",
-        "https://anisearch.com/anime/15066",
         "https://livechart.me/anime/2643",
         "https://livechart.me/anime/3128",
         "https://livechart.me/anime/9250",
@@ -652,6 +763,33 @@
         "short episodes"
       ],
       "id": "https://myanimelist.net/anime/32572"
+    },
+    {
+      "sources": [
+        "https://myanimelist.net/anime/54418"
+      ],
+      "title": "Nyuugaku Junbi DVD: Ren no Yume to Suteki na Christmas Present",
+      "type": "OVA",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2011
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1684/133223.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1684/133223t.jpg",
+      "synonyms": [
+        "にゅうがくじゅんびDVD れんの ゆめと すてきな クリスマスプレゼント"
+      ],
+      "relations": [
+        "https://myanimelist.net/anime/38743"
+      ],
+      "tags": [
+        "action",
+        "anthropomorphic",
+        "kids"
+      ],
+      "id": "https://myanimelist.net/anime/54418"
     },
     {
       "sources": [
@@ -687,6 +825,7 @@
         "The Romcom Where The Childhood Friend Won't Lose!",
         "The Romcom Where the Childhood Friend Won’t Lose!",
         "osamake",
+        "ความรักนี้เพื่อนสมัยเด็กไม่แพ้รักแรกหรอก",
         "おさまけ",
         "幼なじみが絶対に負けないラブコメ",
         "青梅竹马绝对不会输的恋爱喜剧"
@@ -702,6 +841,7 @@
         "drama",
         "female harem",
         "harem",
+        "heterosexual",
         "idol",
         "love triangle",
         "male protagonist",
@@ -715,8 +855,7 @@
         "school",
         "school life",
         "slice of life",
-        "tomboy",
-        "tragedy"
+        "tomboy"
       ],
       "id": "https://myanimelist.net/anime/43007"
     },
@@ -748,7 +887,8 @@
         "Precure Miracle Leap: A Wonderful Day with Everyone",
         "Precure Miracle Leap: Minna to no Fushigi na Ichinichi",
         "Pretty Cure Miracle Leap Movie: Minna to Fushigi na 1-nichi",
-        "映画プリキュアミラクルリープ みんなとの不思議な1日"
+        "映画プリキュアミラクルリープ みんなとの不思議な1日",
+        "电影光之美少女奇迹穿越 和大家的不可思议的1天"
       ],
       "relations": [
         "https://anidb.net/anime/13526",
@@ -759,17 +899,10 @@
         "https://anilist.co/anime/112748",
         "https://anime-planet.com/anime/healin-good-pretty-cure",
         "https://anime-planet.com/anime/hugtto-pretty-cure",
+        "https://anime-planet.com/anime/precure-all-stars-movie-f",
         "https://anime-planet.com/anime/star-twinkle-pretty-cure",
-        "https://anisearch.com/anime/10017",
-        "https://anisearch.com/anime/10520",
         "https://anisearch.com/anime/13075",
-        "https://anisearch.com/anime/13480",
         "https://anisearch.com/anime/14051",
-        "https://anisearch.com/anime/14054",
-        "https://anisearch.com/anime/1420",
-        "https://anisearch.com/anime/1821",
-        "https://anisearch.com/anime/2255",
-        "https://anisearch.com/anime/2594",
         "https://kitsu.io/anime/13972",
         "https://kitsu.io/anime/42019",
         "https://livechart.me/anime/5176",
@@ -803,7 +936,6 @@
         "fantasy",
         "female protagonist",
         "henshin",
-        "henshin heroes",
         "kemonomimi",
         "kids",
         "magic",
@@ -851,9 +983,6 @@
         "https://anime-planet.com/anime/pro-golfer-saru-kouga-hikyou-kage-no-ninpou-golfer-sanjou",
         "https://anime-planet.com/anime/shin-pro-golfer-saru",
         "https://anisearch.com/anime/1463",
-        "https://anisearch.com/anime/3749",
-        "https://anisearch.com/anime/5608",
-        "https://anisearch.com/anime/5617",
         "https://myanimelist.net/anime/16650"
       ],
       "tags": [
@@ -869,6 +998,8 @@
     {
       "sources": [
         "https://anidb.net/anime/11669",
+        "https://anilist.co/anime/147012",
+        "https://anisearch.com/anime/10844",
         "https://kitsu.io/anime/12408",
         "https://myanimelist.net/anime/32559",
         "https://notify.moe/anime/mVKkhKiig"
@@ -884,6 +1015,10 @@
       "picture": "https://cdn.myanimelist.net/images/anime/4/78158.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/4/78158t.jpg",
       "synonyms": [
+        "Ryuuzou to Shichinin no Kobun-tachi",
+        "Ryuuzou to Shichinin no Kobun-tachi × FROGMAN",
+        "Ryūzō to Shichinin no Kobun-tachi",
+        "龍三と七人の子分たち",
         "龍三と七人の子分たちxFROGMAN",
         "龍三と七人の子分たち×FROGMAN"
       ],
@@ -938,21 +1073,21 @@
         "https://myanimelist.net/anime/47867"
       ],
       "title": "Tonggu Qi Yuan",
-      "type": "TV",
+      "type": "ONA",
       "episodes": 14,
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2019
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1323/130380.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1323/130380t.jpg",
       "synonyms": [
         "铜鼓奇缘"
       ],
       "relations": [],
       "tags": [
-        "drama"
+        "fantasy"
       ],
       "id": "https://myanimelist.net/anime/47867"
     },
@@ -990,6 +1125,7 @@
         "WatashiMote",
         "kolego",
         "watashimote",
+        "watasun",
         "わたしがもててどうすんだ",
         "我太受欢迎了该怎么办",
         "私がモテてどうすんだ",
@@ -1010,6 +1146,7 @@
         "lifestyle change",
         "male harem",
         "manga",
+        "mixed gender harem",
         "otaku culture",
         "parody",
         "present",
@@ -1017,6 +1154,7 @@
         "romance",
         "romantic comedy",
         "school",
+        "school club",
         "school life",
         "shoujo",
         "tomboy",
@@ -1026,6 +1164,7 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/xian-bu-chuanqi",
         "https://myanimelist.net/anime/44979"
       ],
       "title": "Xian Bu Chuanqi",
@@ -1034,16 +1173,19 @@
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2014
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1454/123168.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1454/123168t.jpg",
       "synonyms": [
+        "Legend of Bu",
         "仙布传奇"
       ],
       "relations": [],
       "tags": [
-        "adventure"
+        "adventure",
+        "chinese animation",
+        "fantasy"
       ],
       "id": "https://myanimelist.net/anime/44979"
     },
@@ -1057,19 +1199,19 @@
       "status": "FINISHED",
       "animeSeason": {
         "season": "UNDEFINED",
-        "year": null
+        "year": 2009
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1055/131254.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1055/131254t.jpg",
       "synonyms": [
         "星猫寻宝记"
       ],
       "relations": [
-        "https://myanimelist.net/anime/45246"
+        "https://myanimelist.net/anime/45246",
+        "https://myanimelist.net/anime/45287"
       ],
       "tags": [
-        "adventure",
-        "fantasy"
+        "kids"
       ],
       "id": "https://myanimelist.net/anime/45286"
     },
@@ -1105,7 +1247,10 @@
         "https://anidb.net/anime/12714",
         "https://anilist.co/anime/97709",
         "https://anime-planet.com/anime/forest-fairy-five",
+        "https://anisearch.com/anime/12161",
         "https://kitsu.io/anime/12708",
+        "https://livechart.me/anime/2387",
+        "https://livechart.me/anime/2703",
         "https://myanimelist.net/anime/34223",
         "https://notify.moe/anime/8vEm2Fimg"
       ],
@@ -1124,54 +1269,6 @@
         "primarily female cast"
       ],
       "id": "https://myanimelist.net/anime/35383"
-    },
-    {
-      "sources": [
-        "https://anilist.co/anime/137716"
-      ],
-      "title": "Zaixia Yingtai",
-      "type": "ONA",
-      "episodes": 12,
-      "status": "UPCOMING",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137716-TJjQypQdpGRO.jpg",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137716-TJjQypQdpGRO.jpg",
-      "synonyms": [
-        "在下英台"
-      ],
-      "relations": [],
-      "tags": [
-        "fantasy",
-        "full cgi"
-      ],
-      "id": "https://anilist.co/anime/137716"
-    },
-    {
-      "sources": [
-        "https://myanimelist.net/anime/44828"
-      ],
-      "title": "ZhEngjiU Di 365 Tian",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2012
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "拯救第365天"
-      ],
-      "relations": [],
-      "tags": [
-        "adventure",
-        "kids"
-      ],
-      "id": "https://myanimelist.net/anime/44828"
     },
     {
       "sources": [
@@ -1207,6 +1304,8 @@
         "Zoku Sayonara Zetsubou-sensei",
         "Zoku Sayonara Zetsubō Sensei",
         "szs2",
+        "zetsubou s2",
+        "zetsubou2",
         "zszs",
         "Прощай",
         "безрадостный сенсей II: Финиш",
@@ -1230,14 +1329,10 @@
         "https://anime-planet.com/anime/sayonara-zetsubou-sensei-special-omake",
         "https://anime-planet.com/anime/zan-sayonara-zetsubou-sensei",
         "https://anime-planet.com/anime/zan-sayonara-zetsubou-sensei-bangaichi",
+        "https://anime-planet.com/anime/zoku-sayonara-zetsubou-sensei-shuukan-zetsubou-sensei-hihyou",
         "https://anisearch.com/anime/4273",
         "https://anisearch.com/anime/4976",
-        "https://anisearch.com/anime/5373",
-        "https://anisearch.com/anime/5784",
-        "https://anisearch.com/anime/7671",
-        "https://anisearch.com/anime/8463",
         "https://anisearch.com/anime/8815",
-        "https://anisearch.com/anime/8816",
         "https://kitsu.io/anime/2369",
         "https://kitsu.io/anime/3832",
         "https://kitsu.io/anime/5292",
@@ -1250,6 +1345,7 @@
         "https://livechart.me/anime/6974",
         "https://livechart.me/anime/7653",
         "https://myanimelist.net/anime/2605",
+        "https://myanimelist.net/anime/42972",
         "https://myanimelist.net/anime/4872",
         "https://myanimelist.net/anime/8317",
         "https://notify.moe/anime/ErVmtKmmg",
@@ -1265,6 +1361,7 @@
         "earth",
         "female harem",
         "gag",
+        "gag humor",
         "high school",
         "japan",
         "kuudere",

@@ -41,37 +41,6 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/144292"
-      ],
-      "title": "Benghuai 3: Apocalypse Rushi Shuo",
-      "type": "ONA",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2022
-      },
-      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx144292-pRO8lbHxWcZZ.png",
-      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx144292-pRO8lbHxWcZZ.png",
-      "synonyms": [
-        "Honkai Impact 3rd: Thus Spoke Apocalypse",
-        "崩坏3 阿波卡利斯如是说"
-      ],
-      "relations": [],
-      "tags": [
-        "action",
-        "anti-hero",
-        "drama",
-        "full cgi",
-        "philosophy",
-        "sci-fi",
-        "time manipulation",
-        "tragedy"
-      ],
-      "id": "https://anilist.co/anime/144292"
-    },
-    {
-      "sources": [
         "https://anidb.net/anime/11292",
         "https://anilist.co/anime/21234",
         "https://anime-planet.com/anime/erased",
@@ -115,8 +84,11 @@
         "в който мен ме няма",
         "где меня больше нет",
         "בחזרה",
+        "ย้อนอดีตไขปริศนา",
+        "รีไววัล ย้อนอดีตไขปริศนา",
         "ぼくだけがいないまち",
         "僕だけがいない街",
+        "僕街",
         "只有我不存在的城市",
         "나만이 없는 거리"
       ],
@@ -142,6 +114,7 @@
         "drama",
         "dysfunctional families",
         "elementary school",
+        "fugitive",
         "heterosexual",
         "kuudere",
         "male protagonist",
@@ -159,11 +132,14 @@
         "rehabilitation",
         "revenge",
         "school",
+        "second chance",
         "seinen",
         "serial killers",
         "slice of life",
         "supernatural",
         "supernatural drama",
+        "supernatural thriller",
+        "suspense",
         "teacher",
         "thriller",
         "time manipulation",
@@ -173,6 +149,32 @@
         "violence"
       ],
       "id": "https://myanimelist.net/anime/31043"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/doosan-delightful-life"
+      ],
+      "title": "Doosan: Delightful Life",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2022
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/doosan-delightful-life-1.webp?t=1656557462",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/doosan-delightful-life-1-285x399.webp?t=1656557462",
+      "synonyms": [],
+      "relations": [],
+      "tags": [
+        "animal protagonists",
+        "bears",
+        "environmental",
+        "korean animation",
+        "non-human protagonists",
+        "promotional"
+      ],
+      "id": "https://anime-planet.com/anime/doosan-delightful-life"
     },
     {
       "sources": [
@@ -312,9 +314,13 @@
         "bullying",
         "delinquents",
         "drama",
+        "drugs",
         "female protagonist",
+        "gambling",
+        "gangs",
         "primarily female cast",
-        "shoujo"
+        "shoujo",
+        "yakuza"
       ],
       "id": "https://myanimelist.net/anime/17223"
     },
@@ -341,6 +347,7 @@
         "ハローキティと見よう イソップ物語"
       ],
       "relations": [
+        "https://anisearch.com/anime/5462",
         "https://myanimelist.net/anime/35039"
       ],
       "tags": [
@@ -349,6 +356,51 @@
         "kids"
       ],
       "id": "https://myanimelist.net/anime/30064"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/130568",
+        "https://anime-planet.com/anime/kaijuu-iro-no-shima-pv",
+        "https://anisearch.com/anime/16044",
+        "https://kitsu.io/anime/46460",
+        "https://myanimelist.net/anime/52823"
+      ],
+      "title": "Kaijuu-iro no Shima PV",
+      "type": "ONA",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2021
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1311/127149.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1311/127149t.jpg",
+      "synonyms": [
+        "Kaiju Island",
+        "Kaijuu Iro no Shima",
+        "Kaijuu Iro no Shima PV",
+        "Kaijū Iro no Shima",
+        "The Monster-Colored Island",
+        "かいじゅう色の島",
+        "かいじゅう色の島 - PV",
+        "かいじゅう色の島 PV"
+      ],
+      "relations": [],
+      "tags": [
+        "advertisement",
+        "based on a manga",
+        "drama",
+        "female protagonist",
+        "girls love",
+        "gl",
+        "island",
+        "present",
+        "promotional",
+        "shoujo-ai",
+        "shounen",
+        "slice of life"
+      ],
+      "id": "https://myanimelist.net/anime/52823"
     },
     {
       "sources": [
@@ -389,12 +441,14 @@
         "based on a manga",
         "drama",
         "korean animation",
-        "sports"
+        "sports",
+        "team sports"
       ],
       "id": "https://myanimelist.net/anime/35529"
     },
     {
       "sources": [
+        "https://anidb.net/anime/8448",
         "https://anisearch.com/anime/7141"
       ],
       "title": "Kore wa Zombie desu ka? Ee, Kore ga Saishuukai desu ka?",
@@ -405,19 +459,26 @@
         "season": "SPRING",
         "year": 2011
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/7/7141.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/7/7141.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/7/7141_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/7/7141.webp",
       "synonyms": [
-        "Is this a Zombie?: Eh? This Is the Final Episode?",
-        "Is this a Zombie?: Nun, ist das die letzte Runde?",
+        "Is This a Zombie? Eh? This Is the Final Episode?",
+        "Is This a Zombie? Nun, ist das die letzte Runde?",
+        "Is This a Zombie? OVA: Eh, Is This the Final Episode?",
+        "Is This a Zombie? Yes, This Is a 1% Miracle",
         "Kore wa Zombie Desu ka? Episode 13",
+        "Kore wa Zombie Desuka? Ee, Kore ga Saishuukai Desuka?",
         "Kore wa Zombie desu ka? Ē, Kore ga Saishūkai desu ka?",
-        "これはゾンビですか？ えぇ、これが最終回ですか？"
+        "korezombie OAD",
+        "korezombie OVA",
+        "これはゾンビですか? えぇ,これが最終回ですか?",
+        "これはゾンビですか？ えぇ、これが最終回ですか？",
+        "이것은 좀비입니까? OVA"
       ],
       "relations": [
+        "https://anidb.net/anime/7674",
+        "https://anidb.net/anime/9241",
         "https://anisearch.com/anime/6343",
-        "https://anisearch.com/anime/7152",
-        "https://anisearch.com/anime/7760",
         "https://anisearch.com/anime/8149"
       ],
       "tags": [
@@ -426,6 +487,7 @@
         "contemporary fantasy",
         "ecchi",
         "magic",
+        "novel",
         "present",
         "romance",
         "romantic comedy",
@@ -444,7 +506,7 @@
         "https://myanimelist.net/anime/28423",
         "https://notify.moe/anime/kAwEpFmmR"
       ],
-      "title": "Kyoukai no Rinne (TV)",
+      "title": "Kyoukai no Rinne",
       "type": "TV",
       "episodes": 25,
       "status": "FINISHED",
@@ -458,7 +520,7 @@
         "Circle Of Reincarnation",
         "Circle of Reincarnation",
         "De Grens van Rinne",
-        "Kyoukai no Rinne",
+        "Kyoukai no Rinne (TV)",
         "Kyōkai no Rinne",
         "RIN-NE",
         "RINNE",
@@ -479,7 +541,6 @@
         "https://anime-planet.com/anime/rin-ne-3",
         "https://anime-planet.com/anime/rin-ne-cm",
         "https://anisearch.com/anime/10750",
-        "https://anisearch.com/anime/11801",
         "https://anisearch.com/anime/8807",
         "https://kitsu.io/anime/11366",
         "https://kitsu.io/anime/8461",
@@ -528,8 +589,8 @@
       ],
       "title": "Mashin Mukashi Banashi Gekijou",
       "type": "ONA",
-      "episodes": 0,
-      "status": "ONGOING",
+      "episodes": 5,
+      "status": "FINISHED",
       "animeSeason": {
         "season": "SPRING",
         "year": 2020
@@ -549,32 +610,6 @@
     },
     {
       "sources": [
-        "https://anime-planet.com/anime/maten-rocket-kimi-ga-mita-sora-wa"
-      ],
-      "title": "Maten Rocket: Kimi ga Mita Sora wa",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2018
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/maten-rocket-kimi-ga-mita-sora-wa-1.jpg?t=1625907346",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/maten-rocket-kimi-ga-mita-sora-wa-1-190x266.jpg?t=1625907346",
-      "synonyms": [],
-      "relations": [
-        "https://anime-planet.com/anime/just-4u-daitan-futeki-ni-koi-shitai",
-        "https://anime-planet.com/anime/la-veritta-beat-in-love",
-        "https://anime-planet.com/anime/rayglanz-go-now",
-        "https://anime-planet.com/anime/spica-special-nu-world"
-      ],
-      "tags": [
-        "idols"
-      ],
-      "id": "https://anime-planet.com/anime/maten-rocket-kimi-ga-mita-sora-wa"
-    },
-    {
-      "sources": [
         "https://anisearch.com/anime/17101"
       ],
       "title": "Metallic Child",
@@ -585,48 +620,12 @@
         "season": "SUMMER",
         "year": 2021
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/17/17101.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17101.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/17/17101_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/17/17101.webp",
       "synonyms": [],
       "relations": [],
       "tags": [],
       "id": "https://anisearch.com/anime/17101"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/14305"
-      ],
-      "title": "Nurarihyon no Mago: Sennen Makyou Soushuuhen",
-      "type": "TV",
-      "episodes": 2,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SUMMER",
-        "year": 2011
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/14/14305.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/14/14305.webp",
-      "synonyms": [
-        "Grandchild of Nurarihyon 2 Recaps",
-        "Nura: Rise of the Yokai Clan - Demon Capital Recaps",
-        "Nurarihyon no Mago 2 Recaps",
-        "Nurarihyon no Mago: Sennen Makyou Specials",
-        "Nurarihyon no Mago: Sennen Makyō Sōshūhen",
-        "The Grandson of Nurarihyon 2 Recaps",
-        "ぬらりひょんの孫 千年魔京 総集編"
-      ],
-      "relations": [
-        "https://anisearch.com/anime/5888",
-        "https://anisearch.com/anime/6722",
-        "https://anisearch.com/anime/7723",
-        "https://anisearch.com/anime/8001"
-      ],
-      "tags": [
-        "action",
-        "demons",
-        "fighting-shounen"
-      ],
-      "id": "https://anisearch.com/anime/14305"
     },
     {
       "sources": [
@@ -700,11 +699,13 @@
         "Pocket Monsters: Pikachū no Fuyuyasumi 2000",
         "Pokemon: Pikachu's Winter Vacation (2000)",
         "Pokemon: Pikachu's Winter Vacation 2000",
+        "Pokémon: Pikachu's Winter Vacation (2000)",
         "Pokémon: Pikachu's Winter Vacation 2",
         "Pokémon: Pikachun talvirieha 2",
         "Pokémon: Pikachu’s Winter Vacation 2000",
         "Stantler's Little Helpers",
         "Winter Games",
+        "pm ova 2",
         "ピカチュウのふゆやすみ2000"
       ],
       "relations": [
@@ -716,78 +717,8 @@
         "https://anilist.co/anime/527",
         "https://anime-planet.com/anime/pokemon",
         "https://anime-planet.com/anime/pokemon-chronicles",
-        "https://anisearch.com/anime/10132",
-        "https://anisearch.com/anime/10444",
-        "https://anisearch.com/anime/10686",
-        "https://anisearch.com/anime/10759",
-        "https://anisearch.com/anime/109",
-        "https://anisearch.com/anime/11070",
-        "https://anisearch.com/anime/11242",
-        "https://anisearch.com/anime/11243",
-        "https://anisearch.com/anime/11244",
-        "https://anisearch.com/anime/11245",
-        "https://anisearch.com/anime/11309",
-        "https://anisearch.com/anime/11437",
-        "https://anisearch.com/anime/11443",
-        "https://anisearch.com/anime/11662",
-        "https://anisearch.com/anime/11677",
-        "https://anisearch.com/anime/11757",
-        "https://anisearch.com/anime/11938",
-        "https://anisearch.com/anime/11939",
-        "https://anisearch.com/anime/12149",
-        "https://anisearch.com/anime/12911",
-        "https://anisearch.com/anime/13078",
-        "https://anisearch.com/anime/13125",
-        "https://anisearch.com/anime/13756",
-        "https://anisearch.com/anime/14495",
-        "https://anisearch.com/anime/14596",
-        "https://anisearch.com/anime/1476",
-        "https://anisearch.com/anime/15641",
-        "https://anisearch.com/anime/1612",
-        "https://anisearch.com/anime/164",
-        "https://anisearch.com/anime/17047",
         "https://anisearch.com/anime/1864",
-        "https://anisearch.com/anime/2105",
-        "https://anisearch.com/anime/2136",
-        "https://anisearch.com/anime/2222",
-        "https://anisearch.com/anime/2446",
-        "https://anisearch.com/anime/2602",
-        "https://anisearch.com/anime/2831",
         "https://anisearch.com/anime/2914",
-        "https://anisearch.com/anime/3100",
-        "https://anisearch.com/anime/3139",
-        "https://anisearch.com/anime/3293",
-        "https://anisearch.com/anime/3495",
-        "https://anisearch.com/anime/3551",
-        "https://anisearch.com/anime/3684",
-        "https://anisearch.com/anime/3721",
-        "https://anisearch.com/anime/3975",
-        "https://anisearch.com/anime/4690",
-        "https://anisearch.com/anime/5197",
-        "https://anisearch.com/anime/5533",
-        "https://anisearch.com/anime/5740",
-        "https://anisearch.com/anime/5741",
-        "https://anisearch.com/anime/5867",
-        "https://anisearch.com/anime/6306",
-        "https://anisearch.com/anime/6678",
-        "https://anisearch.com/anime/7344",
-        "https://anisearch.com/anime/7521",
-        "https://anisearch.com/anime/7540",
-        "https://anisearch.com/anime/7550",
-        "https://anisearch.com/anime/7655",
-        "https://anisearch.com/anime/7870",
-        "https://anisearch.com/anime/7955",
-        "https://anisearch.com/anime/8231",
-        "https://anisearch.com/anime/8300",
-        "https://anisearch.com/anime/8513",
-        "https://anisearch.com/anime/8744",
-        "https://anisearch.com/anime/8745",
-        "https://anisearch.com/anime/9040",
-        "https://anisearch.com/anime/9045",
-        "https://anisearch.com/anime/9184",
-        "https://anisearch.com/anime/9404",
-        "https://anisearch.com/anime/9591",
-        "https://anisearch.com/anime/9801",
         "https://kitsu.io/anime/3833",
         "https://kitsu.io/anime/486",
         "https://kitsu.io/anime/6405",
@@ -836,44 +767,10 @@
     },
     {
       "sources": [
-        "https://anilist.co/anime/130866",
-        "https://anime-planet.com/anime/sanguo-yanyi"
-      ],
-      "title": "Sanguo Yanyi",
-      "type": "ONA",
-      "episodes": 40,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": 2017
-      },
-      "picture": "https://cdn.anime-planet.com/anime/primary/sanguo-yanyi-1.jpg?t=1625792333",
-      "thumbnail": "https://cdn.anime-planet.com/anime/primary/sanguo-yanyi-1-190x266.jpg?t=1625908948",
-      "synonyms": [
-        "Romance Of Three Kingdoms",
-        "Romance of the Three Kingdoms",
-        "三国演义",
-        "三国演义 第一季 群雄并起"
-      ],
-      "relations": [
-        "https://anilist.co/anime/130873",
-        "https://anime-planet.com/anime/sanguo-yanyi-2nd-season-zhulu-zhongyuan"
-      ],
-      "tags": [
-        "action",
-        "cg animation",
-        "chinese animation",
-        "drama",
-        "full cgi",
-        "historical",
-        "romance of the three kingdoms",
-        "supernatural",
-        "war"
-      ],
-      "id": "https://anime-planet.com/anime/sanguo-yanyi"
-    },
-    {
-      "sources": [
+        "https://anidb.net/anime/14312",
+        "https://anilist.co/anime/103362",
+        "https://anime-planet.com/anime/shi-wan-ge-leng-xiaohua-2nd-season",
+        "https://anisearch.com/anime/11694",
         "https://kitsu.io/anime/12413",
         "https://myanimelist.net/anime/33194",
         "https://notify.moe/anime/bwKz2Fmig"
@@ -889,11 +786,27 @@
       "picture": "https://cdn.myanimelist.net/images/anime/2/79765.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/2/79765t.jpg",
       "synonyms": [
+        "100,000 Bad Jokes 2",
+        "One Hundred Thousand Bad Jokes 2",
+        "One Hundred Thousand Bad Jokes 2nd Season",
         "One Hundred Thousand Bad Jokes Di Er Ji",
+        "One Hundred Thousand Bad Jokes Season 2",
+        "Shi Wan Ge Leng Xiao Hua Di Er Ji",
         "Shi Wan Ge Leng Xiaohua 2",
+        "Shi Wan Ge Leng Xiaohua Di Er Ji",
+        "Shiwan Ge Leng Xiaohua 2",
+        "十万个冷笑话 第二季",
         "十萬個冷笑話 第二季"
       ],
       "relations": [
+        "https://anidb.net/anime/14311",
+        "https://anidb.net/anime/14313",
+        "https://anilist.co/anime/103361",
+        "https://anilist.co/anime/103363",
+        "https://anime-planet.com/anime/shi-wan-ge-leng-xiaohua",
+        "https://anime-planet.com/anime/shi-wan-ge-leng-xiaohua-3rd-season",
+        "https://anisearch.com/anime/11693",
+        "https://anisearch.com/anime/11704",
         "https://kitsu.io/anime/12144",
         "https://kitsu.io/anime/12414",
         "https://kitsu.io/anime/12516",
@@ -905,36 +818,13 @@
         "https://notify.moe/anime/T7VghFiiR"
       ],
       "tags": [
+        "based on a manga",
+        "chinese animation",
         "comedy",
-        "parody"
+        "parody",
+        "short episodes"
       ],
       "id": "https://myanimelist.net/anime/33194"
-    },
-    {
-      "sources": [
-        "https://anidb.net/anime/16354"
-      ],
-      "title": "Shi Yi ChangAn: Mingyue Jishi You Er",
-      "type": "ONA",
-      "episodes": 12,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2021
-      },
-      "picture": "https://cdn.anidb.net/images/main/260929.jpg",
-      "thumbnail": "https://cdn.anidb.net/images/main/260929.jpg-thumb.jpg",
-      "synonyms": [
-        "Shi Yi ChangAn: Mingyue Jishi You 2",
-        "Shi Yi Chang`An: Mingyue Jishi You Er",
-        "拾忆长安·明月几时有 第二季",
-        "拾忆长安·明月几时有 貳"
-      ],
-      "relations": [
-        "https://anidb.net/anime/15786"
-      ],
-      "tags": [],
-      "id": "https://anidb.net/anime/16354"
     },
     {
       "sources": [
@@ -943,12 +833,13 @@
         "https://anime-planet.com/anime/super-dragon-ball-heroes",
         "https://anisearch.com/anime/13623",
         "https://kitsu.io/anime/41319",
+        "https://livechart.me/anime/3258",
         "https://myanimelist.net/anime/37885",
         "https://notify.moe/anime/Cqy7THDig"
       ],
       "title": "Super Dragon Ball Heroes",
       "type": "ONA",
-      "episodes": 40,
+      "episodes": 48,
       "status": "ONGOING",
       "animeSeason": {
         "season": "SUMMER",
@@ -960,10 +851,13 @@
         "Dragon Ball Heroes",
         "SBDH",
         "Super Dragon Ball Heroes: Big Bang Mission",
+        "Super Dragon Ball Heroes: Ultra God Mission",
         "Super Dragon Ball Heroes: Universe Mission",
+        "db s7",
         "スーパードラゴンボールヒーローズ",
         "スーパードラゴンボールヒーローズ ユニバースミッション",
         "ドラゴンボールヒーローズ",
+        "超级龙珠英雄",
         "超龍珠英雄 監獄惑星篇",
         "슈퍼 드래곤볼 히어로즈"
       ],
@@ -971,10 +865,28 @@
         "https://anidb.net/anime/11210",
         "https://anidb.net/anime/233",
         "https://anilist.co/anime/21175",
+        "https://anisearch.com/anime/10383",
+        "https://anisearch.com/anime/2748",
         "https://kitsu.io/anime/10879",
+        "https://livechart.me/anime/3632",
+        "https://livechart.me/anime/3636",
+        "https://livechart.me/anime/4152",
+        "https://livechart.me/anime/4177",
+        "https://livechart.me/anime/4206",
+        "https://livechart.me/anime/4219",
+        "https://livechart.me/anime/4287",
+        "https://livechart.me/anime/4294",
+        "https://livechart.me/anime/4312",
+        "https://livechart.me/anime/4572",
+        "https://livechart.me/anime/4719",
+        "https://livechart.me/anime/4815",
+        "https://livechart.me/anime/4919",
+        "https://livechart.me/anime/5906",
+        "https://livechart.me/anime/6390",
         "https://myanimelist.net/anime/223",
         "https://myanimelist.net/anime/225",
         "https://myanimelist.net/anime/30694",
+        "https://myanimelist.net/anime/42509",
         "https://myanimelist.net/anime/813",
         "https://notify.moe/anime/MQm2cKiiR",
         "https://notify.moe/anime/Mj2_pFimR",
@@ -984,6 +896,7 @@
       "tags": [
         "action",
         "adventure",
+        "advertisement",
         "alien",
         "aliens",
         "comedy",
@@ -992,13 +905,13 @@
         "hand to hand combat",
         "henshin",
         "humanoid alien",
-        "isekai",
         "martial arts",
         "promotional",
         "psi-powers",
         "short episodes",
         "shounen",
         "super power",
+        "superpower",
         "superpowers",
         "time manipulation"
       ],
@@ -1013,12 +926,13 @@
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
+        "season": "SPRING",
         "year": 2014
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1492/128459.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1492/128459t.jpg",
       "synonyms": [
+        "Space Panda 2",
         "太空熊猫总动员"
       ],
       "relations": [
@@ -1027,6 +941,7 @@
       ],
       "tags": [
         "adventure",
+        "fantasy",
         "kids"
       ],
       "id": "https://myanimelist.net/anime/44843"
@@ -1034,7 +949,7 @@
     {
       "sources": [
         "https://anilist.co/anime/138992",
-        "https://myanimelist.net/anime/49884",
+        "https://anime-planet.com/anime/yoshiko-tsushima-tatehoko-tsubasa",
         "https://myanimelist.net/anime/50059"
       ],
       "title": "Tatehoko Tsubasa",
@@ -1045,20 +960,50 @@
         "season": "SUMMER",
         "year": 2021
       },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+      "picture": "https://cdn.myanimelist.net/images/anime/1544/118644.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1544/118644t.jpg",
       "synonyms": [
+        "Yoshiko Tsushima: Tatehoko Tsubasa",
         "タテホコツバサ"
       ],
       "relations": [
         "https://anilist.co/anime/21584",
+        "https://anime-planet.com/anime/love-live-sunshine",
         "https://myanimelist.net/anime/32526"
       ],
       "tags": [
+        "female protagonist",
         "idol",
-        "music"
+        "idols",
+        "idols (female)",
+        "music",
+        "promotional"
       ],
       "id": "https://myanimelist.net/anime/50059"
+    },
+    {
+      "sources": [
+        "https://myanimelist.net/anime/54697"
+      ],
+      "title": "Terror Man",
+      "type": "UNKNOWN",
+      "episodes": 0,
+      "status": "UPCOMING",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": null
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1097/134099.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1097/134099t.jpg",
+      "synonyms": [
+        "테러맨"
+      ],
+      "relations": [],
+      "tags": [
+        "action",
+        "supernatural"
+      ],
+      "id": "https://myanimelist.net/anime/54697"
     },
     {
       "sources": [
@@ -1099,13 +1044,17 @@
         "action",
         "adventure",
         "asia",
+        "assassins",
         "based on a manga",
         "conspiracy",
         "crime",
+        "delinquents",
         "drama",
         "earth",
+        "fashion",
         "female protagonist",
         "gunfights",
+        "heterosexual",
         "japan",
         "love polygon",
         "manga",
@@ -1116,36 +1065,6 @@
         "tragedy"
       ],
       "id": "https://myanimelist.net/anime/4927"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/2740"
-      ],
-      "title": "Toushou!! Ramenman",
-      "type": "MOVIE",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SUMMER",
-        "year": 1988
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/2/2740.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/2/2740.webp",
-      "synonyms": [
-        "Fight!! Ramenman (1988)",
-        "Toujou!! Raman Otoko",
-        "Toushou!! Ramenman (1988)",
-        "Tōshō!! Ramenman",
-        "闘将！！拉麺男"
-      ],
-      "relations": [],
-      "tags": [
-        "action",
-        "adventure",
-        "comedy",
-        "martial arts"
-      ],
-      "id": "https://anisearch.com/anime/2740"
     },
     {
       "sources": [
@@ -1188,30 +1107,6 @@
     },
     {
       "sources": [
-        "https://livechart.me/anime/9914"
-      ],
-      "title": "Venture",
-      "type": "OVA",
-      "episodes": 0,
-      "status": "UPCOMING",
-      "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
-      },
-      "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-      "synonyms": [
-        "ベンチャー"
-      ],
-      "relations": [],
-      "tags": [
-        "comedy",
-        "slice of life"
-      ],
-      "id": "https://livechart.me/anime/9914"
-    },
-    {
-      "sources": [
         "https://anisearch.com/anime/12755"
       ],
       "title": "VOICES tilt-six Remix feat. Miku Hatsune",
@@ -1222,8 +1117,8 @@
         "season": "SUMMER",
         "year": 2016
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/12/12755.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/12/12755.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/12/12755_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/12/12755.webp",
       "synonyms": [
         "Miku Hatsune / Sony Xperia",
         "初音ミク x Xperia",
@@ -1234,6 +1129,50 @@
         "cg-anime"
       ],
       "id": "https://anisearch.com/anime/12755"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/155312"
+      ],
+      "title": "Wu Huang",
+      "type": "ONA",
+      "episodes": 0,
+      "status": "UPCOMING",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": null
+      },
+      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155312-hHKjDZZHCSt0.png",
+      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155312-hHKjDZZHCSt0.png",
+      "synonyms": [
+        "巫皇"
+      ],
+      "relations": [],
+      "tags": [
+        "fantasy"
+      ],
+      "id": "https://anilist.co/anime/155312"
+    },
+    {
+      "sources": [
+        "https://anime-planet.com/anime/yourness-what-i-wanted-you-to-know"
+      ],
+      "title": "yourness: What I wanted you to know",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "UNKNOWN",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 2023
+      },
+      "picture": "https://cdn.anime-planet.com/anime/primary/yourness-what-i-wanted-you-to-know-1.webp?t=1680661689",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/yourness-what-i-wanted-you-to-know-1-285x399.webp?t=1680661689",
+      "synonyms": [
+        "yourness: Tsutaetakatta Koto"
+      ],
+      "relations": [],
+      "tags": [],
+      "id": "https://anime-planet.com/anime/yourness-what-i-wanted-you-to-know"
     }
   ]
 }

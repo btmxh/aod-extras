@@ -44,6 +44,7 @@
         "https://anidb.net/anime/12322",
         "https://anilist.co/anime/21897",
         "https://anime-planet.com/anime/ao-oni-the-blue-monster",
+        "https://anisearch.com/anime/11692",
         "https://kitsu.io/anime/12477",
         "https://livechart.me/anime/2276",
         "https://myanimelist.net/anime/33814",
@@ -103,6 +104,7 @@
         "Good Luck Girl!",
         "The God Of Poverty is!",
         "Viel Glück Mädchen!",
+        "binga",
         "Ах ти ж злидня!",
         "Нищебог же!",
         "貧乏神が!",
@@ -116,10 +118,12 @@
         "based on a manga",
         "beastmen",
         "bishounen",
+        "body swapping",
         "bondage",
         "breaking the fourth wall",
         "comedy",
         "contemporary fantasy",
+        "dissociative identities",
         "drama",
         "ecchi",
         "fantasy",
@@ -151,6 +155,7 @@
     {
       "sources": [
         "https://anilist.co/anime/7366",
+        "https://anime-planet.com/anime/please-save-my-earth-movie-from-alice-to-rin-kun",
         "https://kitsu.io/anime/4952",
         "https://myanimelist.net/anime/7366",
         "https://notify.moe/anime/4HlgtKmig"
@@ -171,6 +176,7 @@
       ],
       "relations": [
         "https://anilist.co/anime/526",
+        "https://anime-planet.com/anime/please-save-my-earth",
         "https://kitsu.io/anime/485",
         "https://myanimelist.net/anime/526",
         "https://notify.moe/anime/7nJT5Kmig"
@@ -216,6 +222,95 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/alice-on-the-beach",
+        "https://anisearch.com/anime/17824",
+        "https://myanimelist.net/anime/52835"
+      ],
+      "title": "Dang Jingyu You Shang Shatan",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SPRING",
+        "year": 2022
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1345/127210.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1345/127210t.jpg",
+      "synonyms": [
+        "Alice on the Beach",
+        "Dang Jing Yu You Shang Sha Tan",
+        "当鲸鱼游上沙滩",
+        "當鯨魚游上沙灘"
+      ],
+      "relations": [],
+      "tags": [
+        "abstract",
+        "chinese animation",
+        "drama",
+        "original work",
+        "shorts"
+      ],
+      "id": "https://myanimelist.net/anime/52835"
+    },
+    {
+      "sources": [
+        "https://anidb.net/anime/16203",
+        "https://anilist.co/anime/129349",
+        "https://kitsu.io/anime/44611",
+        "https://notify.moe/anime/pLOGw7CMg"
+      ],
+      "title": "Douluo Dalu: Xiaowu Juebie",
+      "type": "ONA",
+      "episodes": 13,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SPRING",
+        "year": 2020
+      },
+      "picture": "https://media.kitsu.io/anime/poster_images/44611/small.jpg",
+      "thumbnail": "https://media.kitsu.io/anime/poster_images/44611/tiny.jpg",
+      "synonyms": [
+        "Douluo Dalu 1st Season Part 5",
+        "Douluo Dalu 5th Season",
+        "Douluo Dalu 5th season",
+        "Douluo Dalu Di Wu Ji",
+        "Douluo Dalu Part 5",
+        "Douluo Dalu Zhi Xiao Wu Juebie Pian",
+        "Douluo Dalu: Xiao Wu Juebie",
+        "Douluo Dalu: Xiao Wu Juebie Pian",
+        "Soul Land 5th Season",
+        "Soul Land Part 5",
+        "斗罗大陆 小舞诀别",
+        "斗罗大陆 小舞诀别篇",
+        "斗罗大陆 第五季",
+        "斗罗大陆 第五部分",
+        "斗罗大陆之小舞诀别篇"
+      ],
+      "relations": [
+        "https://anidb.net/anime/16202",
+        "https://anidb.net/anime/16204",
+        "https://anilist.co/anime/129348",
+        "https://anilist.co/anime/129350",
+        "https://kitsu.io/anime/44616",
+        "https://notify.moe/anime/4Owj87CGg",
+        "https://notify.moe/anime/oui5w7CMR"
+      ],
+      "tags": [
+        "action",
+        "adventure",
+        "cultivation",
+        "fantasy",
+        "full cgi",
+        "historical",
+        "martial arts",
+        "novel",
+        "romance",
+        "supernatural"
+      ],
+      "id": "https://kitsu.io/anime/44611"
+    },
+    {
+      "sources": [
         "https://anidb.net/anime/906",
         "https://anilist.co/anime/904",
         "https://anime-planet.com/anime/dragon-ball-z-movie-11-bio-broly",
@@ -236,6 +331,7 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1035/93674.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1035/93674t.jpg",
       "synonyms": [
+        "Bảy Viên Ngọc Rồng Z: Broly Đệ Nhị",
         "DBZ Movie 11",
         "DRAGON BALL Z 超[スーパー]戦士撃破!! 勝つのはオレだ",
         "Dragon Ball Z - Ataque do Super Guerreiro",
@@ -262,6 +358,7 @@
         "Dragonball Z: Angriff der Bio-Kämpfer",
         "Dragonball Z: Angriff der Biokämpfer",
         "Super Fighter Shootout!! I'm the One Who Will Win",
+        "ดราก้อนบอล Z เดอะมูฟวี่ 11 สุดยอดนักรบ ไบโอโบรลี่",
         "ドラゴンボールZ 超戦士撃破!! 勝つのはオレだ",
         "ドラゴンボールZ 超戦士撃破!!勝のはオレだ",
         "ドラゴンボールZ 超戦士撃破！！勝つのはオレだ",
@@ -269,7 +366,6 @@
       ],
       "relations": [
         "https://anidb.net/anime/1070",
-        "https://anidb.net/anime/1530",
         "https://anilist.co/anime/813",
         "https://anilist.co/anime/903",
         "https://anime-planet.com/anime/dragon-ball-episode-of-bardock",
@@ -297,42 +393,7 @@
         "https://anime-planet.com/anime/dragon-ball-z-plan-to-destroy-the-saiyajin",
         "https://anime-planet.com/anime/dragon-ball-z-special-1-bardock-the-father-of-goku",
         "https://anime-planet.com/anime/dragon-ball-z-special-2-the-history-of-trunks",
-        "https://anisearch.com/anime/10022",
-        "https://anisearch.com/anime/1011",
-        "https://anisearch.com/anime/10383",
-        "https://anisearch.com/anime/11462",
         "https://anisearch.com/anime/1269",
-        "https://anisearch.com/anime/13114",
-        "https://anisearch.com/anime/1441",
-        "https://anisearch.com/anime/1568",
-        "https://anisearch.com/anime/16372",
-        "https://anisearch.com/anime/1825",
-        "https://anisearch.com/anime/1841",
-        "https://anisearch.com/anime/1947",
-        "https://anisearch.com/anime/245",
-        "https://anisearch.com/anime/2466",
-        "https://anisearch.com/anime/2504",
-        "https://anisearch.com/anime/2748",
-        "https://anisearch.com/anime/2849",
-        "https://anisearch.com/anime/286",
-        "https://anisearch.com/anime/2938",
-        "https://anisearch.com/anime/2957",
-        "https://anisearch.com/anime/3163",
-        "https://anisearch.com/anime/3449",
-        "https://anisearch.com/anime/360",
-        "https://anisearch.com/anime/427",
-        "https://anisearch.com/anime/4281",
-        "https://anisearch.com/anime/468",
-        "https://anisearch.com/anime/5088",
-        "https://anisearch.com/anime/5286",
-        "https://anisearch.com/anime/5508",
-        "https://anisearch.com/anime/68",
-        "https://anisearch.com/anime/6962",
-        "https://anisearch.com/anime/763",
-        "https://anisearch.com/anime/7952",
-        "https://anisearch.com/anime/831",
-        "https://anisearch.com/anime/9483",
-        "https://anisearch.com/anime/9753",
         "https://kitsu.io/anime/720",
         "https://kitsu.io/anime/803",
         "https://livechart.me/anime/3632",
@@ -386,6 +447,7 @@
         "https://anime-planet.com/anime/fight-da-pyuta",
         "https://anisearch.com/anime/4259",
         "https://kitsu.io/anime/9261",
+        "https://livechart.me/anime/11662",
         "https://myanimelist.net/anime/19997",
         "https://notify.moe/anime/_7uapKimR"
       ],
@@ -397,8 +459,8 @@
         "season": "SPRING",
         "year": 1968
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/6/53307.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/6/53307t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1208/131561.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1208/131561t.jpg",
       "synonyms": [
         "Fight",
         "Fight, Pyuta!",
@@ -420,33 +482,10 @@
     },
     {
       "sources": [
-        "https://anidb.net/anime/14684",
-        "https://anisearch.com/anime/15109"
-      ],
-      "title": "Genji Fantasy: Neko ga Hikaru Genji ni Koi o Shita",
-      "type": "SPECIAL",
-      "episodes": 1,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2019
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/15/15109.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/15/15109.webp",
-      "synonyms": [
-        "GENJI FANTASY ネコが光源氏に恋をした",
-        "Genji Fantasy: Neko ga Hikaru Genji ni Koi wo Shita",
-        "Genji Fantasy: The Cat Fell in Love with Hikaru Genji"
-      ],
-      "relations": [],
-      "tags": [],
-      "id": "https://anisearch.com/anime/15109"
-    },
-    {
-      "sources": [
         "https://anilist.co/anime/104471",
         "https://anime-planet.com/anime/hakimono-to-kasa-no-monogatari",
         "https://anisearch.com/anime/10980",
+        "https://anisearch.com/anime/13434",
         "https://kitsu.io/anime/10711",
         "https://myanimelist.net/anime/30199",
         "https://notify.moe/anime/WvPwtKmiR"
@@ -462,14 +501,14 @@
       "picture": "https://cdn.myanimelist.net/images/anime/4/72264.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/4/72264t.jpg",
       "synonyms": [
+        "Hakimono to Kasa no Monogatari (2015)",
         "Hakimono to Kasa no Monogatari: Minna no Uta Version",
         "Minna no Uta",
         "Minna no Uta: Hakimono to Kasa no Monogatari",
-        "履物と傘の物語"
+        "履物と傘の物語",
+        "履物と傘の物語 （2015）"
       ],
-      "relations": [
-        "https://anisearch.com/anime/13434"
-      ],
+      "relations": [],
       "tags": [
         "adult couples",
         "drama",
@@ -513,6 +552,7 @@
         "奇幻☆怪盜？"
       ],
       "relations": [
+        "https://anime-planet.com/anime/hatena-illusion-recap",
         "https://myanimelist.net/anime/41285"
       ],
       "tags": [
@@ -567,14 +607,8 @@
       "relations": [
         "https://anilist.co/anime/3604",
         "https://anilist.co/anime/7062",
-        "https://anisearch.com/anime/3872",
-        "https://anisearch.com/anime/4481",
         "https://anisearch.com/anime/4621",
         "https://anisearch.com/anime/5551",
-        "https://anisearch.com/anime/6452",
-        "https://anisearch.com/anime/7295",
-        "https://anisearch.com/anime/7312",
-        "https://anisearch.com/anime/8990",
         "https://kitsu.io/anime/3137",
         "https://kitsu.io/anime/4856",
         "https://livechart.me/anime/253",
@@ -593,6 +627,7 @@
       ],
       "tags": [
         "achronological order",
+        "cgdct",
         "comedy",
         "cute girls doing cute things",
         "drawing",
@@ -602,11 +637,13 @@
         "painting",
         "present",
         "primarily female cast",
+        "primarily teen cast",
         "school",
         "school life",
         "seinen",
         "slapstick",
-        "slice of life"
+        "slice of life",
+        "visual arts"
       ],
       "id": "https://myanimelist.net/anime/6984"
     },
@@ -700,6 +737,102 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/146922",
+        "https://anime-planet.com/anime/mobile-suit-gundam-the-witch-from-mercury-prologue",
+        "https://anisearch.com/anime/17528",
+        "https://kitsu.io/anime/46291",
+        "https://livechart.me/anime/11165",
+        "https://myanimelist.net/anime/52168",
+        "https://notify.moe/anime/W22bmNV4g"
+      ],
+      "title": "Kidou Senshi Gundam: Suisei no Majo - Prologue",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SUMMER",
+        "year": 2022
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1870/124666.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1870/124666t.jpg",
+      "synonyms": [
+        "G-Witch Prologue",
+        "Kidou Senshi Gundam: Suisei no Majo - PROLOGUE",
+        "Kidou Senshi Gundam: Suisei no Majo Prologue",
+        "Kidō Senshi Gundam: Suisei no Majo - Prologue",
+        "Mobile Suit Gundam : The Witch from Mercury - Prologue",
+        "Mobile Suit Gundam: Suisei no Majo - PROLOGUE",
+        "Mobile Suit Gundam: The Witch from Mercury - PROLOGUE",
+        "Mobile Suit Gundam: The Witch from Mercury - Prolog",
+        "Mobile Suit Gundam: The Witch from Mercury - Prologue",
+        "Mobile Suit Gundam: The Witch from Mercury - Prólogo",
+        "Mobile Suit Gundam: The Witch from Mercury Episode 0",
+        "Mobile Suit Gundam: The Witch from Mercury Prologue",
+        "機動戦士ガンダム 水星の魔女 PROLOGUE"
+      ],
+      "relations": [
+        "https://anilist.co/anime/139274",
+        "https://anime-planet.com/anime/mobile-suit-gundam-the-witch-from-mercury",
+        "https://anisearch.com/anime/16592",
+        "https://kitsu.io/anime/45217",
+        "https://livechart.me/anime/10788",
+        "https://livechart.me/anime/11531",
+        "https://myanimelist.net/anime/49828",
+        "https://notify.moe/anime/dkDmYca7g"
+      ],
+      "tags": [
+        "action",
+        "action drama",
+        "conspiracy",
+        "cyborg",
+        "drama",
+        "family life",
+        "female protagonist",
+        "lgbtq+ themes",
+        "mecha",
+        "military",
+        "original work",
+        "politics",
+        "primarily adult cast",
+        "real robot",
+        "sci fi",
+        "sci-fi",
+        "science fiction",
+        "space",
+        "space battles",
+        "tragedy",
+        "war",
+        "witch"
+      ],
+      "id": "https://myanimelist.net/anime/52168"
+    },
+    {
+      "sources": [
+        "https://anisearch.com/anime/17267"
+      ],
+      "title": "Kono Fune no Theme",
+      "type": "SPECIAL",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2022
+      },
+      "picture": "https://www.anisearch.com/images/anime/cover/17/17267_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/17/17267.webp",
+      "synonyms": [
+        "Yuusuke - Kono Fune no Theme",
+        "この船のテーマ",
+        "遊助 - この船のテーマ"
+      ],
+      "relations": [],
+      "tags": [
+        "independent anime"
+      ],
+      "id": "https://anisearch.com/anime/17267"
+    },
+    {
+      "sources": [
         "https://anidb.net/anime/11444",
         "https://anilist.co/anime/102519",
         "https://anime-planet.com/anime/mac-the-movie",
@@ -751,10 +884,11 @@
         "season": "FALL",
         "year": 1997
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/13/15647.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/13/15647t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1099/97289.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1099/97289t.jpg",
       "synonyms": [
         "Macross 7 Dynamite",
+        "Macross: Macross Dynamite 7",
         "md7",
         "マクロスダイナマイト7",
         "마크로스 7 다이너마이트"
@@ -768,20 +902,8 @@
         "https://anime-planet.com/anime/macross-7-encore",
         "https://anime-planet.com/anime/macross-7-the-galaxy-is-calling-me",
         "https://anime-planet.com/anime/macross-frontier",
-        "https://anisearch.com/anime/10952",
-        "https://anisearch.com/anime/12718",
-        "https://anisearch.com/anime/14304",
-        "https://anisearch.com/anime/1452",
-        "https://anisearch.com/anime/194",
-        "https://anisearch.com/anime/2413",
-        "https://anisearch.com/anime/255",
-        "https://anisearch.com/anime/2997",
-        "https://anisearch.com/anime/3464",
         "https://anisearch.com/anime/374",
         "https://anisearch.com/anime/4465",
-        "https://anisearch.com/anime/5470",
-        "https://anisearch.com/anime/6513",
-        "https://anisearch.com/anime/8472",
         "https://kitsu.io/anime/1250",
         "https://kitsu.io/anime/3113",
         "https://livechart.me/anime/3982",
@@ -813,6 +935,7 @@
         "idol",
         "idols",
         "mecha",
+        "military",
         "music",
         "nudity",
         "original work",
@@ -838,6 +961,7 @@
         "https://anime-planet.com/anime/mai-no-mahou-to-katei-no-hi",
         "https://anisearch.com/anime/6635",
         "https://kitsu.io/anime/5952",
+        "https://livechart.me/anime/11114",
         "https://myanimelist.net/anime/9940",
         "https://notify.moe/anime/I_eMpFmiR"
       ],
@@ -849,13 +973,15 @@
         "season": "WINTER",
         "year": 2011
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/11/27495.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/11/27495t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/1475/127171.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1475/127171t.jpg",
       "synonyms": [
         "Mai no Mahō to Katei no Hi",
+        "Mai, Magic and Family Day",
         "maikate",
         "まいかて",
-        "マイの魔法と家庭の日"
+        "マイの魔法と家庭の日",
+        "麻衣的魔法和家庭日"
       ],
       "relations": [],
       "tags": [
@@ -888,13 +1014,15 @@
         "season": "WINTER",
         "year": 2017
       },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/15/15117.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/15/15117.webp",
+      "picture": "https://www.anisearch.com/images/anime/cover/15/15117_300.webp",
+      "thumbnail": "https://www.anisearch.com/images/anime/cover/full/15/15117.webp",
       "synonyms": [
         "Onsen Musume 1st PV",
         "温泉むすめ"
       ],
-      "relations": [],
+      "relations": [
+        "https://anisearch.com/anime/15125"
+      ],
       "tags": [
         "idol"
       ],
@@ -939,8 +1067,8 @@
         "season": "UNDEFINED",
         "year": 2019
       },
-      "picture": "https://anime-planet.com/images/anime/covers/14268.jpg",
-      "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/14268.jpg",
+      "picture": "https://cdn.anime-planet.com/anime/primary/planetarium-1.jpg?t=1625908000",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/planetarium-1-190x266.jpg?t=1625908000",
       "synonyms": [],
       "relations": [],
       "tags": [
@@ -951,24 +1079,107 @@
     },
     {
       "sources": [
-        "https://anidb.net/anime/16641"
+        "https://anime-planet.com/anime/recycle-of-the-penguindrum-part-2-i-love-you"
       ],
-      "title": "San San Di Ezuoju Chufang",
-      "type": "ONA",
-      "episodes": 10,
+      "title": "Re:cycle of the Penguindrum Part 2: I Love You",
+      "type": "MOVIE",
+      "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "SUMMER",
-        "year": 2020
+        "season": "UNDEFINED",
+        "year": 2022
       },
-      "picture": "https://cdn.anidb.net/images/main/265355.jpg",
-      "thumbnail": "https://cdn.anidb.net/images/main/265355.jpg-thumb.jpg",
+      "picture": "https://cdn.anime-planet.com/anime/primary/recycle-of-the-penguindrum-part-2-i-love-you-1.webp?t=1681263171",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/recycle-of-the-penguindrum-part-2-i-love-you-1-285x400.webp?t=1681263171",
       "synonyms": [
-        "三三的恶作剧厨房"
+        "Re:cycle of the Penguindrum Part 2: Boku wa Kimi o Aishiteru"
+      ],
+      "relations": [
+        "https://anime-planet.com/anime/recycle-of-the-penguindrum-part-1-your-train-is-the-survival-tactic"
+      ],
+      "tags": [
+        "comedy",
+        "conspiracy",
+        "drama",
+        "original work",
+        "recap",
+        "siblings",
+        "supernatural",
+        "terrorism"
+      ],
+      "id": "https://anime-planet.com/anime/recycle-of-the-penguindrum-part-2-i-love-you"
+    },
+    {
+      "sources": [
+        "https://anidb.net/anime/17523",
+        "https://anilist.co/anime/152765",
+        "https://anime-planet.com/anime/saving-80000-gold-in-another-world-for-my-retirement",
+        "https://anisearch.com/anime/17549",
+        "https://kitsu.io/anime/46304",
+        "https://livechart.me/anime/11285",
+        "https://myanimelist.net/anime/52461",
+        "https://notify.moe/anime/2nKxdwH4R"
+      ],
+      "title": "Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu",
+      "type": "TV",
+      "episodes": 12,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2023
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1890/131473.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1890/131473t.jpg",
+      "synonyms": [
+        "J'épargne 80.000 pièces d'or dans un autre monde pour ma retraite",
+        "J’épargne 80 000 pièces d’or dans un autre monde pour ma retraite",
+        "Rougo ni Sonaete Isekai de 8-Man-Mai no Kinka wo Tamemasu",
+        "Rougo ni Sonaete Isekai de 8-manmai no Kinka o Tamemasu",
+        "Roukin",
+        "Roukin 8",
+        "Rōgo ni Sonaete Isekai de 8-manmai no Kinka o Tamemasu",
+        "Saving 80,000 Gold Coins in the Different World for My Old Age",
+        "Saving 80,000 Gold in Another World for My Retirement",
+        "Saving 80,000 Gold in Another World for my Retirement",
+        "roukin",
+        "เก็บเงินต่างโลก 8 หมื่นเหรียญ ไว้ใช้ยามเกษียณไงคะ",
+        "เก็บเหรียญทองแปดหมื่นเหรียญไว้ใช้หลังเกษียณอยู่ค่ะ",
+        "ろうきん8",
+        "为了养老金去异世界存八万金",
+        "為了養老金去異界存八萬金",
+        "老後に備えて異世界で8万枚の金貨を貯めます",
+        "老後に備えて異世界で８万枚の金貨を貯めます"
       ],
       "relations": [],
-      "tags": [],
-      "id": "https://anidb.net/anime/16641"
+      "tags": [
+        "action",
+        "adventure",
+        "alternative world",
+        "based on a light novel",
+        "comedy",
+        "cute girls doing cute things",
+        "dragons",
+        "economics",
+        "fantasy",
+        "female protagonist",
+        "food",
+        "goblin",
+        "guns",
+        "isekai",
+        "language barrier",
+        "magic",
+        "medieval",
+        "military",
+        "modern knowledge",
+        "novel",
+        "orphans",
+        "person in a strange world",
+        "primarily teen cast",
+        "rural",
+        "slice of life",
+        "tragedy"
+      ],
+      "id": "https://myanimelist.net/anime/52461"
     },
     {
       "sources": [
@@ -1019,6 +1230,7 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/151640",
         "https://kitsu.io/anime/41764",
         "https://livechart.me/anime/5234",
         "https://myanimelist.net/anime/37278"
@@ -1034,15 +1246,22 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1821/90470.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1821/90470t.jpg",
       "synonyms": [
-        "Sword Art Online Fatal Bullet -The Third Episode- ＜パイロット版＞"
+        "Sword Art Online \"Fatal Bullet\" PS4 The Third Episode Teaser",
+        "Sword Art Online Fatal Bullet -The Third Episode- Pilot-ban",
+        "Sword Art Online Fatal Bullet -The Third Episode- ＜パイロット版＞",
+        "Sword Art Online Fatal Bullet: The Third Episode - Pilot"
       ],
       "relations": [
+        "https://anilist.co/anime/104437",
+        "https://anilist.co/anime/20594",
         "https://myanimelist.net/anime/21881",
         "https://myanimelist.net/anime/36475",
         "https://myanimelist.net/anime/37362"
       ],
       "tags": [
+        "fantasy",
         "game",
+        "video game",
         "virtual reality"
       ],
       "id": "https://myanimelist.net/anime/37278"
@@ -1051,6 +1270,7 @@
       "sources": [
         "https://anilist.co/anime/98759",
         "https://anime-planet.com/anime/teekyuu-6-specials",
+        "https://anisearch.com/anime/14557",
         "https://kitsu.io/anime/12092",
         "https://livechart.me/anime/6233",
         "https://myanimelist.net/anime/32816",
@@ -1070,7 +1290,11 @@
         "Te-kyuu 6 Specials",
         "Teekyu 6 Specials",
         "Teekyuu 6 OVA",
+        "Teekyuu 6: TV Mihousou Original Episode Anime",
+        "Teekyuu OVA 9 + 10",
         "Tekyuu 6 Specials",
+        "Tēkyū 6: TV Mihōsō Original Episode Anime",
+        "てーきゅう 6 ＴＶ未放送オリジナルエピソードアニメ",
         "てーきゅう　6期　ＴＶ未放送オリジナルエピソードアニメ"
       ],
       "relations": [
@@ -1092,6 +1316,7 @@
         "https://anime-planet.com/anime/teekyuu-8-specials",
         "https://anime-planet.com/anime/teekyuu-9",
         "https://anime-planet.com/anime/usakame",
+        "https://anisearch.com/anime/10675",
         "https://kitsu.io/anime/11334",
         "https://livechart.me/anime/1327",
         "https://livechart.me/anime/1505",
@@ -1115,7 +1340,9 @@
         "based on a manga",
         "comedy",
         "gag",
+        "nonsense-comedy",
         "primarily female cast",
+        "school",
         "school club",
         "school life",
         "shounen",
@@ -1158,29 +1385,16 @@
       "relations": [
         "https://anilist.co/anime/6213",
         "https://anime-planet.com/anime/a-certain-scientific-railgun",
-        "https://anisearch.com/anime/13941",
         "https://anisearch.com/anime/5306",
-        "https://anisearch.com/anime/6288",
-        "https://anisearch.com/anime/7685",
-        "https://anisearch.com/anime/8138",
-        "https://anisearch.com/anime/8920",
-        "https://anisearch.com/anime/9484",
         "https://kitsu.io/anime/4478",
         "https://livechart.me/anime/10784",
-        "https://livechart.me/anime/2895",
         "https://livechart.me/anime/3320",
         "https://livechart.me/anime/3321",
         "https://livechart.me/anime/3322",
         "https://livechart.me/anime/3323",
-        "https://livechart.me/anime/3325",
-        "https://livechart.me/anime/3326",
         "https://livechart.me/anime/35",
-        "https://livechart.me/anime/3549",
         "https://livechart.me/anime/3555",
-        "https://livechart.me/anime/3556",
         "https://livechart.me/anime/445",
-        "https://livechart.me/anime/908",
-        "https://livechart.me/anime/9591",
         "https://myanimelist.net/anime/6213",
         "https://notify.moe/anime/Te8qcKmmg"
       ],
@@ -1194,6 +1408,7 @@
         "friendship",
         "magic",
         "meta",
+        "nonsense-comedy",
         "parody",
         "primarily female cast",
         "psi-powers",
@@ -1210,6 +1425,10 @@
     },
     {
       "sources": [
+        "https://anidb.net/anime/3329",
+        "https://anilist.co/anime/8965",
+        "https://anime-planet.com/anime/hamtaro-rainbow-rescue",
+        "https://anisearch.com/anime/1859",
         "https://kitsu.io/anime/5556",
         "https://myanimelist.net/anime/8965",
         "https://notify.moe/anime/hsKZtFimg"
@@ -1225,11 +1444,36 @@
       "picture": "https://cdn.myanimelist.net/images/anime/12/24828.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/12/24828t.jpg",
       "synonyms": [
+        "Ham-Hams and the Prince of Rainbow Land",
+        "Ham-chans to Niji no Kuni no Ouji-sama: Sekai de Ichiban no Takaramono",
         "Hamtaro OVA 3",
+        "Hamtaro OVA 3: Rainbow Rescue",
+        "Rainbow Rescue",
+        "Tottoko Hamtaro OVA 3: Hamuchanzu to Niji no Kuni no Oujisama - Sekai de Ichiban no Takaramono",
+        "Tottoko Hamtarou OVA 3",
+        "Tottoko Hamtarou: Ham-chanz to Niji no Kuni no Ouji-sama - Sekai de Ichiban no Takaramono",
+        "Tottoko Hamtarō: Ham-chanz to Niji no Kuni no Ōji-sama - Sekai de Ichiban no Takaramono",
+        "Tottoko Hamutaro: Hamuchanzu to Niji no Kuni no Oujisama",
         "Tottoko Hamutarou: Hamuchanzu to Niji no Kuni no Oujisama",
-        "ハムちゃんずと虹の国の王子さま 〜せかいでいちばんのたからもの〜"
+        "とっとこハム太郎ハムちゃんずと虹の国の王子さま～せかいでいちばんのたからもの～",
+        "ハムちゃんずと虹の国の王子さま 〜せかいでいちばんのたからもの〜",
+        "ハムちゃんずと虹の国の王子さま~せかいでいちばんのたからもの~"
       ],
       "relations": [
+        "https://anidb.net/anime/3328",
+        "https://anidb.net/anime/3330",
+        "https://anilist.co/anime/508",
+        "https://anime-planet.com/anime/hamtaro",
+        "https://anime-planet.com/anime/hamtaro-ham-ham-games",
+        "https://anime-planet.com/anime/hamtaro-ham-hams-ahoy",
+        "https://anime-planet.com/anime/hamtaro-movie-1-ham-ham-land-no-daibouken",
+        "https://anime-planet.com/anime/hamtaro-movie-2-ham-ham-ham-jya-maboroshi-no-princess",
+        "https://anime-planet.com/anime/hamtaro-movie-3",
+        "https://anime-planet.com/anime/hamtaro-movie-4-hamtaro-to-fushigi-no-oni-no-emon-tou",
+        "https://anime-planet.com/anime/hamtaro-no-otanjobi",
+        "https://anime-planet.com/anime/tottoko-hamtaro-dechu",
+        "https://anisearch.com/anime/1866",
+        "https://anisearch.com/anime/3159",
         "https://kitsu.io/anime/467",
         "https://kitsu.io/anime/5543",
         "https://kitsu.io/anime/5557",
@@ -1242,8 +1486,15 @@
       ],
       "tags": [
         "adventure",
+        "animal protagonists",
+        "animals",
         "comedy",
-        "kids"
+        "family friendly",
+        "fantasy",
+        "hamsters",
+        "kids",
+        "non-human protagonists",
+        "present"
       ],
       "id": "https://myanimelist.net/anime/8965"
     },
@@ -1292,15 +1543,7 @@
         "https://anime-planet.com/anime/transformers-the-headmasters",
         "https://anime-planet.com/anime/transformers-the-movie",
         "https://anime-planet.com/anime/transformers-victory",
-        "https://anisearch.com/anime/112",
-        "https://anisearch.com/anime/1263",
-        "https://anisearch.com/anime/1428",
-        "https://anisearch.com/anime/1539",
-        "https://anisearch.com/anime/217",
         "https://anisearch.com/anime/2587",
-        "https://anisearch.com/anime/2801",
-        "https://anisearch.com/anime/3120",
-        "https://anisearch.com/anime/3360",
         "https://kitsu.io/anime/824",
         "https://myanimelist.net/anime/926",
         "https://notify.moe/anime/ZfGJ5Kimg"
@@ -1392,6 +1635,8 @@
         "https://anime-planet.com/anime/vegetable-fairies-ny-salad",
         "https://anime-planet.com/anime/vegetable-fairies-ny-salad-2nd-series",
         "https://anime-planet.com/anime/vegetable-fairies-ny-salad-quiz-theater",
+        "https://anime-planet.com/anime/vegetable-fairies-nysalad-special",
+        "https://anisearch.com/anime/10367",
         "https://myanimelist.net/anime/10705"
       ],
       "tags": [

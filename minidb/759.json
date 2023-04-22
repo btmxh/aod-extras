@@ -60,11 +60,13 @@
         "Dragon Ball Z: Gaiden - Saiya-jin Zetsumetsu Keikaku",
         "Dragon Ball Z: Plan to Destroy the Saiyajin",
         "Dragon Ball Z: Plan to Destroy the Saiyans",
+        "Dragon Ball Z: Plan to Eradicate the Saiyans",
         "Dragon Ball Z: Plan zniszczenia Saiyan",
         "Dragon Ball Z: Plan zniszczenia Saiyaninów",
         "Dragon Ball Z: Plan zur Vernichtung der Super-Saiyajin",
         "Dragonball Z: The Plan to Eradicate the Saiyans",
         "La revanche du Docteur Egui",
+        "db ova 2",
         "dbz gaiden",
         "ドラゴンボールZ 外伝 サイヤ人絶滅計画",
         "ドラゴンボールZ外伝 サイヤ人絶滅計画",
@@ -72,10 +74,6 @@
         "赛亚人灭绝计划 ~地球篇|宇宙篇~"
       ],
       "relations": [
-        "https://anidb.net/anime/1045",
-        "https://anidb.net/anime/1530",
-        "https://anidb.net/anime/762",
-        "https://anidb.net/anime/763",
         "https://anidb.net/anime/8172",
         "https://anidb.net/anime/905",
         "https://anilist.co/anime/10017",
@@ -105,42 +103,8 @@
         "https://anime-planet.com/anime/dragon-ball-z-movie-9-bojack-unbound",
         "https://anime-planet.com/anime/dragon-ball-z-special-1-bardock-the-father-of-goku",
         "https://anime-planet.com/anime/dragon-ball-z-special-2-the-history-of-trunks",
-        "https://anisearch.com/anime/10022",
-        "https://anisearch.com/anime/1011",
-        "https://anisearch.com/anime/10383",
-        "https://anisearch.com/anime/1054",
-        "https://anisearch.com/anime/11462",
-        "https://anisearch.com/anime/1269",
-        "https://anisearch.com/anime/13114",
-        "https://anisearch.com/anime/1441",
-        "https://anisearch.com/anime/1568",
-        "https://anisearch.com/anime/16372",
-        "https://anisearch.com/anime/1825",
-        "https://anisearch.com/anime/1841",
-        "https://anisearch.com/anime/1947",
-        "https://anisearch.com/anime/245",
-        "https://anisearch.com/anime/2466",
-        "https://anisearch.com/anime/2504",
-        "https://anisearch.com/anime/2748",
-        "https://anisearch.com/anime/2849",
-        "https://anisearch.com/anime/286",
         "https://anisearch.com/anime/2938",
-        "https://anisearch.com/anime/3163",
-        "https://anisearch.com/anime/3449",
-        "https://anisearch.com/anime/360",
-        "https://anisearch.com/anime/427",
-        "https://anisearch.com/anime/4281",
-        "https://anisearch.com/anime/468",
-        "https://anisearch.com/anime/5088",
-        "https://anisearch.com/anime/5286",
-        "https://anisearch.com/anime/5508",
-        "https://anisearch.com/anime/68",
         "https://anisearch.com/anime/6962",
-        "https://anisearch.com/anime/763",
-        "https://anisearch.com/anime/7952",
-        "https://anisearch.com/anime/831",
-        "https://anisearch.com/anime/9483",
-        "https://anisearch.com/anime/9753",
         "https://kitsu.io/anime/5997",
         "https://kitsu.io/anime/720",
         "https://livechart.me/anime/3632",
@@ -275,6 +239,7 @@
       "sources": [
         "https://anidb.net/anime/7784",
         "https://anilist.co/anime/17953",
+        "https://anime-planet.com/anime/hello-kitty-no-london-ni-orita-uchuujin",
         "https://anisearch.com/anime/6408",
         "https://kitsu.io/anime/9309",
         "https://myanimelist.net/anime/17953",
@@ -294,14 +259,23 @@
         "Hello Kitty no London ni Orita Uchūjin",
         "ハローキティのロンドンにおりた宇宙人"
       ],
-      "relations": [],
+      "relations": [
+        "https://anisearch.com/anime/5462"
+      ],
       "tags": [
-        "kids"
+        "animal protagonists",
+        "anthropomorphic",
+        "cats",
+        "family friendly",
+        "kids",
+        "non-human protagonists",
+        "sanrio characters"
       ],
       "id": "https://myanimelist.net/anime/17953"
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/hibike-euphonium-movie-photo-session-e-youkoso",
         "https://kitsu.io/anime/41818",
         "https://livechart.me/anime/8334",
         "https://myanimelist.net/anime/37577",
@@ -324,11 +298,14 @@
         "劇場版 響け！ユーフォニアム～フォトセッションへようこそ"
       ],
       "relations": [
+        "https://anime-planet.com/anime/hibike-euphonium-movie-2-todoketai-melody",
         "https://myanimelist.net/anime/35082",
         "https://notify.moe/anime/EE_G2Fiig"
       ],
       "tags": [
-        "comedy"
+        "comedy",
+        "performing arts",
+        "short episodes"
       ],
       "id": "https://myanimelist.net/anime/37577"
     },
@@ -375,6 +352,7 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/109276",
         "https://anime-planet.com/anime/kano-haru-ni-ochite"
       ],
       "title": "Kano: Haru ni Ochite",
@@ -387,8 +365,13 @@
       },
       "picture": "https://cdn.anime-planet.com/anime/primary/kano-haru-ni-ochite-1.jpg?t=1625898395",
       "thumbnail": "https://cdn.anime-planet.com/anime/primary/kano-haru-ni-ochite-1-190x259.jpg?t=1625898395",
-      "synonyms": [],
-      "relations": [],
+      "synonyms": [
+        "Haru ni Ochite",
+        "春に落ちて"
+      ],
+      "relations": [
+        "https://anilist.co/anime/98477"
+      ],
       "tags": [],
       "id": "https://anime-planet.com/anime/kano-haru-ni-ochite"
     },
@@ -468,21 +451,7 @@
         "https://anime-planet.com/anime/armored-trooper-votoms-the-brilliant-heretic",
         "https://anime-planet.com/anime/armored-trooper-votoms-the-last-red-shoulder",
         "https://anime-planet.com/anime/armored-tropper-votoms-phantom-arc",
-        "https://anisearch.com/anime/2070",
         "https://anisearch.com/anime/2498",
-        "https://anisearch.com/anime/3960",
-        "https://anisearch.com/anime/4240",
-        "https://anisearch.com/anime/4658",
-        "https://anisearch.com/anime/5079",
-        "https://anisearch.com/anime/5152",
-        "https://anisearch.com/anime/5937",
-        "https://anisearch.com/anime/6482",
-        "https://anisearch.com/anime/8966",
-        "https://anisearch.com/anime/8967",
-        "https://anisearch.com/anime/8968",
-        "https://anisearch.com/anime/8969",
-        "https://anisearch.com/anime/8970",
-        "https://anisearch.com/anime/8971",
         "https://kitsu.io/anime/2347",
         "https://myanimelist.net/anime/2582",
         "https://notify.moe/anime/V1Ny5KmiR"
@@ -537,6 +506,7 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/120160",
         "https://anime-planet.com/anime/mafumafu-sacrifice"
       ],
       "title": "Mafumafu: Sacrifice",
@@ -549,7 +519,10 @@
       },
       "picture": "https://cdn.anime-planet.com/anime/primary/mafumafu-sacrifice-1.jpg?t=1625908125",
       "thumbnail": "https://cdn.anime-planet.com/anime/primary/mafumafu-sacrifice-1-190x266.jpg?t=1625908125",
-      "synonyms": [],
+      "synonyms": [
+        "Sacrifice",
+        "サクリファイス"
+      ],
       "relations": [
         "https://anime-planet.com/anime/to-the-abandoned-sacred-beasts"
       ],
@@ -640,25 +613,51 @@
     },
     {
       "sources": [
-        "https://myanimelist.net/anime/49583"
+        "https://anilist.co/anime/110596",
+        "https://anime-planet.com/anime/miss-monochrome-watashi-dake-no-monogatari",
+        "https://anisearch.com/anime/12162",
+        "https://kitsu.io/anime/10699",
+        "https://notify.moe/anime/A2fQtFmmR"
       ],
-      "title": "Miss Kikan IV Dark Master",
-      "type": "MOVIE",
+      "title": "Miss Monochrome: Watashi dake no Monogatari",
+      "type": "SPECIAL",
       "episodes": 1,
       "status": "FINISHED",
       "animeSeason": {
-        "season": "UNDEFINED",
-        "year": null
+        "season": "FALL",
+        "year": 2014
       },
-      "picture": "https://cdn.myanimelist.net/images/anime/1387/117033.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1387/117033t.jpg",
-      "synonyms": [],
-      "relations": [],
-      "tags": [
-        "hentai",
-        "sci-fi"
+      "picture": "https://cdn.anime-planet.com/anime/primary/miss-monochrome-watashi-dake-no-monogatari-1.jpg?t=1625897222",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/miss-monochrome-watashi-dake-no-monogatari-1-190x285.jpg?t=1625897222",
+      "synonyms": [
+        "Miss Monochrome - Watashidake no Monogatari",
+        "Miss Monochrome MV",
+        "Miss Monochrome Music Video",
+        "Miss Monocrhome Music Video",
+        "Watashidake no Monogatari",
+        "ミス・モノクローム MV 「私だけの物語」",
+        "私だけの物語"
       ],
-      "id": "https://myanimelist.net/anime/49583"
+      "relations": [
+        "https://anilist.co/anime/20033",
+        "https://anime-planet.com/anime/miss-monochrome",
+        "https://anisearch.com/anime/8962",
+        "https://kitsu.io/anime/12991",
+        "https://kitsu.io/anime/7911",
+        "https://notify.moe/anime/2mi2tFimR",
+        "https://notify.moe/anime/pgwWhFimg"
+      ],
+      "tags": [
+        "androids",
+        "cg animation",
+        "cgi",
+        "indefinite",
+        "music",
+        "non-human protagonists",
+        "robots",
+        "vocaloid"
+      ],
+      "id": "https://anime-planet.com/anime/miss-monochrome-watashi-dake-no-monogatari"
     },
     {
       "sources": [
@@ -684,6 +683,9 @@
         "七瀬恋 (アニメ)"
       ],
       "relations": [
+        "https://anisearch.com/anime/2214",
+        "https://anisearch.com/anime/2673",
+        "https://anisearch.com/anime/3719",
         "https://myanimelist.net/anime/1387"
       ],
       "tags": [
@@ -698,40 +700,6 @@
         "urinating"
       ],
       "id": "https://myanimelist.net/anime/2869"
-    },
-    {
-      "sources": [
-        "https://anisearch.com/anime/14331"
-      ],
-      "title": "Nintama Rantarou no Uchuu Daibouken with Cosmic Front Next",
-      "type": "TV",
-      "episodes": 2,
-      "status": "FINISHED",
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 2016
-      },
-      "picture": "https://cdn.anisearch.com/images/anime/cover/full/14/14331.webp",
-      "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/14/14331.webp",
-      "synonyms": [
-        "Nintama Rantarō no Uchū Daibōken with Cosmic Front Next",
-        "忍たま乱太郎の宇宙大冒険 with コズミックフロント☆NEXT"
-      ],
-      "relations": [
-        "https://anisearch.com/anime/1332",
-        "https://anisearch.com/anime/15571",
-        "https://anisearch.com/anime/15572",
-        "https://anisearch.com/anime/15573",
-        "https://anisearch.com/anime/15603",
-        "https://anisearch.com/anime/2678",
-        "https://anisearch.com/anime/6528"
-      ],
-      "tags": [
-        "adventure",
-        "comedy",
-        "space"
-      ],
-      "id": "https://anisearch.com/anime/14331"
     },
     {
       "sources": [
@@ -757,7 +725,8 @@
       "synonyms": [
         "Ririka, SOS!",
         "ナースエンジェルりりかSOS",
-        "ナースエンジェルりりかＳＯＳ"
+        "ナースエンジェルりりかＳＯＳ",
+        "守护天使莉莉佳"
       ],
       "relations": [],
       "tags": [
@@ -766,20 +735,22 @@
         "adventure",
         "aliens",
         "based on a manga",
+        "child protagonists",
         "comedy",
         "coming of age",
         "drama",
         "fantasy",
         "female protagonist",
         "henshin",
-        "henshin heroes",
         "japan",
         "magic",
         "magical girl",
         "mahou shoujo",
         "manga",
+        "memory manipulation",
         "parody",
         "present",
+        "primarily child cast",
         "romance",
         "school",
         "shoujo",
@@ -808,7 +779,9 @@
       "synonyms": [
         "サムちゃんのおばけなんか怖くない"
       ],
-      "relations": [],
+      "relations": [
+        "https://myanimelist.net/anime/35033"
+      ],
       "tags": [
         "kids",
         "supernatural"
@@ -843,6 +816,7 @@
         "Kombattanten werden entsandt!",
         "Les Combattants Seront Déployés !",
         "Les combattants seront déployés !",
+        "Senmasu",
         "Sentouin Hakenshimasu!",
         "Sentouin, Haken Shimasu!",
         "Sentōin, Haken Shimasu!",
@@ -903,7 +877,9 @@
         "science-fiction",
         "seinen",
         "swords & co",
+        "tokusatsu",
         "tsundere",
+        "violence",
         "war",
         "yandere"
       ],
@@ -949,8 +925,11 @@
     },
     {
       "sources": [
+        "https://anilist.co/anime/16814",
+        "https://anisearch.com/anime/8542",
         "https://kitsu.io/anime/7530",
-        "https://myanimelist.net/anime/16814"
+        "https://myanimelist.net/anime/16814",
+        "https://notify.moe/anime/ran5pFimR"
       ],
       "title": "Son O-gong gwa Byeoldeul-ui Jeonjaeng",
       "type": "MOVIE",
@@ -963,6 +942,11 @@
       "picture": "https://cdn.myanimelist.net/images/anime/5/45154.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/5/45154t.jpg",
       "synonyms": [
+        "Son Goku War and the Stars",
+        "Son Gokuu War and the Stars",
+        "Son Okong-gwa Byeoldeul-ui Jeonjaeng",
+        "Son o Gonggwa Byeoldeurui Jeonjaeng",
+        "Sonogong and Star Wars",
         "손오공과 별들의 전쟁"
       ],
       "relations": [
@@ -971,17 +955,46 @@
         "https://kitsu.io/anime/9767",
         "https://myanimelist.net/anime/20189",
         "https://myanimelist.net/anime/24669",
-        "https://myanimelist.net/anime/7496"
+        "https://myanimelist.net/anime/7496",
+        "https://notify.moe/anime/9vRktFiiR",
+        "https://notify.moe/anime/VJPbpFmmg",
+        "https://notify.moe/anime/vMlLtKmmR"
       ],
       "tags": [
         "action",
         "adventure",
+        "mecha",
+        "science-fiction",
         "space"
       ],
       "id": "https://myanimelist.net/anime/16814"
     },
     {
       "sources": [
+        "https://anilist.co/anime/153772"
+      ],
+      "title": "Sonata Dai 1-ban",
+      "type": "MOVIE",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "UNDEFINED",
+        "year": 1985
+      },
+      "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b153772-o2u8gBTqlAlx.jpg",
+      "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b153772-o2u8gBTqlAlx.jpg",
+      "synonyms": [
+        "Sonata No.1",
+        "ソナタ第１番"
+      ],
+      "relations": [],
+      "tags": [],
+      "id": "https://anilist.co/anime/153772"
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/103587",
+        "https://anime-planet.com/anime/tomoko-oshima-tadaima",
         "https://kitsu.io/anime/41559",
         "https://myanimelist.net/anime/35324"
       ],
@@ -997,12 +1010,17 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/4/85058t.jpg",
       "synonyms": [
         "I'm home.",
+        "Tadaima",
+        "Tomoko Oshima: I'm home.",
+        "Tomoko Oshima: Tadaima.",
         "ただいま。",
         "ただいま。 (with tsvaci)"
       ],
       "relations": [],
       "tags": [
-        "music"
+        "music",
+        "shorts",
+        "slice of life"
       ],
       "id": "https://myanimelist.net/anime/35324"
     },
@@ -1039,12 +1057,13 @@
         "YUA! FT",
         "YUA3",
         "YUA: FT",
-        "You're Under Arrest Season 3",
-        "You're Under Arrest Third Season",
         "You're Under Arrest: Full Throttle",
         "You`re Under Arrest Full Throttle",
         "You`re Under Arrest! Full Throttle",
         "You`re Under Arrest: Full Throttle",
+        "You’re under Arrest Season 3",
+        "You’re under Arrest Third Season",
+        "You’re under Arrest: Full Throttle",
         "たいほしちゃうぞふるすろっとる",
         "逮捕しちゃうぞ フルスロットル",
         "逮捕令 ~ 全速前进"
@@ -1061,14 +1080,7 @@
         "https://anime-planet.com/anime/youre-under-arrest-no-mercy",
         "https://anime-planet.com/anime/youre-under-arrest-ova",
         "https://anime-planet.com/anime/youre-under-arrest-the-movie",
-        "https://anisearch.com/anime/10767",
         "https://anisearch.com/anime/1445",
-        "https://anisearch.com/anime/16313",
-        "https://anisearch.com/anime/1770",
-        "https://anisearch.com/anime/2377",
-        "https://anisearch.com/anime/2971",
-        "https://anisearch.com/anime/531",
-        "https://anisearch.com/anime/544",
         "https://anisearch.com/anime/8123",
         "https://kitsu.io/anime/1226",
         "https://kitsu.io/anime/1417",
@@ -1101,12 +1113,14 @@
       ],
       "tags": [
         "action",
+        "adult cast",
         "asia",
         "based on a manga",
         "comedy",
         "cops",
         "coworkers",
         "crossdressing",
+        "detective",
         "drama",
         "earth",
         "episodic",
@@ -1123,8 +1137,8 @@
         "seinen",
         "shounen",
         "slapstick",
-        "transgender",
-        "work life"
+        "work life",
+        "workplace"
       ],
       "id": "https://myanimelist.net/anime/3000"
     },
@@ -1149,6 +1163,7 @@
       "picture": "https://cdn.myanimelist.net/images/anime/6/50237.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/6/50237t.jpg",
       "synonyms": [
+        "Devil Survivor 2: Take Your Way",
         "Livetune Adding Fukase - Take Your Way",
         "livetune: Take Your Way"
       ],
@@ -1172,7 +1187,9 @@
     {
       "sources": [
         "https://anime-planet.com/anime/time-jam-valerian-and-laureline",
-        "https://livechart.me/anime/9478"
+        "https://kitsu.io/anime/8127",
+        "https://livechart.me/anime/9478",
+        "https://notify.moe/anime/xqqhpKmig"
       ],
       "title": "Time Jam: Valerian & Laureline",
       "type": "TV",
@@ -1182,9 +1199,10 @@
         "season": "FALL",
         "year": 2007
       },
-      "picture": "https://www.anime-planet.com/images/anime/screenshots/time-jam-valerian-and-laureline-3821-1.jpg",
+      "picture": "https://cdn.anime-planet.com/anime/primary/time-jam-valerian-and-laureline-1.jpg?t=1625895975",
       "thumbnail": "https://cdn.anime-planet.com/anime/primary/time-jam-valerian-and-laureline-1-190x285.jpg?t=1625895975",
       "synonyms": [
+        "Time Jam: Valerian and Laureline",
         "Valerian and Laureline",
         "ヴァレリアン＆ロールリンヌ"
       ],
@@ -1192,9 +1210,16 @@
       "tags": [
         "action",
         "adventure",
+        "alien",
+        "fantasy",
+        "future",
+        "humanoid alien",
         "outer space",
         "sci fi",
         "sci-fi",
+        "science fiction",
+        "space",
+        "space travel",
         "time travel"
       ],
       "id": "https://anime-planet.com/anime/time-jam-valerian-and-laureline"
@@ -1202,6 +1227,8 @@
     {
       "sources": [
         "https://anilist.co/anime/139285",
+        "https://anime-planet.com/anime/ego-wrappin-timeless-tree",
+        "https://anisearch.com/anime/18038",
         "https://kitsu.io/anime/43665",
         "https://myanimelist.net/anime/43323"
       ],
@@ -1216,12 +1243,17 @@
       "picture": "https://cdn.myanimelist.net/images/anime/1124/109691.jpg",
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1124/109691t.jpg",
       "synonyms": [
+        "EGO-WRAPPIN': timeless tree",
+        "Ego-Wrappin’ - Timeless Tree",
         "timeless tree"
       ],
       "relations": [],
       "tags": [
+        "abstract",
         "avant garde",
         "dementia",
+        "indefinite",
+        "independent anime",
         "music",
         "the arts"
       ],
@@ -1253,15 +1285,20 @@
         "Life Lessons with Uramichi Oniisan",
         "Life Lessons with Uramichi-Oniisan",
         "Uramichi Onii-san",
-        "Uramichi Onī-san",
+        "Uramichi Onīsan",
+        "uo",
         "Двуличный братик Урамити",
+        "อูรามิจิ โอนีซัง",
         "うらみちお兄さん",
-        "阴晴不定大哥哥"
+        "阴晴不定大哥哥",
+        "陰晴不定的體操哥哥"
       ],
       "relations": [],
       "tags": [
         "acting",
+        "adult cast",
         "based on a manga",
+        "bishounen",
         "comedy",
         "coworkers",
         "daily life",
@@ -1269,6 +1306,7 @@
         "ensemble cast",
         "episodic",
         "fishing",
+        "gag humor",
         "josei",
         "male protagonist",
         "manga",
@@ -1280,10 +1318,10 @@
         "satire",
         "showbiz",
         "slice of life",
-        "table tennis",
         "work",
         "work life",
-        "working life"
+        "working life",
+        "workplace"
       ],
       "id": "https://myanimelist.net/anime/40620"
     },
@@ -1291,6 +1329,7 @@
       "sources": [
         "https://anilist.co/anime/114105",
         "https://anime-planet.com/anime/wang-gu-shenhua-zhi-tian-xuan-zhe",
+        "https://anisearch.com/anime/15448",
         "https://kitsu.io/anime/43233",
         "https://livechart.me/anime/9884",
         "https://myanimelist.net/anime/41632",
@@ -1308,8 +1347,11 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1915/106921t.jpg",
       "synonyms": [
         "METAMAN",
+        "Metaman",
         "The Chosen One of Ancient Myths",
+        "Wang Gu Shen Hua: Tian Xuan Zhe",
         "Wang Gu Shenhua Zhi Tian Xuan Zhe",
+        "Wang Gu Shenhua: Tian Xuanzhe",
         "望古神话之天选者"
       ],
       "relations": [],
@@ -1330,6 +1372,7 @@
     },
     {
       "sources": [
+        "https://anime-planet.com/anime/yuujou-no-kickoff",
         "https://kitsu.io/anime/11082",
         "https://myanimelist.net/anime/30998",
         "https://notify.moe/anime/nKdXtFiiR"
@@ -1351,6 +1394,7 @@
       "tags": [
         "drama",
         "kids",
+        "soccer",
         "sports"
       ],
       "id": "https://myanimelist.net/anime/30998"
@@ -1388,6 +1432,7 @@
         "https://anidb.net/anime/12755",
         "https://anilist.co/anime/98467",
         "https://anime-planet.com/anime/zo-zo-zombie-2017",
+        "https://anisearch.com/anime/12320",
         "https://kitsu.io/anime/14079",
         "https://myanimelist.net/anime/34817"
       ],
